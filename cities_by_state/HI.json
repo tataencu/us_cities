@@ -1,0 +1,566 @@
+[
+    {
+        "county": "HAWAII",
+        "city": "CAPTAIN COOK",
+        "latitude": "+19.269226",
+        "longitude": "-155.757929"
+    },
+    {
+        "county": "HAWAII",
+        "city": "HAKALAU",
+        "latitude": "+19.911689",
+        "longitude": "-155.148483"
+    },
+    {
+        "county": "HAWAII",
+        "city": "HAWAII NATIONAL PARK",
+        "latitude": "+19.593456",
+        "longitude": "-155.438015"
+    },
+    {
+        "county": "HAWAII",
+        "city": "HAWI",
+        "latitude": "+20.222737",
+        "longitude": "-155.818291"
+    },
+    {
+        "county": "HAWAII",
+        "city": "HILO",
+        "latitude": "+19.593456",
+        "longitude": "-155.438015"
+    },
+    {
+        "county": "HAWAII",
+        "city": "HOLUALOA",
+        "latitude": "+19.618904",
+        "longitude": "-155.948308"
+    },
+    {
+        "county": "HAWAII",
+        "city": "HONAUNAU",
+        "latitude": "+19.278298",
+        "longitude": "-155.845329"
+    },
+    {
+        "county": "HAWAII",
+        "city": "HONOKAA",
+        "latitude": "+20.079156",
+        "longitude": "-155.507938"
+    },
+    {
+        "county": "HAWAII",
+        "city": "HONOMU",
+        "latitude": "+19.593456",
+        "longitude": "-155.438015"
+    },
+    {
+        "county": "HAWAII",
+        "city": "KAILUA KONA",
+        "latitude": "+19.593456",
+        "longitude": "-155.438015"
+    },
+    {
+        "county": "HAWAII",
+        "city": "KAMUELA",
+        "latitude": "+19.887872",
+        "longitude": "-155.751907"
+    },
+    {
+        "county": "HAWAII",
+        "city": "KAPAAU",
+        "latitude": "+20.226101",
+        "longitude": "-155.776957"
+    },
+    {
+        "county": "HAWAII",
+        "city": "KEAAU",
+        "latitude": "+19.581873",
+        "longitude": "-155.032104"
+    },
+    {
+        "county": "HAWAII",
+        "city": "KEALAKEKUA",
+        "latitude": "+19.343913",
+        "longitude": "-155.874923"
+    },
+    {
+        "county": "HAWAII",
+        "city": "KEAUHOU",
+        "latitude": "+19.593456",
+        "longitude": "-155.438015"
+    },
+    {
+        "county": "HAWAII",
+        "city": "KURTISTOWN",
+        "latitude": "+19.569277",
+        "longitude": "-155.034859"
+    },
+    {
+        "county": "HAWAII",
+        "city": "LAUPAHOEHOE",
+        "latitude": "+19.985166",
+        "longitude": "-155.248429"
+    },
+    {
+        "county": "HAWAII",
+        "city": "MOUNTAIN VIEW",
+        "latitude": "+19.534945",
+        "longitude": "-155.125657"
+    },
+    {
+        "county": "HAWAII",
+        "city": "NAALEHU",
+        "latitude": "+19.052137",
+        "longitude": "-155.622528"
+    },
+    {
+        "county": "HAWAII",
+        "city": "NINOLE",
+        "latitude": "+19.935047",
+        "longitude": "-155.166821"
+    },
+    {
+        "county": "HAWAII",
+        "city": "OCEAN VIEW",
+        "latitude": "+19.100167",
+        "longitude": "-155.725803"
+    },
+    {
+        "county": "HAWAII",
+        "city": "OOKALA",
+        "latitude": "+20.015060",
+        "longitude": "-155.280974"
+    },
+    {
+        "county": "HAWAII",
+        "city": "PAAUHAU",
+        "latitude": "+19.593456",
+        "longitude": "-155.438015"
+    },
+    {
+        "county": "HAWAII",
+        "city": "PAAUILO",
+        "latitude": "+20.035356",
+        "longitude": "-155.377961"
+    },
+    {
+        "county": "HAWAII",
+        "city": "PAHALA",
+        "latitude": "+19.593456",
+        "longitude": "-155.438015"
+    },
+    {
+        "county": "HAWAII",
+        "city": "PAHOA",
+        "latitude": "+19.390023",
+        "longitude": "-155.152268"
+    },
+    {
+        "county": "HAWAII",
+        "city": "PAPAALOA",
+        "latitude": "+19.964138",
+        "longitude": "-155.201267"
+    },
+    {
+        "county": "HAWAII",
+        "city": "PAPAIKOU",
+        "latitude": "+19.798878",
+        "longitude": "-155.116093"
+    },
+    {
+        "county": "HAWAII",
+        "city": "PEPEEKEO",
+        "latitude": "+19.819475",
+        "longitude": "-155.106308"
+    },
+    {
+        "county": "HAWAII",
+        "city": "VOLCANO",
+        "latitude": "+19.440523",
+        "longitude": "-155.250569"
+    },
+    {
+        "county": "HAWAII",
+        "city": "WAIKOLOA",
+        "latitude": "+19.972371",
+        "longitude": "-155.817987"
+    },
+    {
+        "county": "HONOLULU",
+        "city": "AIEA",
+        "latitude": "+21.390650",
+        "longitude": "-157.927829"
+    },
+    {
+        "county": "HONOLULU",
+        "city": "BARBERS POINT",
+        "latitude": "+21.319000",
+        "longitude": "-158.074900"
+    },
+    {
+        "county": "HONOLULU",
+        "city": "CAMP H M SMITH",
+        "latitude": "+24.859832",
+        "longitude": "-168.021815"
+    },
+    {
+        "county": "HONOLULU",
+        "city": "EWA BEACH",
+        "latitude": "+21.344550",
+        "longitude": "-158.013950"
+    },
+    {
+        "county": "HONOLULU",
+        "city": "FORT SHAFTER",
+        "latitude": "+24.859832",
+        "longitude": "-168.021815"
+    },
+    {
+        "county": "HONOLULU",
+        "city": "HALEIWA",
+        "latitude": "+21.631850",
+        "longitude": "-158.036450"
+    },
+    {
+        "county": "HONOLULU",
+        "city": "HAUULA",
+        "latitude": "+21.583507",
+        "longitude": "-157.882511"
+    },
+    {
+        "county": "HONOLULU",
+        "city": "HICKAM AFB",
+        "latitude": "+24.859832",
+        "longitude": "-168.021815"
+    },
+    {
+        "county": "HONOLULU",
+        "city": "HONOLULU",
+        "latitude": "+24.859832",
+        "longitude": "-168.021815"
+    },
+    {
+        "county": "HONOLULU",
+        "city": "KAAAWA",
+        "latitude": "+21.585127",
+        "longitude": "-157.883316"
+    },
+    {
+        "county": "HONOLULU",
+        "city": "KAHUKU",
+        "latitude": "+21.627700",
+        "longitude": "-157.935304"
+    },
+    {
+        "county": "HONOLULU",
+        "city": "KAILUA",
+        "latitude": "+21.595644",
+        "longitude": "-158.039121"
+    },
+    {
+        "county": "HONOLULU",
+        "city": "KANEOHE",
+        "latitude": "+21.668750",
+        "longitude": "-157.939550"
+    },
+    {
+        "county": "HONOLULU",
+        "city": "KAPOLEI",
+        "latitude": "+23.573339",
+        "longitude": "-164.701172"
+    },
+    {
+        "county": "HONOLULU",
+        "city": "KUNIA",
+        "latitude": "+21.463000",
+        "longitude": "-158.063850"
+    },
+    {
+        "county": "HONOLULU",
+        "city": "LAIE",
+        "latitude": "+21.610950",
+        "longitude": "-157.902050"
+    },
+    {
+        "county": "HONOLULU",
+        "city": "M C B H KANEOHE BAY",
+        "latitude": "+24.859832",
+        "longitude": "-168.021815"
+    },
+    {
+        "county": "HONOLULU",
+        "city": "MILILANI",
+        "latitude": "+21.458855",
+        "longitude": "-158.012322"
+    },
+    {
+        "county": "HONOLULU",
+        "city": "PEARL CITY",
+        "latitude": "+21.511950",
+        "longitude": "-157.994662"
+    },
+    {
+        "county": "HONOLULU",
+        "city": "PEARL HARBOR",
+        "latitude": "+24.859832",
+        "longitude": "-168.021815"
+    },
+    {
+        "county": "HONOLULU",
+        "city": "SCHOFIELD BARRACKS",
+        "latitude": "+24.859832",
+        "longitude": "-168.021815"
+    },
+    {
+        "county": "HONOLULU",
+        "city": "TRIPLER ARMY MEDICAL CTR",
+        "latitude": "+24.859832",
+        "longitude": "-168.021815"
+    },
+    {
+        "county": "HONOLULU",
+        "city": "WAHIAWA",
+        "latitude": "+21.532400",
+        "longitude": "-158.047735"
+    },
+    {
+        "county": "HONOLULU",
+        "city": "WAIALUA",
+        "latitude": "+21.553250",
+        "longitude": "-158.163415"
+    },
+    {
+        "county": "HONOLULU",
+        "city": "WAIANAE",
+        "latitude": "+21.437389",
+        "longitude": "-158.181356"
+    },
+    {
+        "county": "HONOLULU",
+        "city": "WAIMANALO",
+        "latitude": "+24.859832",
+        "longitude": "-168.021815"
+    },
+    {
+        "county": "HONOLULU",
+        "city": "WAIPAHU",
+        "latitude": "+21.399548",
+        "longitude": "-158.015151"
+    },
+    {
+        "county": "HONOLULU",
+        "city": "WAKE ISLAND",
+        "latitude": "+24.859832",
+        "longitude": "-168.021815"
+    },
+    {
+        "county": "HONOLULU",
+        "city": "WHEELER ARMY AIRFIELD",
+        "latitude": "+24.859832",
+        "longitude": "-168.021815"
+    },
+    {
+        "county": "KAUAI",
+        "city": "ANAHOLA",
+        "latitude": "+22.055787",
+        "longitude": "-159.454519"
+    },
+    {
+        "county": "KAUAI",
+        "city": "ELEELE",
+        "latitude": "+21.937654",
+        "longitude": "-159.645162"
+    },
+    {
+        "county": "KAUAI",
+        "city": "HANALEI",
+        "latitude": "+22.213592",
+        "longitude": "-159.482796"
+    },
+    {
+        "county": "KAUAI",
+        "city": "HANAMAULU",
+        "latitude": "+21.979991",
+        "longitude": "-159.512392"
+    },
+    {
+        "county": "KAUAI",
+        "city": "HANAPEPE",
+        "latitude": "+22.020489",
+        "longitude": "-159.617765"
+    },
+    {
+        "county": "KAUAI",
+        "city": "KALAHEO",
+        "latitude": "+21.925909",
+        "longitude": "-159.530254"
+    },
+    {
+        "county": "KAUAI",
+        "city": "KAPAA",
+        "latitude": "+22.074197",
+        "longitude": "-159.406197"
+    },
+    {
+        "county": "KAUAI",
+        "city": "KAUMAKANI",
+        "latitude": "+21.945428",
+        "longitude": "-159.921351"
+    },
+    {
+        "county": "KAUAI",
+        "city": "KEALIA",
+        "latitude": "+22.105955",
+        "longitude": "-159.308471"
+    },
+    {
+        "county": "KAUAI",
+        "city": "KEKAHA",
+        "latitude": "+21.971285",
+        "longitude": "-159.713792"
+    },
+    {
+        "county": "KAUAI",
+        "city": "KILAUEA",
+        "latitude": "+22.207314",
+        "longitude": "-159.395386"
+    },
+    {
+        "county": "KAUAI",
+        "city": "KOLOA",
+        "latitude": "+22.028379",
+        "longitude": "-159.432992"
+    },
+    {
+        "county": "KAUAI",
+        "city": "LAWAI",
+        "latitude": "+21.930922",
+        "longitude": "-159.499342"
+    },
+    {
+        "county": "KAUAI",
+        "city": "LIHUE",
+        "latitude": "+22.070553",
+        "longitude": "-159.430328"
+    },
+    {
+        "county": "KAUAI",
+        "city": "MAKAWELI",
+        "latitude": "+21.945428",
+        "longitude": "-159.921351"
+    },
+    {
+        "county": "KAUAI",
+        "city": "PRINCEVILLE",
+        "latitude": "+22.219231",
+        "longitude": "-159.486562"
+    },
+    {
+        "county": "KAUAI",
+        "city": "WAIMEA",
+        "latitude": "+21.966709",
+        "longitude": "-159.686193"
+    },
+    {
+        "county": "MAUI",
+        "city": "HAIKU",
+        "latitude": "+20.849675",
+        "longitude": "-156.165622"
+    },
+    {
+        "county": "MAUI",
+        "city": "HANA",
+        "latitude": "+20.725172",
+        "longitude": "-156.022930"
+    },
+    {
+        "county": "MAUI",
+        "city": "HOOLEHUA",
+        "latitude": "+21.163056",
+        "longitude": "-157.076600"
+    },
+    {
+        "county": "MAUI",
+        "city": "KAHULUI",
+        "latitude": "+20.866638",
+        "longitude": "-156.646667"
+    },
+    {
+        "county": "MAUI",
+        "city": "KALAUPAPA",
+        "latitude": "+20.866638",
+        "longitude": "-156.646667"
+    },
+    {
+        "county": "MAUI",
+        "city": "KAUNAKAKAI",
+        "latitude": "+21.092266",
+        "longitude": "-157.012533"
+    },
+    {
+        "county": "MAUI",
+        "city": "KIHEI",
+        "latitude": "+20.723542",
+        "longitude": "-156.469915"
+    },
+    {
+        "county": "MAUI",
+        "city": "KUALAPUU",
+        "latitude": "+21.161010",
+        "longitude": "-157.025440"
+    },
+    {
+        "county": "MAUI",
+        "city": "KULA",
+        "latitude": "+20.753763",
+        "longitude": "-156.329499"
+    },
+    {
+        "county": "MAUI",
+        "city": "LAHAINA",
+        "latitude": "+20.866638",
+        "longitude": "-156.646667"
+    },
+    {
+        "county": "MAUI",
+        "city": "LANAI CITY",
+        "latitude": "+20.812854",
+        "longitude": "-156.952830"
+    },
+    {
+        "county": "MAUI",
+        "city": "MAKAWAO",
+        "latitude": "+20.832664",
+        "longitude": "-156.320242"
+    },
+    {
+        "county": "MAUI",
+        "city": "MAUNALOA",
+        "latitude": "+21.176357",
+        "longitude": "-157.257157"
+    },
+    {
+        "county": "MAUI",
+        "city": "PAIA",
+        "latitude": "+20.904275",
+        "longitude": "-156.373506"
+    },
+    {
+        "county": "MAUI",
+        "city": "PUKALANI",
+        "latitude": "+20.855864",
+        "longitude": "-156.325923"
+    },
+    {
+        "county": "MAUI",
+        "city": "PUUNENE",
+        "latitude": "+20.866638",
+        "longitude": "-156.646667"
+    },
+    {
+        "county": "MAUI",
+        "city": "WAILUKU",
+        "latitude": "+20.901536",
+        "longitude": "-156.566493"
+    }
+]

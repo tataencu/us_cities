@@ -1,0 +1,614 @@
+[
+    {
+        "county": "ADJUNTAS",
+        "city": "ADJUNTAS",
+        "latitude": "+18.165273",
+        "longitude": "-066.722583"
+    },
+    {
+        "county": "AGUADA",
+        "city": "AGUADA",
+        "latitude": "+18.393103",
+        "longitude": "-067.180953"
+    },
+    {
+        "county": "AGUADILLA",
+        "city": "AGUADILLA",
+        "latitude": "+18.465162",
+        "longitude": "-067.141486"
+    },
+    {
+        "county": "AGUADILLA",
+        "city": "SAN ANTONIO",
+        "latitude": "+18.476196",
+        "longitude": "-067.139597"
+    },
+    {
+        "county": "AGUAS BUENAS",
+        "city": "AGUAS BUENAS",
+        "latitude": "+18.250398",
+        "longitude": "-066.128450"
+    },
+    {
+        "county": "AIBONITO",
+        "city": "AIBONITO",
+        "latitude": "+18.128092",
+        "longitude": "-066.268717"
+    },
+    {
+        "county": "AIBONITO",
+        "city": "LA PLATA",
+        "latitude": "+18.128092",
+        "longitude": "-066.268717"
+    },
+    {
+        "county": "ANASCO",
+        "city": "ANASCO",
+        "latitude": "+18.288685",
+        "longitude": "-067.139696"
+    },
+    {
+        "county": "ARECIBO",
+        "city": "ARECIBO",
+        "latitude": "+18.429675",
+        "longitude": "-066.674506"
+    },
+    {
+        "county": "ARECIBO",
+        "city": "BAJADERO",
+        "latitude": "+18.444792",
+        "longitude": "-066.640678"
+    },
+    {
+        "county": "ARECIBO",
+        "city": "GARROCHALES",
+        "latitude": "+18.457254",
+        "longitude": "-066.603358"
+    },
+    {
+        "county": "ARECIBO",
+        "city": "SABANA HOYOS",
+        "latitude": "+18.429675",
+        "longitude": "-066.674506"
+    },
+    {
+        "county": "ARROYO",
+        "city": "ARROYO",
+        "latitude": "+17.967510",
+        "longitude": "-066.041380"
+    },
+    {
+        "county": "BARCELONETA",
+        "city": "BARCELONETA",
+        "latitude": "+18.447092",
+        "longitude": "-066.544255"
+    },
+    {
+        "county": "BARRANQUITAS",
+        "city": "BARRANQUITAS",
+        "latitude": "+18.200898",
+        "longitude": "-066.307236"
+    },
+    {
+        "county": "BAYAMON",
+        "city": "BAYAMON",
+        "latitude": "+18.413195",
+        "longitude": "-066.168651"
+    },
+    {
+        "county": "BAYAMON",
+        "city": "FORT BUCHANAN",
+        "latitude": "+18.344870",
+        "longitude": "-066.166014"
+    },
+    {
+        "county": "CABO ROJO",
+        "city": "BOQUERON",
+        "latitude": "+17.998531",
+        "longitude": "-067.187318"
+    },
+    {
+        "county": "CABO ROJO",
+        "city": "CABO ROJO",
+        "latitude": "+18.062201",
+        "longitude": "-067.149541"
+    },
+    {
+        "county": "CAGUAS",
+        "city": "CAGUAS",
+        "latitude": "+18.212965",
+        "longitude": "-066.058033"
+    },
+    {
+        "county": "CAMUY",
+        "city": "CAMUY",
+        "latitude": "+18.477891",
+        "longitude": "-066.854770"
+    },
+    {
+        "county": "CANOVANAS",
+        "city": "CANOVANAS",
+        "latitude": "+18.333093",
+        "longitude": "-065.883864"
+    },
+    {
+        "county": "CAROLINA",
+        "city": "CAROLINA",
+        "latitude": "+18.393355",
+        "longitude": "-065.972495"
+    },
+    {
+        "county": "CATANO",
+        "city": "CATANO",
+        "latitude": "+18.443217",
+        "longitude": "-066.139293"
+    },
+    {
+        "county": "CAYEY",
+        "city": "CAYEY",
+        "latitude": "+18.102967",
+        "longitude": "-066.139274"
+    },
+    {
+        "county": "CEIBA",
+        "city": "CEIBA",
+        "latitude": "+18.264872",
+        "longitude": "-065.594769"
+    },
+    {
+        "county": "CEIBA",
+        "city": "ROOSEVELT ROADS",
+        "latitude": "+18.264872",
+        "longitude": "-065.594769"
+    },
+    {
+        "county": "CIALES",
+        "city": "CIALES",
+        "latitude": "+18.336160",
+        "longitude": "-066.472087"
+    },
+    {
+        "county": "CIDRA",
+        "city": "CIDRA",
+        "latitude": "+18.181469",
+        "longitude": "-066.169519"
+    },
+    {
+        "county": "COAMO",
+        "city": "COAMO",
+        "latitude": "+18.095992",
+        "longitude": "-066.350810"
+    },
+    {
+        "county": "COMERIO",
+        "city": "COMERIO",
+        "latitude": "+18.224958",
+        "longitude": "-066.219885"
+    },
+    {
+        "county": "COROZAL",
+        "city": "COROZAL",
+        "latitude": "+18.304369",
+        "longitude": "-066.330525"
+    },
+    {
+        "county": "CULEBRA",
+        "city": "CULEBRA",
+        "latitude": "+18.323736",
+        "longitude": "-065.296467"
+    },
+    {
+        "county": "DORADO",
+        "city": "DORADO",
+        "latitude": "+18.436060",
+        "longitude": "-066.281954"
+    },
+    {
+        "county": "FAJARDO",
+        "city": "FAJARDO",
+        "latitude": "+18.359381",
+        "longitude": "-065.611361"
+    },
+    {
+        "county": "FAJARDO",
+        "city": "PUERTO REAL",
+        "latitude": "+18.331958",
+        "longitude": "-065.638780"
+    },
+    {
+        "county": "FLORIDA",
+        "city": "FLORIDA",
+        "latitude": "+18.360125",
+        "longitude": "-066.562311"
+    },
+    {
+        "county": "GUANICA",
+        "city": "ENSENADA",
+        "latitude": "+17.969594",
+        "longitude": "-066.939754"
+    },
+    {
+        "county": "GUANICA",
+        "city": "GUANICA",
+        "latitude": "+17.972468",
+        "longitude": "-066.898661"
+    },
+    {
+        "county": "GUAYAMA",
+        "city": "AGUIRRE",
+        "latitude": "+17.992290",
+        "longitude": "-066.139253"
+    },
+    {
+        "county": "GUAYAMA",
+        "city": "GUAYAMA",
+        "latitude": "+17.992290",
+        "longitude": "-066.139253"
+    },
+    {
+        "county": "GUAYANILLA",
+        "city": "GUAYAMA",
+        "latitude": "+18.018822",
+        "longitude": "-066.795603"
+    },
+    {
+        "county": "GUAYANILLA",
+        "city": "GUAYANILLA",
+        "latitude": "+18.023280",
+        "longitude": "-066.786909"
+    },
+    {
+        "county": "GUAYNABO",
+        "city": "GUAYNABO",
+        "latitude": "+18.309420",
+        "longitude": "-066.113606"
+    },
+    {
+        "county": "GURABO",
+        "city": "GURABO",
+        "latitude": "+18.259092",
+        "longitude": "-065.974641"
+    },
+    {
+        "county": "HATILLO",
+        "city": "HATILLO",
+        "latitude": "+18.481391",
+        "longitude": "-066.808696"
+    },
+    {
+        "county": "HORMIGUEROS",
+        "city": "HORMIGUEROS",
+        "latitude": "+18.145486",
+        "longitude": "-067.135323"
+    },
+    {
+        "county": "HUMACAO",
+        "city": "HUMACAO",
+        "latitude": "+18.138029",
+        "longitude": "-065.788499"
+    },
+    {
+        "county": "HUMACAO",
+        "city": "PUNTA SANTIAGO",
+        "latitude": "+18.162156",
+        "longitude": "-065.753485"
+    },
+    {
+        "county": "ISABELA",
+        "city": "ISABELA",
+        "latitude": "+18.480285",
+        "longitude": "-067.028155"
+    },
+    {
+        "county": "JAYUYA",
+        "city": "JAYUYA",
+        "latitude": "+18.217606",
+        "longitude": "-066.598306"
+    },
+    {
+        "county": "JUANA DIAZ",
+        "city": "JUANA DIAZ",
+        "latitude": "+17.997367",
+        "longitude": "-066.493218"
+    },
+    {
+        "county": "JUNCOS",
+        "city": "JUNCOS",
+        "latitude": "+18.206489",
+        "longitude": "-065.901774"
+    },
+    {
+        "county": "LAJAS",
+        "city": "LAJAS",
+        "latitude": "+18.015099",
+        "longitude": "-067.055973"
+    },
+    {
+        "county": "LARES",
+        "city": "CASTANER",
+        "latitude": "+18.269187",
+        "longitude": "-066.864993"
+    },
+    {
+        "county": "LARES",
+        "city": "LARES",
+        "latitude": "+18.295952",
+        "longitude": "-066.881925"
+    },
+    {
+        "county": "LAS MARIAS",
+        "city": "LAS MARIAS",
+        "latitude": "+18.252135",
+        "longitude": "-066.990967"
+    },
+    {
+        "county": "LAS PIEDRAS",
+        "city": "LAS PIEDRAS",
+        "latitude": "+18.196576",
+        "longitude": "-065.871970"
+    },
+    {
+        "county": "LOIZA",
+        "city": "LOIZA",
+        "latitude": "+18.447406",
+        "longitude": "-065.899357"
+    },
+    {
+        "county": "LUQUILLO",
+        "city": "LUQUILLO",
+        "latitude": "+18.366027",
+        "longitude": "-065.708138"
+    },
+    {
+        "county": "MANATI",
+        "city": "MANATI",
+        "latitude": "+18.445530",
+        "longitude": "-066.490268"
+    },
+    {
+        "county": "MARICAO",
+        "city": "MARICAO",
+        "latitude": "+18.172947",
+        "longitude": "-066.944111"
+    },
+    {
+        "county": "MAUNABO",
+        "city": "MAUNABO",
+        "latitude": "+18.007014",
+        "longitude": "-065.898719"
+    },
+    {
+        "county": "MAYAGUEZ",
+        "city": "MAYAGUEZ",
+        "latitude": "+18.219023",
+        "longitude": "-067.508068"
+    },
+    {
+        "county": "MOCA",
+        "city": "MOCA",
+        "latitude": "+18.383727",
+        "longitude": "-067.080799"
+    },
+    {
+        "county": "MOROVIS",
+        "city": "MOROVIS",
+        "latitude": "+18.316976",
+        "longitude": "-066.415207"
+    },
+    {
+        "county": "NAGUABO",
+        "city": "NAGUABO",
+        "latitude": "+18.221390",
+        "longitude": "-065.778310"
+    },
+    {
+        "county": "NAGUABO",
+        "city": "RIO BLANCO",
+        "latitude": "+18.206329",
+        "longitude": "-065.743058"
+    },
+    {
+        "county": "NARANJITO",
+        "city": "NARANJITO",
+        "latitude": "+18.298017",
+        "longitude": "-066.229751"
+    },
+    {
+        "county": "OROCOVIS",
+        "city": "OROCOVIS",
+        "latitude": "+18.226862",
+        "longitude": "-066.394020"
+    },
+    {
+        "county": "PATILLAS",
+        "city": "PATILLAS",
+        "latitude": "+18.009994",
+        "longitude": "-066.010572"
+    },
+    {
+        "county": "PENUELAS",
+        "city": "PENUELAS",
+        "latitude": "+18.023535",
+        "longitude": "-066.726156"
+    },
+    {
+        "county": "PONCE",
+        "city": "COTO LAUREL",
+        "latitude": "+18.001995",
+        "longitude": "-066.607429"
+    },
+    {
+        "county": "PONCE",
+        "city": "MERCEDITA",
+        "latitude": "+18.011854",
+        "longitude": "-066.563721"
+    },
+    {
+        "county": "PONCE",
+        "city": "PONCE",
+        "latitude": "+17.999499",
+        "longitude": "-066.643934"
+    },
+    {
+        "county": "QUEBRADILLAS",
+        "city": "QUEBRADILLAS",
+        "latitude": "+18.453030",
+        "longitude": "-066.933689"
+    },
+    {
+        "county": "RINCON",
+        "city": "RINCON",
+        "latitude": "+18.335781",
+        "longitude": "-067.252547"
+    },
+    {
+        "county": "RIO GRANDE",
+        "city": "PALMER",
+        "latitude": "+18.364161",
+        "longitude": "-065.778288"
+    },
+    {
+        "county": "RIO GRANDE",
+        "city": "RIO GRANDE",
+        "latitude": "+18.367347",
+        "longitude": "-065.816583"
+    },
+    {
+        "county": "SABANA GRANDE",
+        "city": "SABANA GRANDE",
+        "latitude": "+18.087322",
+        "longitude": "-066.934911"
+    },
+    {
+        "county": "SALINAS",
+        "city": "SALINAS",
+        "latitude": "+17.998520",
+        "longitude": "-066.264825"
+    },
+    {
+        "county": "SAN GERMAN",
+        "city": "ROSARIO",
+        "latitude": "+18.113284",
+        "longitude": "-067.039706"
+    },
+    {
+        "county": "SAN GERMAN",
+        "city": "SAN GERMAN",
+        "latitude": "+18.113284",
+        "longitude": "-067.039706"
+    },
+    {
+        "county": "SAN JUAN",
+        "city": "CAROLINA",
+        "latitude": "+18.410462",
+        "longitude": "-066.060533"
+    },
+    {
+        "county": "SAN JUAN",
+        "city": "GUAYNABO",
+        "latitude": "+18.410462",
+        "longitude": "-066.060533"
+    },
+    {
+        "county": "SAN JUAN",
+        "city": "SAN JUAN",
+        "latitude": "+18.410462",
+        "longitude": "-066.060533"
+    },
+    {
+        "county": "SAN LORENZO",
+        "city": "SAN LORENZO",
+        "latitude": "+18.187584",
+        "longitude": "-065.962389"
+    },
+    {
+        "county": "SAN SEBASTIAN",
+        "city": "SAN SEBASTIAN",
+        "latitude": "+18.323600",
+        "longitude": "-066.972227"
+    },
+    {
+        "county": "SANTA ISABEL",
+        "city": "SANTA ISABEL",
+        "latitude": "+17.991233",
+        "longitude": "-066.395543"
+    },
+    {
+        "county": "TOA ALTA",
+        "city": "TOA ALTA",
+        "latitude": "+18.358939",
+        "longitude": "-066.258108"
+    },
+    {
+        "county": "TOA BAJA",
+        "city": "SABANA SECA",
+        "latitude": "+18.457761",
+        "longitude": "-066.196503"
+    },
+    {
+        "county": "TOA BAJA",
+        "city": "TOA BAJA",
+        "latitude": "+18.457761",
+        "longitude": "-066.196503"
+    },
+    {
+        "county": "TRUJILLO ALTO",
+        "city": "SAINT JUST CONTRACT",
+        "latitude": "+18.337004",
+        "longitude": "-065.990099"
+    },
+    {
+        "county": "TRUJILLO ALTO",
+        "city": "TRUJILLO ALTO",
+        "latitude": "+18.337004",
+        "longitude": "-065.990099"
+    },
+    {
+        "county": "UTUADO",
+        "city": "ANGELES",
+        "latitude": "+18.279531",
+        "longitude": "-066.802170"
+    },
+    {
+        "county": "UTUADO",
+        "city": "UTUADO",
+        "latitude": "+18.250027",
+        "longitude": "-066.698957"
+    },
+    {
+        "county": "VEGA ALTA",
+        "city": "VEGA ALTA",
+        "latitude": "+18.435818",
+        "longitude": "-066.338523"
+    },
+    {
+        "county": "VEGA BAJA",
+        "city": "VEGA BAJA",
+        "latitude": "+18.443109",
+        "longitude": "-066.398302"
+    },
+    {
+        "county": "VIEQUES",
+        "city": "VIEQUES",
+        "latitude": "+18.123347",
+        "longitude": "-065.460356"
+    },
+    {
+        "county": "VILLALBA",
+        "city": "VILLALBA",
+        "latitude": "+18.120519",
+        "longitude": "-066.496607"
+    },
+    {
+        "county": "YABUCOA",
+        "city": "YABUCOA",
+        "latitude": "+18.045522",
+        "longitude": "-065.886988"
+    },
+    {
+        "county": "YAUCO",
+        "city": "YAUCO",
+        "latitude": "+18.061040",
+        "longitude": "-066.861164"
+    }
+]

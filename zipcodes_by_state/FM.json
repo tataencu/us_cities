@@ -1,0 +1,30 @@
+[
+    {
+        "county": "FEDERATED STATES OF MICRO",
+        "city": "CHUUK",
+        "zipcode": 96942,
+        "latitude": "+07.138297",
+        "longitude": "+151.503116"
+    },
+    {
+        "county": "FEDERATED STATES OF MICRO",
+        "city": "KOSRAE",
+        "zipcode": 96944,
+        "latitude": "+07.138297",
+        "longitude": "+151.503116"
+    },
+    {
+        "county": "FEDERATED STATES OF MICRO",
+        "city": "POHNPEI",
+        "zipcode": 96941,
+        "latitude": "+07.138297",
+        "longitude": "+151.503116"
+    },
+    {
+        "county": "FEDERATED STATES OF MICRO",
+        "city": "YAP",
+        "zipcode": 96943,
+        "latitude": "+07.138297",
+        "longitude": "+151.503116"
+    }
+]

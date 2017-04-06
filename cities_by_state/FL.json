@@ -1,0 +1,3164 @@
+[
+    {
+        "county": "ALACHUA",
+        "city": "ALACHUA",
+        "latitude": "+29.792034",
+        "longitude": "-082.495964"
+    },
+    {
+        "county": "ALACHUA",
+        "city": "ARCHER",
+        "latitude": "+29.569316",
+        "longitude": "-082.506445"
+    },
+    {
+        "county": "ALACHUA",
+        "city": "EARLETON",
+        "latitude": "+29.730413",
+        "longitude": "-082.097095"
+    },
+    {
+        "county": "ALACHUA",
+        "city": "EVINSTON",
+        "latitude": "+29.681312",
+        "longitude": "-082.353862"
+    },
+    {
+        "county": "ALACHUA",
+        "city": "GAINESVILLE",
+        "latitude": "+29.772819",
+        "longitude": "-082.378158"
+    },
+    {
+        "county": "ALACHUA",
+        "city": "HAWTHORNE",
+        "latitude": "+29.642025",
+        "longitude": "-082.327515"
+    },
+    {
+        "county": "ALACHUA",
+        "city": "HIGH SPRINGS",
+        "latitude": "+29.817457",
+        "longitude": "-082.600640"
+    },
+    {
+        "county": "ALACHUA",
+        "city": "ISLAND GROVE",
+        "latitude": "+29.681312",
+        "longitude": "-082.353862"
+    },
+    {
+        "county": "ALACHUA",
+        "city": "LA CROSSE",
+        "latitude": "+29.826139",
+        "longitude": "-082.416024"
+    },
+    {
+        "county": "ALACHUA",
+        "city": "LOCHLOOSA",
+        "latitude": "+29.681312",
+        "longitude": "-082.353862"
+    },
+    {
+        "county": "ALACHUA",
+        "city": "MICANOPY",
+        "latitude": "+29.565077",
+        "longitude": "-082.417182"
+    },
+    {
+        "county": "ALACHUA",
+        "city": "NEWBERRY",
+        "latitude": "+29.687249",
+        "longitude": "-082.564624"
+    },
+    {
+        "county": "ALACHUA",
+        "city": "WALDO",
+        "latitude": "+29.796800",
+        "longitude": "-082.156228"
+    },
+    {
+        "county": "BAKER",
+        "city": "GLEN SAINT MARY",
+        "latitude": "+30.302616",
+        "longitude": "-082.190828"
+    },
+    {
+        "county": "BAKER",
+        "city": "MACCLENNY",
+        "latitude": "+30.284628",
+        "longitude": "-082.160139"
+    },
+    {
+        "county": "BAKER",
+        "city": "OLUSTEE",
+        "latitude": "+30.360360",
+        "longitude": "-082.254180"
+    },
+    {
+        "county": "BAKER",
+        "city": "SANDERSON",
+        "latitude": "+30.291034",
+        "longitude": "-082.334017"
+    },
+    {
+        "county": "BAY",
+        "city": "FOUNTAIN",
+        "latitude": "+30.452450",
+        "longitude": "-085.491959"
+    },
+    {
+        "county": "BAY",
+        "city": "LYNN HAVEN",
+        "latitude": "+30.094456",
+        "longitude": "-085.537104"
+    },
+    {
+        "county": "BAY",
+        "city": "MEXICO BEACH",
+        "latitude": "+29.939543",
+        "longitude": "-085.409602"
+    },
+    {
+        "county": "BAY",
+        "city": "PANAMA CITY",
+        "latitude": "+30.243832",
+        "longitude": "-085.916988"
+    },
+    {
+        "county": "BAY",
+        "city": "PANAMA CITY BEACH",
+        "latitude": "+30.169689",
+        "longitude": "-085.693681"
+    },
+    {
+        "county": "BAY",
+        "city": "ROSEMARY BCH",
+        "latitude": "+30.252531",
+        "longitude": "-085.942389"
+    },
+    {
+        "county": "BAY",
+        "city": "YOUNGSTOWN",
+        "latitude": "+30.383156",
+        "longitude": "-085.515060"
+    },
+    {
+        "county": "BRADFORD",
+        "city": "BROOKER",
+        "latitude": "+29.905008",
+        "longitude": "-082.298477"
+    },
+    {
+        "county": "BRADFORD",
+        "city": "GRAHAM",
+        "latitude": "+29.968926",
+        "longitude": "-082.122553"
+    },
+    {
+        "county": "BRADFORD",
+        "city": "HAMPTON",
+        "latitude": "+29.862285",
+        "longitude": "-082.143297"
+    },
+    {
+        "county": "BRADFORD",
+        "city": "LAWTEY",
+        "latitude": "+30.047063",
+        "longitude": "-082.126910"
+    },
+    {
+        "county": "BRADFORD",
+        "city": "STARKE",
+        "latitude": "+29.928149",
+        "longitude": "-082.179651"
+    },
+    {
+        "county": "BREVARD",
+        "city": "CAPE CANAVERAL",
+        "latitude": "+28.394642",
+        "longitude": "-080.614323"
+    },
+    {
+        "county": "BREVARD",
+        "city": "COCOA",
+        "latitude": "+28.456630",
+        "longitude": "-080.797847"
+    },
+    {
+        "county": "BREVARD",
+        "city": "COCOA BEACH",
+        "latitude": "+28.306726",
+        "longitude": "-080.686159"
+    },
+    {
+        "county": "BREVARD",
+        "city": "GRANT",
+        "latitude": "+27.936416",
+        "longitude": "-080.555597"
+    },
+    {
+        "county": "BREVARD",
+        "city": "INDIALANTIC",
+        "latitude": "+28.107943",
+        "longitude": "-080.579625"
+    },
+    {
+        "county": "BREVARD",
+        "city": "MALABAR",
+        "latitude": "+28.072093",
+        "longitude": "-080.596021"
+    },
+    {
+        "county": "BREVARD",
+        "city": "MELBOURNE",
+        "latitude": "+27.924577",
+        "longitude": "-080.523463"
+    },
+    {
+        "county": "BREVARD",
+        "city": "MELBOURNE BEACH",
+        "latitude": "+27.953124",
+        "longitude": "-080.634000"
+    },
+    {
+        "county": "BREVARD",
+        "city": "MERRITT ISLAND",
+        "latitude": "+28.225710",
+        "longitude": "-080.673356"
+    },
+    {
+        "county": "BREVARD",
+        "city": "MIMS",
+        "latitude": "+28.699314",
+        "longitude": "-080.895344"
+    },
+    {
+        "county": "BREVARD",
+        "city": "ORLANDO",
+        "latitude": "+28.306726",
+        "longitude": "-080.686159"
+    },
+    {
+        "county": "BREVARD",
+        "city": "PALM BAY",
+        "latitude": "+28.306726",
+        "longitude": "-080.686159"
+    },
+    {
+        "county": "BREVARD",
+        "city": "PATRICK AFB",
+        "latitude": "+28.174349",
+        "longitude": "-080.583979"
+    },
+    {
+        "county": "BREVARD",
+        "city": "ROCKLEDGE",
+        "latitude": "+28.329785",
+        "longitude": "-080.732327"
+    },
+    {
+        "county": "BREVARD",
+        "city": "SATELLITE BEACH",
+        "latitude": "+28.167091",
+        "longitude": "-080.615835"
+    },
+    {
+        "county": "BREVARD",
+        "city": "SCOTTSMOOR",
+        "latitude": "+28.770160",
+        "longitude": "-080.872042"
+    },
+    {
+        "county": "BREVARD",
+        "city": "SEBASTIAN",
+        "latitude": "+27.867945",
+        "longitude": "-080.541647"
+    },
+    {
+        "county": "BREVARD",
+        "city": "SHARPES",
+        "latitude": "+28.306726",
+        "longitude": "-080.686159"
+    },
+    {
+        "county": "BREVARD",
+        "city": "TITUSVILLE",
+        "latitude": "+28.509529",
+        "longitude": "-080.831574"
+    },
+    {
+        "county": "BROWARD",
+        "city": "DANIA",
+        "latitude": "+26.062416",
+        "longitude": "-080.159667"
+    },
+    {
+        "county": "BROWARD",
+        "city": "DEERFIELD BEACH",
+        "latitude": "+26.145724",
+        "longitude": "-080.448254"
+    },
+    {
+        "county": "BROWARD",
+        "city": "FORT LAUDERDALE",
+        "latitude": "+26.122063",
+        "longitude": "-080.138967"
+    },
+    {
+        "county": "BROWARD",
+        "city": "HALLANDALE",
+        "latitude": "+25.992118",
+        "longitude": "-080.146701"
+    },
+    {
+        "county": "BROWARD",
+        "city": "HOLLYWOOD",
+        "latitude": "+26.289057",
+        "longitude": "-080.129816"
+    },
+    {
+        "county": "BROWARD",
+        "city": "PEMBROKE PINES",
+        "latitude": "+26.145724",
+        "longitude": "-080.448254"
+    },
+    {
+        "county": "BROWARD",
+        "city": "POMPANO BEACH",
+        "latitude": "+26.145724",
+        "longitude": "-080.448254"
+    },
+    {
+        "county": "CALHOUN",
+        "city": "ALTHA",
+        "latitude": "+30.553171",
+        "longitude": "-085.171315"
+    },
+    {
+        "county": "CALHOUN",
+        "city": "BLOUNTSTOWN",
+        "latitude": "+30.442582",
+        "longitude": "-085.046048"
+    },
+    {
+        "county": "CALHOUN",
+        "city": "CLARKSVILLE",
+        "latitude": "+30.403984",
+        "longitude": "-085.161075"
+    },
+    {
+        "county": "CALHOUN",
+        "city": "KINARD",
+        "latitude": "+30.403984",
+        "longitude": "-085.161075"
+    },
+    {
+        "county": "CHARLOTTE",
+        "city": "EL JOBEAN",
+        "latitude": "+26.901981",
+        "longitude": "-082.000005"
+    },
+    {
+        "county": "CHARLOTTE",
+        "city": "MURDOCK",
+        "latitude": "+26.901981",
+        "longitude": "-082.000005"
+    },
+    {
+        "county": "CHARLOTTE",
+        "city": "PLACIDA",
+        "latitude": "+26.879424",
+        "longitude": "-082.266405"
+    },
+    {
+        "county": "CHARLOTTE",
+        "city": "PORT CHARLOTTE",
+        "latitude": "+26.934570",
+        "longitude": "-082.232398"
+    },
+    {
+        "county": "CHARLOTTE",
+        "city": "PUNTA GORDA",
+        "latitude": "+27.001845",
+        "longitude": "-082.018382"
+    },
+    {
+        "county": "CHARLOTTE",
+        "city": "ROTONDA WEST",
+        "latitude": "+26.884228",
+        "longitude": "-082.269126"
+    },
+    {
+        "county": "CITRUS",
+        "city": "BEVERLY HILLS",
+        "latitude": "+28.817853",
+        "longitude": "-082.446209"
+    },
+    {
+        "county": "CITRUS",
+        "city": "CRYSTAL RIVER",
+        "latitude": "+28.904358",
+        "longitude": "-082.596051"
+    },
+    {
+        "county": "CITRUS",
+        "city": "DUNNELLON",
+        "latitude": "+28.993778",
+        "longitude": "-082.424132"
+    },
+    {
+        "county": "CITRUS",
+        "city": "FLORAL CITY",
+        "latitude": "+28.730350",
+        "longitude": "-082.307734"
+    },
+    {
+        "county": "CITRUS",
+        "city": "HERNANDO",
+        "latitude": "+28.922317",
+        "longitude": "-082.390044"
+    },
+    {
+        "county": "CITRUS",
+        "city": "HOLDER",
+        "latitude": "+28.948753",
+        "longitude": "-082.406476"
+    },
+    {
+        "county": "CITRUS",
+        "city": "HOMOSASSA",
+        "latitude": "+28.859286",
+        "longitude": "-082.508694"
+    },
+    {
+        "county": "CITRUS",
+        "city": "HOMOSASSA SPRINGS",
+        "latitude": "+28.804911",
+        "longitude": "-082.574264"
+    },
+    {
+        "county": "CITRUS",
+        "city": "INVERNESS",
+        "latitude": "+28.872256",
+        "longitude": "-082.345411"
+    },
+    {
+        "county": "CITRUS",
+        "city": "LECANTO",
+        "latitude": "+28.819711",
+        "longitude": "-082.464061"
+    },
+    {
+        "county": "CLAY",
+        "city": "DOCTORS INLET",
+        "latitude": "+30.105553",
+        "longitude": "-081.768964"
+    },
+    {
+        "county": "CLAY",
+        "city": "GREEN COVE SPRINGS",
+        "latitude": "+29.998318",
+        "longitude": "-081.764680"
+    },
+    {
+        "county": "CLAY",
+        "city": "KEYSTONE HEIGHTS",
+        "latitude": "+29.813555",
+        "longitude": "-081.946556"
+    },
+    {
+        "county": "CLAY",
+        "city": "LAKE GENEVA",
+        "latitude": "+29.768321",
+        "longitude": "-081.990729"
+    },
+    {
+        "county": "CLAY",
+        "city": "MIDDLEBURG",
+        "latitude": "+30.078597",
+        "longitude": "-081.847794"
+    },
+    {
+        "county": "CLAY",
+        "city": "ORANGE PARK",
+        "latitude": "+30.119884",
+        "longitude": "-081.791546"
+    },
+    {
+        "county": "CLAY",
+        "city": "PENNEY FARMS",
+        "latitude": "+29.984882",
+        "longitude": "-081.802221"
+    },
+    {
+        "county": "COLLIER",
+        "city": "CHOKOLOSKEE",
+        "latitude": "+25.836746",
+        "longitude": "-081.121963"
+    },
+    {
+        "county": "COLLIER",
+        "city": "COPELAND",
+        "latitude": "+26.143260",
+        "longitude": "-081.389124"
+    },
+    {
+        "county": "COLLIER",
+        "city": "EVERGLADES CITY",
+        "latitude": "+25.856971",
+        "longitude": "-081.377791"
+    },
+    {
+        "county": "COLLIER",
+        "city": "GOODLAND",
+        "latitude": "+26.143260",
+        "longitude": "-081.389124"
+    },
+    {
+        "county": "COLLIER",
+        "city": "IMMOKALEE",
+        "latitude": "+26.464183",
+        "longitude": "-081.504661"
+    },
+    {
+        "county": "COLLIER",
+        "city": "MARCO ISLAND",
+        "latitude": "+26.143260",
+        "longitude": "-081.389124"
+    },
+    {
+        "county": "COLLIER",
+        "city": "NAPLES",
+        "latitude": "+26.330438",
+        "longitude": "-081.587104"
+    },
+    {
+        "county": "COLLIER",
+        "city": "OCHOPEE",
+        "latitude": "+25.873412",
+        "longitude": "-081.159938"
+    },
+    {
+        "county": "COLLIER",
+        "city": "VANDERBILT BEACH",
+        "latitude": "+26.143260",
+        "longitude": "-081.389124"
+    },
+    {
+        "county": "COLUMBIA",
+        "city": "FORT WHITE",
+        "latitude": "+30.211903",
+        "longitude": "-082.626332"
+    },
+    {
+        "county": "COLUMBIA",
+        "city": "LAKE CITY",
+        "latitude": "+30.162772",
+        "longitude": "-082.651184"
+    },
+    {
+        "county": "COLUMBIA",
+        "city": "LULU",
+        "latitude": "+30.211903",
+        "longitude": "-082.626332"
+    },
+    {
+        "county": "DE SOTO",
+        "city": "ARCADIA",
+        "latitude": "",
+        "longitude": ""
+    },
+    {
+        "county": "DE SOTO",
+        "city": "FORT OGDEN",
+        "latitude": "+27.186146",
+        "longitude": "-081.809939"
+    },
+    {
+        "county": "DE SOTO",
+        "city": "NOCATEE",
+        "latitude": "+27.203827",
+        "longitude": "-081.864443"
+    },
+    {
+        "county": "DIXIE",
+        "city": "CROSS CITY",
+        "latitude": "+29.680616",
+        "longitude": "-083.089669"
+    },
+    {
+        "county": "DIXIE",
+        "city": "HORSESHOE BEACH",
+        "latitude": "+29.538213",
+        "longitude": "-083.192610"
+    },
+    {
+        "county": "DIXIE",
+        "city": "OLD TOWN",
+        "latitude": "+29.669866",
+        "longitude": "-083.004951"
+    },
+    {
+        "county": "DIXIE",
+        "city": "SUWANNEE",
+        "latitude": "+29.329518",
+        "longitude": "-083.139957"
+    },
+    {
+        "county": "DUVAL",
+        "city": "ATLANTIC BEACH",
+        "latitude": "+30.352390",
+        "longitude": "-081.517761"
+    },
+    {
+        "county": "DUVAL",
+        "city": "JACKSONVILLE",
+        "latitude": "",
+        "longitude": ""
+    },
+    {
+        "county": "DUVAL",
+        "city": "JACKSONVILLE BEACH",
+        "latitude": "+30.280143",
+        "longitude": "-081.416506"
+    },
+    {
+        "county": "DUVAL",
+        "city": "NEPTUNE BEACH",
+        "latitude": "+30.315978",
+        "longitude": "-081.408006"
+    },
+    {
+        "county": "ESCAMBIA",
+        "city": "CANTONMENT",
+        "latitude": "+30.665519",
+        "longitude": "-087.350295"
+    },
+    {
+        "county": "ESCAMBIA",
+        "city": "CENTURY",
+        "latitude": "+30.955907",
+        "longitude": "-087.364552"
+    },
+    {
+        "county": "ESCAMBIA",
+        "city": "GONZALEZ",
+        "latitude": "+30.581825",
+        "longitude": "-087.292918"
+    },
+    {
+        "county": "ESCAMBIA",
+        "city": "MC DAVID",
+        "latitude": "+30.868646",
+        "longitude": "-087.453852"
+    },
+    {
+        "county": "ESCAMBIA",
+        "city": "MOLINO",
+        "latitude": "+30.690231",
+        "longitude": "-087.385248"
+    },
+    {
+        "county": "ESCAMBIA",
+        "city": "PENSACOLA",
+        "latitude": "+30.614280",
+        "longitude": "-087.275772"
+    },
+    {
+        "county": "FLAGLER",
+        "city": "BUNNELL",
+        "latitude": "+29.402177",
+        "longitude": "-081.334250"
+    },
+    {
+        "county": "FLAGLER",
+        "city": "FLAGLER BEACH",
+        "latitude": "+29.466085",
+        "longitude": "-081.282815"
+    },
+    {
+        "county": "FLAGLER",
+        "city": "PALM COAST",
+        "latitude": "+29.486141",
+        "longitude": "-081.204491"
+    },
+    {
+        "county": "FRANKLIN",
+        "city": "APALACHICOLA",
+        "latitude": "+29.745526",
+        "longitude": "-085.023947"
+    },
+    {
+        "county": "FRANKLIN",
+        "city": "CARRABELLE",
+        "latitude": "+29.853775",
+        "longitude": "-084.735838"
+    },
+    {
+        "county": "FRANKLIN",
+        "city": "EASTPOINT",
+        "latitude": "+29.749548",
+        "longitude": "-084.816238"
+    },
+    {
+        "county": "FRANKLIN",
+        "city": "LANARK VILLAGE",
+        "latitude": "+29.882567",
+        "longitude": "-084.596417"
+    },
+    {
+        "county": "GADSDEN",
+        "city": "CHATTAHOOCHEE",
+        "latitude": "+30.640548",
+        "longitude": "-084.780758"
+    },
+    {
+        "county": "GADSDEN",
+        "city": "GREENSBORO",
+        "latitude": "+30.565334",
+        "longitude": "-084.735972"
+    },
+    {
+        "county": "GADSDEN",
+        "city": "GRETNA",
+        "latitude": "+30.589232",
+        "longitude": "-084.564944"
+    },
+    {
+        "county": "GADSDEN",
+        "city": "HAVANA",
+        "latitude": "+30.591733",
+        "longitude": "-084.574009"
+    },
+    {
+        "county": "GADSDEN",
+        "city": "MIDWAY",
+        "latitude": "+30.565524",
+        "longitude": "-084.429835"
+    },
+    {
+        "county": "GADSDEN",
+        "city": "QUINCY",
+        "latitude": "+30.549676",
+        "longitude": "-084.606864"
+    },
+    {
+        "county": "GILCHRIST",
+        "city": "BELL",
+        "latitude": "+29.749093",
+        "longitude": "-082.865081"
+    },
+    {
+        "county": "GILCHRIST",
+        "city": "TRENTON",
+        "latitude": "+29.674633",
+        "longitude": "-082.811678"
+    },
+    {
+        "county": "GLADES",
+        "city": "MOORE HAVEN",
+        "latitude": "+26.886471",
+        "longitude": "-081.195575"
+    },
+    {
+        "county": "GLADES",
+        "city": "PALMDALE",
+        "latitude": "+26.946449",
+        "longitude": "-081.309114"
+    },
+    {
+        "county": "GULF",
+        "city": "PORT SAINT JOE",
+        "latitude": "+29.902484",
+        "longitude": "-085.242169"
+    },
+    {
+        "county": "GULF",
+        "city": "WEWAHITCHKA",
+        "latitude": "+30.025584",
+        "longitude": "-085.215173"
+    },
+    {
+        "county": "HAMILTON",
+        "city": "JASPER",
+        "latitude": "+30.495814",
+        "longitude": "-082.985428"
+    },
+    {
+        "county": "HAMILTON",
+        "city": "JENNINGS",
+        "latitude": "+30.555263",
+        "longitude": "-083.148179"
+    },
+    {
+        "county": "HAMILTON",
+        "city": "WHITE SPRINGS",
+        "latitude": "+30.386063",
+        "longitude": "-082.773890"
+    },
+    {
+        "county": "HARDEE",
+        "city": "BOWLING GREEN",
+        "latitude": "+27.601936",
+        "longitude": "-081.850690"
+    },
+    {
+        "county": "HARDEE",
+        "city": "ONA",
+        "latitude": "+27.450538",
+        "longitude": "-081.899723"
+    },
+    {
+        "county": "HARDEE",
+        "city": "WAUCHULA",
+        "latitude": "+27.518602",
+        "longitude": "-081.784123"
+    },
+    {
+        "county": "HARDEE",
+        "city": "ZOLFO SPRINGS",
+        "latitude": "+27.457687",
+        "longitude": "-081.721609"
+    },
+    {
+        "county": "HENDRY",
+        "city": "CLEWISTON",
+        "latitude": "+26.630066",
+        "longitude": "-081.090897"
+    },
+    {
+        "county": "HENDRY",
+        "city": "FELDA",
+        "latitude": "+26.612772",
+        "longitude": "-081.479912"
+    },
+    {
+        "county": "HENDRY",
+        "city": "LABELLE",
+        "latitude": "+26.763312",
+        "longitude": "-081.438833"
+    },
+    {
+        "county": "HERNANDO",
+        "city": "BROOKSVILLE",
+        "latitude": "+28.627958",
+        "longitude": "-082.536465"
+    },
+    {
+        "county": "HERNANDO",
+        "city": "ISTACHATTA",
+        "latitude": "+28.655030",
+        "longitude": "-082.267706"
+    },
+    {
+        "county": "HERNANDO",
+        "city": "NOBLETON",
+        "latitude": "+28.643640",
+        "longitude": "-082.263836"
+    },
+    {
+        "county": "HERNANDO",
+        "city": "SPRING HILL",
+        "latitude": "+28.564167",
+        "longitude": "-082.416515"
+    },
+    {
+        "county": "HIGHLANDS",
+        "city": "AVON PARK",
+        "latitude": "+27.339483",
+        "longitude": "-081.252872"
+    },
+    {
+        "county": "HIGHLANDS",
+        "city": "LAKE PLACID",
+        "latitude": "+27.244668",
+        "longitude": "-081.288424"
+    },
+    {
+        "county": "HIGHLANDS",
+        "city": "LORIDA",
+        "latitude": "+27.391447",
+        "longitude": "-081.228096"
+    },
+    {
+        "county": "HIGHLANDS",
+        "city": "SEBRING",
+        "latitude": "",
+        "longitude": ""
+    },
+    {
+        "county": "HIGHLANDS",
+        "city": "VENUS",
+        "latitude": "+27.120281",
+        "longitude": "-081.390945"
+    },
+    {
+        "county": "HILLSBOROUGH",
+        "city": "APOLLO BEACH",
+        "latitude": "+27.845790",
+        "longitude": "-082.331983"
+    },
+    {
+        "county": "HILLSBOROUGH",
+        "city": "BALM",
+        "latitude": "+27.764761",
+        "longitude": "-082.273409"
+    },
+    {
+        "county": "HILLSBOROUGH",
+        "city": "BRANDON",
+        "latitude": "+27.903679",
+        "longitude": "-082.294021"
+    },
+    {
+        "county": "HILLSBOROUGH",
+        "city": "DOVER",
+        "latitude": "+27.975742",
+        "longitude": "-082.240415"
+    },
+    {
+        "county": "HILLSBOROUGH",
+        "city": "DURANT",
+        "latitude": "+27.906823",
+        "longitude": "-082.176749"
+    },
+    {
+        "county": "HILLSBOROUGH",
+        "city": "GIBSONTON",
+        "latitude": "+27.911823",
+        "longitude": "-082.385728"
+    },
+    {
+        "county": "HILLSBOROUGH",
+        "city": "LITHIA",
+        "latitude": "+27.893718",
+        "longitude": "-082.205331"
+    },
+    {
+        "county": "HILLSBOROUGH",
+        "city": "LUTZ",
+        "latitude": "",
+        "longitude": ""
+    },
+    {
+        "county": "HILLSBOROUGH",
+        "city": "MANGO",
+        "latitude": "+27.871964",
+        "longitude": "-082.438841"
+    },
+    {
+        "county": "HILLSBOROUGH",
+        "city": "ODESSA",
+        "latitude": "+28.128688",
+        "longitude": "-082.584113"
+    },
+    {
+        "county": "HILLSBOROUGH",
+        "city": "PLANT CITY",
+        "latitude": "+27.980218",
+        "longitude": "-082.322484"
+    },
+    {
+        "county": "HILLSBOROUGH",
+        "city": "RIVERVIEW",
+        "latitude": "+27.846419",
+        "longitude": "-082.301249"
+    },
+    {
+        "county": "HILLSBOROUGH",
+        "city": "RUSKIN",
+        "latitude": "+27.699130",
+        "longitude": "-082.452630"
+    },
+    {
+        "county": "HILLSBOROUGH",
+        "city": "SEFFNER",
+        "latitude": "+27.999687",
+        "longitude": "-082.287957"
+    },
+    {
+        "county": "HILLSBOROUGH",
+        "city": "SUN CITY",
+        "latitude": "+27.871964",
+        "longitude": "-082.438841"
+    },
+    {
+        "county": "HILLSBOROUGH",
+        "city": "SUN CITY CENTER",
+        "latitude": "+27.704046",
+        "longitude": "-082.357420"
+    },
+    {
+        "county": "HILLSBOROUGH",
+        "city": "SYDNEY",
+        "latitude": "+27.871964",
+        "longitude": "-082.438841"
+    },
+    {
+        "county": "HILLSBOROUGH",
+        "city": "TAMPA",
+        "latitude": "+27.871964",
+        "longitude": "-082.438841"
+    },
+    {
+        "county": "HILLSBOROUGH",
+        "city": "THONOTOSASSA",
+        "latitude": "+28.092775",
+        "longitude": "-082.278977"
+    },
+    {
+        "county": "HILLSBOROUGH",
+        "city": "VALRICO",
+        "latitude": "+27.871964",
+        "longitude": "-082.438841"
+    },
+    {
+        "county": "HILLSBOROUGH",
+        "city": "WIMAUMA",
+        "latitude": "+27.733830",
+        "longitude": "-082.297468"
+    },
+    {
+        "county": "HOLMES",
+        "city": "BONIFAY",
+        "latitude": "+30.875532",
+        "longitude": "-085.684243"
+    },
+    {
+        "county": "HOLMES",
+        "city": "NOMA",
+        "latitude": "+30.849972",
+        "longitude": "-085.768022"
+    },
+    {
+        "county": "HOLMES",
+        "city": "PONCE DE LEON",
+        "latitude": "+30.845927",
+        "longitude": "-085.930198"
+    },
+    {
+        "county": "HOLMES",
+        "city": "WESTVILLE",
+        "latitude": "+30.872298",
+        "longitude": "-085.929742"
+    },
+    {
+        "county": "INDIAN RIVER",
+        "city": "FELLSMERE",
+        "latitude": "+27.775251",
+        "longitude": "-080.609403"
+    },
+    {
+        "county": "INDIAN RIVER",
+        "city": "ROSELAND",
+        "latitude": "+27.709049",
+        "longitude": "-080.572557"
+    },
+    {
+        "county": "INDIAN RIVER",
+        "city": "SEBASTIAN",
+        "latitude": "+27.709049",
+        "longitude": "-080.572557"
+    },
+    {
+        "county": "INDIAN RIVER",
+        "city": "VERO BEACH",
+        "latitude": "+27.709049",
+        "longitude": "-080.572557"
+    },
+    {
+        "county": "INDIAN RIVER",
+        "city": "WABASSO",
+        "latitude": "+27.752905",
+        "longitude": "-080.474297"
+    },
+    {
+        "county": "INDIAN RIVER",
+        "city": "WINTER BEACH",
+        "latitude": "+27.709049",
+        "longitude": "-080.572557"
+    },
+    {
+        "county": "JACKSON",
+        "city": "ALFORD",
+        "latitude": "+30.641158",
+        "longitude": "-085.375585"
+    },
+    {
+        "county": "JACKSON",
+        "city": "BASCOM",
+        "latitude": "+30.940432",
+        "longitude": "-085.063884"
+    },
+    {
+        "county": "JACKSON",
+        "city": "CAMPBELLTON",
+        "latitude": "+30.935644",
+        "longitude": "-085.346802"
+    },
+    {
+        "county": "JACKSON",
+        "city": "COTTONDALE",
+        "latitude": "+30.801747",
+        "longitude": "-085.287774"
+    },
+    {
+        "county": "JACKSON",
+        "city": "CYPRESS",
+        "latitude": "+30.715807",
+        "longitude": "-085.078384"
+    },
+    {
+        "county": "JACKSON",
+        "city": "GRACEVILLE",
+        "latitude": "+30.882994",
+        "longitude": "-085.361113"
+    },
+    {
+        "county": "JACKSON",
+        "city": "GRAND RIDGE",
+        "latitude": "+30.719031",
+        "longitude": "-085.083627"
+    },
+    {
+        "county": "JACKSON",
+        "city": "GREENWOOD",
+        "latitude": "+30.859204",
+        "longitude": "-085.147580"
+    },
+    {
+        "county": "JACKSON",
+        "city": "MALONE",
+        "latitude": "+30.963462",
+        "longitude": "-085.187828"
+    },
+    {
+        "county": "JACKSON",
+        "city": "MARIANNA",
+        "latitude": "+30.674946",
+        "longitude": "-085.212174"
+    },
+    {
+        "county": "JACKSON",
+        "city": "SNEADS",
+        "latitude": "+30.777609",
+        "longitude": "-084.955871"
+    },
+    {
+        "county": "JEFFERSON",
+        "city": "LAMONT",
+        "latitude": "+30.298333",
+        "longitude": "-083.900753"
+    },
+    {
+        "county": "JEFFERSON",
+        "city": "LLOYD",
+        "latitude": "+30.342161",
+        "longitude": "-083.840177"
+    },
+    {
+        "county": "JEFFERSON",
+        "city": "MONTICELLO",
+        "latitude": "+30.342161",
+        "longitude": "-083.840177"
+    },
+    {
+        "county": "JEFFERSON",
+        "city": "WACISSA",
+        "latitude": "+30.342161",
+        "longitude": "-083.840177"
+    },
+    {
+        "county": "LAFAYETTE",
+        "city": "DAY",
+        "latitude": "+30.041449",
+        "longitude": "-083.123055"
+    },
+    {
+        "county": "LAFAYETTE",
+        "city": "MAYO",
+        "latitude": "+30.148296",
+        "longitude": "-083.210982"
+    },
+    {
+        "county": "LAKE",
+        "city": "ALTOONA",
+        "latitude": "+29.059052",
+        "longitude": "-081.581964"
+    },
+    {
+        "county": "LAKE",
+        "city": "ASTATULA",
+        "latitude": "+28.706723",
+        "longitude": "-081.718455"
+    },
+    {
+        "county": "LAKE",
+        "city": "ASTOR",
+        "latitude": "+29.174011",
+        "longitude": "-081.575044"
+    },
+    {
+        "county": "LAKE",
+        "city": "CLERMONT",
+        "latitude": "+28.811078",
+        "longitude": "-081.653642"
+    },
+    {
+        "county": "LAKE",
+        "city": "EUSTIS",
+        "latitude": "+28.910207",
+        "longitude": "-081.523516"
+    },
+    {
+        "county": "LAKE",
+        "city": "FERNDALE",
+        "latitude": "+28.811078",
+        "longitude": "-081.653642"
+    },
+    {
+        "county": "LAKE",
+        "city": "FRUITLAND PARK",
+        "latitude": "+28.863361",
+        "longitude": "-081.905624"
+    },
+    {
+        "county": "LAKE",
+        "city": "GRAND ISLAND",
+        "latitude": "+28.904429",
+        "longitude": "-081.743634"
+    },
+    {
+        "county": "LAKE",
+        "city": "GROVELAND",
+        "latitude": "+28.587996",
+        "longitude": "-081.870269"
+    },
+    {
+        "county": "LAKE",
+        "city": "HOWEY IN THE HILLS",
+        "latitude": "+28.697081",
+        "longitude": "-081.797564"
+    },
+    {
+        "county": "LAKE",
+        "city": "LADY LAKE",
+        "latitude": "+28.923468",
+        "longitude": "-081.894367"
+    },
+    {
+        "county": "LAKE",
+        "city": "LEESBURG",
+        "latitude": "+28.811078",
+        "longitude": "-081.653642"
+    },
+    {
+        "county": "LAKE",
+        "city": "MASCOTTE",
+        "latitude": "+28.582990",
+        "longitude": "-081.894119"
+    },
+    {
+        "county": "LAKE",
+        "city": "MINNEOLA",
+        "latitude": "+28.578234",
+        "longitude": "-081.831883"
+    },
+    {
+        "county": "LAKE",
+        "city": "MONTVERDE",
+        "latitude": "+28.581499",
+        "longitude": "-081.685146"
+    },
+    {
+        "county": "LAKE",
+        "city": "MOUNT DORA",
+        "latitude": "+28.773952",
+        "longitude": "-081.643943"
+    },
+    {
+        "county": "LAKE",
+        "city": "OKAHUMPKA",
+        "latitude": "+28.747510",
+        "longitude": "-081.895885"
+    },
+    {
+        "county": "LAKE",
+        "city": "PAISLEY",
+        "latitude": "+28.981525",
+        "longitude": "-081.482049"
+    },
+    {
+        "county": "LAKE",
+        "city": "SORRENTO",
+        "latitude": "+28.831447",
+        "longitude": "-081.505121"
+    },
+    {
+        "county": "LAKE",
+        "city": "TAVARES",
+        "latitude": "+28.767762",
+        "longitude": "-081.725272"
+    },
+    {
+        "county": "LAKE",
+        "city": "UMATILLA",
+        "latitude": "+28.925371",
+        "longitude": "-081.680144"
+    },
+    {
+        "county": "LAKE",
+        "city": "YALAHA",
+        "latitude": "+28.712017",
+        "longitude": "-081.808159"
+    },
+    {
+        "county": "LEE",
+        "city": "ALVA",
+        "latitude": "+26.595182",
+        "longitude": "-081.681500"
+    },
+    {
+        "county": "LEE",
+        "city": "BOCA GRANDE",
+        "latitude": "+26.754493",
+        "longitude": "-082.261149"
+    },
+    {
+        "county": "LEE",
+        "city": "BOKEELIA",
+        "latitude": "+26.624433",
+        "longitude": "-082.128052"
+    },
+    {
+        "county": "LEE",
+        "city": "BONITA SPRINGS",
+        "latitude": "+26.552895",
+        "longitude": "-081.948610"
+    },
+    {
+        "county": "LEE",
+        "city": "CAPE CORAL",
+        "latitude": "+26.678619",
+        "longitude": "-082.025384"
+    },
+    {
+        "county": "LEE",
+        "city": "CAPTIVA",
+        "latitude": "+26.521464",
+        "longitude": "-082.180242"
+    },
+    {
+        "county": "LEE",
+        "city": "ESTERO",
+        "latitude": "+26.472274",
+        "longitude": "-081.705902"
+    },
+    {
+        "county": "LEE",
+        "city": "FORT MYERS",
+        "latitude": "+26.552895",
+        "longitude": "-081.948610"
+    },
+    {
+        "county": "LEE",
+        "city": "FORT MYERS BEACH",
+        "latitude": "+26.552895",
+        "longitude": "-081.948610"
+    },
+    {
+        "county": "LEE",
+        "city": "LEHIGH ACRES",
+        "latitude": "+26.641661",
+        "longitude": "-081.913575"
+    },
+    {
+        "county": "LEE",
+        "city": "NORTH FORT MYERS",
+        "latitude": "+26.716130",
+        "longitude": "-081.607007"
+    },
+    {
+        "county": "LEE",
+        "city": "PINELAND",
+        "latitude": "+26.658313",
+        "longitude": "-082.143400"
+    },
+    {
+        "county": "LEE",
+        "city": "SAINT JAMES CITY",
+        "latitude": "+26.575762",
+        "longitude": "-082.107459"
+    },
+    {
+        "county": "LEE",
+        "city": "SANIBEL",
+        "latitude": "+26.458308",
+        "longitude": "-082.100065"
+    },
+    {
+        "county": "LEON",
+        "city": "TALLAHASSEE",
+        "latitude": "+30.449428",
+        "longitude": "-084.290950"
+    },
+    {
+        "county": "LEON",
+        "city": "WOODVILLE",
+        "latitude": "+30.319263",
+        "longitude": "-084.267397"
+    },
+    {
+        "county": "LEVY",
+        "city": "BRONSON",
+        "latitude": "+29.431045",
+        "longitude": "-082.549823"
+    },
+    {
+        "county": "LEVY",
+        "city": "CEDAR KEY",
+        "latitude": "+29.188034",
+        "longitude": "-082.991541"
+    },
+    {
+        "county": "LEVY",
+        "city": "CHIEFLAND",
+        "latitude": "+29.460221",
+        "longitude": "-082.855334"
+    },
+    {
+        "county": "LEVY",
+        "city": "GULF HAMMOCK",
+        "latitude": "+29.244670",
+        "longitude": "-082.740173"
+    },
+    {
+        "county": "LEVY",
+        "city": "INGLIS",
+        "latitude": "+29.095501",
+        "longitude": "-082.656099"
+    },
+    {
+        "county": "LEVY",
+        "city": "MORRISTON",
+        "latitude": "+29.328402",
+        "longitude": "-082.703766"
+    },
+    {
+        "county": "LEVY",
+        "city": "OTTER CREEK",
+        "latitude": "+29.310929",
+        "longitude": "-082.794469"
+    },
+    {
+        "county": "LEVY",
+        "city": "WILLISTON",
+        "latitude": "+29.354149",
+        "longitude": "-082.635652"
+    },
+    {
+        "county": "LEVY",
+        "city": "YANKEETOWN",
+        "latitude": "+29.030531",
+        "longitude": "-082.719003"
+    },
+    {
+        "county": "LIBERTY",
+        "city": "BRISTOL",
+        "latitude": "+30.419284",
+        "longitude": "-084.978040"
+    },
+    {
+        "county": "LIBERTY",
+        "city": "HOSFORD",
+        "latitude": "+30.288896",
+        "longitude": "-084.848444"
+    },
+    {
+        "county": "LIBERTY",
+        "city": "SUMATRA",
+        "latitude": "+30.288896",
+        "longitude": "-084.848444"
+    },
+    {
+        "county": "LIBERTY",
+        "city": "TELOGIA",
+        "latitude": "+30.288896",
+        "longitude": "-084.848444"
+    },
+    {
+        "county": "MADISON",
+        "city": "GREENVILLE",
+        "latitude": "+30.441092",
+        "longitude": "-083.516133"
+    },
+    {
+        "county": "MADISON",
+        "city": "LEE",
+        "latitude": "+30.498591",
+        "longitude": "-083.361506"
+    },
+    {
+        "county": "MADISON",
+        "city": "MADISON",
+        "latitude": "+30.477560",
+        "longitude": "-083.391393"
+    },
+    {
+        "county": "MADISON",
+        "city": "PINETTA",
+        "latitude": "+30.584683",
+        "longitude": "-083.328781"
+    },
+    {
+        "county": "MANATEE",
+        "city": "ANNA MARIA",
+        "latitude": "+27.529113",
+        "longitude": "-082.731722"
+    },
+    {
+        "county": "MANATEE",
+        "city": "BRADENTON",
+        "latitude": "+27.427213",
+        "longitude": "-082.438689"
+    },
+    {
+        "county": "MANATEE",
+        "city": "BRADENTON BEACH",
+        "latitude": "+27.485915",
+        "longitude": "-082.710221"
+    },
+    {
+        "county": "MANATEE",
+        "city": "CORTEZ",
+        "latitude": "+27.471256",
+        "longitude": "-082.682262"
+    },
+    {
+        "county": "MANATEE",
+        "city": "ELLENTON",
+        "latitude": "+27.546332",
+        "longitude": "-082.496732"
+    },
+    {
+        "county": "MANATEE",
+        "city": "HOLMES BEACH",
+        "latitude": "+27.499515",
+        "longitude": "-082.709871"
+    },
+    {
+        "county": "MANATEE",
+        "city": "LONGBOAT KEY",
+        "latitude": "+27.357231",
+        "longitude": "-082.443071"
+    },
+    {
+        "county": "MANATEE",
+        "city": "MANASOTA",
+        "latitude": "+27.427213",
+        "longitude": "-082.438689"
+    },
+    {
+        "county": "MANATEE",
+        "city": "MYAKKA CITY",
+        "latitude": "+27.372771",
+        "longitude": "-082.225911"
+    },
+    {
+        "county": "MANATEE",
+        "city": "ONECO",
+        "latitude": "+27.427213",
+        "longitude": "-082.438689"
+    },
+    {
+        "county": "MANATEE",
+        "city": "PALMETTO",
+        "latitude": "+27.577315",
+        "longitude": "-082.516004"
+    },
+    {
+        "county": "MANATEE",
+        "city": "PARRISH",
+        "latitude": "+27.566457",
+        "longitude": "-082.269458"
+    },
+    {
+        "county": "MANATEE",
+        "city": "SARASOTA",
+        "latitude": "+27.415606",
+        "longitude": "-082.528065"
+    },
+    {
+        "county": "MANATEE",
+        "city": "TALLEVAST",
+        "latitude": "+27.405429",
+        "longitude": "-082.543519"
+    },
+    {
+        "county": "MANATEE",
+        "city": "TERRA CEIA",
+        "latitude": "+27.572236",
+        "longitude": "-082.583168"
+    },
+    {
+        "county": "MARION",
+        "city": "ANTHONY",
+        "latitude": "+29.337795",
+        "longitude": "-082.082367"
+    },
+    {
+        "county": "MARION",
+        "city": "BELLEVIEW",
+        "latitude": "+29.240728",
+        "longitude": "-082.087458"
+    },
+    {
+        "county": "MARION",
+        "city": "CANDLER",
+        "latitude": "+29.060711",
+        "longitude": "-081.969048"
+    },
+    {
+        "county": "MARION",
+        "city": "CITRA",
+        "latitude": "+29.411299",
+        "longitude": "-082.084651"
+    },
+    {
+        "county": "MARION",
+        "city": "DUNNELLON",
+        "latitude": "+29.101529",
+        "longitude": "-082.341290"
+    },
+    {
+        "county": "MARION",
+        "city": "EASTLAKE WEIR",
+        "latitude": "+29.008805",
+        "longitude": "-081.909445"
+    },
+    {
+        "county": "MARION",
+        "city": "FAIRFIELD",
+        "latitude": "+29.350890",
+        "longitude": "-082.276480"
+    },
+    {
+        "county": "MARION",
+        "city": "FORT MC COY",
+        "latitude": "+29.390965",
+        "longitude": "-081.855082"
+    },
+    {
+        "county": "MARION",
+        "city": "LOWELL",
+        "latitude": "+29.342404",
+        "longitude": "-082.212649"
+    },
+    {
+        "county": "MARION",
+        "city": "MC INTOSH",
+        "latitude": "+29.437972",
+        "longitude": "-082.229534"
+    },
+    {
+        "county": "MARION",
+        "city": "OCALA",
+        "latitude": "+29.240728",
+        "longitude": "-082.087458"
+    },
+    {
+        "county": "MARION",
+        "city": "OCKLAWAHA",
+        "latitude": "+29.059673",
+        "longitude": "-081.905068"
+    },
+    {
+        "county": "MARION",
+        "city": "ORANGE LAKE",
+        "latitude": "+29.428088",
+        "longitude": "-082.244890"
+    },
+    {
+        "county": "MARION",
+        "city": "ORANGE SPRINGS",
+        "latitude": "+29.485625",
+        "longitude": "-081.958901"
+    },
+    {
+        "county": "MARION",
+        "city": "REDDICK",
+        "latitude": "+29.362674",
+        "longitude": "-082.254723"
+    },
+    {
+        "county": "MARION",
+        "city": "SILVER SPRINGS",
+        "latitude": "+29.215153",
+        "longitude": "-082.097163"
+    },
+    {
+        "county": "MARION",
+        "city": "SPARR",
+        "latitude": "+29.326821",
+        "longitude": "-082.104632"
+    },
+    {
+        "county": "MARION",
+        "city": "SUMMERFIELD",
+        "latitude": "+28.997960",
+        "longitude": "-082.016139"
+    },
+    {
+        "county": "MARION",
+        "city": "WEIRSDALE",
+        "latitude": "+29.006144",
+        "longitude": "-081.877850"
+    },
+    {
+        "county": "MARTIN",
+        "city": "HOBE SOUND",
+        "latitude": "+27.110182",
+        "longitude": "-080.454196"
+    },
+    {
+        "county": "MARTIN",
+        "city": "INDIANTOWN",
+        "latitude": "+27.106451",
+        "longitude": "-080.451920"
+    },
+    {
+        "county": "MARTIN",
+        "city": "JENSEN BEACH",
+        "latitude": "+27.242402",
+        "longitude": "-080.224613"
+    },
+    {
+        "county": "MARTIN",
+        "city": "PALM CITY",
+        "latitude": "+27.110182",
+        "longitude": "-080.454196"
+    },
+    {
+        "county": "MARTIN",
+        "city": "PORT SALERNO",
+        "latitude": "+27.110182",
+        "longitude": "-080.454196"
+    },
+    {
+        "county": "MARTIN",
+        "city": "STUART",
+        "latitude": "+27.108081",
+        "longitude": "-080.230818"
+    },
+    {
+        "county": "MIAMI-DADE",
+        "city": "HIALEAH",
+        "latitude": "+25.909809",
+        "longitude": "-080.388874"
+    },
+    {
+        "county": "MIAMI-DADE",
+        "city": "HOMESTEAD",
+        "latitude": "+25.558428",
+        "longitude": "-080.458168"
+    },
+    {
+        "county": "MIAMI-DADE",
+        "city": "KEY BISCAYNE",
+        "latitude": "+25.709978",
+        "longitude": "-080.173295"
+    },
+    {
+        "county": "MIAMI-DADE",
+        "city": "MIAMI",
+        "latitude": "+25.558428",
+        "longitude": "-080.458168"
+    },
+    {
+        "county": "MIAMI-DADE",
+        "city": "MIAMI BEACH",
+        "latitude": "+25.558428",
+        "longitude": "-080.458168"
+    },
+    {
+        "county": "MIAMI-DADE",
+        "city": "NORTH MIAMI BEACH",
+        "latitude": "+25.944859",
+        "longitude": "-080.139067"
+    },
+    {
+        "county": "MIAMI-DADE",
+        "city": "OPA LOCKA",
+        "latitude": "+25.948370",
+        "longitude": "-080.247920"
+    },
+    {
+        "county": "MONROE",
+        "city": "BIG PINE KEY",
+        "latitude": "+24.687493",
+        "longitude": "-081.249423"
+    },
+    {
+        "county": "MONROE",
+        "city": "ISLAMORADA",
+        "latitude": "+24.901690",
+        "longitude": "-080.682667"
+    },
+    {
+        "county": "MONROE",
+        "city": "KEY COLONY BEACH",
+        "latitude": "+24.723390",
+        "longitude": "-081.020281"
+    },
+    {
+        "county": "MONROE",
+        "city": "KEY LARGO",
+        "latitude": "+24.963509",
+        "longitude": "-080.961294"
+    },
+    {
+        "county": "MONROE",
+        "city": "KEY WEST",
+        "latitude": "+25.100957",
+        "longitude": "-081.568862"
+    },
+    {
+        "county": "MONROE",
+        "city": "LONG KEY",
+        "latitude": "+24.830590",
+        "longitude": "-080.804872"
+    },
+    {
+        "county": "MONROE",
+        "city": "MARATHON",
+        "latitude": "+24.687724",
+        "longitude": "-081.294685"
+    },
+    {
+        "county": "MONROE",
+        "city": "MARATHON SHORES",
+        "latitude": "+24.723283",
+        "longitude": "-081.063249"
+    },
+    {
+        "county": "MONROE",
+        "city": "SUGARLOAF SHORES",
+        "latitude": "+24.664649",
+        "longitude": "-081.565319"
+    },
+    {
+        "county": "MONROE",
+        "city": "SUMMERLAND KEY",
+        "latitude": "+24.860066",
+        "longitude": "-081.003803"
+    },
+    {
+        "county": "MONROE",
+        "city": "TAVERNIER",
+        "latitude": "+24.925108",
+        "longitude": "-080.713465"
+    },
+    {
+        "county": "NASSAU",
+        "city": "BRYCEVILLE",
+        "latitude": "+30.521109",
+        "longitude": "-081.906051"
+    },
+    {
+        "county": "NASSAU",
+        "city": "CALLAHAN",
+        "latitude": "+30.556322",
+        "longitude": "-081.837594"
+    },
+    {
+        "county": "NASSAU",
+        "city": "FERNANDINA BEACH",
+        "latitude": "+30.551558",
+        "longitude": "-081.698422"
+    },
+    {
+        "county": "NASSAU",
+        "city": "HILLIARD",
+        "latitude": "+30.670745",
+        "longitude": "-081.894528"
+    },
+    {
+        "county": "NASSAU",
+        "city": "YULEE",
+        "latitude": "+30.659689",
+        "longitude": "-081.683649"
+    },
+    {
+        "county": "OKALOOSA",
+        "city": "BAKER",
+        "latitude": "+30.855250",
+        "longitude": "-086.674139"
+    },
+    {
+        "county": "OKALOOSA",
+        "city": "CRESTVIEW",
+        "latitude": "+30.777294",
+        "longitude": "-086.483154"
+    },
+    {
+        "county": "OKALOOSA",
+        "city": "DESTIN",
+        "latitude": "+30.582064",
+        "longitude": "-086.573450"
+    },
+    {
+        "county": "OKALOOSA",
+        "city": "EGLIN AFB",
+        "latitude": "+30.539331",
+        "longitude": "-086.608737"
+    },
+    {
+        "county": "OKALOOSA",
+        "city": "FORT WALTON BEACH",
+        "latitude": "+30.661155",
+        "longitude": "-086.594479"
+    },
+    {
+        "county": "OKALOOSA",
+        "city": "HOLT",
+        "latitude": "+30.741616",
+        "longitude": "-086.719764"
+    },
+    {
+        "county": "OKALOOSA",
+        "city": "HURLBURT FIELD",
+        "latitude": "+30.422926",
+        "longitude": "-086.698525"
+    },
+    {
+        "county": "OKALOOSA",
+        "city": "LAUREL HILL",
+        "latitude": "+30.715985",
+        "longitude": "-086.512784"
+    },
+    {
+        "county": "OKALOOSA",
+        "city": "MARY ESTHER",
+        "latitude": "+30.659587",
+        "longitude": "-086.602385"
+    },
+    {
+        "county": "OKALOOSA",
+        "city": "MILLIGAN",
+        "latitude": "+30.741965",
+        "longitude": "-086.655208"
+    },
+    {
+        "county": "OKALOOSA",
+        "city": "NICEVILLE",
+        "latitude": "+30.661155",
+        "longitude": "-086.594479"
+    },
+    {
+        "county": "OKALOOSA",
+        "city": "SHALIMAR",
+        "latitude": "+30.581826",
+        "longitude": "-086.581628"
+    },
+    {
+        "county": "OKALOOSA",
+        "city": "VALPARAISO",
+        "latitude": "+30.508210",
+        "longitude": "-086.497060"
+    },
+    {
+        "county": "OKEECHOBEE",
+        "city": "OKEECHOBEE",
+        "latitude": "+27.216626",
+        "longitude": "-080.827757"
+    },
+    {
+        "county": "ORANGE",
+        "city": "APOPKA",
+        "latitude": "+28.731322",
+        "longitude": "-081.537602"
+    },
+    {
+        "county": "ORANGE",
+        "city": "CHRISTMAS",
+        "latitude": "+28.486379",
+        "longitude": "-081.009032"
+    },
+    {
+        "county": "ORANGE",
+        "city": "CLARCONA",
+        "latitude": "+28.566338",
+        "longitude": "-081.260818"
+    },
+    {
+        "county": "ORANGE",
+        "city": "GOTHA",
+        "latitude": "+28.538407",
+        "longitude": "-081.520774"
+    },
+    {
+        "county": "ORANGE",
+        "city": "KILLARNEY",
+        "latitude": "+28.545385",
+        "longitude": "-081.650667"
+    },
+    {
+        "county": "ORANGE",
+        "city": "MAITLAND",
+        "latitude": "+28.566338",
+        "longitude": "-081.260818"
+    },
+    {
+        "county": "ORANGE",
+        "city": "OAKLAND",
+        "latitude": "+28.550978",
+        "longitude": "-081.621546"
+    },
+    {
+        "county": "ORANGE",
+        "city": "OCOEE",
+        "latitude": "+28.569438",
+        "longitude": "-081.530251"
+    },
+    {
+        "county": "ORANGE",
+        "city": "ORLANDO",
+        "latitude": "+28.566338",
+        "longitude": "-081.260818"
+    },
+    {
+        "county": "ORANGE",
+        "city": "PLYMOUTH",
+        "latitude": "+28.698542",
+        "longitude": "-081.569764"
+    },
+    {
+        "county": "ORANGE",
+        "city": "TANGERINE",
+        "latitude": "+28.566338",
+        "longitude": "-081.260818"
+    },
+    {
+        "county": "ORANGE",
+        "city": "WINDERMERE",
+        "latitude": "+28.481031",
+        "longitude": "-081.543979"
+    },
+    {
+        "county": "ORANGE",
+        "city": "WINTER GARDEN",
+        "latitude": "+28.468581",
+        "longitude": "-081.512343"
+    },
+    {
+        "county": "ORANGE",
+        "city": "WINTER PARK",
+        "latitude": "+28.566338",
+        "longitude": "-081.260818"
+    },
+    {
+        "county": "ORANGE",
+        "city": "ZELLWOOD",
+        "latitude": "+28.717472",
+        "longitude": "-081.583045"
+    },
+    {
+        "county": "OSCEOLA",
+        "city": "INTERCESSION CITY",
+        "latitude": "+28.263489",
+        "longitude": "-081.512387"
+    },
+    {
+        "county": "OSCEOLA",
+        "city": "KENANSVILLE",
+        "latitude": "+27.933215",
+        "longitude": "-081.092447"
+    },
+    {
+        "county": "OSCEOLA",
+        "city": "KISSIMMEE",
+        "latitude": "+28.203877",
+        "longitude": "-081.487992"
+    },
+    {
+        "county": "OSCEOLA",
+        "city": "SAINT CLOUD",
+        "latitude": "+28.146663",
+        "longitude": "-080.993806"
+    },
+    {
+        "county": "PALM BEACH",
+        "city": "BELLE GLADE",
+        "latitude": "+26.645895",
+        "longitude": "-080.430269"
+    },
+    {
+        "county": "PALM BEACH",
+        "city": "BOCA RATON",
+        "latitude": "+26.645895",
+        "longitude": "-080.430269"
+    },
+    {
+        "county": "PALM BEACH",
+        "city": "BOYNTON BEACH",
+        "latitude": "+26.645895",
+        "longitude": "-080.430269"
+    },
+    {
+        "county": "PALM BEACH",
+        "city": "BRYANT",
+        "latitude": "+26.645895",
+        "longitude": "-080.430269"
+    },
+    {
+        "county": "PALM BEACH",
+        "city": "CANAL POINT",
+        "latitude": "+26.645895",
+        "longitude": "-080.430269"
+    },
+    {
+        "county": "PALM BEACH",
+        "city": "DELRAY BEACH",
+        "latitude": "+26.454218",
+        "longitude": "-080.134730"
+    },
+    {
+        "county": "PALM BEACH",
+        "city": "JUPITER",
+        "latitude": "+26.645895",
+        "longitude": "-080.430269"
+    },
+    {
+        "county": "PALM BEACH",
+        "city": "LAKE HARBOR",
+        "latitude": "+26.645895",
+        "longitude": "-080.430269"
+    },
+    {
+        "county": "PALM BEACH",
+        "city": "LAKE WORTH",
+        "latitude": "+26.595867",
+        "longitude": "-080.220870"
+    },
+    {
+        "county": "PALM BEACH",
+        "city": "LOXAHATCHEE",
+        "latitude": "+26.649816",
+        "longitude": "-080.294771"
+    },
+    {
+        "county": "PALM BEACH",
+        "city": "NORTH PALM BEACH",
+        "latitude": "+26.645895",
+        "longitude": "-080.430269"
+    },
+    {
+        "county": "PALM BEACH",
+        "city": "PAHOKEE",
+        "latitude": "+26.623067",
+        "longitude": "-080.178640"
+    },
+    {
+        "county": "PALM BEACH",
+        "city": "PALM BEACH",
+        "latitude": "+26.600995",
+        "longitude": "-080.038113"
+    },
+    {
+        "county": "PALM BEACH",
+        "city": "SOUTH BAY",
+        "latitude": "+26.645895",
+        "longitude": "-080.430269"
+    },
+    {
+        "county": "PALM BEACH",
+        "city": "WEST PALM BEACH",
+        "latitude": "+26.645895",
+        "longitude": "-080.430269"
+    },
+    {
+        "county": "PASCO",
+        "city": "ARIPEKA",
+        "latitude": "+28.430213",
+        "longitude": "-082.661555"
+    },
+    {
+        "county": "PASCO",
+        "city": "CRYSTAL SPRINGS",
+        "latitude": "+28.182209",
+        "longitude": "-082.152341"
+    },
+    {
+        "county": "PASCO",
+        "city": "DADE CITY",
+        "latitude": "+28.310134",
+        "longitude": "-082.247783"
+    },
+    {
+        "county": "PASCO",
+        "city": "ELFERS",
+        "latitude": "+28.324796",
+        "longitude": "-082.481766"
+    },
+    {
+        "county": "PASCO",
+        "city": "HOLIDAY",
+        "latitude": "+28.196394",
+        "longitude": "-082.762191"
+    },
+    {
+        "county": "PASCO",
+        "city": "HUDSON",
+        "latitude": "+28.324796",
+        "longitude": "-082.481766"
+    },
+    {
+        "county": "PASCO",
+        "city": "LACOOCHEE",
+        "latitude": "+28.324796",
+        "longitude": "-082.481766"
+    },
+    {
+        "county": "PASCO",
+        "city": "LAND O LAKES",
+        "latitude": "+28.250774",
+        "longitude": "-082.462630"
+    },
+    {
+        "county": "PASCO",
+        "city": "NEW PORT RICHEY",
+        "latitude": "+28.324796",
+        "longitude": "-082.481766"
+    },
+    {
+        "county": "PASCO",
+        "city": "PORT RICHEY",
+        "latitude": "+28.324796",
+        "longitude": "-082.481766"
+    },
+    {
+        "county": "PASCO",
+        "city": "SAINT LEO",
+        "latitude": "+28.334752",
+        "longitude": "-082.269323"
+    },
+    {
+        "county": "PASCO",
+        "city": "SAN ANTONIO",
+        "latitude": "+28.331729",
+        "longitude": "-082.300982"
+    },
+    {
+        "county": "PASCO",
+        "city": "SPRING HILL",
+        "latitude": "+28.377455",
+        "longitude": "-082.524063"
+    },
+    {
+        "county": "PASCO",
+        "city": "TRILBY",
+        "latitude": "+28.324796",
+        "longitude": "-082.481766"
+    },
+    {
+        "county": "PASCO",
+        "city": "ZEPHYRHILLS",
+        "latitude": "+28.271989",
+        "longitude": "-082.284738"
+    },
+    {
+        "county": "PINELLAS",
+        "city": "BAY PINES",
+        "latitude": "+27.891809",
+        "longitude": "-082.724763"
+    },
+    {
+        "county": "PINELLAS",
+        "city": "BELLEAIR BEACH",
+        "latitude": "+27.922922",
+        "longitude": "-082.839325"
+    },
+    {
+        "county": "PINELLAS",
+        "city": "CLEARWATER",
+        "latitude": "+27.891809",
+        "longitude": "-082.724763"
+    },
+    {
+        "county": "PINELLAS",
+        "city": "CLEARWATER BEACH",
+        "latitude": "+27.959847",
+        "longitude": "-082.828625"
+    },
+    {
+        "county": "PINELLAS",
+        "city": "CRYSTAL BEACH",
+        "latitude": "+28.087401",
+        "longitude": "-082.777683"
+    },
+    {
+        "county": "PINELLAS",
+        "city": "DUNEDIN",
+        "latitude": "+28.010895",
+        "longitude": "-082.773995"
+    },
+    {
+        "county": "PINELLAS",
+        "city": "INDIAN ROCKS BEACH",
+        "latitude": "+27.886757",
+        "longitude": "-082.843525"
+    },
+    {
+        "county": "PINELLAS",
+        "city": "LARGO",
+        "latitude": "+27.839698",
+        "longitude": "-082.772483"
+    },
+    {
+        "county": "PINELLAS",
+        "city": "OLDSMAR",
+        "latitude": "+28.050324",
+        "longitude": "-082.677379"
+    },
+    {
+        "county": "PINELLAS",
+        "city": "OZONA",
+        "latitude": "+28.067043",
+        "longitude": "-082.778424"
+    },
+    {
+        "county": "PINELLAS",
+        "city": "PALM HARBOR",
+        "latitude": "+28.109717",
+        "longitude": "-082.692882"
+    },
+    {
+        "county": "PINELLAS",
+        "city": "PINELLAS PARK",
+        "latitude": "+27.868115",
+        "longitude": "-082.708639"
+    },
+    {
+        "county": "PINELLAS",
+        "city": "SAFETY HARBOR",
+        "latitude": "+28.017645",
+        "longitude": "-082.747692"
+    },
+    {
+        "county": "PINELLAS",
+        "city": "SAINT PETERSBURG",
+        "latitude": "+27.891809",
+        "longitude": "-082.724763"
+    },
+    {
+        "county": "PINELLAS",
+        "city": "SEMINOLE",
+        "latitude": "+27.854588",
+        "longitude": "-082.754528"
+    },
+    {
+        "county": "PINELLAS",
+        "city": "TARPON SPRINGS",
+        "latitude": "+28.092104",
+        "longitude": "-082.732165"
+    },
+    {
+        "county": "POLK",
+        "city": "ALTURAS",
+        "latitude": "+28.002553",
+        "longitude": "-081.618640"
+    },
+    {
+        "county": "POLK",
+        "city": "AUBURNDALE",
+        "latitude": "+28.086751",
+        "longitude": "-081.742864"
+    },
+    {
+        "county": "POLK",
+        "city": "BABSON PARK",
+        "latitude": "+27.906571",
+        "longitude": "-081.549715"
+    },
+    {
+        "county": "POLK",
+        "city": "BARTOW",
+        "latitude": "+27.955426",
+        "longitude": "-081.951673"
+    },
+    {
+        "county": "POLK",
+        "city": "BRADLEY",
+        "latitude": "+27.699258",
+        "longitude": "-081.949419"
+    },
+    {
+        "county": "POLK",
+        "city": "DAVENPORT",
+        "latitude": "",
+        "longitude": ""
+    },
+    {
+        "county": "POLK",
+        "city": "DUNDEE",
+        "latitude": "+28.009099",
+        "longitude": "-081.677776"
+    },
+    {
+        "county": "POLK",
+        "city": "EAGLE LAKE",
+        "latitude": "+28.005662",
+        "longitude": "-081.702448"
+    },
+    {
+        "county": "POLK",
+        "city": "EATON PARK",
+        "latitude": "+28.084383",
+        "longitude": "-081.541500"
+    },
+    {
+        "county": "POLK",
+        "city": "FEDHAVEN",
+        "latitude": "+28.002553",
+        "longitude": "-081.618640"
+    },
+    {
+        "county": "POLK",
+        "city": "FORT MEADE",
+        "latitude": "+27.742463",
+        "longitude": "-081.723311"
+    },
+    {
+        "county": "POLK",
+        "city": "FROSTPROOF",
+        "latitude": "+27.729380",
+        "longitude": "-081.559340"
+    },
+    {
+        "county": "POLK",
+        "city": "HAINES CITY",
+        "latitude": "+28.002553",
+        "longitude": "-081.618640"
+    },
+    {
+        "county": "POLK",
+        "city": "HIGHLAND CITY",
+        "latitude": "+27.964651",
+        "longitude": "-081.867153"
+    },
+    {
+        "county": "POLK",
+        "city": "HOMELAND",
+        "latitude": "+27.984091",
+        "longitude": "-081.716682"
+    },
+    {
+        "county": "POLK",
+        "city": "INDIAN LAKE ESTATES",
+        "latitude": "+27.798022",
+        "longitude": "-081.357154"
+    },
+    {
+        "county": "POLK",
+        "city": "KATHLEEN",
+        "latitude": "+28.197539",
+        "longitude": "-082.039587"
+    },
+    {
+        "county": "POLK",
+        "city": "KISSIMMEE",
+        "latitude": "+28.094636",
+        "longitude": "-081.498979"
+    },
+    {
+        "county": "POLK",
+        "city": "LAKE ALFRED",
+        "latitude": "+28.092424",
+        "longitude": "-081.727551"
+    },
+    {
+        "county": "POLK",
+        "city": "LAKE HAMILTON",
+        "latitude": "+28.036937",
+        "longitude": "-081.627998"
+    },
+    {
+        "county": "POLK",
+        "city": "LAKE WALES",
+        "latitude": "",
+        "longitude": ""
+    },
+    {
+        "county": "POLK",
+        "city": "LAKELAND",
+        "latitude": "+28.049648",
+        "longitude": "-082.006855"
+    },
+    {
+        "county": "POLK",
+        "city": "LOUGHMAN",
+        "latitude": "+28.050121",
+        "longitude": "-081.505211"
+    },
+    {
+        "county": "POLK",
+        "city": "MULBERRY",
+        "latitude": "+27.844612",
+        "longitude": "-081.835864"
+    },
+    {
+        "county": "POLK",
+        "city": "NALCREST",
+        "latitude": "+27.855686",
+        "longitude": "-081.430915"
+    },
+    {
+        "county": "POLK",
+        "city": "NICHOLS",
+        "latitude": "+28.002553",
+        "longitude": "-081.618640"
+    },
+    {
+        "county": "POLK",
+        "city": "POLK CITY",
+        "latitude": "+28.036680",
+        "longitude": "-081.760824"
+    },
+    {
+        "county": "POLK",
+        "city": "RIVER RANCH",
+        "latitude": "+27.768567",
+        "longitude": "-081.196640"
+    },
+    {
+        "county": "POLK",
+        "city": "WAVERLY",
+        "latitude": "+27.976883",
+        "longitude": "-081.614414"
+    },
+    {
+        "county": "POLK",
+        "city": "WINTER HAVEN",
+        "latitude": "+28.023115",
+        "longitude": "-081.723417"
+    },
+    {
+        "county": "PUTNAM",
+        "city": "BOSTWICK",
+        "latitude": "+29.799631",
+        "longitude": "-081.627324"
+    },
+    {
+        "county": "PUTNAM",
+        "city": "CRESCENT CITY",
+        "latitude": "+29.511518",
+        "longitude": "-081.681387"
+    },
+    {
+        "county": "PUTNAM",
+        "city": "EAST PALATKA",
+        "latitude": "+29.612208",
+        "longitude": "-081.699606"
+    },
+    {
+        "county": "PUTNAM",
+        "city": "FLORAHOME",
+        "latitude": "+29.611384",
+        "longitude": "-081.734990"
+    },
+    {
+        "county": "PUTNAM",
+        "city": "GEORGETOWN",
+        "latitude": "+29.384185",
+        "longitude": "-081.618309"
+    },
+    {
+        "county": "PUTNAM",
+        "city": "GRANDIN",
+        "latitude": "+29.699255",
+        "longitude": "-081.922362"
+    },
+    {
+        "county": "PUTNAM",
+        "city": "HOLLISTER",
+        "latitude": "+29.657611",
+        "longitude": "-081.779652"
+    },
+    {
+        "county": "PUTNAM",
+        "city": "INTERLACHEN",
+        "latitude": "+29.582030",
+        "longitude": "-081.744852"
+    },
+    {
+        "county": "PUTNAM",
+        "city": "LAKE COMO",
+        "latitude": "+29.458170",
+        "longitude": "-081.591447"
+    },
+    {
+        "county": "PUTNAM",
+        "city": "MELROSE",
+        "latitude": "+29.697588",
+        "longitude": "-081.973970"
+    },
+    {
+        "county": "PUTNAM",
+        "city": "PALATKA",
+        "latitude": "+29.644306",
+        "longitude": "-081.668593"
+    },
+    {
+        "county": "PUTNAM",
+        "city": "POMONA PARK",
+        "latitude": "+29.539751",
+        "longitude": "-081.613183"
+    },
+    {
+        "county": "PUTNAM",
+        "city": "PUTNAM HALL",
+        "latitude": "+29.736833",
+        "longitude": "-081.957967"
+    },
+    {
+        "county": "PUTNAM",
+        "city": "SAN MATEO",
+        "latitude": "+29.593440",
+        "longitude": "-081.589937"
+    },
+    {
+        "county": "PUTNAM",
+        "city": "SATSUMA",
+        "latitude": "+29.536502",
+        "longitude": "-081.633608"
+    },
+    {
+        "county": "PUTNAM",
+        "city": "WELAKA",
+        "latitude": "+29.463627",
+        "longitude": "-081.640527"
+    },
+    {
+        "county": "SAINT JOHNS",
+        "city": "ELKTON",
+        "latitude": "+29.813208",
+        "longitude": "-081.468724"
+    },
+    {
+        "county": "SAINT JOHNS",
+        "city": "HASTINGS",
+        "latitude": "+29.688750",
+        "longitude": "-081.406081"
+    },
+    {
+        "county": "SAINT JOHNS",
+        "city": "JACKSONVILLE",
+        "latitude": "+29.937673",
+        "longitude": "-081.420603"
+    },
+    {
+        "county": "SAINT JOHNS",
+        "city": "PONTE VEDRA BEACH",
+        "latitude": "+30.102212",
+        "longitude": "-081.382302"
+    },
+    {
+        "county": "SAINT JOHNS",
+        "city": "SAINT AUGUSTINE",
+        "latitude": "+29.983058",
+        "longitude": "-081.450583"
+    },
+    {
+        "county": "SAINT LUCIE",
+        "city": "FORT PIERCE",
+        "latitude": "+27.362859",
+        "longitude": "-080.307717"
+    },
+    {
+        "county": "SAINT LUCIE",
+        "city": "PORT SAINT LUCIE",
+        "latitude": "+27.386818",
+        "longitude": "-080.503746"
+    },
+    {
+        "county": "SANTA ROSA",
+        "city": "BAGDAD",
+        "latitude": "+30.598564",
+        "longitude": "-087.031496"
+    },
+    {
+        "county": "SANTA ROSA",
+        "city": "GULF BREEZE",
+        "latitude": "+30.659159",
+        "longitude": "-087.049720"
+    },
+    {
+        "county": "SANTA ROSA",
+        "city": "JAY",
+        "latitude": "+30.882760",
+        "longitude": "-087.102495"
+    },
+    {
+        "county": "SANTA ROSA",
+        "city": "MILTON",
+        "latitude": "+30.577638",
+        "longitude": "-086.966835"
+    },
+    {
+        "county": "SANTA ROSA",
+        "city": "NAVARRE",
+        "latitude": "+30.427685",
+        "longitude": "-086.927118"
+    },
+    {
+        "county": "SARASOTA",
+        "city": "ENGLEWOOD",
+        "latitude": "+27.085985",
+        "longitude": "-082.438918"
+    },
+    {
+        "county": "SARASOTA",
+        "city": "LAUREL",
+        "latitude": "+27.146963",
+        "longitude": "-082.425512"
+    },
+    {
+        "county": "SARASOTA",
+        "city": "NOKOMIS",
+        "latitude": "+27.229227",
+        "longitude": "-082.459848"
+    },
+    {
+        "county": "SARASOTA",
+        "city": "NORTH PORT",
+        "latitude": "",
+        "longitude": ""
+    },
+    {
+        "county": "SARASOTA",
+        "city": "OSPREY",
+        "latitude": "+27.213378",
+        "longitude": "-082.488818"
+    },
+    {
+        "county": "SARASOTA",
+        "city": "SARASOTA",
+        "latitude": "+27.331628",
+        "longitude": "-082.528488"
+    },
+    {
+        "county": "SARASOTA",
+        "city": "VENICE",
+        "latitude": "+27.060576",
+        "longitude": "-082.352038"
+    },
+    {
+        "county": "SEMINOLE",
+        "city": "ALTAMONTE SPRINGS",
+        "latitude": "+28.744752",
+        "longitude": "-081.223280"
+    },
+    {
+        "county": "SEMINOLE",
+        "city": "CASSELBERRY",
+        "latitude": "+28.651275",
+        "longitude": "-081.341840"
+    },
+    {
+        "county": "SEMINOLE",
+        "city": "GENEVA",
+        "latitude": "+28.751078",
+        "longitude": "-081.107884"
+    },
+    {
+        "county": "SEMINOLE",
+        "city": "GOLDENROD",
+        "latitude": "+28.613308",
+        "longitude": "-081.258108"
+    },
+    {
+        "county": "SEMINOLE",
+        "city": "LAKE MARY",
+        "latitude": "+28.744752",
+        "longitude": "-081.223280"
+    },
+    {
+        "county": "SEMINOLE",
+        "city": "LAKE MONROE",
+        "latitude": "+28.827219",
+        "longitude": "-081.332888"
+    },
+    {
+        "county": "SEMINOLE",
+        "city": "LONGWOOD",
+        "latitude": "+28.744752",
+        "longitude": "-081.223280"
+    },
+    {
+        "county": "SEMINOLE",
+        "city": "MID FLORIDA",
+        "latitude": "+28.744752",
+        "longitude": "-081.223280"
+    },
+    {
+        "county": "SEMINOLE",
+        "city": "OVIEDO",
+        "latitude": "+28.660674",
+        "longitude": "-081.113444"
+    },
+    {
+        "county": "SEMINOLE",
+        "city": "SANFORD",
+        "latitude": "+28.754582",
+        "longitude": "-081.264180"
+    },
+    {
+        "county": "SEMINOLE",
+        "city": "WINTER SPRINGS",
+        "latitude": "+28.744752",
+        "longitude": "-081.223280"
+    },
+    {
+        "county": "SUMTER",
+        "city": "BUSHNELL",
+        "latitude": "+28.676288",
+        "longitude": "-082.149168"
+    },
+    {
+        "county": "SUMTER",
+        "city": "CENTER HILL",
+        "latitude": "+28.668113",
+        "longitude": "-082.028830"
+    },
+    {
+        "county": "SUMTER",
+        "city": "COLEMAN",
+        "latitude": "+28.775537",
+        "longitude": "-082.059745"
+    },
+    {
+        "county": "SUMTER",
+        "city": "LADY LAKE",
+        "latitude": "",
+        "longitude": ""
+    },
+    {
+        "county": "SUMTER",
+        "city": "LAKE PANASOFFKEE",
+        "latitude": "+28.781677",
+        "longitude": "-082.121086"
+    },
+    {
+        "county": "SUMTER",
+        "city": "OXFORD",
+        "latitude": "+28.905906",
+        "longitude": "-082.061193"
+    },
+    {
+        "county": "SUMTER",
+        "city": "SUMTERVILLE",
+        "latitude": "+28.735643",
+        "longitude": "-082.061556"
+    },
+    {
+        "county": "SUMTER",
+        "city": "WEBSTER",
+        "latitude": "+28.647306",
+        "longitude": "-082.108078"
+    },
+    {
+        "county": "SUMTER",
+        "city": "WILDWOOD",
+        "latitude": "+28.844473",
+        "longitude": "-082.078342"
+    },
+    {
+        "county": "SUWANNEE",
+        "city": "BRANFORD",
+        "latitude": "+30.101927",
+        "longitude": "-082.908004"
+    },
+    {
+        "county": "SUWANNEE",
+        "city": "LIVE OAK",
+        "latitude": "+30.331517",
+        "longitude": "-082.957151"
+    },
+    {
+        "county": "SUWANNEE",
+        "city": "MC ALPIN",
+        "latitude": "+30.186428",
+        "longitude": "-082.983576"
+    },
+    {
+        "county": "SUWANNEE",
+        "city": "O BRIEN",
+        "latitude": "+30.036193",
+        "longitude": "-082.932228"
+    },
+    {
+        "county": "SUWANNEE",
+        "city": "WELLBORN",
+        "latitude": "+30.194651",
+        "longitude": "-082.857328"
+    },
+    {
+        "county": "TAYLOR",
+        "city": "PERRY",
+        "latitude": "+29.966454",
+        "longitude": "-083.659371"
+    },
+    {
+        "county": "TAYLOR",
+        "city": "SALEM",
+        "latitude": "+29.853852",
+        "longitude": "-083.442125"
+    },
+    {
+        "county": "TAYLOR",
+        "city": "SHADY GROVE",
+        "latitude": "+30.214672",
+        "longitude": "-083.711084"
+    },
+    {
+        "county": "TAYLOR",
+        "city": "STEINHATCHEE",
+        "latitude": "+29.693191",
+        "longitude": "-083.376380"
+    },
+    {
+        "county": "UNION",
+        "city": "LAKE BUTLER",
+        "latitude": "+30.007626",
+        "longitude": "-082.341422"
+    },
+    {
+        "county": "UNION",
+        "city": "RAIFORD",
+        "latitude": "+30.054956",
+        "longitude": "-082.213361"
+    },
+    {
+        "county": "UNION",
+        "city": "WORTHINGTON SPRINGS",
+        "latitude": "+29.931522",
+        "longitude": "-082.425518"
+    },
+    {
+        "county": "VOLUSIA",
+        "city": "BARBERVILLE",
+        "latitude": "+29.200508",
+        "longitude": "-081.406458"
+    },
+    {
+        "county": "VOLUSIA",
+        "city": "CASSADAGA",
+        "latitude": "+28.966351",
+        "longitude": "-081.237061"
+    },
+    {
+        "county": "VOLUSIA",
+        "city": "DAYTONA BEACH",
+        "latitude": "+29.022729",
+        "longitude": "-081.172169"
+    },
+    {
+        "county": "VOLUSIA",
+        "city": "DE LEON SPRINGS",
+        "latitude": "+29.183646",
+        "longitude": "-081.329387"
+    },
+    {
+        "county": "VOLUSIA",
+        "city": "DEBARY",
+        "latitude": "",
+        "longitude": ""
+    },
+    {
+        "county": "VOLUSIA",
+        "city": "DELAND",
+        "latitude": "+29.056227",
+        "longitude": "-081.096461"
+    },
+    {
+        "county": "VOLUSIA",
+        "city": "DELTONA",
+        "latitude": "+29.022729",
+        "longitude": "-081.172169"
+    },
+    {
+        "county": "VOLUSIA",
+        "city": "EDGEWATER",
+        "latitude": "+28.933217",
+        "longitude": "-080.900037"
+    },
+    {
+        "county": "VOLUSIA",
+        "city": "GLENWOOD",
+        "latitude": "+29.022729",
+        "longitude": "-081.172169"
+    },
+    {
+        "county": "VOLUSIA",
+        "city": "LAKE HELEN",
+        "latitude": "+28.988027",
+        "longitude": "-081.220829"
+    },
+    {
+        "county": "VOLUSIA",
+        "city": "NEW SMYRNA BEACH",
+        "latitude": "+29.022729",
+        "longitude": "-081.172169"
+    },
+    {
+        "county": "VOLUSIA",
+        "city": "OAK HILL",
+        "latitude": "+28.853312",
+        "longitude": "-080.993118"
+    },
+    {
+        "county": "VOLUSIA",
+        "city": "ORANGE CITY",
+        "latitude": "+29.022729",
+        "longitude": "-081.172169"
+    },
+    {
+        "county": "VOLUSIA",
+        "city": "ORMOND BEACH",
+        "latitude": "+29.335111",
+        "longitude": "-081.249977"
+    },
+    {
+        "county": "VOLUSIA",
+        "city": "OSTEEN",
+        "latitude": "+28.854824",
+        "longitude": "-081.084188"
+    },
+    {
+        "county": "VOLUSIA",
+        "city": "PIERSON",
+        "latitude": "+29.244623",
+        "longitude": "-081.471982"
+    },
+    {
+        "county": "VOLUSIA",
+        "city": "PORT ORANGE",
+        "latitude": "+29.022729",
+        "longitude": "-081.172169"
+    },
+    {
+        "county": "VOLUSIA",
+        "city": "SEVILLE",
+        "latitude": "+29.289260",
+        "longitude": "-081.503244"
+    },
+    {
+        "county": "WAKULLA",
+        "city": "CRAWFORDVILLE",
+        "latitude": "+30.165498",
+        "longitude": "-084.430777"
+    },
+    {
+        "county": "WAKULLA",
+        "city": "PANACEA",
+        "latitude": "+30.021079",
+        "longitude": "-084.386837"
+    },
+    {
+        "county": "WAKULLA",
+        "city": "SAINT MARKS",
+        "latitude": "+30.163062",
+        "longitude": "-084.208346"
+    },
+    {
+        "county": "WAKULLA",
+        "city": "SOPCHOPPY",
+        "latitude": "+30.141958",
+        "longitude": "-084.552965"
+    },
+    {
+        "county": "WAKULLA",
+        "city": "TALLAHASSEE",
+        "latitude": "+30.130775",
+        "longitude": "-084.406629"
+    },
+    {
+        "county": "WALTON",
+        "city": "ARGYLE",
+        "latitude": "+30.705557",
+        "longitude": "-086.031448"
+    },
+    {
+        "county": "WALTON",
+        "city": "DEFUNIAK SPRINGS",
+        "latitude": "+30.603777",
+        "longitude": "-086.121110"
+    },
+    {
+        "county": "WALTON",
+        "city": "DESTIN",
+        "latitude": "",
+        "longitude": ""
+    },
+    {
+        "county": "WALTON",
+        "city": "FREEPORT",
+        "latitude": "+30.561269",
+        "longitude": "-086.170600"
+    },
+    {
+        "county": "WALTON",
+        "city": "MOSSY HEAD",
+        "latitude": "+30.762486",
+        "longitude": "-086.342683"
+    },
+    {
+        "county": "WALTON",
+        "city": "PAXTON",
+        "latitude": "+30.970853",
+        "longitude": "-086.311093"
+    },
+    {
+        "county": "WALTON",
+        "city": "POINT WASHINGTON",
+        "latitude": "+30.603777",
+        "longitude": "-086.121110"
+    },
+    {
+        "county": "WALTON",
+        "city": "SANTA ROSA BEACH",
+        "latitude": "+30.513484",
+        "longitude": "-086.160893"
+    },
+    {
+        "county": "WASHINGTON",
+        "city": "CARYVILLE",
+        "latitude": "+30.707368",
+        "longitude": "-085.793737"
+    },
+    {
+        "county": "WASHINGTON",
+        "city": "CHIPLEY",
+        "latitude": "+30.634834",
+        "longitude": "-085.577618"
+    },
+    {
+        "county": "WASHINGTON",
+        "city": "EBRO",
+        "latitude": "+30.451272",
+        "longitude": "-085.872398"
+    },
+    {
+        "county": "WASHINGTON",
+        "city": "VERNON",
+        "latitude": "+30.591268",
+        "longitude": "-085.739452"
+    },
+    {
+        "county": "WASHINGTON",
+        "city": "WAUSAU",
+        "latitude": "+30.639134",
+        "longitude": "-085.587862"
+    }
+]

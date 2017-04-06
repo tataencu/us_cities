@@ -1,0 +1,2318 @@
+[
+    {
+        "county": "AURORA",
+        "city": "PLANKINTON",
+        "latitude": "+43.746753",
+        "longitude": "-098.518533"
+    },
+    {
+        "county": "AURORA",
+        "city": "STICKNEY",
+        "latitude": "+43.571628",
+        "longitude": "-098.498361"
+    },
+    {
+        "county": "AURORA",
+        "city": "WHITE LAKE",
+        "latitude": "+43.714955",
+        "longitude": "-098.644922"
+    },
+    {
+        "county": "BEADLE",
+        "city": "CAVOUR",
+        "latitude": "+44.325314",
+        "longitude": "-098.013968"
+    },
+    {
+        "county": "BEADLE",
+        "city": "HITCHCOCK",
+        "latitude": "+44.567404",
+        "longitude": "-098.406424"
+    },
+    {
+        "county": "BEADLE",
+        "city": "HURON",
+        "latitude": "+44.414319",
+        "longitude": "-098.279548"
+    },
+    {
+        "county": "BEADLE",
+        "city": "VIRGIL",
+        "latitude": "+44.283816",
+        "longitude": "-098.502730"
+    },
+    {
+        "county": "BEADLE",
+        "city": "WESSINGTON",
+        "latitude": "+44.415437",
+        "longitude": "-098.642453"
+    },
+    {
+        "county": "BEADLE",
+        "city": "WOLSEY",
+        "latitude": "+44.449450",
+        "longitude": "-098.487894"
+    },
+    {
+        "county": "BEADLE",
+        "city": "YALE",
+        "latitude": "+44.522526",
+        "longitude": "-098.040081"
+    },
+    {
+        "county": "BENNETT",
+        "city": "ALLEN",
+        "latitude": "+43.193203",
+        "longitude": "-101.669330"
+    },
+    {
+        "county": "BENNETT",
+        "city": "MARTIN",
+        "latitude": "+43.172158",
+        "longitude": "-101.734068"
+    },
+    {
+        "county": "BENNETT",
+        "city": "TUTHILL",
+        "latitude": "+43.193203",
+        "longitude": "-101.669330"
+    },
+    {
+        "county": "BON HOMME",
+        "city": "AVON",
+        "latitude": "+42.988284",
+        "longitude": "-097.878579"
+    },
+    {
+        "county": "BON HOMME",
+        "city": "SCOTLAND",
+        "latitude": "+43.024378",
+        "longitude": "-097.783482"
+    },
+    {
+        "county": "BON HOMME",
+        "city": "SPRINGFIELD",
+        "latitude": "+42.881672",
+        "longitude": "-097.926212"
+    },
+    {
+        "county": "BON HOMME",
+        "city": "TABOR",
+        "latitude": "+42.947515",
+        "longitude": "-097.714195"
+    },
+    {
+        "county": "BON HOMME",
+        "city": "TYNDALL",
+        "latitude": "+42.988530",
+        "longitude": "-097.873263"
+    },
+    {
+        "county": "BROOKINGS",
+        "city": "AURORA",
+        "latitude": "+44.304195",
+        "longitude": "-096.667977"
+    },
+    {
+        "county": "BROOKINGS",
+        "city": "BROOKINGS",
+        "latitude": "+44.369696",
+        "longitude": "-096.790705"
+    },
+    {
+        "county": "BROOKINGS",
+        "city": "BRUCE",
+        "latitude": "+44.456735",
+        "longitude": "-096.893020"
+    },
+    {
+        "county": "BROOKINGS",
+        "city": "ELKTON",
+        "latitude": "+44.289677",
+        "longitude": "-096.540249"
+    },
+    {
+        "county": "BROOKINGS",
+        "city": "SINAI",
+        "latitude": "+44.242764",
+        "longitude": "-097.018205"
+    },
+    {
+        "county": "BROOKINGS",
+        "city": "VOLGA",
+        "latitude": "+44.369694",
+        "longitude": "-096.790512"
+    },
+    {
+        "county": "BROOKINGS",
+        "city": "WHITE",
+        "latitude": "+44.405596",
+        "longitude": "-096.599788"
+    },
+    {
+        "county": "BROWN",
+        "city": "ABERDEEN",
+        "latitude": "+45.589567",
+        "longitude": "-098.352014"
+    },
+    {
+        "county": "BROWN",
+        "city": "BARNARD",
+        "latitude": "+45.735409",
+        "longitude": "-098.569848"
+    },
+    {
+        "county": "BROWN",
+        "city": "BATH",
+        "latitude": "+45.626851",
+        "longitude": "-098.270454"
+    },
+    {
+        "county": "BROWN",
+        "city": "CLAREMONT",
+        "latitude": "+45.682867",
+        "longitude": "-098.051948"
+    },
+    {
+        "county": "BROWN",
+        "city": "COLUMBIA",
+        "latitude": "+45.537847",
+        "longitude": "-098.339885"
+    },
+    {
+        "county": "BROWN",
+        "city": "FERNEY",
+        "latitude": "+45.329040",
+        "longitude": "-098.083721"
+    },
+    {
+        "county": "BROWN",
+        "city": "FREDERICK",
+        "latitude": "+45.693116",
+        "longitude": "-098.368918"
+    },
+    {
+        "county": "BROWN",
+        "city": "GROTON",
+        "latitude": "+45.589027",
+        "longitude": "-098.245639"
+    },
+    {
+        "county": "BROWN",
+        "city": "HECLA",
+        "latitude": "+45.849431",
+        "longitude": "-098.157861"
+    },
+    {
+        "county": "BROWN",
+        "city": "HOUGHTON",
+        "latitude": "+45.607110",
+        "longitude": "-098.170069"
+    },
+    {
+        "county": "BROWN",
+        "city": "STRATFORD",
+        "latitude": "+45.306691",
+        "longitude": "-098.258376"
+    },
+    {
+        "county": "BROWN",
+        "city": "WARNER",
+        "latitude": "+45.329227",
+        "longitude": "-098.474850"
+    },
+    {
+        "county": "BROWN",
+        "city": "WESTPORT",
+        "latitude": "+45.670534",
+        "longitude": "-098.580207"
+    },
+    {
+        "county": "BRULE",
+        "city": "CHAMBERLAIN",
+        "latitude": "+43.717250",
+        "longitude": "-099.131736"
+    },
+    {
+        "county": "BRULE",
+        "city": "KIMBALL",
+        "latitude": "+43.744477",
+        "longitude": "-098.953810"
+    },
+    {
+        "county": "BRULE",
+        "city": "PUKWANA",
+        "latitude": "+43.776542",
+        "longitude": "-099.186931"
+    },
+    {
+        "county": "BUFFALO",
+        "city": "FORT THOMPSON",
+        "latitude": "+44.064873",
+        "longitude": "-099.251509"
+    },
+    {
+        "county": "BUFFALO",
+        "city": "GANN VALLEY",
+        "latitude": "+44.064873",
+        "longitude": "-099.251509"
+    },
+    {
+        "county": "BUTTE",
+        "city": "BELLE FOURCHE",
+        "latitude": "+44.930370",
+        "longitude": "-103.873130"
+    },
+    {
+        "county": "BUTTE",
+        "city": "FRUITDALE",
+        "latitude": "+44.669130",
+        "longitude": "-103.697073"
+    },
+    {
+        "county": "BUTTE",
+        "city": "NEWELL",
+        "latitude": "+44.715217",
+        "longitude": "-103.417574"
+    },
+    {
+        "county": "BUTTE",
+        "city": "NISLAND",
+        "latitude": "+44.673533",
+        "longitude": "-103.556354"
+    },
+    {
+        "county": "BUTTE",
+        "city": "VALE",
+        "latitude": "+44.719176",
+        "longitude": "-103.425620"
+    },
+    {
+        "county": "CAMPBELL",
+        "city": "HERREID",
+        "latitude": "+45.833733",
+        "longitude": "-100.020048"
+    },
+    {
+        "county": "CAMPBELL",
+        "city": "MOUND CITY",
+        "latitude": "+45.715461",
+        "longitude": "-100.048071"
+    },
+    {
+        "county": "CAMPBELL",
+        "city": "POLLOCK",
+        "latitude": "+45.844431",
+        "longitude": "-100.283026"
+    },
+    {
+        "county": "CHARLES MIX",
+        "city": "DANTE",
+        "latitude": "+42.984707",
+        "longitude": "-098.175204"
+    },
+    {
+        "county": "CHARLES MIX",
+        "city": "GEDDES",
+        "latitude": "+43.251263",
+        "longitude": "-098.736404"
+    },
+    {
+        "county": "CHARLES MIX",
+        "city": "LAKE ANDES",
+        "latitude": "+43.147572",
+        "longitude": "-098.527479"
+    },
+    {
+        "county": "CHARLES MIX",
+        "city": "MARTY",
+        "latitude": "+43.019570",
+        "longitude": "-098.446929"
+    },
+    {
+        "county": "CHARLES MIX",
+        "city": "PICKSTOWN",
+        "latitude": "+43.067306",
+        "longitude": "-098.522951"
+    },
+    {
+        "county": "CHARLES MIX",
+        "city": "PLATTE",
+        "latitude": "+43.291600",
+        "longitude": "-098.767186"
+    },
+    {
+        "county": "CHARLES MIX",
+        "city": "RAVINIA",
+        "latitude": "+43.136365",
+        "longitude": "-098.427173"
+    },
+    {
+        "county": "CHARLES MIX",
+        "city": "WAGNER",
+        "latitude": "+43.034725",
+        "longitude": "-098.315504"
+    },
+    {
+        "county": "CLARK",
+        "city": "BRADLEY",
+        "latitude": "+44.906260",
+        "longitude": "-097.708049"
+    },
+    {
+        "county": "CLARK",
+        "city": "CARPENTER",
+        "latitude": "+44.848565",
+        "longitude": "-097.737227"
+    },
+    {
+        "county": "CLARK",
+        "city": "CLARK",
+        "latitude": "+44.891983",
+        "longitude": "-097.832972"
+    },
+    {
+        "county": "CLARK",
+        "city": "GARDEN CITY",
+        "latitude": "+44.848565",
+        "longitude": "-097.737227"
+    },
+    {
+        "county": "CLARK",
+        "city": "RAYMOND",
+        "latitude": "+44.910756",
+        "longitude": "-097.939298"
+    },
+    {
+        "county": "CLARK",
+        "city": "VIENNA",
+        "latitude": "+44.848565",
+        "longitude": "-097.737227"
+    },
+    {
+        "county": "CLARK",
+        "city": "WILLOW LAKE",
+        "latitude": "+44.659815",
+        "longitude": "-097.573152"
+    },
+    {
+        "county": "CLAY",
+        "city": "BURBANK",
+        "latitude": "+42.827796",
+        "longitude": "-096.847373"
+    },
+    {
+        "county": "CLAY",
+        "city": "IRENE",
+        "latitude": "+43.068331",
+        "longitude": "-097.130498"
+    },
+    {
+        "county": "CLAY",
+        "city": "MECKLING",
+        "latitude": "+42.840984",
+        "longitude": "-097.091959"
+    },
+    {
+        "county": "CLAY",
+        "city": "VERMILLION",
+        "latitude": "+42.854124",
+        "longitude": "-096.973318"
+    },
+    {
+        "county": "CLAY",
+        "city": "WAKONDA",
+        "latitude": "+42.996509",
+        "longitude": "-097.058654"
+    },
+    {
+        "county": "CODINGTON",
+        "city": "FLORENCE",
+        "latitude": "+45.015481",
+        "longitude": "-097.306014"
+    },
+    {
+        "county": "CODINGTON",
+        "city": "HENRY",
+        "latitude": "+44.929255",
+        "longitude": "-097.391955"
+    },
+    {
+        "county": "CODINGTON",
+        "city": "KRANZBURG",
+        "latitude": "+44.892254",
+        "longitude": "-096.917412"
+    },
+    {
+        "county": "CODINGTON",
+        "city": "SOUTH SHORE",
+        "latitude": "+45.100745",
+        "longitude": "-097.036356"
+    },
+    {
+        "county": "CODINGTON",
+        "city": "WALLACE",
+        "latitude": "+45.093607",
+        "longitude": "-097.453149"
+    },
+    {
+        "county": "CODINGTON",
+        "city": "WATERTOWN",
+        "latitude": "+44.955643",
+        "longitude": "-097.177954"
+    },
+    {
+        "county": "CODINGTON",
+        "city": "WAVERLY",
+        "latitude": "+44.977634",
+        "longitude": "-097.188372"
+    },
+    {
+        "county": "CORSON",
+        "city": "BULLHEAD",
+        "latitude": "+45.847567",
+        "longitude": "-101.099740"
+    },
+    {
+        "county": "CORSON",
+        "city": "KELDRON",
+        "latitude": "+45.708402",
+        "longitude": "-101.154581"
+    },
+    {
+        "county": "CORSON",
+        "city": "LITTLE EAGLE",
+        "latitude": "+45.708402",
+        "longitude": "-101.154581"
+    },
+    {
+        "county": "CORSON",
+        "city": "MAHTO",
+        "latitude": "+45.708402",
+        "longitude": "-101.154581"
+    },
+    {
+        "county": "CORSON",
+        "city": "MC INTOSH",
+        "latitude": "+45.708402",
+        "longitude": "-101.154581"
+    },
+    {
+        "county": "CORSON",
+        "city": "MC LAUGHLIN",
+        "latitude": "+45.876336",
+        "longitude": "-100.891469"
+    },
+    {
+        "county": "CORSON",
+        "city": "MORRISTOWN",
+        "latitude": "+45.708402",
+        "longitude": "-101.154581"
+    },
+    {
+        "county": "CORSON",
+        "city": "TRAIL CITY",
+        "latitude": "+45.708402",
+        "longitude": "-101.154581"
+    },
+    {
+        "county": "CORSON",
+        "city": "WAKPALA",
+        "latitude": "+45.655452",
+        "longitude": "-100.537928"
+    },
+    {
+        "county": "CORSON",
+        "city": "WALKER",
+        "latitude": "+45.708402",
+        "longitude": "-101.154581"
+    },
+    {
+        "county": "CORSON",
+        "city": "WATAUGA",
+        "latitude": "+45.708402",
+        "longitude": "-101.154581"
+    },
+    {
+        "county": "CUSTER",
+        "city": "BUFFALO GAP",
+        "latitude": "+43.666816",
+        "longitude": "-103.371071"
+    },
+    {
+        "county": "CUSTER",
+        "city": "CUSTER",
+        "latitude": "+43.657304",
+        "longitude": "-103.425807"
+    },
+    {
+        "county": "CUSTER",
+        "city": "FAIRBURN",
+        "latitude": "+43.685927",
+        "longitude": "-103.208170"
+    },
+    {
+        "county": "CUSTER",
+        "city": "HERMOSA",
+        "latitude": "+43.838528",
+        "longitude": "-103.191460"
+    },
+    {
+        "county": "CUSTER",
+        "city": "PRINGLE",
+        "latitude": "+43.666816",
+        "longitude": "-103.371071"
+    },
+    {
+        "county": "DAVISON",
+        "city": "ETHAN",
+        "latitude": "+43.599970",
+        "longitude": "-098.074101"
+    },
+    {
+        "county": "DAVISON",
+        "city": "MITCHELL",
+        "latitude": "+43.695910",
+        "longitude": "-098.086401"
+    },
+    {
+        "county": "DAVISON",
+        "city": "MOUNT VERNON",
+        "latitude": "+43.674994",
+        "longitude": "-098.164483"
+    },
+    {
+        "county": "DAY",
+        "city": "ANDOVER",
+        "latitude": "+45.369855",
+        "longitude": "-097.603949"
+    },
+    {
+        "county": "DAY",
+        "city": "BRISTOL",
+        "latitude": "+45.319218",
+        "longitude": "-097.637812"
+    },
+    {
+        "county": "DAY",
+        "city": "GRENVILLE",
+        "latitude": "+45.369855",
+        "longitude": "-097.603949"
+    },
+    {
+        "county": "DAY",
+        "city": "PIERPONT",
+        "latitude": "+45.369855",
+        "longitude": "-097.603949"
+    },
+    {
+        "county": "DAY",
+        "city": "ROSLYN",
+        "latitude": "+45.369855",
+        "longitude": "-097.603949"
+    },
+    {
+        "county": "DAY",
+        "city": "WAUBAY",
+        "latitude": "+45.332568",
+        "longitude": "-097.307239"
+    },
+    {
+        "county": "DAY",
+        "city": "WEBSTER",
+        "latitude": "+45.315060",
+        "longitude": "-097.525395"
+    },
+    {
+        "county": "DEUEL",
+        "city": "ASTORIA",
+        "latitude": "+44.562302",
+        "longitude": "-096.591264"
+    },
+    {
+        "county": "DEUEL",
+        "city": "BRANDT",
+        "latitude": "+44.760480",
+        "longitude": "-096.668424"
+    },
+    {
+        "county": "DEUEL",
+        "city": "CLEAR LAKE",
+        "latitude": "+44.761249",
+        "longitude": "-096.690651"
+    },
+    {
+        "county": "DEUEL",
+        "city": "GARY",
+        "latitude": "+44.792302",
+        "longitude": "-096.459270"
+    },
+    {
+        "county": "DEUEL",
+        "city": "GOODWIN",
+        "latitude": "+44.760480",
+        "longitude": "-096.668424"
+    },
+    {
+        "county": "DEUEL",
+        "city": "TORONTO",
+        "latitude": "+44.567419",
+        "longitude": "-096.594440"
+    },
+    {
+        "county": "DEWEY",
+        "city": "EAGLE BUTTE",
+        "latitude": "+45.001611",
+        "longitude": "-101.232885"
+    },
+    {
+        "county": "DEWEY",
+        "city": "FIRESTEEL",
+        "latitude": "+45.098685",
+        "longitude": "-100.879214"
+    },
+    {
+        "county": "DEWEY",
+        "city": "GLENCROSS",
+        "latitude": "+45.098685",
+        "longitude": "-100.879214"
+    },
+    {
+        "county": "DEWEY",
+        "city": "ISABEL",
+        "latitude": "+45.396212",
+        "longitude": "-101.438525"
+    },
+    {
+        "county": "DEWEY",
+        "city": "LANTRY",
+        "latitude": "+45.098685",
+        "longitude": "-100.879214"
+    },
+    {
+        "county": "DEWEY",
+        "city": "PARADE",
+        "latitude": "+45.098685",
+        "longitude": "-100.879214"
+    },
+    {
+        "county": "DEWEY",
+        "city": "RIDGEVIEW",
+        "latitude": "+45.098685",
+        "longitude": "-100.879214"
+    },
+    {
+        "county": "DEWEY",
+        "city": "TIMBER LAKE",
+        "latitude": "+45.427032",
+        "longitude": "-101.074690"
+    },
+    {
+        "county": "DEWEY",
+        "city": "WHITEHORSE",
+        "latitude": "+45.098685",
+        "longitude": "-100.879214"
+    },
+    {
+        "county": "DOUGLAS",
+        "city": "ARMOUR",
+        "latitude": "+43.341035",
+        "longitude": "-098.398964"
+    },
+    {
+        "county": "DOUGLAS",
+        "city": "CORSICA",
+        "latitude": "+43.420306",
+        "longitude": "-098.439859"
+    },
+    {
+        "county": "DOUGLAS",
+        "city": "DELMONT",
+        "latitude": "+43.290614",
+        "longitude": "-098.178372"
+    },
+    {
+        "county": "DOUGLAS",
+        "city": "HARRISON",
+        "latitude": "+43.409186",
+        "longitude": "-098.528068"
+    },
+    {
+        "county": "DOUGLAS",
+        "city": "NEW HOLLAND",
+        "latitude": "+43.427358",
+        "longitude": "-098.608778"
+    },
+    {
+        "county": "EDMUNDS",
+        "city": "BOWDLE",
+        "latitude": "+45.469377",
+        "longitude": "-099.595667"
+    },
+    {
+        "county": "EDMUNDS",
+        "city": "HOSMER",
+        "latitude": "+45.552579",
+        "longitude": "-099.461653"
+    },
+    {
+        "county": "EDMUNDS",
+        "city": "IPSWICH",
+        "latitude": "+45.421905",
+        "longitude": "-099.258683"
+    },
+    {
+        "county": "EDMUNDS",
+        "city": "MINA",
+        "latitude": "+45.404015",
+        "longitude": "-098.806895"
+    },
+    {
+        "county": "EDMUNDS",
+        "city": "ROSCOE",
+        "latitude": "+45.419289",
+        "longitude": "-099.346593"
+    },
+    {
+        "county": "FALL RIVER",
+        "city": "EDGEMONT",
+        "latitude": "+43.294549",
+        "longitude": "-103.830431"
+    },
+    {
+        "county": "FALL RIVER",
+        "city": "HOT SPRINGS",
+        "latitude": "+43.314186",
+        "longitude": "-103.528353"
+    },
+    {
+        "county": "FALL RIVER",
+        "city": "OELRICHS",
+        "latitude": "+43.180956",
+        "longitude": "-103.243935"
+    },
+    {
+        "county": "FALL RIVER",
+        "city": "ORAL",
+        "latitude": "+43.239655",
+        "longitude": "-103.527757"
+    },
+    {
+        "county": "FALL RIVER",
+        "city": "PROVO",
+        "latitude": "+43.239655",
+        "longitude": "-103.527757"
+    },
+    {
+        "county": "FALL RIVER",
+        "city": "SMITHWICK",
+        "latitude": "+43.239655",
+        "longitude": "-103.527757"
+    },
+    {
+        "county": "FAULK",
+        "city": "CRESBARD",
+        "latitude": "+45.136245",
+        "longitude": "-098.915424"
+    },
+    {
+        "county": "FAULK",
+        "city": "FAULKTON",
+        "latitude": "+45.085504",
+        "longitude": "-099.195418"
+    },
+    {
+        "county": "FAULK",
+        "city": "ONAKA",
+        "latitude": "+45.180068",
+        "longitude": "-099.464260"
+    },
+    {
+        "county": "FAULK",
+        "city": "ORIENT",
+        "latitude": "+44.911775",
+        "longitude": "-099.073204"
+    },
+    {
+        "county": "FAULK",
+        "city": "ROCKHAM",
+        "latitude": "+45.033056",
+        "longitude": "-098.882787"
+    },
+    {
+        "county": "FAULK",
+        "city": "SENECA",
+        "latitude": "+44.991420",
+        "longitude": "-099.340678"
+    },
+    {
+        "county": "GRANT",
+        "city": "BIG STONE CITY",
+        "latitude": "+45.170552",
+        "longitude": "-096.534574"
+    },
+    {
+        "county": "GRANT",
+        "city": "LABOLT",
+        "latitude": "+45.115408",
+        "longitude": "-096.670622"
+    },
+    {
+        "county": "GRANT",
+        "city": "MARVIN",
+        "latitude": "+45.274296",
+        "longitude": "-096.942159"
+    },
+    {
+        "county": "GRANT",
+        "city": "MILBANK",
+        "latitude": "+45.151477",
+        "longitude": "-096.839235"
+    },
+    {
+        "county": "GRANT",
+        "city": "REVILLO",
+        "latitude": "+45.080517",
+        "longitude": "-096.555664"
+    },
+    {
+        "county": "GRANT",
+        "city": "STOCKHOLM",
+        "latitude": "+45.106694",
+        "longitude": "-096.802259"
+    },
+    {
+        "county": "GRANT",
+        "city": "STRANDBURG",
+        "latitude": "+45.021579",
+        "longitude": "-096.740780"
+    },
+    {
+        "county": "GRANT",
+        "city": "TWIN BROOKS",
+        "latitude": "+45.230876",
+        "longitude": "-096.823706"
+    },
+    {
+        "county": "GREGORY",
+        "city": "BONESTEEL",
+        "latitude": "+43.248832",
+        "longitude": "-099.016376"
+    },
+    {
+        "county": "GREGORY",
+        "city": "BURKE",
+        "latitude": "+43.182547",
+        "longitude": "-099.293674"
+    },
+    {
+        "county": "GREGORY",
+        "city": "DALLAS",
+        "latitude": "+43.235710",
+        "longitude": "-099.515887"
+    },
+    {
+        "county": "GREGORY",
+        "city": "FAIRFAX",
+        "latitude": "+43.248832",
+        "longitude": "-099.016376"
+    },
+    {
+        "county": "GREGORY",
+        "city": "GREGORY",
+        "latitude": "+43.213649",
+        "longitude": "-099.362190"
+    },
+    {
+        "county": "GREGORY",
+        "city": "HERRICK",
+        "latitude": "+43.114883",
+        "longitude": "-099.195945"
+    },
+    {
+        "county": "GREGORY",
+        "city": "SAINT CHARLES",
+        "latitude": "+43.248832",
+        "longitude": "-099.016376"
+    },
+    {
+        "county": "HAAKON",
+        "city": "MIDLAND",
+        "latitude": "+44.370733",
+        "longitude": "-101.527178"
+    },
+    {
+        "county": "HAAKON",
+        "city": "MILESVILLE",
+        "latitude": "+44.370733",
+        "longitude": "-101.527178"
+    },
+    {
+        "county": "HAAKON",
+        "city": "PHILIP",
+        "latitude": "+44.046063",
+        "longitude": "-101.630722"
+    },
+    {
+        "county": "HAMLIN",
+        "city": "BRYANT",
+        "latitude": "+44.590094",
+        "longitude": "-097.466776"
+    },
+    {
+        "county": "HAMLIN",
+        "city": "CASTLEWOOD",
+        "latitude": "+44.656650",
+        "longitude": "-097.116149"
+    },
+    {
+        "county": "HAMLIN",
+        "city": "ESTELLINE",
+        "latitude": "+44.673762",
+        "longitude": "-097.188324"
+    },
+    {
+        "county": "HAMLIN",
+        "city": "HAYTI",
+        "latitude": "+44.657338",
+        "longitude": "-097.204970"
+    },
+    {
+        "county": "HAMLIN",
+        "city": "HAZEL",
+        "latitude": "+44.759144",
+        "longitude": "-097.381575"
+    },
+    {
+        "county": "HAMLIN",
+        "city": "LAKE NORDEN",
+        "latitude": "+44.588234",
+        "longitude": "-097.142872"
+    },
+    {
+        "county": "HAND",
+        "city": "MILLER",
+        "latitude": "+44.480979",
+        "longitude": "-099.062766"
+    },
+    {
+        "county": "HAND",
+        "city": "REE HEIGHTS",
+        "latitude": "+44.422833",
+        "longitude": "-099.218556"
+    },
+    {
+        "county": "HAND",
+        "city": "SAINT LAWRENCE",
+        "latitude": "+44.495497",
+        "longitude": "-098.869647"
+    },
+    {
+        "county": "HANSON",
+        "city": "ALEXANDRIA",
+        "latitude": "+43.668440",
+        "longitude": "-097.756320"
+    },
+    {
+        "county": "HANSON",
+        "city": "EMERY",
+        "latitude": "+43.586451",
+        "longitude": "-097.655390"
+    },
+    {
+        "county": "HANSON",
+        "city": "FULTON",
+        "latitude": "+43.762939",
+        "longitude": "-097.869025"
+    },
+    {
+        "county": "HARDING",
+        "city": "BUFFALO",
+        "latitude": "+45.576652",
+        "longitude": "-103.911719"
+    },
+    {
+        "county": "HARDING",
+        "city": "CAMP CROOK",
+        "latitude": "+45.578941",
+        "longitude": "-103.493668"
+    },
+    {
+        "county": "HARDING",
+        "city": "LUDLOW",
+        "latitude": "+45.578941",
+        "longitude": "-103.493668"
+    },
+    {
+        "county": "HARDING",
+        "city": "RALPH",
+        "latitude": "+45.578941",
+        "longitude": "-103.493668"
+    },
+    {
+        "county": "HARDING",
+        "city": "REDIG",
+        "latitude": "+45.578941",
+        "longitude": "-103.493668"
+    },
+    {
+        "county": "HARDING",
+        "city": "REVA",
+        "latitude": "+45.578941",
+        "longitude": "-103.493668"
+    },
+    {
+        "county": "HUGHES",
+        "city": "BLUNT",
+        "latitude": "+44.437190",
+        "longitude": "-099.926952"
+    },
+    {
+        "county": "HUGHES",
+        "city": "HARROLD",
+        "latitude": "+44.333927",
+        "longitude": "-099.767237"
+    },
+    {
+        "county": "HUGHES",
+        "city": "PIERRE",
+        "latitude": "+44.334073",
+        "longitude": "-100.094195"
+    },
+    {
+        "county": "HUTCHINSON",
+        "city": "DIMOCK",
+        "latitude": "+43.470444",
+        "longitude": "-097.999352"
+    },
+    {
+        "county": "HUTCHINSON",
+        "city": "FREEMAN",
+        "latitude": "+43.321384",
+        "longitude": "-097.547869"
+    },
+    {
+        "county": "HUTCHINSON",
+        "city": "KAYLOR",
+        "latitude": "+43.334069",
+        "longitude": "-097.756924"
+    },
+    {
+        "county": "HUTCHINSON",
+        "city": "MENNO",
+        "latitude": "+43.248825",
+        "longitude": "-097.538733"
+    },
+    {
+        "county": "HUTCHINSON",
+        "city": "OLIVET",
+        "latitude": "+43.284183",
+        "longitude": "-097.718224"
+    },
+    {
+        "county": "HUTCHINSON",
+        "city": "PARKSTON",
+        "latitude": "+43.383849",
+        "longitude": "-097.915618"
+    },
+    {
+        "county": "HUTCHINSON",
+        "city": "TRIPP",
+        "latitude": "+43.248460",
+        "longitude": "-097.923502"
+    },
+    {
+        "county": "HYDE",
+        "city": "HIGHMORE",
+        "latitude": "+44.574651",
+        "longitude": "-099.486417"
+    },
+    {
+        "county": "HYDE",
+        "city": "HOLABIRD",
+        "latitude": "+44.490558",
+        "longitude": "-099.589344"
+    },
+    {
+        "county": "HYDE",
+        "city": "STEPHAN",
+        "latitude": "+44.545094",
+        "longitude": "-099.488221"
+    },
+    {
+        "county": "JACKSON",
+        "city": "BELVIDERE",
+        "latitude": "+43.691966",
+        "longitude": "-101.601609"
+    },
+    {
+        "county": "JACKSON",
+        "city": "INTERIOR",
+        "latitude": "+43.691966",
+        "longitude": "-101.601609"
+    },
+    {
+        "county": "JACKSON",
+        "city": "KADOKA",
+        "latitude": "+43.824178",
+        "longitude": "-101.389524"
+    },
+    {
+        "county": "JACKSON",
+        "city": "LONG VALLEY",
+        "latitude": "+43.691966",
+        "longitude": "-101.601609"
+    },
+    {
+        "county": "JACKSON",
+        "city": "WANBLEE",
+        "latitude": "+43.691966",
+        "longitude": "-101.601609"
+    },
+    {
+        "county": "JERAULD",
+        "city": "ALPENA",
+        "latitude": "+44.122811",
+        "longitude": "-098.412198"
+    },
+    {
+        "county": "JERAULD",
+        "city": "LANE",
+        "latitude": "+44.069628",
+        "longitude": "-098.425228"
+    },
+    {
+        "county": "JERAULD",
+        "city": "WESSINGTON SPRINGS",
+        "latitude": "+44.066415",
+        "longitude": "-098.675133"
+    },
+    {
+        "county": "JONES",
+        "city": "DRAPER",
+        "latitude": "+43.938049",
+        "longitude": "-100.701672"
+    },
+    {
+        "county": "JONES",
+        "city": "MURDO",
+        "latitude": "+43.879993",
+        "longitude": "-100.757340"
+    },
+    {
+        "county": "JONES",
+        "city": "OKATON",
+        "latitude": "+43.938049",
+        "longitude": "-100.701672"
+    },
+    {
+        "county": "KINGSBURY",
+        "city": "ARLINGTON",
+        "latitude": "+44.368264",
+        "longitude": "-097.246086"
+    },
+    {
+        "county": "KINGSBURY",
+        "city": "BADGER",
+        "latitude": "+44.484381",
+        "longitude": "-097.209173"
+    },
+    {
+        "county": "KINGSBURY",
+        "city": "DE SMET",
+        "latitude": "+44.369482",
+        "longitude": "-097.542049"
+    },
+    {
+        "county": "KINGSBURY",
+        "city": "ERWIN",
+        "latitude": "+44.470856",
+        "longitude": "-097.370412"
+    },
+    {
+        "county": "KINGSBURY",
+        "city": "HETLAND",
+        "latitude": "+44.425409",
+        "longitude": "-097.289881"
+    },
+    {
+        "county": "KINGSBURY",
+        "city": "IROQUOIS",
+        "latitude": "+44.369593",
+        "longitude": "-097.652194"
+    },
+    {
+        "county": "KINGSBURY",
+        "city": "LAKE PRESTON",
+        "latitude": "+44.369159",
+        "longitude": "-097.382824"
+    },
+    {
+        "county": "KINGSBURY",
+        "city": "OLDHAM",
+        "latitude": "+44.245942",
+        "longitude": "-097.320310"
+    },
+    {
+        "county": "LAKE",
+        "city": "CHESTER",
+        "latitude": "+43.895505",
+        "longitude": "-096.928024"
+    },
+    {
+        "county": "LAKE",
+        "city": "MADISON",
+        "latitude": "+44.054223",
+        "longitude": "-097.091339"
+    },
+    {
+        "county": "LAKE",
+        "city": "NUNDA",
+        "latitude": "+44.021983",
+        "longitude": "-097.129455"
+    },
+    {
+        "county": "LAKE",
+        "city": "RAMONA",
+        "latitude": "+44.118600",
+        "longitude": "-097.215191"
+    },
+    {
+        "county": "LAKE",
+        "city": "RUTLAND",
+        "latitude": "+44.021983",
+        "longitude": "-097.129455"
+    },
+    {
+        "county": "LAKE",
+        "city": "WENTWORTH",
+        "latitude": "+43.996979",
+        "longitude": "-096.967095"
+    },
+    {
+        "county": "LAKE",
+        "city": "WINFRED",
+        "latitude": "+44.021983",
+        "longitude": "-097.129455"
+    },
+    {
+        "county": "LAWRENCE",
+        "city": "DEADWOOD",
+        "latitude": "+44.364850",
+        "longitude": "-103.735731"
+    },
+    {
+        "county": "LAWRENCE",
+        "city": "LEAD",
+        "latitude": "+44.444505",
+        "longitude": "-103.752683"
+    },
+    {
+        "county": "LAWRENCE",
+        "city": "NEMO",
+        "latitude": "+44.372688",
+        "longitude": "-103.754204"
+    },
+    {
+        "county": "LAWRENCE",
+        "city": "SAINT ONGE",
+        "latitude": "+44.547307",
+        "longitude": "-103.723214"
+    },
+    {
+        "county": "LAWRENCE",
+        "city": "SPEARFISH",
+        "latitude": "+44.495846",
+        "longitude": "-103.870251"
+    },
+    {
+        "county": "LAWRENCE",
+        "city": "WHITEWOOD",
+        "latitude": "+44.464980",
+        "longitude": "-103.644136"
+    },
+    {
+        "county": "LINCOLN",
+        "city": "CANTON",
+        "latitude": "+43.298310",
+        "longitude": "-096.707180"
+    },
+    {
+        "county": "LINCOLN",
+        "city": "FAIRVIEW",
+        "latitude": "+43.197041",
+        "longitude": "-096.513506"
+    },
+    {
+        "county": "LINCOLN",
+        "city": "HARRISBURG",
+        "latitude": "+43.425258",
+        "longitude": "-096.659737"
+    },
+    {
+        "county": "LINCOLN",
+        "city": "HUDSON",
+        "latitude": "+43.184976",
+        "longitude": "-096.580939"
+    },
+    {
+        "county": "LINCOLN",
+        "city": "LENNOX",
+        "latitude": "+43.298098",
+        "longitude": "-096.856021"
+    },
+    {
+        "county": "LINCOLN",
+        "city": "TEA",
+        "latitude": "+43.414340",
+        "longitude": "-096.842783"
+    },
+    {
+        "county": "LINCOLN",
+        "city": "WORTHING",
+        "latitude": "+43.286596",
+        "longitude": "-096.776784"
+    },
+    {
+        "county": "LYMAN",
+        "city": "IONA",
+        "latitude": "+43.858620",
+        "longitude": "-099.824337"
+    },
+    {
+        "county": "LYMAN",
+        "city": "KENNEBEC",
+        "latitude": "+43.858620",
+        "longitude": "-099.824337"
+    },
+    {
+        "county": "LYMAN",
+        "city": "LOWER BRULE",
+        "latitude": "+43.858620",
+        "longitude": "-099.824337"
+    },
+    {
+        "county": "LYMAN",
+        "city": "OACOMA",
+        "latitude": "+43.797502",
+        "longitude": "-099.394735"
+    },
+    {
+        "county": "LYMAN",
+        "city": "PRESHO",
+        "latitude": "+43.908372",
+        "longitude": "-100.046855"
+    },
+    {
+        "county": "LYMAN",
+        "city": "RELIANCE",
+        "latitude": "+43.858620",
+        "longitude": "-099.824337"
+    },
+    {
+        "county": "LYMAN",
+        "city": "VIVIAN",
+        "latitude": "+43.858620",
+        "longitude": "-099.824337"
+    },
+    {
+        "county": "MARSHALL",
+        "city": "AMHERST",
+        "latitude": "+45.758528",
+        "longitude": "-097.927389"
+    },
+    {
+        "county": "MARSHALL",
+        "city": "BRITTON",
+        "latitude": "+45.761704",
+        "longitude": "-097.729570"
+    },
+    {
+        "county": "MARSHALL",
+        "city": "EDEN",
+        "latitude": "+45.631054",
+        "longitude": "-097.400570"
+    },
+    {
+        "county": "MARSHALL",
+        "city": "LAKE CITY",
+        "latitude": "+45.717904",
+        "longitude": "-097.470748"
+    },
+    {
+        "county": "MARSHALL",
+        "city": "LANGFORD",
+        "latitude": "+45.692919",
+        "longitude": "-097.768102"
+    },
+    {
+        "county": "MARSHALL",
+        "city": "VEBLEN",
+        "latitude": "+45.849458",
+        "longitude": "-097.376617"
+    },
+    {
+        "county": "MCCOOK",
+        "city": "BRIDGEWATER",
+        "latitude": "+43.550264",
+        "longitude": "-097.469058"
+    },
+    {
+        "county": "MCCOOK",
+        "city": "CANISTOTA",
+        "latitude": "+43.572888",
+        "longitude": "-097.248418"
+    },
+    {
+        "county": "MCCOOK",
+        "city": "MONTROSE",
+        "latitude": "+43.696853",
+        "longitude": "-097.185930"
+    },
+    {
+        "county": "MCCOOK",
+        "city": "SALEM",
+        "latitude": "+43.639298",
+        "longitude": "-097.343417"
+    },
+    {
+        "county": "MCCOOK",
+        "city": "SPENCER",
+        "latitude": "+43.723565",
+        "longitude": "-097.581441"
+    },
+    {
+        "county": "MCPHERSON",
+        "city": "EUREKA",
+        "latitude": "+45.770740",
+        "longitude": "-099.330778"
+    },
+    {
+        "county": "MCPHERSON",
+        "city": "LEOLA",
+        "latitude": "+45.773436",
+        "longitude": "-098.983305"
+    },
+    {
+        "county": "MCPHERSON",
+        "city": "LONGLAKE",
+        "latitude": "+45.882332",
+        "longitude": "-099.169825"
+    },
+    {
+        "county": "MEADE",
+        "city": "BLACK HAWK",
+        "latitude": "+44.183216",
+        "longitude": "-103.326118"
+    },
+    {
+        "county": "MEADE",
+        "city": "ELLSWORTH AFB",
+        "latitude": "+44.185222",
+        "longitude": "-103.229087"
+    },
+    {
+        "county": "MEADE",
+        "city": "ELM SPRINGS",
+        "latitude": "+44.348777",
+        "longitude": "-102.523860"
+    },
+    {
+        "county": "MEADE",
+        "city": "ENNING",
+        "latitude": "+44.589806",
+        "longitude": "-102.787188"
+    },
+    {
+        "county": "MEADE",
+        "city": "FAITH",
+        "latitude": "+45.024533",
+        "longitude": "-102.026734"
+    },
+    {
+        "county": "MEADE",
+        "city": "FORT MEADE",
+        "latitude": "+44.409320",
+        "longitude": "-103.455428"
+    },
+    {
+        "county": "MEADE",
+        "city": "HOWES",
+        "latitude": "+44.589806",
+        "longitude": "-102.787188"
+    },
+    {
+        "county": "MEADE",
+        "city": "MUD BUTTE",
+        "latitude": "+44.589806",
+        "longitude": "-102.787188"
+    },
+    {
+        "county": "MEADE",
+        "city": "OPAL",
+        "latitude": "+44.589806",
+        "longitude": "-102.787188"
+    },
+    {
+        "county": "MEADE",
+        "city": "PIEDMONT",
+        "latitude": "+44.220524",
+        "longitude": "-103.272284"
+    },
+    {
+        "county": "MEADE",
+        "city": "RED OWL",
+        "latitude": "+44.691005",
+        "longitude": "-102.587048"
+    },
+    {
+        "county": "MEADE",
+        "city": "STURGIS",
+        "latitude": "+44.369172",
+        "longitude": "-103.361658"
+    },
+    {
+        "county": "MEADE",
+        "city": "UNION CENTER",
+        "latitude": "+44.653923",
+        "longitude": "-102.725189"
+    },
+    {
+        "county": "MEADE",
+        "city": "WHITE OWL",
+        "latitude": "+44.589806",
+        "longitude": "-102.787188"
+    },
+    {
+        "county": "MELLETTE",
+        "city": "NORRIS",
+        "latitude": "+43.623523",
+        "longitude": "-100.721218"
+    },
+    {
+        "county": "MELLETTE",
+        "city": "WHITE RIVER",
+        "latitude": "+43.566116",
+        "longitude": "-100.745912"
+    },
+    {
+        "county": "MELLETTE",
+        "city": "WOOD",
+        "latitude": "+43.623523",
+        "longitude": "-100.721218"
+    },
+    {
+        "county": "MINER",
+        "city": "CANOVA",
+        "latitude": "+43.892123",
+        "longitude": "-097.540053"
+    },
+    {
+        "county": "MINER",
+        "city": "CARTHAGE",
+        "latitude": "+44.138176",
+        "longitude": "-097.720661"
+    },
+    {
+        "county": "MINER",
+        "city": "FEDORA",
+        "latitude": "+44.001852",
+        "longitude": "-097.750838"
+    },
+    {
+        "county": "MINER",
+        "city": "HOWARD",
+        "latitude": "+44.037102",
+        "longitude": "-097.560340"
+    },
+    {
+        "county": "MINNEHAHA",
+        "city": "BALTIC",
+        "latitude": "+43.645140",
+        "longitude": "-096.814589"
+    },
+    {
+        "county": "MINNEHAHA",
+        "city": "BRANDON",
+        "latitude": "+43.603401",
+        "longitude": "-096.793708"
+    },
+    {
+        "county": "MINNEHAHA",
+        "city": "BUFFALO RIDGE",
+        "latitude": "+43.521895",
+        "longitude": "-096.868464"
+    },
+    {
+        "county": "MINNEHAHA",
+        "city": "COLTON",
+        "latitude": "+43.790192",
+        "longitude": "-096.907845"
+    },
+    {
+        "county": "MINNEHAHA",
+        "city": "CROOKS",
+        "latitude": "+43.666894",
+        "longitude": "-096.822137"
+    },
+    {
+        "county": "MINNEHAHA",
+        "city": "DELL RAPIDS",
+        "latitude": "+43.803585",
+        "longitude": "-096.699766"
+    },
+    {
+        "county": "MINNEHAHA",
+        "city": "GARRETSON",
+        "latitude": "+43.747639",
+        "longitude": "-096.596379"
+    },
+    {
+        "county": "MINNEHAHA",
+        "city": "HARTFORD",
+        "latitude": "+43.630545",
+        "longitude": "-096.814539"
+    },
+    {
+        "county": "MINNEHAHA",
+        "city": "HUMBOLDT",
+        "latitude": "+43.637836",
+        "longitude": "-096.816129"
+    },
+    {
+        "county": "MINNEHAHA",
+        "city": "LYONS",
+        "latitude": "+43.728488",
+        "longitude": "-096.870928"
+    },
+    {
+        "county": "MINNEHAHA",
+        "city": "RENNER",
+        "latitude": "+43.666979",
+        "longitude": "-096.760473"
+    },
+    {
+        "county": "MINNEHAHA",
+        "city": "ROWENA",
+        "latitude": "+43.521559",
+        "longitude": "-096.558738"
+    },
+    {
+        "county": "MINNEHAHA",
+        "city": "SIOUX FALLS",
+        "latitude": "+43.674582",
+        "longitude": "-096.791340"
+    },
+    {
+        "county": "MINNEHAHA",
+        "city": "VALLEY SPRINGS",
+        "latitude": "+43.594402",
+        "longitude": "-096.528511"
+    },
+    {
+        "county": "MOODY",
+        "city": "COLMAN",
+        "latitude": "+43.984778",
+        "longitude": "-096.814237"
+    },
+    {
+        "county": "MOODY",
+        "city": "EGAN",
+        "latitude": "+43.998434",
+        "longitude": "-096.648034"
+    },
+    {
+        "county": "MOODY",
+        "city": "FLANDREAU",
+        "latitude": "+43.984004",
+        "longitude": "-096.616189"
+    },
+    {
+        "county": "MOODY",
+        "city": "TRENT",
+        "latitude": "+43.907616",
+        "longitude": "-096.653301"
+    },
+    {
+        "county": "PENNINGTON",
+        "city": "BOX ELDER",
+        "latitude": "+44.036670",
+        "longitude": "-103.204293"
+    },
+    {
+        "county": "PENNINGTON",
+        "city": "CAPUTA",
+        "latitude": "+43.948063",
+        "longitude": "-102.793461"
+    },
+    {
+        "county": "PENNINGTON",
+        "city": "CREIGHTON",
+        "latitude": "+44.312407",
+        "longitude": "-102.150335"
+    },
+    {
+        "county": "PENNINGTON",
+        "city": "HILL CITY",
+        "latitude": "+44.008200",
+        "longitude": "-103.651357"
+    },
+    {
+        "county": "PENNINGTON",
+        "city": "KEYSTONE",
+        "latitude": "+43.884764",
+        "longitude": "-103.399471"
+    },
+    {
+        "county": "PENNINGTON",
+        "city": "NEW UNDERWOOD",
+        "latitude": "+44.056691",
+        "longitude": "-102.798970"
+    },
+    {
+        "county": "PENNINGTON",
+        "city": "OWANKA",
+        "latitude": "+44.067413",
+        "longitude": "-102.680781"
+    },
+    {
+        "county": "PENNINGTON",
+        "city": "QUINN",
+        "latitude": "+44.068731",
+        "longitude": "-102.222633"
+    },
+    {
+        "county": "PENNINGTON",
+        "city": "RAPID CITY",
+        "latitude": "+44.076106",
+        "longitude": "-103.317149"
+    },
+    {
+        "county": "PENNINGTON",
+        "city": "ROCHFORD",
+        "latitude": "+44.117606",
+        "longitude": "-103.761058"
+    },
+    {
+        "county": "PENNINGTON",
+        "city": "SCENIC",
+        "latitude": "+43.788416",
+        "longitude": "-102.346797"
+    },
+    {
+        "county": "PENNINGTON",
+        "city": "WALL",
+        "latitude": "+44.013772",
+        "longitude": "-102.238397"
+    },
+    {
+        "county": "PENNINGTON",
+        "city": "WASTA",
+        "latitude": "+44.016848",
+        "longitude": "-102.598660"
+    },
+    {
+        "county": "PERKINS",
+        "city": "BISON",
+        "latitude": "+45.409748",
+        "longitude": "-102.513087"
+    },
+    {
+        "county": "PERKINS",
+        "city": "LEMMON",
+        "latitude": "+45.732219",
+        "longitude": "-102.410975"
+    },
+    {
+        "county": "PERKINS",
+        "city": "LODGEPOLE",
+        "latitude": "+45.703777",
+        "longitude": "-102.663011"
+    },
+    {
+        "county": "PERKINS",
+        "city": "MEADOW",
+        "latitude": "+45.453221",
+        "longitude": "-102.280948"
+    },
+    {
+        "county": "PERKINS",
+        "city": "PRAIRIE CITY",
+        "latitude": "+45.440744",
+        "longitude": "-102.704216"
+    },
+    {
+        "county": "PERKINS",
+        "city": "SHADEHILL",
+        "latitude": "+45.680798",
+        "longitude": "-102.292753"
+    },
+    {
+        "county": "POTTER",
+        "city": "GETTYSBURG",
+        "latitude": "+45.033588",
+        "longitude": "-100.035273"
+    },
+    {
+        "county": "POTTER",
+        "city": "HOVEN",
+        "latitude": "+45.241265",
+        "longitude": "-099.777259"
+    },
+    {
+        "county": "POTTER",
+        "city": "LEBANON",
+        "latitude": "+45.072088",
+        "longitude": "-099.998438"
+    },
+    {
+        "county": "POTTER",
+        "city": "TOLSTOY",
+        "latitude": "+45.223750",
+        "longitude": "-099.694578"
+    },
+    {
+        "county": "ROBERTS",
+        "city": "CLAIRE CITY",
+        "latitude": "+45.616422",
+        "longitude": "-096.849416"
+    },
+    {
+        "county": "ROBERTS",
+        "city": "CORONA",
+        "latitude": "+45.616422",
+        "longitude": "-096.849416"
+    },
+    {
+        "county": "ROBERTS",
+        "city": "NEW EFFINGTON",
+        "latitude": "+45.616422",
+        "longitude": "-096.849416"
+    },
+    {
+        "county": "ROBERTS",
+        "city": "ORTLEY",
+        "latitude": "+45.616422",
+        "longitude": "-096.849416"
+    },
+    {
+        "county": "ROBERTS",
+        "city": "PEEVER",
+        "latitude": "+45.542151",
+        "longitude": "-096.951675"
+    },
+    {
+        "county": "ROBERTS",
+        "city": "ROSHOLT",
+        "latitude": "+45.616422",
+        "longitude": "-096.849416"
+    },
+    {
+        "county": "ROBERTS",
+        "city": "SISSETON",
+        "latitude": "+45.541443",
+        "longitude": "-096.970202"
+    },
+    {
+        "county": "ROBERTS",
+        "city": "SUMMIT",
+        "latitude": "+45.302040",
+        "longitude": "-097.036537"
+    },
+    {
+        "county": "ROBERTS",
+        "city": "WILMOT",
+        "latitude": "+45.398570",
+        "longitude": "-096.832256"
+    },
+    {
+        "county": "SANBORN",
+        "city": "ARTESIAN",
+        "latitude": "+44.020961",
+        "longitude": "-098.011440"
+    },
+    {
+        "county": "SANBORN",
+        "city": "LETCHER",
+        "latitude": "+43.953471",
+        "longitude": "-098.151193"
+    },
+    {
+        "county": "SANBORN",
+        "city": "WOONSOCKET",
+        "latitude": "+44.042710",
+        "longitude": "-098.231397"
+    },
+    {
+        "county": "SHANNON",
+        "city": "BATESLAND",
+        "latitude": "+43.352617",
+        "longitude": "-102.541100"
+    },
+    {
+        "county": "SHANNON",
+        "city": "KYLE",
+        "latitude": "+43.352617",
+        "longitude": "-102.541100"
+    },
+    {
+        "county": "SHANNON",
+        "city": "MANDERSON",
+        "latitude": "+43.352617",
+        "longitude": "-102.541100"
+    },
+    {
+        "county": "SHANNON",
+        "city": "OGLALA",
+        "latitude": "+43.352617",
+        "longitude": "-102.541100"
+    },
+    {
+        "county": "SHANNON",
+        "city": "PINE RIDGE",
+        "latitude": "+43.024319",
+        "longitude": "-102.535178"
+    },
+    {
+        "county": "SHANNON",
+        "city": "PORCUPINE",
+        "latitude": "+43.352617",
+        "longitude": "-102.541100"
+    },
+    {
+        "county": "SHANNON",
+        "city": "WOUNDED KNEE",
+        "latitude": "+43.352617",
+        "longitude": "-102.541100"
+    },
+    {
+        "county": "SPINK",
+        "city": "ASHTON",
+        "latitude": "+45.046485",
+        "longitude": "-098.397319"
+    },
+    {
+        "county": "SPINK",
+        "city": "BRENTFORD",
+        "latitude": "+45.163452",
+        "longitude": "-098.319296"
+    },
+    {
+        "county": "SPINK",
+        "city": "CONDE",
+        "latitude": "+45.139317",
+        "longitude": "-098.153390"
+    },
+    {
+        "county": "SPINK",
+        "city": "DOLAND",
+        "latitude": "+44.846523",
+        "longitude": "-098.102360"
+    },
+    {
+        "county": "SPINK",
+        "city": "FRANKFORT",
+        "latitude": "+44.870365",
+        "longitude": "-098.225875"
+    },
+    {
+        "county": "SPINK",
+        "city": "MANSFIELD",
+        "latitude": "+45.222950",
+        "longitude": "-098.599388"
+    },
+    {
+        "county": "SPINK",
+        "city": "MELLETTE",
+        "latitude": "+45.155829",
+        "longitude": "-098.426714"
+    },
+    {
+        "county": "SPINK",
+        "city": "NORTHVILLE",
+        "latitude": "+45.125985",
+        "longitude": "-098.625836"
+    },
+    {
+        "county": "SPINK",
+        "city": "REDFIELD",
+        "latitude": "+44.954101",
+        "longitude": "-098.406878"
+    },
+    {
+        "county": "SPINK",
+        "city": "TULARE",
+        "latitude": "+44.893778",
+        "longitude": "-098.402047"
+    },
+    {
+        "county": "SPINK",
+        "city": "TURTON",
+        "latitude": "+45.045466",
+        "longitude": "-098.182922"
+    },
+    {
+        "county": "STANLEY",
+        "city": "FORT PIERRE",
+        "latitude": "+44.343326",
+        "longitude": "-100.635312"
+    },
+    {
+        "county": "STANLEY",
+        "city": "HAYES",
+        "latitude": "+44.531281",
+        "longitude": "-101.014052"
+    },
+    {
+        "county": "STANLEY",
+        "city": "MISSION RIDGE",
+        "latitude": "+44.475844",
+        "longitude": "-100.529517"
+    },
+    {
+        "county": "SULLY",
+        "city": "AGAR",
+        "latitude": "+44.802621",
+        "longitude": "-100.158903"
+    },
+    {
+        "county": "SULLY",
+        "city": "ONIDA",
+        "latitude": "+44.722873",
+        "longitude": "-099.979546"
+    },
+    {
+        "county": "TODD",
+        "city": "MISSION",
+        "latitude": "+43.304572",
+        "longitude": "-100.662079"
+    },
+    {
+        "county": "TODD",
+        "city": "OKREEK",
+        "latitude": "+43.194063",
+        "longitude": "-100.713373"
+    },
+    {
+        "county": "TODD",
+        "city": "PARMELEE",
+        "latitude": "+43.194063",
+        "longitude": "-100.713373"
+    },
+    {
+        "county": "TODD",
+        "city": "ROSEBUD",
+        "latitude": "+43.302375",
+        "longitude": "-100.626863"
+    },
+    {
+        "county": "TODD",
+        "city": "SAINT FRANCIS",
+        "latitude": "+43.194063",
+        "longitude": "-100.713373"
+    },
+    {
+        "county": "TRIPP",
+        "city": "CARTER",
+        "latitude": "+43.382122",
+        "longitude": "-099.882310"
+    },
+    {
+        "county": "TRIPP",
+        "city": "COLOME",
+        "latitude": "+43.260083",
+        "longitude": "-099.716537"
+    },
+    {
+        "county": "TRIPP",
+        "city": "HAMILL",
+        "latitude": "+43.382122",
+        "longitude": "-099.882310"
+    },
+    {
+        "county": "TRIPP",
+        "city": "IDEAL",
+        "latitude": "+43.382122",
+        "longitude": "-099.882310"
+    },
+    {
+        "county": "TRIPP",
+        "city": "WEWELA",
+        "latitude": "+43.382122",
+        "longitude": "-099.882310"
+    },
+    {
+        "county": "TRIPP",
+        "city": "WINNER",
+        "latitude": "+43.331763",
+        "longitude": "-099.803286"
+    },
+    {
+        "county": "TRIPP",
+        "city": "WITTEN",
+        "latitude": "+43.382122",
+        "longitude": "-099.882310"
+    },
+    {
+        "county": "TURNER",
+        "city": "CENTERVILLE",
+        "latitude": "+43.291296",
+        "longitude": "-097.042271"
+    },
+    {
+        "county": "TURNER",
+        "city": "CHANCELLOR",
+        "latitude": "+43.408226",
+        "longitude": "-096.983852"
+    },
+    {
+        "county": "TURNER",
+        "city": "DAVIS",
+        "latitude": "+43.272502",
+        "longitude": "-096.983494"
+    },
+    {
+        "county": "TURNER",
+        "city": "HURLEY",
+        "latitude": "+43.278943",
+        "longitude": "-097.141677"
+    },
+    {
+        "county": "TURNER",
+        "city": "MARION",
+        "latitude": "+43.292364",
+        "longitude": "-097.278318"
+    },
+    {
+        "county": "TURNER",
+        "city": "MONROE",
+        "latitude": "+43.489841",
+        "longitude": "-097.250932"
+    },
+    {
+        "county": "TURNER",
+        "city": "PARKER",
+        "latitude": "+43.399595",
+        "longitude": "-097.134211"
+    },
+    {
+        "county": "TURNER",
+        "city": "VIBORG",
+        "latitude": "+43.188383",
+        "longitude": "-097.180373"
+    },
+    {
+        "county": "UNION",
+        "city": "ALCESTER",
+        "latitude": "+42.931698",
+        "longitude": "-096.624298"
+    },
+    {
+        "county": "UNION",
+        "city": "BERESFORD",
+        "latitude": "+42.842947",
+        "longitude": "-096.681135"
+    },
+    {
+        "county": "UNION",
+        "city": "ELK POINT",
+        "latitude": "+42.763990",
+        "longitude": "-096.676742"
+    },
+    {
+        "county": "UNION",
+        "city": "JEFFERSON",
+        "latitude": "+42.580112",
+        "longitude": "-096.576256"
+    },
+    {
+        "county": "UNION",
+        "city": "NORTH SIOUX CITY",
+        "latitude": "+42.587483",
+        "longitude": "-096.585026"
+    },
+    {
+        "county": "WALWORTH",
+        "city": "AKASKA",
+        "latitude": "+45.290690",
+        "longitude": "-099.991823"
+    },
+    {
+        "county": "WALWORTH",
+        "city": "GLENHAM",
+        "latitude": "+45.504288",
+        "longitude": "-100.311701"
+    },
+    {
+        "county": "WALWORTH",
+        "city": "JAVA",
+        "latitude": "+45.449196",
+        "longitude": "-099.821987"
+    },
+    {
+        "county": "WALWORTH",
+        "city": "MOBRIDGE",
+        "latitude": "+45.550822",
+        "longitude": "-100.330283"
+    },
+    {
+        "county": "WALWORTH",
+        "city": "SELBY",
+        "latitude": "+45.434632",
+        "longitude": "-100.098171"
+    },
+    {
+        "county": "YANKTON",
+        "city": "GAYVILLE",
+        "latitude": "+42.886136",
+        "longitude": "-097.209902"
+    },
+    {
+        "county": "YANKTON",
+        "city": "LESTERVILLE",
+        "latitude": "+43.060620",
+        "longitude": "-097.568901"
+    },
+    {
+        "county": "YANKTON",
+        "city": "MISSION HILL",
+        "latitude": "+42.969251",
+        "longitude": "-097.297103"
+    },
+    {
+        "county": "YANKTON",
+        "city": "UTICA",
+        "latitude": "+43.016376",
+        "longitude": "-097.369385"
+    },
+    {
+        "county": "YANKTON",
+        "city": "VOLIN",
+        "latitude": "+43.002044",
+        "longitude": "-097.239829"
+    },
+    {
+        "county": "YANKTON",
+        "city": "YANKTON",
+        "latitude": "+42.867556",
+        "longitude": "-097.390268"
+    },
+    {
+        "county": "ZIEBACH",
+        "city": "CHERRY CREEK",
+        "latitude": "+44.992051",
+        "longitude": "-101.568656"
+    },
+    {
+        "county": "ZIEBACH",
+        "city": "DUPREE",
+        "latitude": "+45.050456",
+        "longitude": "-101.607171"
+    },
+    {
+        "county": "ZIEBACH",
+        "city": "GLAD VALLEY",
+        "latitude": "+44.992051",
+        "longitude": "-101.568656"
+    }
+]

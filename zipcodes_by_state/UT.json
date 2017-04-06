@@ -1,0 +1,2466 @@
+[
+    {
+        "county": "BEAVER",
+        "city": "BEAVER",
+        "zipcode": 84713,
+        "latitude": "+38.315334",
+        "longitude": "-112.798228"
+    },
+    {
+        "county": "BEAVER",
+        "city": "GREENVILLE",
+        "zipcode": 84731,
+        "latitude": "+38.235645",
+        "longitude": "-112.783262"
+    },
+    {
+        "county": "BEAVER",
+        "city": "MILFORD",
+        "zipcode": 84751,
+        "latitude": "+38.305873",
+        "longitude": "-113.250981"
+    },
+    {
+        "county": "BEAVER",
+        "city": "MINERSVILLE",
+        "zipcode": 84752,
+        "latitude": "+38.214874",
+        "longitude": "-112.923106"
+    },
+    {
+        "county": "BOX ELDER",
+        "city": "BEAR RIVER CITY",
+        "zipcode": 84301,
+        "latitude": "+41.609266",
+        "longitude": "-112.124107"
+    },
+    {
+        "county": "BOX ELDER",
+        "city": "BRIGHAM CITY",
+        "zipcode": 84302,
+        "latitude": "+41.537922",
+        "longitude": "-112.061761"
+    },
+    {
+        "county": "BOX ELDER",
+        "city": "COLLINSTON",
+        "zipcode": 84306,
+        "latitude": "+41.781268",
+        "longitude": "-112.066608"
+    },
+    {
+        "county": "BOX ELDER",
+        "city": "CORINNE",
+        "zipcode": 84307,
+        "latitude": "+41.454713",
+        "longitude": "-112.390322"
+    },
+    {
+        "county": "BOX ELDER",
+        "city": "DEWEYVILLE",
+        "zipcode": 84309,
+        "latitude": "+41.713643",
+        "longitude": "-112.097195"
+    },
+    {
+        "county": "BOX ELDER",
+        "city": "FIELDING",
+        "zipcode": 84311,
+        "latitude": "+41.628942",
+        "longitude": "-112.094039"
+    },
+    {
+        "county": "BOX ELDER",
+        "city": "GARLAND",
+        "zipcode": 84312,
+        "latitude": "+41.798402",
+        "longitude": "-112.140361"
+    },
+    {
+        "county": "BOX ELDER",
+        "city": "GROUSE CREEK",
+        "zipcode": 84313,
+        "latitude": "+41.500586",
+        "longitude": "-112.957875"
+    },
+    {
+        "county": "BOX ELDER",
+        "city": "HONEYVILLE",
+        "zipcode": 84314,
+        "latitude": "+41.651978",
+        "longitude": "-112.104979"
+    },
+    {
+        "county": "BOX ELDER",
+        "city": "HOWELL",
+        "zipcode": 84316,
+        "latitude": "+41.773280",
+        "longitude": "-112.396755"
+    },
+    {
+        "county": "BOX ELDER",
+        "city": "MANTUA",
+        "zipcode": 84324,
+        "latitude": "+41.492844",
+        "longitude": "-111.942400"
+    },
+    {
+        "county": "BOX ELDER",
+        "city": "PARK VALLEY",
+        "zipcode": 84329,
+        "latitude": "+41.808234",
+        "longitude": "-113.523193"
+    },
+    {
+        "county": "BOX ELDER",
+        "city": "PLYMOUTH",
+        "zipcode": 84330,
+        "latitude": "+41.883058",
+        "longitude": "-112.138837"
+    },
+    {
+        "county": "BOX ELDER",
+        "city": "PORTAGE",
+        "zipcode": 84331,
+        "latitude": "+41.906183",
+        "longitude": "-112.180605"
+    },
+    {
+        "county": "BOX ELDER",
+        "city": "RIVERSIDE",
+        "zipcode": 84334,
+        "latitude": "+41.786849",
+        "longitude": "-112.146687"
+    },
+    {
+        "county": "BOX ELDER",
+        "city": "SNOWVILLE",
+        "zipcode": 84336,
+        "latitude": "+41.965964",
+        "longitude": "-112.726895"
+    },
+    {
+        "county": "BOX ELDER",
+        "city": "TREMONTON",
+        "zipcode": 84337,
+        "latitude": "+41.688490",
+        "longitude": "-112.255453"
+    },
+    {
+        "county": "BOX ELDER",
+        "city": "WILLARD",
+        "zipcode": 84340,
+        "latitude": "+41.387828",
+        "longitude": "-112.047650"
+    },
+    {
+        "county": "CACHE",
+        "city": "CACHE JUNCTION",
+        "zipcode": 84304,
+        "latitude": "+41.816936",
+        "longitude": "-111.998197"
+    },
+    {
+        "county": "CACHE",
+        "city": "CLARKSTON",
+        "zipcode": 84305,
+        "latitude": "+41.919726",
+        "longitude": "-112.030254"
+    },
+    {
+        "county": "CACHE",
+        "city": "CORNISH",
+        "zipcode": 84308,
+        "latitude": "+41.944253",
+        "longitude": "-111.973275"
+    },
+    {
+        "county": "CACHE",
+        "city": "HYDE PARK",
+        "zipcode": 84318,
+        "latitude": "+41.800028",
+        "longitude": "-111.812321"
+    },
+    {
+        "county": "CACHE",
+        "city": "HYRUM",
+        "zipcode": 84319,
+        "latitude": "+41.717589",
+        "longitude": "-111.879653"
+    },
+    {
+        "county": "CACHE",
+        "city": "LEWISTON",
+        "zipcode": 84320,
+        "latitude": "+41.816874",
+        "longitude": "-111.874421"
+    },
+    {
+        "county": "CACHE",
+        "city": "LOGAN",
+        "zipcode": 84321,
+        "latitude": "+41.766950",
+        "longitude": "-111.885084"
+    },
+    {
+        "county": "CACHE",
+        "city": "LOGAN",
+        "zipcode": 84322,
+        "latitude": "+41.641189",
+        "longitude": "-111.896571"
+    },
+    {
+        "county": "CACHE",
+        "city": "LOGAN",
+        "zipcode": 84323,
+        "latitude": "+41.684253",
+        "longitude": "-111.783783"
+    },
+    {
+        "county": "CACHE",
+        "city": "LOGAN",
+        "zipcode": 84341,
+        "latitude": "+41.838005",
+        "longitude": "-111.917217"
+    },
+    {
+        "county": "CACHE",
+        "city": "MENDON",
+        "zipcode": 84325,
+        "latitude": "+41.724699",
+        "longitude": "-111.989806"
+    },
+    {
+        "county": "CACHE",
+        "city": "MILLVILLE",
+        "zipcode": 84326,
+        "latitude": "+41.675906",
+        "longitude": "-111.818459"
+    },
+    {
+        "county": "CACHE",
+        "city": "NEWTON",
+        "zipcode": 84327,
+        "latitude": "+41.921329",
+        "longitude": "-112.002633"
+    },
+    {
+        "county": "CACHE",
+        "city": "PARADISE",
+        "zipcode": 84328,
+        "latitude": "+41.548529",
+        "longitude": "-111.810740"
+    },
+    {
+        "county": "CACHE",
+        "city": "PROVIDENCE",
+        "zipcode": 84332,
+        "latitude": "+41.797849",
+        "longitude": "-111.915564"
+    },
+    {
+        "county": "CACHE",
+        "city": "RICHMOND",
+        "zipcode": 84333,
+        "latitude": "+41.883064",
+        "longitude": "-111.798034"
+    },
+    {
+        "county": "CACHE",
+        "city": "SMITHFIELD",
+        "zipcode": 84335,
+        "latitude": "+41.801798",
+        "longitude": "-111.910101"
+    },
+    {
+        "county": "CACHE",
+        "city": "TRENTON",
+        "zipcode": 84338,
+        "latitude": "+41.924050",
+        "longitude": "-111.925583"
+    },
+    {
+        "county": "CACHE",
+        "city": "WELLSVILLE",
+        "zipcode": 84339,
+        "latitude": "+41.637826",
+        "longitude": "-111.917588"
+    },
+    {
+        "county": "CARBON",
+        "city": "EAST CARBON",
+        "zipcode": 84520,
+        "latitude": "+39.531795",
+        "longitude": "-110.403536"
+    },
+    {
+        "county": "CARBON",
+        "city": "HELPER",
+        "zipcode": 84526,
+        "latitude": "+39.637459",
+        "longitude": "-110.776670"
+    },
+    {
+        "county": "CARBON",
+        "city": "HIAWATHA",
+        "zipcode": 84527,
+        "latitude": "+39.640779",
+        "longitude": "-110.560697"
+    },
+    {
+        "county": "CARBON",
+        "city": "KENILWORTH",
+        "zipcode": 84529,
+        "latitude": "+39.688418",
+        "longitude": "-110.807260"
+    },
+    {
+        "county": "CARBON",
+        "city": "PRICE",
+        "zipcode": 84501,
+        "latitude": "+39.567883",
+        "longitude": "-110.650901"
+    },
+    {
+        "county": "CARBON",
+        "city": "SUNNYSIDE",
+        "zipcode": 84539,
+        "latitude": "+39.534651",
+        "longitude": "-110.398832"
+    },
+    {
+        "county": "CARBON",
+        "city": "WELLINGTON",
+        "zipcode": 84542,
+        "latitude": "+39.614663",
+        "longitude": "-110.641314"
+    },
+    {
+        "county": "DAGGETT",
+        "city": "DUTCH JOHN",
+        "zipcode": 84023,
+        "latitude": "+40.936315",
+        "longitude": "-109.432883"
+    },
+    {
+        "county": "DAGGETT",
+        "city": "MANILA",
+        "zipcode": 84046,
+        "latitude": "+40.990039",
+        "longitude": "-109.704889"
+    },
+    {
+        "county": "DAVIS",
+        "city": "BOUNTIFUL",
+        "zipcode": 84010,
+        "latitude": "+40.874038",
+        "longitude": "-111.870994"
+    },
+    {
+        "county": "DAVIS",
+        "city": "BOUNTIFUL",
+        "zipcode": 84011,
+        "latitude": "+40.963547",
+        "longitude": "-112.115984"
+    },
+    {
+        "county": "DAVIS",
+        "city": "CENTERVILLE",
+        "zipcode": 84014,
+        "latitude": "+40.929547",
+        "longitude": "-111.889651"
+    },
+    {
+        "county": "DAVIS",
+        "city": "CLEARFIELD",
+        "zipcode": 84015,
+        "latitude": "+41.017594",
+        "longitude": "-111.995023"
+    },
+    {
+        "county": "DAVIS",
+        "city": "CLEARFIELD",
+        "zipcode": 84016,
+        "latitude": "+40.892995",
+        "longitude": "-111.888121"
+    },
+    {
+        "county": "DAVIS",
+        "city": "CLEARFIELD",
+        "zipcode": 84089,
+        "latitude": "+40.963547",
+        "longitude": "-112.115984"
+    },
+    {
+        "county": "DAVIS",
+        "city": "FARMINGTON",
+        "zipcode": 84025,
+        "latitude": "+40.969069",
+        "longitude": "-111.907344"
+    },
+    {
+        "county": "DAVIS",
+        "city": "HILL AFB",
+        "zipcode": 84056,
+        "latitude": "+41.120219",
+        "longitude": "-111.989813"
+    },
+    {
+        "county": "DAVIS",
+        "city": "KAYSVILLE",
+        "zipcode": 84037,
+        "latitude": "+40.960691",
+        "longitude": "-111.927970"
+    },
+    {
+        "county": "DAVIS",
+        "city": "LAYTON",
+        "zipcode": 84040,
+        "latitude": "+41.088889",
+        "longitude": "-111.926140"
+    },
+    {
+        "county": "DAVIS",
+        "city": "LAYTON",
+        "zipcode": 84041,
+        "latitude": "+41.059863",
+        "longitude": "-111.994525"
+    },
+    {
+        "county": "DAVIS",
+        "city": "NORTH SALT LAKE",
+        "zipcode": 84054,
+        "latitude": "+40.844595",
+        "longitude": "-111.919115"
+    },
+    {
+        "county": "DAVIS",
+        "city": "SYRACUSE",
+        "zipcode": 84075,
+        "latitude": "+41.096293",
+        "longitude": "-112.079415"
+    },
+    {
+        "county": "DAVIS",
+        "city": "WOODS CROSS",
+        "zipcode": 84087,
+        "latitude": "+40.889027",
+        "longitude": "-111.926646"
+    },
+    {
+        "county": "DUCHESNE",
+        "city": "ALTAMONT",
+        "zipcode": 84001,
+        "latitude": "+40.320728",
+        "longitude": "-110.435974"
+    },
+    {
+        "county": "DUCHESNE",
+        "city": "ALTONAH",
+        "zipcode": 84002,
+        "latitude": "+40.320728",
+        "longitude": "-110.435974"
+    },
+    {
+        "county": "DUCHESNE",
+        "city": "BLUEBELL",
+        "zipcode": 84007,
+        "latitude": "+40.312539",
+        "longitude": "-110.229816"
+    },
+    {
+        "county": "DUCHESNE",
+        "city": "DUCHESNE",
+        "zipcode": 84021,
+        "latitude": "+40.193815",
+        "longitude": "-110.313210"
+    },
+    {
+        "county": "DUCHESNE",
+        "city": "FRUITLAND",
+        "zipcode": 84027,
+        "latitude": "+40.320728",
+        "longitude": "-110.435974"
+    },
+    {
+        "county": "DUCHESNE",
+        "city": "HANNA",
+        "zipcode": 84031,
+        "latitude": "+40.428901",
+        "longitude": "-110.807816"
+    },
+    {
+        "county": "DUCHESNE",
+        "city": "MOUNTAIN HOME",
+        "zipcode": 84051,
+        "latitude": "+40.320728",
+        "longitude": "-110.435974"
+    },
+    {
+        "county": "DUCHESNE",
+        "city": "MYTON",
+        "zipcode": 84052,
+        "latitude": "+40.200074",
+        "longitude": "-110.049034"
+    },
+    {
+        "county": "DUCHESNE",
+        "city": "NEOLA",
+        "zipcode": 84053,
+        "latitude": "+40.320728",
+        "longitude": "-110.435974"
+    },
+    {
+        "county": "DUCHESNE",
+        "city": "ROOSEVELT",
+        "zipcode": 84066,
+        "latitude": "+40.266539",
+        "longitude": "-110.106937"
+    },
+    {
+        "county": "DUCHESNE",
+        "city": "TABIONA",
+        "zipcode": 84072,
+        "latitude": "+40.359782",
+        "longitude": "-110.721218"
+    },
+    {
+        "county": "DUCHESNE",
+        "city": "TALMAGE",
+        "zipcode": 84073,
+        "latitude": "+40.320728",
+        "longitude": "-110.435974"
+    },
+    {
+        "county": "EMERY",
+        "city": "CASTLE DALE",
+        "zipcode": 84513,
+        "latitude": "+39.196393",
+        "longitude": "-111.052868"
+    },
+    {
+        "county": "EMERY",
+        "city": "CLAWSON",
+        "zipcode": 84516,
+        "latitude": "+39.119759",
+        "longitude": "-111.100814"
+    },
+    {
+        "county": "EMERY",
+        "city": "CLEVELAND",
+        "zipcode": 84518,
+        "latitude": "+39.373583",
+        "longitude": "-110.893573"
+    },
+    {
+        "county": "EMERY",
+        "city": "ELMO",
+        "zipcode": 84521,
+        "latitude": "+39.403255",
+        "longitude": "-110.810027"
+    },
+    {
+        "county": "EMERY",
+        "city": "EMERY",
+        "zipcode": 84522,
+        "latitude": "+38.922600",
+        "longitude": "-111.251238"
+    },
+    {
+        "county": "EMERY",
+        "city": "FERRON",
+        "zipcode": 84523,
+        "latitude": "+39.143730",
+        "longitude": "-111.118572"
+    },
+    {
+        "county": "EMERY",
+        "city": "GREEN RIVER",
+        "zipcode": 84525,
+        "latitude": "+39.020075",
+        "longitude": "-110.213864"
+    },
+    {
+        "county": "EMERY",
+        "city": "HUNTINGTON",
+        "zipcode": 84528,
+        "latitude": "+39.283156",
+        "longitude": "-110.961933"
+    },
+    {
+        "county": "EMERY",
+        "city": "ORANGEVILLE",
+        "zipcode": 84537,
+        "latitude": "+39.230155",
+        "longitude": "-111.051827"
+    },
+    {
+        "county": "GARFIELD",
+        "city": "ANTIMONY",
+        "zipcode": 84712,
+        "latitude": "+37.729535",
+        "longitude": "-110.543374"
+    },
+    {
+        "county": "GARFIELD",
+        "city": "BOULDER",
+        "zipcode": 84716,
+        "latitude": "+37.844777",
+        "longitude": "-111.308206"
+    },
+    {
+        "county": "GARFIELD",
+        "city": "BRYCE",
+        "zipcode": 84764,
+        "latitude": "+37.844777",
+        "longitude": "-111.308206"
+    },
+    {
+        "county": "GARFIELD",
+        "city": "BRYCE CANYON",
+        "zipcode": 84717,
+        "latitude": "+37.844777",
+        "longitude": "-111.308206"
+    },
+    {
+        "county": "GARFIELD",
+        "city": "CANNONVILLE",
+        "zipcode": 84718,
+        "latitude": "+37.844777",
+        "longitude": "-111.308206"
+    },
+    {
+        "county": "GARFIELD",
+        "city": "ESCALANTE",
+        "zipcode": 84726,
+        "latitude": "+37.767764",
+        "longitude": "-111.595666"
+    },
+    {
+        "county": "GARFIELD",
+        "city": "HATCH",
+        "zipcode": 84735,
+        "latitude": "+37.717477",
+        "longitude": "-112.477716"
+    },
+    {
+        "county": "GARFIELD",
+        "city": "HENRIEVILLE",
+        "zipcode": 84736,
+        "latitude": "+37.844777",
+        "longitude": "-111.308206"
+    },
+    {
+        "county": "GARFIELD",
+        "city": "PANGUITCH",
+        "zipcode": 84759,
+        "latitude": "+37.827846",
+        "longitude": "-112.522595"
+    },
+    {
+        "county": "GARFIELD",
+        "city": "TROPIC",
+        "zipcode": 84776,
+        "latitude": "+37.626146",
+        "longitude": "-112.083565"
+    },
+    {
+        "county": "GRAND",
+        "city": "CISCO",
+        "zipcode": 84515,
+        "latitude": "+38.999877",
+        "longitude": "-109.615008"
+    },
+    {
+        "county": "GRAND",
+        "city": "MOAB",
+        "zipcode": 84532,
+        "latitude": "+38.580400",
+        "longitude": "-109.540190"
+    },
+    {
+        "county": "GRAND",
+        "city": "THOMPSON",
+        "zipcode": 84540,
+        "latitude": "+38.999877",
+        "longitude": "-109.615008"
+    },
+    {
+        "county": "IRON",
+        "city": "BERYL",
+        "zipcode": 84714,
+        "latitude": "+37.721369",
+        "longitude": "-113.663891"
+    },
+    {
+        "county": "IRON",
+        "city": "BRIAN HEAD",
+        "zipcode": 84719,
+        "latitude": "+37.735522",
+        "longitude": "-112.839145"
+    },
+    {
+        "county": "IRON",
+        "city": "CEDAR CITY",
+        "zipcode": 84720,
+        "latitude": "+37.694059",
+        "longitude": "-113.192619"
+    },
+    {
+        "county": "IRON",
+        "city": "CEDAR CITY",
+        "zipcode": 84721,
+        "latitude": "+37.656843",
+        "longitude": "-113.369500"
+    },
+    {
+        "county": "IRON",
+        "city": "KANARRAVILLE",
+        "zipcode": 84742,
+        "latitude": "+37.522753",
+        "longitude": "-113.203633"
+    },
+    {
+        "county": "IRON",
+        "city": "MODENA",
+        "zipcode": 84753,
+        "latitude": "+37.775781",
+        "longitude": "-113.813634"
+    },
+    {
+        "county": "IRON",
+        "city": "NEWCASTLE",
+        "zipcode": 84756,
+        "latitude": "+37.692401",
+        "longitude": "-113.627239"
+    },
+    {
+        "county": "IRON",
+        "city": "PARAGONAH",
+        "zipcode": 84760,
+        "latitude": "+37.886012",
+        "longitude": "-112.791568"
+    },
+    {
+        "county": "IRON",
+        "city": "PAROWAN",
+        "zipcode": 84761,
+        "latitude": "+37.823412",
+        "longitude": "-112.849246"
+    },
+    {
+        "county": "IRON",
+        "city": "SUMMIT",
+        "zipcode": 84772,
+        "latitude": "+37.815946",
+        "longitude": "-112.900041"
+    },
+    {
+        "county": "JUAB",
+        "city": "EUREKA",
+        "zipcode": 84628,
+        "latitude": "+39.941737",
+        "longitude": "-112.174424"
+    },
+    {
+        "county": "JUAB",
+        "city": "LEVAN",
+        "zipcode": 84639,
+        "latitude": "+39.521515",
+        "longitude": "-111.943753"
+    },
+    {
+        "county": "JUAB",
+        "city": "MONA",
+        "zipcode": 84645,
+        "latitude": "+39.848111",
+        "longitude": "-111.850284"
+    },
+    {
+        "county": "JUAB",
+        "city": "NEPHI",
+        "zipcode": 84648,
+        "latitude": "+39.757861",
+        "longitude": "-111.841787"
+    },
+    {
+        "county": "KANE",
+        "city": "ALTON",
+        "zipcode": 84710,
+        "latitude": "+37.438637",
+        "longitude": "-112.482285"
+    },
+    {
+        "county": "KANE",
+        "city": "DUCK CREEK VILLAGE",
+        "zipcode": 84762,
+        "latitude": "+37.516889",
+        "longitude": "-112.663612"
+    },
+    {
+        "county": "KANE",
+        "city": "GLENDALE",
+        "zipcode": 84729,
+        "latitude": "+37.311416",
+        "longitude": "-112.601749"
+    },
+    {
+        "county": "KANE",
+        "city": "KANAB",
+        "zipcode": 84741,
+        "latitude": "+37.265251",
+        "longitude": "-111.687187"
+    },
+    {
+        "county": "KANE",
+        "city": "MOUNT CARMEL",
+        "zipcode": 84755,
+        "latitude": "+37.241269",
+        "longitude": "-112.696938"
+    },
+    {
+        "county": "KANE",
+        "city": "ORDERVILLE",
+        "zipcode": 84758,
+        "latitude": "+37.272395",
+        "longitude": "-112.716919"
+    },
+    {
+        "county": "MILLARD",
+        "city": "DELTA",
+        "zipcode": 84624,
+        "latitude": "+39.247056",
+        "longitude": "-112.526542"
+    },
+    {
+        "county": "MILLARD",
+        "city": "FILLMORE",
+        "zipcode": 84631,
+        "latitude": "+39.055572",
+        "longitude": "-112.467412"
+    },
+    {
+        "county": "MILLARD",
+        "city": "GARRISON",
+        "zipcode": 84728,
+        "latitude": "+39.064330",
+        "longitude": "-113.032141"
+    },
+    {
+        "county": "MILLARD",
+        "city": "HINCKLEY",
+        "zipcode": 84635,
+        "latitude": "+39.114202",
+        "longitude": "-113.130306"
+    },
+    {
+        "county": "MILLARD",
+        "city": "HOLDEN",
+        "zipcode": 84636,
+        "latitude": "+39.096372",
+        "longitude": "-112.283443"
+    },
+    {
+        "county": "MILLARD",
+        "city": "KANOSH",
+        "zipcode": 84637,
+        "latitude": "+38.831824",
+        "longitude": "-112.456072"
+    },
+    {
+        "county": "MILLARD",
+        "city": "LEAMINGTON",
+        "zipcode": 84638,
+        "latitude": "+39.530246",
+        "longitude": "-112.295191"
+    },
+    {
+        "county": "MILLARD",
+        "city": "LYNNDYL",
+        "zipcode": 84640,
+        "latitude": "+39.494252",
+        "longitude": "-112.397903"
+    },
+    {
+        "county": "MILLARD",
+        "city": "MEADOW",
+        "zipcode": 84644,
+        "latitude": "+39.064330",
+        "longitude": "-113.032141"
+    },
+    {
+        "county": "MILLARD",
+        "city": "OAK CITY",
+        "zipcode": 84649,
+        "latitude": "+39.372902",
+        "longitude": "-112.328797"
+    },
+    {
+        "county": "MILLARD",
+        "city": "OASIS",
+        "zipcode": 84650,
+        "latitude": "+39.290220",
+        "longitude": "-112.628084"
+    },
+    {
+        "county": "MILLARD",
+        "city": "SCIPIO",
+        "zipcode": 84656,
+        "latitude": "+39.249513",
+        "longitude": "-112.106366"
+    },
+    {
+        "county": "MORGAN",
+        "city": "CROYDON",
+        "zipcode": 84018,
+        "latitude": "+41.090456",
+        "longitude": "-111.486959"
+    },
+    {
+        "county": "MORGAN",
+        "city": "MORGAN",
+        "zipcode": 84050,
+        "latitude": "+41.068883",
+        "longitude": "-111.702746"
+    },
+    {
+        "county": "PIUTE",
+        "city": "CIRCLEVILLE",
+        "zipcode": 84723,
+        "latitude": "+38.182708",
+        "longitude": "-112.232857"
+    },
+    {
+        "county": "PIUTE",
+        "city": "GREENWICH",
+        "zipcode": 84732,
+        "latitude": "+38.328871",
+        "longitude": "-112.142622"
+    },
+    {
+        "county": "PIUTE",
+        "city": "JUNCTION",
+        "zipcode": 84740,
+        "latitude": "+38.243856",
+        "longitude": "-112.223742"
+    },
+    {
+        "county": "PIUTE",
+        "city": "KINGSTON",
+        "zipcode": 84743,
+        "latitude": "+38.227829",
+        "longitude": "-112.205360"
+    },
+    {
+        "county": "PIUTE",
+        "city": "MARYSVALE",
+        "zipcode": 84750,
+        "latitude": "+38.434909",
+        "longitude": "-112.206757"
+    },
+    {
+        "county": "RICH",
+        "city": "GARDEN CITY",
+        "zipcode": 84028,
+        "latitude": "+41.907816",
+        "longitude": "-111.379691"
+    },
+    {
+        "county": "RICH",
+        "city": "LAKETOWN",
+        "zipcode": 84038,
+        "latitude": "+41.858357",
+        "longitude": "-111.349487"
+    },
+    {
+        "county": "RICH",
+        "city": "RANDOLPH",
+        "zipcode": 84064,
+        "latitude": "+41.690895",
+        "longitude": "-111.184512"
+    },
+    {
+        "county": "RICH",
+        "city": "WOODRUFF",
+        "zipcode": 84086,
+        "latitude": "+41.467578",
+        "longitude": "-111.183650"
+    },
+    {
+        "county": "SALT LAKE",
+        "city": "BINGHAM CANYON",
+        "zipcode": 84006,
+        "latitude": "+40.592045",
+        "longitude": "-112.078600"
+    },
+    {
+        "county": "SALT LAKE",
+        "city": "DRAPER",
+        "zipcode": 84020,
+        "latitude": "+40.506148",
+        "longitude": "-111.869671"
+    },
+    {
+        "county": "SALT LAKE",
+        "city": "MAGNA",
+        "zipcode": 84044,
+        "latitude": "+40.699401",
+        "longitude": "-112.088875"
+    },
+    {
+        "county": "SALT LAKE",
+        "city": "MIDVALE",
+        "zipcode": 84047,
+        "latitude": "+40.608972",
+        "longitude": "-111.885868"
+    },
+    {
+        "county": "SALT LAKE",
+        "city": "RIVERTON",
+        "zipcode": 84065,
+        "latitude": "+40.495129",
+        "longitude": "-112.006270"
+    },
+    {
+        "county": "SALT LAKE",
+        "city": "SALT LAKE CITY",
+        "zipcode": 84101,
+        "latitude": "+40.756095",
+        "longitude": "-111.900719"
+    },
+    {
+        "county": "SALT LAKE",
+        "city": "SALT LAKE CITY",
+        "zipcode": 84102,
+        "latitude": "+40.759246",
+        "longitude": "-111.862590"
+    },
+    {
+        "county": "SALT LAKE",
+        "city": "SALT LAKE CITY",
+        "zipcode": 84103,
+        "latitude": "+40.785847",
+        "longitude": "-111.869485"
+    },
+    {
+        "county": "SALT LAKE",
+        "city": "SALT LAKE CITY",
+        "zipcode": 84104,
+        "latitude": "+40.747845",
+        "longitude": "-111.984100"
+    },
+    {
+        "county": "SALT LAKE",
+        "city": "SALT LAKE CITY",
+        "zipcode": 84105,
+        "latitude": "+40.738153",
+        "longitude": "-111.856517"
+    },
+    {
+        "county": "SALT LAKE",
+        "city": "SALT LAKE CITY",
+        "zipcode": 84106,
+        "latitude": "+40.707846",
+        "longitude": "-111.836766"
+    },
+    {
+        "county": "SALT LAKE",
+        "city": "SALT LAKE CITY",
+        "zipcode": 84107,
+        "latitude": "+40.656796",
+        "longitude": "-111.890414"
+    },
+    {
+        "county": "SALT LAKE",
+        "city": "SALT LAKE CITY",
+        "zipcode": 84108,
+        "latitude": "+40.777078",
+        "longitude": "-111.753274"
+    },
+    {
+        "county": "SALT LAKE",
+        "city": "SALT LAKE CITY",
+        "zipcode": 84109,
+        "latitude": "+40.707005",
+        "longitude": "-111.744257"
+    },
+    {
+        "county": "SALT LAKE",
+        "city": "SALT LAKE CITY",
+        "zipcode": 84110,
+        "latitude": "+40.668068",
+        "longitude": "-111.908297"
+    },
+    {
+        "county": "SALT LAKE",
+        "city": "SALT LAKE CITY",
+        "zipcode": 84111,
+        "latitude": "+40.755596",
+        "longitude": "-111.883718"
+    },
+    {
+        "county": "SALT LAKE",
+        "city": "SALT LAKE CITY",
+        "zipcode": 84112,
+        "latitude": "+40.765868",
+        "longitude": "-111.840284"
+    },
+    {
+        "county": "SALT LAKE",
+        "city": "SALT LAKE CITY",
+        "zipcode": 84113,
+        "latitude": "+40.765795",
+        "longitude": "-111.836423"
+    },
+    {
+        "county": "SALT LAKE",
+        "city": "SALT LAKE CITY",
+        "zipcode": 84114,
+        "latitude": "+40.668068",
+        "longitude": "-111.908297"
+    },
+    {
+        "county": "SALT LAKE",
+        "city": "SALT LAKE CITY",
+        "zipcode": 84115,
+        "latitude": "+40.714496",
+        "longitude": "-111.893118"
+    },
+    {
+        "county": "SALT LAKE",
+        "city": "SALT LAKE CITY",
+        "zipcode": 84116,
+        "latitude": "+40.798495",
+        "longitude": "-111.999902"
+    },
+    {
+        "county": "SALT LAKE",
+        "city": "SALT LAKE CITY",
+        "zipcode": 84117,
+        "latitude": "+40.655097",
+        "longitude": "-111.833966"
+    },
+    {
+        "county": "SALT LAKE",
+        "city": "SALT LAKE CITY",
+        "zipcode": 84118,
+        "latitude": "+40.650407",
+        "longitude": "-112.005421"
+    },
+    {
+        "county": "SALT LAKE",
+        "city": "SALT LAKE CITY",
+        "zipcode": 84119,
+        "latitude": "+40.633297",
+        "longitude": "-111.913368"
+    },
+    {
+        "county": "SALT LAKE",
+        "city": "SALT LAKE CITY",
+        "zipcode": 84120,
+        "latitude": "+40.695045",
+        "longitude": "-112.000072"
+    },
+    {
+        "county": "SALT LAKE",
+        "city": "SALT LAKE CITY",
+        "zipcode": 84121,
+        "latitude": "+40.622557",
+        "longitude": "-111.777749"
+    },
+    {
+        "county": "SALT LAKE",
+        "city": "SALT LAKE CITY",
+        "zipcode": 84122,
+        "latitude": "+40.668068",
+        "longitude": "-111.908297"
+    },
+    {
+        "county": "SALT LAKE",
+        "city": "SALT LAKE CITY",
+        "zipcode": 84123,
+        "latitude": "+40.659630",
+        "longitude": "-111.919269"
+    },
+    {
+        "county": "SALT LAKE",
+        "city": "SALT LAKE CITY",
+        "zipcode": 84124,
+        "latitude": "+40.653246",
+        "longitude": "-111.820566"
+    },
+    {
+        "county": "SALT LAKE",
+        "city": "SALT LAKE CITY",
+        "zipcode": 84125,
+        "latitude": "+40.668068",
+        "longitude": "-111.908297"
+    },
+    {
+        "county": "SALT LAKE",
+        "city": "SALT LAKE CITY",
+        "zipcode": 84126,
+        "latitude": "+40.668068",
+        "longitude": "-111.908297"
+    },
+    {
+        "county": "SALT LAKE",
+        "city": "SALT LAKE CITY",
+        "zipcode": 84127,
+        "latitude": "+40.668068",
+        "longitude": "-111.908297"
+    },
+    {
+        "county": "SALT LAKE",
+        "city": "SALT LAKE CITY",
+        "zipcode": 84128,
+        "latitude": "+40.697645",
+        "longitude": "-112.037673"
+    },
+    {
+        "county": "SALT LAKE",
+        "city": "SALT LAKE CITY",
+        "zipcode": 84130,
+        "latitude": "+40.668068",
+        "longitude": "-111.908297"
+    },
+    {
+        "county": "SALT LAKE",
+        "city": "SALT LAKE CITY",
+        "zipcode": 84131,
+        "latitude": "+40.668068",
+        "longitude": "-111.908297"
+    },
+    {
+        "county": "SALT LAKE",
+        "city": "SALT LAKE CITY",
+        "zipcode": 84132,
+        "latitude": "+40.772743",
+        "longitude": "-111.838541"
+    },
+    {
+        "county": "SALT LAKE",
+        "city": "SALT LAKE CITY",
+        "zipcode": 84133,
+        "latitude": "+40.769046",
+        "longitude": "-111.889319"
+    },
+    {
+        "county": "SALT LAKE",
+        "city": "SALT LAKE CITY",
+        "zipcode": 84134,
+        "latitude": "+40.668068",
+        "longitude": "-111.908297"
+    },
+    {
+        "county": "SALT LAKE",
+        "city": "SALT LAKE CITY",
+        "zipcode": 84135,
+        "latitude": "+40.668068",
+        "longitude": "-111.908297"
+    },
+    {
+        "county": "SALT LAKE",
+        "city": "SALT LAKE CITY",
+        "zipcode": 84136,
+        "latitude": "+40.768546",
+        "longitude": "-111.887869"
+    },
+    {
+        "county": "SALT LAKE",
+        "city": "SALT LAKE CITY",
+        "zipcode": 84138,
+        "latitude": "+40.671614",
+        "longitude": "-111.748280"
+    },
+    {
+        "county": "SALT LAKE",
+        "city": "SALT LAKE CITY",
+        "zipcode": 84139,
+        "latitude": "+40.668068",
+        "longitude": "-111.908297"
+    },
+    {
+        "county": "SALT LAKE",
+        "city": "SALT LAKE CITY",
+        "zipcode": 84140,
+        "latitude": "+40.771345",
+        "longitude": "-111.930870"
+    },
+    {
+        "county": "SALT LAKE",
+        "city": "SALT LAKE CITY",
+        "zipcode": 84141,
+        "latitude": "+40.668068",
+        "longitude": "-111.908297"
+    },
+    {
+        "county": "SALT LAKE",
+        "city": "SALT LAKE CITY",
+        "zipcode": 84142,
+        "latitude": "+40.668068",
+        "longitude": "-111.908297"
+    },
+    {
+        "county": "SALT LAKE",
+        "city": "SALT LAKE CITY",
+        "zipcode": 84143,
+        "latitude": "+40.786886",
+        "longitude": "-111.900832"
+    },
+    {
+        "county": "SALT LAKE",
+        "city": "SALT LAKE CITY",
+        "zipcode": 84144,
+        "latitude": "+40.767946",
+        "longitude": "-111.890819"
+    },
+    {
+        "county": "SALT LAKE",
+        "city": "SALT LAKE CITY",
+        "zipcode": 84145,
+        "latitude": "+40.668068",
+        "longitude": "-111.908297"
+    },
+    {
+        "county": "SALT LAKE",
+        "city": "SALT LAKE CITY",
+        "zipcode": 84147,
+        "latitude": "+40.668068",
+        "longitude": "-111.908297"
+    },
+    {
+        "county": "SALT LAKE",
+        "city": "SALT LAKE CITY",
+        "zipcode": 84148,
+        "latitude": "+40.756796",
+        "longitude": "-111.837567"
+    },
+    {
+        "county": "SALT LAKE",
+        "city": "SALT LAKE CITY",
+        "zipcode": 84150,
+        "latitude": "+40.668068",
+        "longitude": "-111.908297"
+    },
+    {
+        "county": "SALT LAKE",
+        "city": "SALT LAKE CITY",
+        "zipcode": 84151,
+        "latitude": "+40.668068",
+        "longitude": "-111.908297"
+    },
+    {
+        "county": "SALT LAKE",
+        "city": "SALT LAKE CITY",
+        "zipcode": 84152,
+        "latitude": "+40.728579",
+        "longitude": "-111.662730"
+    },
+    {
+        "county": "SALT LAKE",
+        "city": "SALT LAKE CITY",
+        "zipcode": 84153,
+        "latitude": "+40.668068",
+        "longitude": "-111.908297"
+    },
+    {
+        "county": "SALT LAKE",
+        "city": "SALT LAKE CITY",
+        "zipcode": 84157,
+        "latitude": "+40.668068",
+        "longitude": "-111.908297"
+    },
+    {
+        "county": "SALT LAKE",
+        "city": "SALT LAKE CITY",
+        "zipcode": 84158,
+        "latitude": "+40.768996",
+        "longitude": "-111.762115"
+    },
+    {
+        "county": "SALT LAKE",
+        "city": "SALT LAKE CITY",
+        "zipcode": 84165,
+        "latitude": "+40.668068",
+        "longitude": "-111.908297"
+    },
+    {
+        "county": "SALT LAKE",
+        "city": "SALT LAKE CITY",
+        "zipcode": 84170,
+        "latitude": "+40.668068",
+        "longitude": "-111.908297"
+    },
+    {
+        "county": "SALT LAKE",
+        "city": "SALT LAKE CITY",
+        "zipcode": 84171,
+        "latitude": "+40.668068",
+        "longitude": "-111.908297"
+    },
+    {
+        "county": "SALT LAKE",
+        "city": "SALT LAKE CITY",
+        "zipcode": 84180,
+        "latitude": "+40.769045",
+        "longitude": "-111.900769"
+    },
+    {
+        "county": "SALT LAKE",
+        "city": "SALT LAKE CITY",
+        "zipcode": 84184,
+        "latitude": "+40.676839",
+        "longitude": "-111.956811"
+    },
+    {
+        "county": "SALT LAKE",
+        "city": "SALT LAKE CITY",
+        "zipcode": 84189,
+        "latitude": "+40.668068",
+        "longitude": "-111.908297"
+    },
+    {
+        "county": "SALT LAKE",
+        "city": "SALT LAKE CITY",
+        "zipcode": 84190,
+        "latitude": "+40.668068",
+        "longitude": "-111.908297"
+    },
+    {
+        "county": "SALT LAKE",
+        "city": "SALT LAKE CITY",
+        "zipcode": 84193,
+        "latitude": "",
+        "longitude": ""
+    },
+    {
+        "county": "SALT LAKE",
+        "city": "SALT LAKE CITY",
+        "zipcode": 84194,
+        "latitude": "",
+        "longitude": ""
+    },
+    {
+        "county": "SALT LAKE",
+        "city": "SALT LAKE CITY",
+        "zipcode": 84195,
+        "latitude": "",
+        "longitude": ""
+    },
+    {
+        "county": "SALT LAKE",
+        "city": "SALT LAKE CITY",
+        "zipcode": 84199,
+        "latitude": "+40.725946",
+        "longitude": "-111.939420"
+    },
+    {
+        "county": "SALT LAKE",
+        "city": "SANDY",
+        "zipcode": 84070,
+        "latitude": "+40.578597",
+        "longitude": "-111.859504"
+    },
+    {
+        "county": "SALT LAKE",
+        "city": "SANDY",
+        "zipcode": 84090,
+        "latitude": "+40.668068",
+        "longitude": "-111.908297"
+    },
+    {
+        "county": "SALT LAKE",
+        "city": "SANDY",
+        "zipcode": 84091,
+        "latitude": "+40.668068",
+        "longitude": "-111.908297"
+    },
+    {
+        "county": "SALT LAKE",
+        "city": "SANDY",
+        "zipcode": 84092,
+        "latitude": "+40.583401",
+        "longitude": "-111.746713"
+    },
+    {
+        "county": "SALT LAKE",
+        "city": "SANDY",
+        "zipcode": 84093,
+        "latitude": "+40.595025",
+        "longitude": "-111.824566"
+    },
+    {
+        "county": "SALT LAKE",
+        "city": "SANDY",
+        "zipcode": 84094,
+        "latitude": "+40.569893",
+        "longitude": "-111.858617"
+    },
+    {
+        "county": "SALT LAKE",
+        "city": "SOUTH JORDAN",
+        "zipcode": 84095,
+        "latitude": "+40.554098",
+        "longitude": "-111.953891"
+    },
+    {
+        "county": "SALT LAKE",
+        "city": "WEST JORDAN",
+        "zipcode": 84084,
+        "latitude": "+40.606125",
+        "longitude": "-111.978898"
+    },
+    {
+        "county": "SALT LAKE",
+        "city": "WEST JORDAN",
+        "zipcode": 84088,
+        "latitude": "+40.587629",
+        "longitude": "-111.983420"
+    },
+    {
+        "county": "SAN JUAN",
+        "city": "ANETH",
+        "zipcode": 84510,
+        "latitude": "+37.748946",
+        "longitude": "-110.226910"
+    },
+    {
+        "county": "SAN JUAN",
+        "city": "BLANDING",
+        "zipcode": 84511,
+        "latitude": "+37.566938",
+        "longitude": "-109.441410"
+    },
+    {
+        "county": "SAN JUAN",
+        "city": "BLUFF",
+        "zipcode": 84512,
+        "latitude": "+37.624663",
+        "longitude": "-109.479932"
+    },
+    {
+        "county": "SAN JUAN",
+        "city": "LA SAL",
+        "zipcode": 84530,
+        "latitude": "+37.748946",
+        "longitude": "-110.226910"
+    },
+    {
+        "county": "SAN JUAN",
+        "city": "LAKE POWELL",
+        "zipcode": 84533,
+        "latitude": "+37.748946",
+        "longitude": "-110.226910"
+    },
+    {
+        "county": "SAN JUAN",
+        "city": "MEXICAN HAT",
+        "zipcode": 84531,
+        "latitude": "+37.748946",
+        "longitude": "-110.226910"
+    },
+    {
+        "county": "SAN JUAN",
+        "city": "MONTEZUMA CREEK",
+        "zipcode": 84534,
+        "latitude": "+37.253910",
+        "longitude": "-109.106079"
+    },
+    {
+        "county": "SAN JUAN",
+        "city": "MONTICELLO",
+        "zipcode": 84535,
+        "latitude": "+38.099745",
+        "longitude": "-109.259108"
+    },
+    {
+        "county": "SAN JUAN",
+        "city": "MONUMENT VALLEY",
+        "zipcode": 84536,
+        "latitude": "+37.280022",
+        "longitude": "-109.568090"
+    },
+    {
+        "county": "SANPETE",
+        "city": "AXTELL",
+        "zipcode": 84621,
+        "latitude": "+39.192478",
+        "longitude": "-111.719605"
+    },
+    {
+        "county": "SANPETE",
+        "city": "CENTERFIELD",
+        "zipcode": 84622,
+        "latitude": "+39.109892",
+        "longitude": "-111.823067"
+    },
+    {
+        "county": "SANPETE",
+        "city": "CHESTER",
+        "zipcode": 84623,
+        "latitude": "+39.494319",
+        "longitude": "-111.493217"
+    },
+    {
+        "county": "SANPETE",
+        "city": "EPHRAIM",
+        "zipcode": 84627,
+        "latitude": "+39.373122",
+        "longitude": "-111.625230"
+    },
+    {
+        "county": "SANPETE",
+        "city": "FAIRVIEW",
+        "zipcode": 84629,
+        "latitude": "+39.697844",
+        "longitude": "-111.430513"
+    },
+    {
+        "county": "SANPETE",
+        "city": "FAYETTE",
+        "zipcode": 84630,
+        "latitude": "+39.215210",
+        "longitude": "-111.879009"
+    },
+    {
+        "county": "SANPETE",
+        "city": "FOUNTAIN GREEN",
+        "zipcode": 84632,
+        "latitude": "+39.392622",
+        "longitude": "-111.729316"
+    },
+    {
+        "county": "SANPETE",
+        "city": "GUNNISON",
+        "zipcode": 84634,
+        "latitude": "+39.136318",
+        "longitude": "-111.845821"
+    },
+    {
+        "county": "SANPETE",
+        "city": "MANTI",
+        "zipcode": 84642,
+        "latitude": "+39.358358",
+        "longitude": "-111.657690"
+    },
+    {
+        "county": "SANPETE",
+        "city": "MAYFIELD",
+        "zipcode": 84643,
+        "latitude": "+39.115440",
+        "longitude": "-111.690522"
+    },
+    {
+        "county": "SANPETE",
+        "city": "MORONI",
+        "zipcode": 84646,
+        "latitude": "+39.510792",
+        "longitude": "-111.560318"
+    },
+    {
+        "county": "SANPETE",
+        "city": "MOUNT PLEASANT",
+        "zipcode": 84647,
+        "latitude": "+39.348588",
+        "longitude": "-111.605642"
+    },
+    {
+        "county": "SANPETE",
+        "city": "SPRING CITY",
+        "zipcode": 84662,
+        "latitude": "+39.467083",
+        "longitude": "-111.466090"
+    },
+    {
+        "county": "SANPETE",
+        "city": "STERLING",
+        "zipcode": 84665,
+        "latitude": "+39.133489",
+        "longitude": "-111.740853"
+    },
+    {
+        "county": "SANPETE",
+        "city": "WALES",
+        "zipcode": 84667,
+        "latitude": "+39.488381",
+        "longitude": "-111.634051"
+    },
+    {
+        "county": "SEVIER",
+        "city": "ANNABELLA",
+        "zipcode": 84711,
+        "latitude": "+38.716845",
+        "longitude": "-112.065687"
+    },
+    {
+        "county": "SEVIER",
+        "city": "AURORA",
+        "zipcode": 84620,
+        "latitude": "+38.959002",
+        "longitude": "-111.904385"
+    },
+    {
+        "county": "SEVIER",
+        "city": "ELSINORE",
+        "zipcode": 84724,
+        "latitude": "+38.686192",
+        "longitude": "-112.108495"
+    },
+    {
+        "county": "SEVIER",
+        "city": "GLENWOOD",
+        "zipcode": 84730,
+        "latitude": "+38.766687",
+        "longitude": "-111.962780"
+    },
+    {
+        "county": "SEVIER",
+        "city": "JOSEPH",
+        "zipcode": 84739,
+        "latitude": "+38.683242",
+        "longitude": "-112.115118"
+    },
+    {
+        "county": "SEVIER",
+        "city": "KOOSHAREM",
+        "zipcode": 84744,
+        "latitude": "+38.722109",
+        "longitude": "-111.871305"
+    },
+    {
+        "county": "SEVIER",
+        "city": "MONROE",
+        "zipcode": 84754,
+        "latitude": "+38.657847",
+        "longitude": "-112.126117"
+    },
+    {
+        "county": "SEVIER",
+        "city": "REDMOND",
+        "zipcode": 84652,
+        "latitude": "+38.906498",
+        "longitude": "-111.975313"
+    },
+    {
+        "county": "SEVIER",
+        "city": "RICHFIELD",
+        "zipcode": 84701,
+        "latitude": "+38.738771",
+        "longitude": "-112.074362"
+    },
+    {
+        "county": "SEVIER",
+        "city": "SALINA",
+        "zipcode": 84654,
+        "latitude": "+38.921403",
+        "longitude": "-111.908156"
+    },
+    {
+        "county": "SEVIER",
+        "city": "SEVIER",
+        "zipcode": 84766,
+        "latitude": "+38.578516",
+        "longitude": "-112.310757"
+    },
+    {
+        "county": "SEVIER",
+        "city": "SIGURD",
+        "zipcode": 84657,
+        "latitude": "+38.848233",
+        "longitude": "-111.973737"
+    },
+    {
+        "county": "SUMMIT",
+        "city": "COALVILLE",
+        "zipcode": 84017,
+        "latitude": "+40.840518",
+        "longitude": "-111.322754"
+    },
+    {
+        "county": "SUMMIT",
+        "city": "ECHO",
+        "zipcode": 84024,
+        "latitude": "+40.989171",
+        "longitude": "-111.451001"
+    },
+    {
+        "county": "SUMMIT",
+        "city": "HENEFER",
+        "zipcode": 84033,
+        "latitude": "+41.018639",
+        "longitude": "-111.501094"
+    },
+    {
+        "county": "SUMMIT",
+        "city": "KAMAS",
+        "zipcode": 84036,
+        "latitude": "+40.667933",
+        "longitude": "-111.312427"
+    },
+    {
+        "county": "SUMMIT",
+        "city": "OAKLEY",
+        "zipcode": 84055,
+        "latitude": "+40.724311",
+        "longitude": "-111.245610"
+    },
+    {
+        "county": "SUMMIT",
+        "city": "PARK CITY",
+        "zipcode": 84060,
+        "latitude": "+40.711880",
+        "longitude": "-111.448892"
+    },
+    {
+        "county": "SUMMIT",
+        "city": "PARK CITY",
+        "zipcode": 84068,
+        "latitude": "+40.667970",
+        "longitude": "-111.505365"
+    },
+    {
+        "county": "SUMMIT",
+        "city": "PARK CITY",
+        "zipcode": 84098,
+        "latitude": "+40.702896",
+        "longitude": "-111.548098"
+    },
+    {
+        "county": "SUMMIT",
+        "city": "PEOA",
+        "zipcode": 84061,
+        "latitude": "+40.743379",
+        "longitude": "-111.351178"
+    },
+    {
+        "county": "TOOELE",
+        "city": "DUGWAY",
+        "zipcode": 84022,
+        "latitude": "+40.270806",
+        "longitude": "-112.689833"
+    },
+    {
+        "county": "TOOELE",
+        "city": "GRANTSVILLE",
+        "zipcode": 84029,
+        "latitude": "+40.560384",
+        "longitude": "-112.540610"
+    },
+    {
+        "county": "TOOELE",
+        "city": "IBAPAH",
+        "zipcode": 84034,
+        "latitude": "+40.489989",
+        "longitude": "-113.095905"
+    },
+    {
+        "county": "TOOELE",
+        "city": "RUSH VALLEY",
+        "zipcode": 84069,
+        "latitude": "+40.356629",
+        "longitude": "-112.465914"
+    },
+    {
+        "county": "TOOELE",
+        "city": "STOCKTON",
+        "zipcode": 84071,
+        "latitude": "+40.441463",
+        "longitude": "-112.355926"
+    },
+    {
+        "county": "TOOELE",
+        "city": "TOOELE",
+        "zipcode": 84074,
+        "latitude": "+40.617392",
+        "longitude": "-113.144159"
+    },
+    {
+        "county": "TOOELE",
+        "city": "VERNON",
+        "zipcode": 84080,
+        "latitude": "+40.086909",
+        "longitude": "-112.455046"
+    },
+    {
+        "county": "TOOELE",
+        "city": "WENDOVER",
+        "zipcode": 84083,
+        "latitude": "+40.732900",
+        "longitude": "-113.991849"
+    },
+    {
+        "county": "UINTAH",
+        "city": "BONANZA",
+        "zipcode": 84008,
+        "latitude": "+40.443106",
+        "longitude": "-109.505593"
+    },
+    {
+        "county": "UINTAH",
+        "city": "FORT DUCHESNE",
+        "zipcode": 84026,
+        "latitude": "+40.290515",
+        "longitude": "-109.846675"
+    },
+    {
+        "county": "UINTAH",
+        "city": "GUSHER",
+        "zipcode": 84030,
+        "latitude": "+40.160179",
+        "longitude": "-109.547839"
+    },
+    {
+        "county": "UINTAH",
+        "city": "JENSEN",
+        "zipcode": 84035,
+        "latitude": "+40.344753",
+        "longitude": "-109.387441"
+    },
+    {
+        "county": "UINTAH",
+        "city": "LAPOINT",
+        "zipcode": 84039,
+        "latitude": "+40.485962",
+        "longitude": "-109.774553"
+    },
+    {
+        "county": "UINTAH",
+        "city": "RANDLETT",
+        "zipcode": 84063,
+        "latitude": "+40.301680",
+        "longitude": "-109.806162"
+    },
+    {
+        "county": "UINTAH",
+        "city": "TRIDELL",
+        "zipcode": 84076,
+        "latitude": "+40.425577",
+        "longitude": "-109.840776"
+    },
+    {
+        "county": "UINTAH",
+        "city": "VERNAL",
+        "zipcode": 84078,
+        "latitude": "+40.368246",
+        "longitude": "-109.556103"
+    },
+    {
+        "county": "UINTAH",
+        "city": "VERNAL",
+        "zipcode": 84079,
+        "latitude": "+40.160179",
+        "longitude": "-109.547839"
+    },
+    {
+        "county": "UINTAH",
+        "city": "WHITEROCKS",
+        "zipcode": 84085,
+        "latitude": "+40.374808",
+        "longitude": "-109.911237"
+    },
+    {
+        "county": "UTAH",
+        "city": "ALPINE",
+        "zipcode": 84004,
+        "latitude": "+40.459133",
+        "longitude": "-111.773164"
+    },
+    {
+        "county": "UTAH",
+        "city": "AMERICAN FORK",
+        "zipcode": 84003,
+        "latitude": "+40.395796",
+        "longitude": "-111.803101"
+    },
+    {
+        "county": "UTAH",
+        "city": "CEDAR VALLEY",
+        "zipcode": 84013,
+        "latitude": "+40.183311",
+        "longitude": "-111.919871"
+    },
+    {
+        "county": "UTAH",
+        "city": "ELBERTA",
+        "zipcode": 84626,
+        "latitude": "+40.176975",
+        "longitude": "-111.536036"
+    },
+    {
+        "county": "UTAH",
+        "city": "GOSHEN",
+        "zipcode": 84633,
+        "latitude": "+40.029693",
+        "longitude": "-111.764116"
+    },
+    {
+        "county": "UTAH",
+        "city": "LEHI",
+        "zipcode": 84043,
+        "latitude": "+40.318139",
+        "longitude": "-111.921078"
+    },
+    {
+        "county": "UTAH",
+        "city": "LINDON",
+        "zipcode": 84042,
+        "latitude": "+40.340251",
+        "longitude": "-111.719923"
+    },
+    {
+        "county": "UTAH",
+        "city": "MAPLETON",
+        "zipcode": 84664,
+        "latitude": "+40.125168",
+        "longitude": "-111.580197"
+    },
+    {
+        "county": "UTAH",
+        "city": "OREM",
+        "zipcode": 84057,
+        "latitude": "+40.311353",
+        "longitude": "-111.724960"
+    },
+    {
+        "county": "UTAH",
+        "city": "OREM",
+        "zipcode": 84058,
+        "latitude": "+40.281800",
+        "longitude": "-111.720910"
+    },
+    {
+        "county": "UTAH",
+        "city": "OREM",
+        "zipcode": 84059,
+        "latitude": "+40.176975",
+        "longitude": "-111.536036"
+    },
+    {
+        "county": "UTAH",
+        "city": "OREM",
+        "zipcode": 84097,
+        "latitude": "+40.297153",
+        "longitude": "-111.670519"
+    },
+    {
+        "county": "UTAH",
+        "city": "PAYSON",
+        "zipcode": 84651,
+        "latitude": "+40.032911",
+        "longitude": "-111.723974"
+    },
+    {
+        "county": "UTAH",
+        "city": "PLEASANT GROVE",
+        "zipcode": 84062,
+        "latitude": "+40.386385",
+        "longitude": "-111.732911"
+    },
+    {
+        "county": "UTAH",
+        "city": "PROVO",
+        "zipcode": 84601,
+        "latitude": "+40.235053",
+        "longitude": "-111.695558"
+    },
+    {
+        "county": "UTAH",
+        "city": "PROVO",
+        "zipcode": 84602,
+        "latitude": "+40.356343",
+        "longitude": "-111.732476"
+    },
+    {
+        "county": "UTAH",
+        "city": "PROVO",
+        "zipcode": 84603,
+        "latitude": "+40.203908",
+        "longitude": "-111.626081"
+    },
+    {
+        "county": "UTAH",
+        "city": "PROVO",
+        "zipcode": 84604,
+        "latitude": "+40.317059",
+        "longitude": "-111.608241"
+    },
+    {
+        "county": "UTAH",
+        "city": "PROVO",
+        "zipcode": 84605,
+        "latitude": "+40.176975",
+        "longitude": "-111.536036"
+    },
+    {
+        "county": "UTAH",
+        "city": "PROVO",
+        "zipcode": 84606,
+        "latitude": "+40.218905",
+        "longitude": "-111.635353"
+    },
+    {
+        "county": "UTAH",
+        "city": "SALEM",
+        "zipcode": 84653,
+        "latitude": "+40.011274",
+        "longitude": "-111.599759"
+    },
+    {
+        "county": "UTAH",
+        "city": "SANTAQUIN",
+        "zipcode": 84655,
+        "latitude": "+40.003254",
+        "longitude": "-111.812973"
+    },
+    {
+        "county": "UTAH",
+        "city": "SPANISH FORK",
+        "zipcode": 84660,
+        "latitude": "+40.069946",
+        "longitude": "-111.649086"
+    },
+    {
+        "county": "UTAH",
+        "city": "SPRINGVILLE",
+        "zipcode": 84663,
+        "latitude": "+40.180718",
+        "longitude": "-111.562586"
+    },
+    {
+        "county": "WASATCH",
+        "city": "HEBER CITY",
+        "zipcode": 84032,
+        "latitude": "+40.517678",
+        "longitude": "-111.348882"
+    },
+    {
+        "county": "WASATCH",
+        "city": "MIDWAY",
+        "zipcode": 84049,
+        "latitude": "+40.489378",
+        "longitude": "-111.485127"
+    },
+    {
+        "county": "WASATCH",
+        "city": "WALLSBURG",
+        "zipcode": 84082,
+        "latitude": "+40.410548",
+        "longitude": "-111.394222"
+    },
+    {
+        "county": "WASHINGTON",
+        "city": "CENTRAL",
+        "zipcode": 84722,
+        "latitude": "+37.466930",
+        "longitude": "-113.624783"
+    },
+    {
+        "county": "WASHINGTON",
+        "city": "DAMMERON VALLEY",
+        "zipcode": 84783,
+        "latitude": "+37.307734",
+        "longitude": "-113.665249"
+    },
+    {
+        "county": "WASHINGTON",
+        "city": "ENTERPRISE",
+        "zipcode": 84725,
+        "latitude": "+37.579739",
+        "longitude": "-113.689359"
+    },
+    {
+        "county": "WASHINGTON",
+        "city": "GUNLOCK",
+        "zipcode": 84733,
+        "latitude": "+37.287695",
+        "longitude": "-113.760596"
+    },
+    {
+        "county": "WASHINGTON",
+        "city": "HILDALE",
+        "zipcode": 84784,
+        "latitude": "+37.004364",
+        "longitude": "-112.978418"
+    },
+    {
+        "county": "WASHINGTON",
+        "city": "HURRICANE",
+        "zipcode": 84737,
+        "latitude": "+37.145366",
+        "longitude": "-113.367458"
+    },
+    {
+        "county": "WASHINGTON",
+        "city": "IVINS",
+        "zipcode": 84738,
+        "latitude": "+37.218261",
+        "longitude": "-113.545812"
+    },
+    {
+        "county": "WASHINGTON",
+        "city": "LA VERKIN",
+        "zipcode": 84745,
+        "latitude": "+37.222917",
+        "longitude": "-113.316429"
+    },
+    {
+        "county": "WASHINGTON",
+        "city": "LEEDS",
+        "zipcode": 84746,
+        "latitude": "+37.237225",
+        "longitude": "-113.335620"
+    },
+    {
+        "county": "WASHINGTON",
+        "city": "NEW HARMONY",
+        "zipcode": 84757,
+        "latitude": "+37.455047",
+        "longitude": "-113.268012"
+    },
+    {
+        "county": "WASHINGTON",
+        "city": "PINE VALLEY",
+        "zipcode": 84781,
+        "latitude": "+37.371040",
+        "longitude": "-113.384806"
+    },
+    {
+        "county": "WASHINGTON",
+        "city": "ROCKVILLE",
+        "zipcode": 84763,
+        "latitude": "+37.160144",
+        "longitude": "-113.042525"
+    },
+    {
+        "county": "WASHINGTON",
+        "city": "SAINT GEORGE",
+        "zipcode": 84770,
+        "latitude": "+37.306845",
+        "longitude": "-113.355421"
+    },
+    {
+        "county": "WASHINGTON",
+        "city": "SAINT GEORGE",
+        "zipcode": 84771,
+        "latitude": "+37.309231",
+        "longitude": "-113.476182"
+    },
+    {
+        "county": "WASHINGTON",
+        "city": "SAINT GEORGE",
+        "zipcode": 84790,
+        "latitude": "+37.083098",
+        "longitude": "-113.558068"
+    },
+    {
+        "county": "WASHINGTON",
+        "city": "SAINT GEORGE",
+        "zipcode": 84791,
+        "latitude": "+37.309231",
+        "longitude": "-113.476182"
+    },
+    {
+        "county": "WASHINGTON",
+        "city": "SANTA CLARA",
+        "zipcode": 84765,
+        "latitude": "+37.345219",
+        "longitude": "-113.676057"
+    },
+    {
+        "county": "WASHINGTON",
+        "city": "SPRINGDALE",
+        "zipcode": 84767,
+        "latitude": "+37.186249",
+        "longitude": "-113.013922"
+    },
+    {
+        "county": "WASHINGTON",
+        "city": "TOQUERVILLE",
+        "zipcode": 84774,
+        "latitude": "+37.237701",
+        "longitude": "-113.332321"
+    },
+    {
+        "county": "WASHINGTON",
+        "city": "VEYO",
+        "zipcode": 84782,
+        "latitude": "+37.359958",
+        "longitude": "-113.621344"
+    },
+    {
+        "county": "WASHINGTON",
+        "city": "VIRGIN",
+        "zipcode": 84779,
+        "latitude": "+37.202201",
+        "longitude": "-113.185422"
+    },
+    {
+        "county": "WASHINGTON",
+        "city": "WASHINGTON",
+        "zipcode": 84780,
+        "latitude": "+37.322604",
+        "longitude": "-113.583816"
+    },
+    {
+        "county": "WAYNE",
+        "city": "BICKNELL",
+        "zipcode": 84715,
+        "latitude": "+38.327826",
+        "longitude": "-111.526391"
+    },
+    {
+        "county": "WAYNE",
+        "city": "HANKSVILLE",
+        "zipcode": 84734,
+        "latitude": "+38.286909",
+        "longitude": "-110.687960"
+    },
+    {
+        "county": "WAYNE",
+        "city": "LOA",
+        "zipcode": 84747,
+        "latitude": "+38.441473",
+        "longitude": "-111.595751"
+    },
+    {
+        "county": "WAYNE",
+        "city": "LYMAN",
+        "zipcode": 84749,
+        "latitude": "+38.398684",
+        "longitude": "-111.592048"
+    },
+    {
+        "county": "WAYNE",
+        "city": "TEASDALE",
+        "zipcode": 84773,
+        "latitude": "+38.272761",
+        "longitude": "-111.464123"
+    },
+    {
+        "county": "WAYNE",
+        "city": "TORREY",
+        "zipcode": 84775,
+        "latitude": "+38.296853",
+        "longitude": "-111.413774"
+    },
+    {
+        "county": "WEBER",
+        "city": "EDEN",
+        "zipcode": 84310,
+        "latitude": "+41.339343",
+        "longitude": "-111.738298"
+    },
+    {
+        "county": "WEBER",
+        "city": "HOOPER",
+        "zipcode": 84315,
+        "latitude": "+41.182343",
+        "longitude": "-112.103475"
+    },
+    {
+        "county": "WEBER",
+        "city": "HUNTSVILLE",
+        "zipcode": 84317,
+        "latitude": "+41.266035",
+        "longitude": "-111.715855"
+    },
+    {
+        "county": "WEBER",
+        "city": "OGDEN",
+        "zipcode": 84201,
+        "latitude": "+41.244261",
+        "longitude": "-112.007924"
+    },
+    {
+        "county": "WEBER",
+        "city": "OGDEN",
+        "zipcode": 84244,
+        "latitude": "+41.255285",
+        "longitude": "-111.956721"
+    },
+    {
+        "county": "WEBER",
+        "city": "OGDEN",
+        "zipcode": 84401,
+        "latitude": "+41.221328",
+        "longitude": "-111.957685"
+    },
+    {
+        "county": "WEBER",
+        "city": "OGDEN",
+        "zipcode": 84402,
+        "latitude": "+41.255285",
+        "longitude": "-111.956721"
+    },
+    {
+        "county": "WEBER",
+        "city": "OGDEN",
+        "zipcode": 84403,
+        "latitude": "+41.178343",
+        "longitude": "-111.938216"
+    },
+    {
+        "county": "WEBER",
+        "city": "OGDEN",
+        "zipcode": 84404,
+        "latitude": "+41.279292",
+        "longitude": "-112.079805"
+    },
+    {
+        "county": "WEBER",
+        "city": "OGDEN",
+        "zipcode": 84405,
+        "latitude": "+41.171493",
+        "longitude": "-111.968874"
+    },
+    {
+        "county": "WEBER",
+        "city": "OGDEN",
+        "zipcode": 84407,
+        "latitude": "+41.238547",
+        "longitude": "-111.965867"
+    },
+    {
+        "county": "WEBER",
+        "city": "OGDEN",
+        "zipcode": 84408,
+        "latitude": "+41.195593",
+        "longitude": "-111.948474"
+    },
+    {
+        "county": "WEBER",
+        "city": "OGDEN",
+        "zipcode": 84409,
+        "latitude": "+41.255285",
+        "longitude": "-111.956721"
+    },
+    {
+        "county": "WEBER",
+        "city": "OGDEN",
+        "zipcode": 84412,
+        "latitude": "+41.255285",
+        "longitude": "-111.956721"
+    },
+    {
+        "county": "WEBER",
+        "city": "OGDEN",
+        "zipcode": 84414,
+        "latitude": "+41.309184",
+        "longitude": "-111.925590"
+    },
+    {
+        "county": "WEBER",
+        "city": "OGDEN",
+        "zipcode": 84415,
+        "latitude": "+41.255285",
+        "longitude": "-111.956721"
+    },
+    {
+        "county": "WEBER",
+        "city": "ROY",
+        "zipcode": 84067,
+        "latitude": "+41.178743",
+        "longitude": "-112.052525"
+    }
+]

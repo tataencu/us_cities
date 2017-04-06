@@ -1,0 +1,32 @@
+[
+    {
+        "county": "SAINT CROIX",
+        "city": "CHRISTIANSTED",
+        "latitude": "+17.734211",
+        "longitude": "-064.734694"
+    },
+    {
+        "county": "SAINT CROIX",
+        "city": "FREDERIKSTED",
+        "latitude": "+17.734211",
+        "longitude": "-064.734694"
+    },
+    {
+        "county": "SAINT CROIX",
+        "city": "KINGSHILL",
+        "latitude": "+17.734211",
+        "longitude": "-064.734694"
+    },
+    {
+        "county": "SAINT JOHN",
+        "city": "ST JOHN",
+        "latitude": "+18.328160",
+        "longitude": "-064.740737"
+    },
+    {
+        "county": "SAINT THOMAS",
+        "city": "ST THOMAS",
+        "latitude": "+18.322285",
+        "longitude": "-064.963715"
+    }
+]

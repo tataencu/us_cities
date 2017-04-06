@@ -1,0 +1,5014 @@
+[
+    {
+        "county": "ADAMS",
+        "city": "BENGE",
+        "zipcode": 99105,
+        "latitude": "+46.859127",
+        "longitude": "-118.161058"
+    },
+    {
+        "county": "ADAMS",
+        "city": "CUNNINGHAM",
+        "zipcode": 99327,
+        "latitude": "+46.828931",
+        "longitude": "-118.829153"
+    },
+    {
+        "county": "ADAMS",
+        "city": "HATTON",
+        "zipcode": 99332,
+        "latitude": "+46.770620",
+        "longitude": "-118.800049"
+    },
+    {
+        "county": "ADAMS",
+        "city": "LIND",
+        "zipcode": 99341,
+        "latitude": "+46.904229",
+        "longitude": "-118.690546"
+    },
+    {
+        "county": "ADAMS",
+        "city": "OTHELLO",
+        "zipcode": 99344,
+        "latitude": "+46.852708",
+        "longitude": "-118.993182"
+    },
+    {
+        "county": "ADAMS",
+        "city": "RITZVILLE",
+        "zipcode": 99169,
+        "latitude": "+47.087055",
+        "longitude": "-118.481300"
+    },
+    {
+        "county": "ADAMS",
+        "city": "WASHTUCNA",
+        "zipcode": 99371,
+        "latitude": "+46.815306",
+        "longitude": "-118.338081"
+    },
+    {
+        "county": "ASOTIN",
+        "city": "ANATONE",
+        "zipcode": 99401,
+        "latitude": "+46.121593",
+        "longitude": "-117.178580"
+    },
+    {
+        "county": "ASOTIN",
+        "city": "ASOTIN",
+        "zipcode": 99402,
+        "latitude": "+46.174099",
+        "longitude": "-117.118489"
+    },
+    {
+        "county": "ASOTIN",
+        "city": "CLARKSTON",
+        "zipcode": 99403,
+        "latitude": "+46.369711",
+        "longitude": "-117.225934"
+    },
+    {
+        "county": "BENTON",
+        "city": "BENTON CITY",
+        "zipcode": 99320,
+        "latitude": "+46.242040",
+        "longitude": "-119.483517"
+    },
+    {
+        "county": "BENTON",
+        "city": "KENNEWICK",
+        "zipcode": 99336,
+        "latitude": "+46.212306",
+        "longitude": "-119.155671"
+    },
+    {
+        "county": "BENTON",
+        "city": "KENNEWICK",
+        "zipcode": 99337,
+        "latitude": "+46.117122",
+        "longitude": "-119.090676"
+    },
+    {
+        "county": "BENTON",
+        "city": "KENNEWICK",
+        "zipcode": 99338,
+        "latitude": "+46.155994",
+        "longitude": "-119.263991"
+    },
+    {
+        "county": "BENTON",
+        "city": "PATERSON",
+        "zipcode": 99345,
+        "latitude": "+45.859058",
+        "longitude": "-119.857639"
+    },
+    {
+        "county": "BENTON",
+        "city": "PLYMOUTH",
+        "zipcode": 99346,
+        "latitude": "+45.930067",
+        "longitude": "-119.402276"
+    },
+    {
+        "county": "BENTON",
+        "city": "PROSSER",
+        "zipcode": 99350,
+        "latitude": "+46.148328",
+        "longitude": "-119.559674"
+    },
+    {
+        "county": "BENTON",
+        "city": "RICHLAND",
+        "zipcode": 99352,
+        "latitude": "+46.282031",
+        "longitude": "-119.491659"
+    },
+    {
+        "county": "BENTON",
+        "city": "WEST RICHLAND",
+        "zipcode": 99353,
+        "latitude": "+46.315267",
+        "longitude": "-119.371393"
+    },
+    {
+        "county": "CHELAN",
+        "city": "ARDENVOIR",
+        "zipcode": 98811,
+        "latitude": "+47.708473",
+        "longitude": "-120.329107"
+    },
+    {
+        "county": "CHELAN",
+        "city": "CASHMERE",
+        "zipcode": 98815,
+        "latitude": "+47.632900",
+        "longitude": "-120.348064"
+    },
+    {
+        "county": "CHELAN",
+        "city": "CHELAN",
+        "zipcode": 98816,
+        "latitude": "+47.876985",
+        "longitude": "-120.077750"
+    },
+    {
+        "county": "CHELAN",
+        "city": "CHELAN FALLS",
+        "zipcode": 98817,
+        "latitude": "+47.841829",
+        "longitude": "-119.957918"
+    },
+    {
+        "county": "CHELAN",
+        "city": "DRYDEN",
+        "zipcode": 98821,
+        "latitude": "+47.582186",
+        "longitude": "-120.595955"
+    },
+    {
+        "county": "CHELAN",
+        "city": "ENTIAT",
+        "zipcode": 98822,
+        "latitude": "+47.774872",
+        "longitude": "-120.356279"
+    },
+    {
+        "county": "CHELAN",
+        "city": "LEAVENWORTH",
+        "zipcode": 98826,
+        "latitude": "+47.695101",
+        "longitude": "-120.799413"
+    },
+    {
+        "county": "CHELAN",
+        "city": "MALAGA",
+        "zipcode": 98828,
+        "latitude": "+47.319535",
+        "longitude": "-120.173347"
+    },
+    {
+        "county": "CHELAN",
+        "city": "MANSON",
+        "zipcode": 98831,
+        "latitude": "+47.817133",
+        "longitude": "-120.080148"
+    },
+    {
+        "county": "CHELAN",
+        "city": "MONITOR",
+        "zipcode": 98836,
+        "latitude": "+47.485197",
+        "longitude": "-120.415773"
+    },
+    {
+        "county": "CHELAN",
+        "city": "PESHASTIN",
+        "zipcode": 98847,
+        "latitude": "+47.545758",
+        "longitude": "-120.596146"
+    },
+    {
+        "county": "CHELAN",
+        "city": "STEHEKIN",
+        "zipcode": 98852,
+        "latitude": "+47.905787",
+        "longitude": "-120.520211"
+    },
+    {
+        "county": "CHELAN",
+        "city": "WENATCHEE",
+        "zipcode": 98801,
+        "latitude": "+47.573816",
+        "longitude": "-120.351884"
+    },
+    {
+        "county": "CHELAN",
+        "city": "WENATCHEE",
+        "zipcode": 98807,
+        "latitude": "+47.905787",
+        "longitude": "-120.520211"
+    },
+    {
+        "county": "CLALLAM",
+        "city": "BEAVER",
+        "zipcode": 98305,
+        "latitude": "+48.006094",
+        "longitude": "-124.360572"
+    },
+    {
+        "county": "CLALLAM",
+        "city": "CARLSBORG",
+        "zipcode": 98324,
+        "latitude": "+48.183150",
+        "longitude": "-123.872972"
+    },
+    {
+        "county": "CLALLAM",
+        "city": "CLALLAM BAY",
+        "zipcode": 98326,
+        "latitude": "+48.199745",
+        "longitude": "-124.390233"
+    },
+    {
+        "county": "CLALLAM",
+        "city": "FORKS",
+        "zipcode": 98331,
+        "latitude": "+47.976301",
+        "longitude": "-124.369332"
+    },
+    {
+        "county": "CLALLAM",
+        "city": "JOYCE",
+        "zipcode": 98343,
+        "latitude": "+48.183150",
+        "longitude": "-123.872972"
+    },
+    {
+        "county": "CLALLAM",
+        "city": "LA PUSH",
+        "zipcode": 98350,
+        "latitude": "+47.905203",
+        "longitude": "-124.626080"
+    },
+    {
+        "county": "CLALLAM",
+        "city": "NEAH BAY",
+        "zipcode": 98357,
+        "latitude": "+48.327961",
+        "longitude": "-124.615051"
+    },
+    {
+        "county": "CLALLAM",
+        "city": "PORT ANGELES",
+        "zipcode": 98362,
+        "latitude": "+48.051108",
+        "longitude": "-123.360411"
+    },
+    {
+        "county": "CLALLAM",
+        "city": "PORT ANGELES",
+        "zipcode": 98363,
+        "latitude": "+48.055733",
+        "longitude": "-123.917840"
+    },
+    {
+        "county": "CLALLAM",
+        "city": "SEKIU",
+        "zipcode": 98381,
+        "latitude": "+48.288633",
+        "longitude": "-124.397803"
+    },
+    {
+        "county": "CLALLAM",
+        "city": "SEQUIM",
+        "zipcode": 98382,
+        "latitude": "+48.067730",
+        "longitude": "-123.080362"
+    },
+    {
+        "county": "CLARK",
+        "city": "AMBOY",
+        "zipcode": 98601,
+        "latitude": "+45.923556",
+        "longitude": "-122.450194"
+    },
+    {
+        "county": "CLARK",
+        "city": "BATTLE GROUND",
+        "zipcode": 98604,
+        "latitude": "+45.803592",
+        "longitude": "-122.531645"
+    },
+    {
+        "county": "CLARK",
+        "city": "BRUSH PRAIRIE",
+        "zipcode": 98606,
+        "latitude": "+45.731631",
+        "longitude": "-122.477093"
+    },
+    {
+        "county": "CLARK",
+        "city": "CAMAS",
+        "zipcode": 98607,
+        "latitude": "+45.656489",
+        "longitude": "-122.399341"
+    },
+    {
+        "county": "CLARK",
+        "city": "HEISSON",
+        "zipcode": 98622,
+        "latitude": "+45.801586",
+        "longitude": "-122.520347"
+    },
+    {
+        "county": "CLARK",
+        "city": "LA CENTER",
+        "zipcode": 98629,
+        "latitude": "+45.881459",
+        "longitude": "-122.615416"
+    },
+    {
+        "county": "CLARK",
+        "city": "RIDGEFIELD",
+        "zipcode": 98642,
+        "latitude": "+45.756797",
+        "longitude": "-122.620162"
+    },
+    {
+        "county": "CLARK",
+        "city": "VANCOUVER",
+        "zipcode": 98660,
+        "latitude": "+45.743270",
+        "longitude": "-122.713366"
+    },
+    {
+        "county": "CLARK",
+        "city": "VANCOUVER",
+        "zipcode": 98661,
+        "latitude": "+45.769989",
+        "longitude": "-122.643658"
+    },
+    {
+        "county": "CLARK",
+        "city": "VANCOUVER",
+        "zipcode": 98662,
+        "latitude": "+45.691419",
+        "longitude": "-122.580457"
+    },
+    {
+        "county": "CLARK",
+        "city": "VANCOUVER",
+        "zipcode": 98663,
+        "latitude": "+45.650488",
+        "longitude": "-122.663608"
+    },
+    {
+        "county": "CLARK",
+        "city": "VANCOUVER",
+        "zipcode": 98664,
+        "latitude": "+45.620669",
+        "longitude": "-122.576413"
+    },
+    {
+        "county": "CLARK",
+        "city": "VANCOUVER",
+        "zipcode": 98665,
+        "latitude": "+45.689187",
+        "longitude": "-122.661608"
+    },
+    {
+        "county": "CLARK",
+        "city": "VANCOUVER",
+        "zipcode": 98666,
+        "latitude": "+45.801586",
+        "longitude": "-122.520347"
+    },
+    {
+        "county": "CLARK",
+        "city": "VANCOUVER",
+        "zipcode": 98667,
+        "latitude": "+45.801586",
+        "longitude": "-122.520347"
+    },
+    {
+        "county": "CLARK",
+        "city": "VANCOUVER",
+        "zipcode": 98668,
+        "latitude": "+45.801586",
+        "longitude": "-122.520347"
+    },
+    {
+        "county": "CLARK",
+        "city": "VANCOUVER",
+        "zipcode": 98682,
+        "latitude": "+45.678782",
+        "longitude": "-122.478845"
+    },
+    {
+        "county": "CLARK",
+        "city": "VANCOUVER",
+        "zipcode": 98683,
+        "latitude": "+45.603216",
+        "longitude": "-122.513318"
+    },
+    {
+        "county": "CLARK",
+        "city": "VANCOUVER",
+        "zipcode": 98684,
+        "latitude": "+45.635900",
+        "longitude": "-122.515538"
+    },
+    {
+        "county": "CLARK",
+        "city": "VANCOUVER",
+        "zipcode": 98685,
+        "latitude": "+45.754637",
+        "longitude": "-122.696001"
+    },
+    {
+        "county": "CLARK",
+        "city": "VANCOUVER",
+        "zipcode": 98686,
+        "latitude": "+45.705566",
+        "longitude": "-122.572193"
+    },
+    {
+        "county": "CLARK",
+        "city": "VANCOUVER",
+        "zipcode": 98687,
+        "latitude": "+45.801586",
+        "longitude": "-122.520347"
+    },
+    {
+        "county": "CLARK",
+        "city": "WASHOUGAL",
+        "zipcode": 98671,
+        "latitude": "+45.611697",
+        "longitude": "-122.315559"
+    },
+    {
+        "county": "CLARK",
+        "city": "YACOLT",
+        "zipcode": 98675,
+        "latitude": "+45.824611",
+        "longitude": "-122.498993"
+    },
+    {
+        "county": "COLUMBIA",
+        "city": "DAYTON",
+        "zipcode": 99328,
+        "latitude": "+46.392683",
+        "longitude": "-117.949530"
+    },
+    {
+        "county": "COLUMBIA",
+        "city": "STARBUCK",
+        "zipcode": 99359,
+        "latitude": "+46.512828",
+        "longitude": "-118.102370"
+    },
+    {
+        "county": "COWLITZ",
+        "city": "ARIEL",
+        "zipcode": 98603,
+        "latitude": "+45.999338",
+        "longitude": "-122.442472"
+    },
+    {
+        "county": "COWLITZ",
+        "city": "CARROLLS",
+        "zipcode": 98609,
+        "latitude": "+46.071482",
+        "longitude": "-122.864838"
+    },
+    {
+        "county": "COWLITZ",
+        "city": "CASTLE ROCK",
+        "zipcode": 98611,
+        "latitude": "+46.220778",
+        "longitude": "-122.673021"
+    },
+    {
+        "county": "COWLITZ",
+        "city": "COUGAR",
+        "zipcode": 98616,
+        "latitude": "+46.025434",
+        "longitude": "-122.359589"
+    },
+    {
+        "county": "COWLITZ",
+        "city": "KALAMA",
+        "zipcode": 98625,
+        "latitude": "+46.002114",
+        "longitude": "-122.721750"
+    },
+    {
+        "county": "COWLITZ",
+        "city": "KELSO",
+        "zipcode": 98626,
+        "latitude": "+46.147274",
+        "longitude": "-122.825047"
+    },
+    {
+        "county": "COWLITZ",
+        "city": "LONGVIEW",
+        "zipcode": 98632,
+        "latitude": "+46.181872",
+        "longitude": "-123.057597"
+    },
+    {
+        "county": "COWLITZ",
+        "city": "RYDERWOOD",
+        "zipcode": 98581,
+        "latitude": "+46.379714",
+        "longitude": "-123.056039"
+    },
+    {
+        "county": "COWLITZ",
+        "city": "SILVERLAKE",
+        "zipcode": 98645,
+        "latitude": "+46.314662",
+        "longitude": "-122.728835"
+    },
+    {
+        "county": "COWLITZ",
+        "city": "TOUTLE",
+        "zipcode": 98649,
+        "latitude": "+46.334539",
+        "longitude": "-122.647324"
+    },
+    {
+        "county": "COWLITZ",
+        "city": "WOODLAND",
+        "zipcode": 98674,
+        "latitude": "+45.937521",
+        "longitude": "-122.686548"
+    },
+    {
+        "county": "DOUGLAS",
+        "city": "BRIDGEPORT",
+        "zipcode": 98813,
+        "latitude": "+47.735893",
+        "longitude": "-119.891998"
+    },
+    {
+        "county": "DOUGLAS",
+        "city": "EAST WENATCHEE",
+        "zipcode": 98802,
+        "latitude": "+47.497831",
+        "longitude": "-120.214402"
+    },
+    {
+        "county": "DOUGLAS",
+        "city": "MANSFIELD",
+        "zipcode": 98830,
+        "latitude": "+47.847735",
+        "longitude": "-119.525987"
+    },
+    {
+        "county": "DOUGLAS",
+        "city": "ORONDO",
+        "zipcode": 98843,
+        "latitude": "+47.730510",
+        "longitude": "-120.045781"
+    },
+    {
+        "county": "DOUGLAS",
+        "city": "PALISADES",
+        "zipcode": 98845,
+        "latitude": "+47.393566",
+        "longitude": "-119.903610"
+    },
+    {
+        "county": "DOUGLAS",
+        "city": "ROCK ISLAND",
+        "zipcode": 98850,
+        "latitude": "+47.312058",
+        "longitude": "-120.103205"
+    },
+    {
+        "county": "DOUGLAS",
+        "city": "WATERVILLE",
+        "zipcode": 98858,
+        "latitude": "+47.701979",
+        "longitude": "-119.861230"
+    },
+    {
+        "county": "FERRY",
+        "city": "BOYDS",
+        "zipcode": 99107,
+        "latitude": "+48.842690",
+        "longitude": "-118.182764"
+    },
+    {
+        "county": "FERRY",
+        "city": "CURLEW",
+        "zipcode": 99118,
+        "latitude": "+48.894734",
+        "longitude": "-118.669864"
+    },
+    {
+        "county": "FERRY",
+        "city": "DANVILLE",
+        "zipcode": 99121,
+        "latitude": "+48.954016",
+        "longitude": "-118.505768"
+    },
+    {
+        "county": "FERRY",
+        "city": "INCHELIUM",
+        "zipcode": 99138,
+        "latitude": "+48.268566",
+        "longitude": "-118.305461"
+    },
+    {
+        "county": "FERRY",
+        "city": "KELLER",
+        "zipcode": 99140,
+        "latitude": "+48.889691",
+        "longitude": "-118.217849"
+    },
+    {
+        "county": "FERRY",
+        "city": "LAURIER",
+        "zipcode": 99146,
+        "latitude": "+48.975272",
+        "longitude": "-118.220816"
+    },
+    {
+        "county": "FERRY",
+        "city": "MALO",
+        "zipcode": 99150,
+        "latitude": "+48.810999",
+        "longitude": "-118.604355"
+    },
+    {
+        "county": "FERRY",
+        "city": "ORIENT",
+        "zipcode": 99160,
+        "latitude": "+48.887781",
+        "longitude": "-118.210467"
+    },
+    {
+        "county": "FERRY",
+        "city": "REPUBLIC",
+        "zipcode": 99166,
+        "latitude": "+48.667659",
+        "longitude": "-118.680631"
+    },
+    {
+        "county": "FRANKLIN",
+        "city": "CONNELL",
+        "zipcode": 99326,
+        "latitude": "+46.590118",
+        "longitude": "-118.897786"
+    },
+    {
+        "county": "FRANKLIN",
+        "city": "ELTOPIA",
+        "zipcode": 99330,
+        "latitude": "+46.508917",
+        "longitude": "-118.992619"
+    },
+    {
+        "county": "FRANKLIN",
+        "city": "KAHLOTUS",
+        "zipcode": 99335,
+        "latitude": "+46.677852",
+        "longitude": "-118.533740"
+    },
+    {
+        "county": "FRANKLIN",
+        "city": "MESA",
+        "zipcode": 99343,
+        "latitude": "+46.577941",
+        "longitude": "-119.162115"
+    },
+    {
+        "county": "FRANKLIN",
+        "city": "PASCO",
+        "zipcode": 99301,
+        "latitude": "+46.420660",
+        "longitude": "-118.899447"
+    },
+    {
+        "county": "FRANKLIN",
+        "city": "PASCO",
+        "zipcode": 99302,
+        "latitude": "+46.234957",
+        "longitude": "-119.094271"
+    },
+    {
+        "county": "GARFIELD",
+        "city": "POMEROY",
+        "zipcode": 99347,
+        "latitude": "+46.475341",
+        "longitude": "-117.537763"
+    },
+    {
+        "county": "GRANT",
+        "city": "BEVERLY",
+        "zipcode": 99321,
+        "latitude": "+46.844992",
+        "longitude": "-119.935689"
+    },
+    {
+        "county": "GRANT",
+        "city": "COULEE CITY",
+        "zipcode": 99115,
+        "latitude": "+47.737206",
+        "longitude": "-119.227032"
+    },
+    {
+        "county": "GRANT",
+        "city": "ELECTRIC CITY",
+        "zipcode": 99123,
+        "latitude": "+47.913065",
+        "longitude": "-119.042562"
+    },
+    {
+        "county": "GRANT",
+        "city": "EPHRATA",
+        "zipcode": 98823,
+        "latitude": "+47.177565",
+        "longitude": "-119.401958"
+    },
+    {
+        "county": "GRANT",
+        "city": "GEORGE",
+        "zipcode": 98824,
+        "latitude": "+47.079243",
+        "longitude": "-119.860117"
+    },
+    {
+        "county": "GRANT",
+        "city": "GRAND COULEE",
+        "zipcode": 99133,
+        "latitude": "+47.822463",
+        "longitude": "-119.042714"
+    },
+    {
+        "county": "GRANT",
+        "city": "HARTLINE",
+        "zipcode": 99135,
+        "latitude": "+47.611505",
+        "longitude": "-119.084131"
+    },
+    {
+        "county": "GRANT",
+        "city": "MARLIN",
+        "zipcode": 98832,
+        "latitude": "+47.301392",
+        "longitude": "-119.063956"
+    },
+    {
+        "county": "GRANT",
+        "city": "MATTAWA",
+        "zipcode": 99349,
+        "latitude": "+46.730957",
+        "longitude": "-119.778257"
+    },
+    {
+        "county": "GRANT",
+        "city": "MOSES LAKE",
+        "zipcode": 98837,
+        "latitude": "+47.180684",
+        "longitude": "-119.298979"
+    },
+    {
+        "county": "GRANT",
+        "city": "QUINCY",
+        "zipcode": 98848,
+        "latitude": "+47.182173",
+        "longitude": "-119.754143"
+    },
+    {
+        "county": "GRANT",
+        "city": "ROYAL CITY",
+        "zipcode": 99357,
+        "latitude": "+46.897589",
+        "longitude": "-119.686316"
+    },
+    {
+        "county": "GRANT",
+        "city": "SOAP LAKE",
+        "zipcode": 98851,
+        "latitude": "+47.404594",
+        "longitude": "-119.442377"
+    },
+    {
+        "county": "GRANT",
+        "city": "STRATFORD",
+        "zipcode": 98853,
+        "latitude": "+47.404308",
+        "longitude": "-119.312977"
+    },
+    {
+        "county": "GRANT",
+        "city": "WARDEN",
+        "zipcode": 98857,
+        "latitude": "+47.013759",
+        "longitude": "-119.087915"
+    },
+    {
+        "county": "GRANT",
+        "city": "WILSON CREEK",
+        "zipcode": 98860,
+        "latitude": "+47.473874",
+        "longitude": "-119.184730"
+    },
+    {
+        "county": "GRAYS HARBOR",
+        "city": "ABERDEEN",
+        "zipcode": 98520,
+        "latitude": "+47.002735",
+        "longitude": "-123.671290"
+    },
+    {
+        "county": "GRAYS HARBOR",
+        "city": "AMANDA PARK",
+        "zipcode": 98526,
+        "latitude": "+47.485913",
+        "longitude": "-123.920555"
+    },
+    {
+        "county": "GRAYS HARBOR",
+        "city": "COPALIS BEACH",
+        "zipcode": 98535,
+        "latitude": "+47.149086",
+        "longitude": "-124.139665"
+    },
+    {
+        "county": "GRAYS HARBOR",
+        "city": "COPALIS CROSSING",
+        "zipcode": 98536,
+        "latitude": "+47.159136",
+        "longitude": "-124.135203"
+    },
+    {
+        "county": "GRAYS HARBOR",
+        "city": "COSMOPOLIS",
+        "zipcode": 98537,
+        "latitude": "+46.878164",
+        "longitude": "-123.645390"
+    },
+    {
+        "county": "GRAYS HARBOR",
+        "city": "ELMA",
+        "zipcode": 98541,
+        "latitude": "+47.160000",
+        "longitude": "-123.736287"
+    },
+    {
+        "county": "GRAYS HARBOR",
+        "city": "GRAYLAND",
+        "zipcode": 98547,
+        "latitude": "+46.826407",
+        "longitude": "-124.094009"
+    },
+    {
+        "county": "GRAYS HARBOR",
+        "city": "HOQUIAM",
+        "zipcode": 98550,
+        "latitude": "+47.101202",
+        "longitude": "-123.731611"
+    },
+    {
+        "county": "GRAYS HARBOR",
+        "city": "HUMPTULIPS",
+        "zipcode": 98552,
+        "latitude": "+47.342898",
+        "longitude": "-123.929112"
+    },
+    {
+        "county": "GRAYS HARBOR",
+        "city": "MALONE",
+        "zipcode": 98559,
+        "latitude": "+46.958918",
+        "longitude": "-123.326762"
+    },
+    {
+        "county": "GRAYS HARBOR",
+        "city": "MCCLEARY",
+        "zipcode": 98557,
+        "latitude": "+47.029716",
+        "longitude": "-123.272999"
+    },
+    {
+        "county": "GRAYS HARBOR",
+        "city": "MOCLIPS",
+        "zipcode": 98562,
+        "latitude": "+47.162482",
+        "longitude": "-123.794069"
+    },
+    {
+        "county": "GRAYS HARBOR",
+        "city": "MONTESANO",
+        "zipcode": 98563,
+        "latitude": "+47.015536",
+        "longitude": "-123.719565"
+    },
+    {
+        "county": "GRAYS HARBOR",
+        "city": "NEILTON",
+        "zipcode": 98566,
+        "latitude": "+47.387674",
+        "longitude": "-123.890317"
+    },
+    {
+        "county": "GRAYS HARBOR",
+        "city": "OAKVILLE",
+        "zipcode": 98568,
+        "latitude": "+46.866084",
+        "longitude": "-123.283859"
+    },
+    {
+        "county": "GRAYS HARBOR",
+        "city": "OCEAN SHORES",
+        "zipcode": 98569,
+        "latitude": "+47.071971",
+        "longitude": "-124.152461"
+    },
+    {
+        "county": "GRAYS HARBOR",
+        "city": "PACIFIC BEACH",
+        "zipcode": 98571,
+        "latitude": "+47.219468",
+        "longitude": "-124.191502"
+    },
+    {
+        "county": "GRAYS HARBOR",
+        "city": "QUINAULT",
+        "zipcode": 98575,
+        "latitude": "+47.460280",
+        "longitude": "-123.830676"
+    },
+    {
+        "county": "GRAYS HARBOR",
+        "city": "SATSOP",
+        "zipcode": 98583,
+        "latitude": "+47.002178",
+        "longitude": "-123.483596"
+    },
+    {
+        "county": "GRAYS HARBOR",
+        "city": "TAHOLAH",
+        "zipcode": 98587,
+        "latitude": "+47.230148",
+        "longitude": "-124.232056"
+    },
+    {
+        "county": "GRAYS HARBOR",
+        "city": "WESTPORT",
+        "zipcode": 98595,
+        "latitude": "+46.894327",
+        "longitude": "-123.965158"
+    },
+    {
+        "county": "ISLAND",
+        "city": "CAMANO ISLAND",
+        "zipcode": 98282,
+        "latitude": "",
+        "longitude": ""
+    },
+    {
+        "county": "ISLAND",
+        "city": "CLINTON",
+        "zipcode": 98236,
+        "latitude": "+47.956934",
+        "longitude": "-122.417721"
+    },
+    {
+        "county": "ISLAND",
+        "city": "COUPEVILLE",
+        "zipcode": 98239,
+        "latitude": "+48.189400",
+        "longitude": "-122.667650"
+    },
+    {
+        "county": "ISLAND",
+        "city": "FREELAND",
+        "zipcode": 98249,
+        "latitude": "+48.019581",
+        "longitude": "-122.540489"
+    },
+    {
+        "county": "ISLAND",
+        "city": "GREENBANK",
+        "zipcode": 98253,
+        "latitude": "+48.100424",
+        "longitude": "-122.576120"
+    },
+    {
+        "county": "ISLAND",
+        "city": "LANGLEY",
+        "zipcode": 98260,
+        "latitude": "+48.031815",
+        "longitude": "-122.458831"
+    },
+    {
+        "county": "ISLAND",
+        "city": "OAK HARBOR",
+        "zipcode": 98277,
+        "latitude": "+48.319858",
+        "longitude": "-122.629353"
+    },
+    {
+        "county": "ISLAND",
+        "city": "OAK HARBOR",
+        "zipcode": 98278,
+        "latitude": "+48.310127",
+        "longitude": "-122.655862"
+    },
+    {
+        "county": "JEFFERSON",
+        "city": "BRINNON",
+        "zipcode": 98320,
+        "latitude": "+47.698291",
+        "longitude": "-122.943809"
+    },
+    {
+        "county": "JEFFERSON",
+        "city": "CHIMACUM",
+        "zipcode": 98325,
+        "latitude": "+47.915272",
+        "longitude": "-122.815701"
+    },
+    {
+        "county": "JEFFERSON",
+        "city": "NORDLAND",
+        "zipcode": 98358,
+        "latitude": "+48.057776",
+        "longitude": "-122.691213"
+    },
+    {
+        "county": "JEFFERSON",
+        "city": "PORT HADLOCK",
+        "zipcode": 98339,
+        "latitude": "+47.955331",
+        "longitude": "-122.791259"
+    },
+    {
+        "county": "JEFFERSON",
+        "city": "PORT LUDLOW",
+        "zipcode": 98365,
+        "latitude": "+47.911892",
+        "longitude": "-122.709606"
+    },
+    {
+        "county": "JEFFERSON",
+        "city": "PORT TOWNSEND",
+        "zipcode": 98368,
+        "latitude": "+48.018572",
+        "longitude": "-122.849683"
+    },
+    {
+        "county": "JEFFERSON",
+        "city": "QUILCENE",
+        "zipcode": 98376,
+        "latitude": "+47.828495",
+        "longitude": "-122.838769"
+    },
+    {
+        "county": "KING",
+        "city": "AUBURN",
+        "zipcode": 98001,
+        "latitude": "+47.465495",
+        "longitude": "-121.821908"
+    },
+    {
+        "county": "KING",
+        "city": "AUBURN",
+        "zipcode": 98002,
+        "latitude": "+47.315422",
+        "longitude": "-122.204230"
+    },
+    {
+        "county": "KING",
+        "city": "AUBURN",
+        "zipcode": 98071,
+        "latitude": "+47.432251",
+        "longitude": "-121.803388"
+    },
+    {
+        "county": "KING",
+        "city": "AUBURN",
+        "zipcode": 98092,
+        "latitude": "+47.288362",
+        "longitude": "-122.097976"
+    },
+    {
+        "county": "KING",
+        "city": "BARING",
+        "zipcode": 98224,
+        "latitude": "+47.767103",
+        "longitude": "-121.481395"
+    },
+    {
+        "county": "KING",
+        "city": "BELLEVUE",
+        "zipcode": 98004,
+        "latitude": "+47.615471",
+        "longitude": "-122.207221"
+    },
+    {
+        "county": "KING",
+        "city": "BELLEVUE",
+        "zipcode": 98005,
+        "latitude": "+47.620471",
+        "longitude": "-122.178883"
+    },
+    {
+        "county": "KING",
+        "city": "BELLEVUE",
+        "zipcode": 98006,
+        "latitude": "+47.551771",
+        "longitude": "-122.144727"
+    },
+    {
+        "county": "KING",
+        "city": "BELLEVUE",
+        "zipcode": 98007,
+        "latitude": "+47.620152",
+        "longitude": "-122.142282"
+    },
+    {
+        "county": "KING",
+        "city": "BELLEVUE",
+        "zipcode": 98008,
+        "latitude": "+47.605867",
+        "longitude": "-122.111082"
+    },
+    {
+        "county": "KING",
+        "city": "BELLEVUE",
+        "zipcode": 98009,
+        "latitude": "+47.432251",
+        "longitude": "-121.803388"
+    },
+    {
+        "county": "KING",
+        "city": "BELLEVUE",
+        "zipcode": 98015,
+        "latitude": "+47.432251",
+        "longitude": "-121.803388"
+    },
+    {
+        "county": "KING",
+        "city": "BLACK DIAMOND",
+        "zipcode": 98010,
+        "latitude": "+47.310568",
+        "longitude": "-121.998721"
+    },
+    {
+        "county": "KING",
+        "city": "BOTHELL",
+        "zipcode": 98011,
+        "latitude": "+47.750689",
+        "longitude": "-122.214376"
+    },
+    {
+        "county": "KING",
+        "city": "BOTHELL",
+        "zipcode": 98041,
+        "latitude": "+47.432251",
+        "longitude": "-121.803388"
+    },
+    {
+        "county": "KING",
+        "city": "BURTON",
+        "zipcode": 98013,
+        "latitude": "+47.432251",
+        "longitude": "-121.803388"
+    },
+    {
+        "county": "KING",
+        "city": "CARNATION",
+        "zipcode": 98014,
+        "latitude": "+47.661862",
+        "longitude": "-121.927236"
+    },
+    {
+        "county": "KING",
+        "city": "DUVALL",
+        "zipcode": 98019,
+        "latitude": "+47.734590",
+        "longitude": "-121.931974"
+    },
+    {
+        "county": "KING",
+        "city": "ENUMCLAW",
+        "zipcode": 98022,
+        "latitude": "+47.234107",
+        "longitude": "-121.903936"
+    },
+    {
+        "county": "KING",
+        "city": "FALL CITY",
+        "zipcode": 98024,
+        "latitude": "+47.483051",
+        "longitude": "-121.987813"
+    },
+    {
+        "county": "KING",
+        "city": "FEDERAL WAY",
+        "zipcode": 98003,
+        "latitude": "+47.432251",
+        "longitude": "-121.803388"
+    },
+    {
+        "county": "KING",
+        "city": "FEDERAL WAY",
+        "zipcode": 98023,
+        "latitude": "+47.775627",
+        "longitude": "-122.240337"
+    },
+    {
+        "county": "KING",
+        "city": "FEDERAL WAY",
+        "zipcode": 98063,
+        "latitude": "+47.432251",
+        "longitude": "-121.803388"
+    },
+    {
+        "county": "KING",
+        "city": "FEDERAL WAY",
+        "zipcode": 98093,
+        "latitude": "+47.311041",
+        "longitude": "-122.113791"
+    },
+    {
+        "county": "KING",
+        "city": "HOBART",
+        "zipcode": 98025,
+        "latitude": "+47.591564",
+        "longitude": "-122.056013"
+    },
+    {
+        "county": "KING",
+        "city": "ISSAQUAH",
+        "zipcode": 98027,
+        "latitude": "+47.497419",
+        "longitude": "-122.010699"
+    },
+    {
+        "county": "KING",
+        "city": "ISSAQUAH",
+        "zipcode": 98029,
+        "latitude": "+47.565587",
+        "longitude": "-122.025754"
+    },
+    {
+        "county": "KING",
+        "city": "KENMORE",
+        "zipcode": 98028,
+        "latitude": "+47.754219",
+        "longitude": "-122.124643"
+    },
+    {
+        "county": "KING",
+        "city": "KENT",
+        "zipcode": 98031,
+        "latitude": "+47.379972",
+        "longitude": "-122.165380"
+    },
+    {
+        "county": "KING",
+        "city": "KENT",
+        "zipcode": 98032,
+        "latitude": "+47.432251",
+        "longitude": "-121.803388"
+    },
+    {
+        "county": "KING",
+        "city": "KENT",
+        "zipcode": 98035,
+        "latitude": "+47.432251",
+        "longitude": "-121.803388"
+    },
+    {
+        "county": "KING",
+        "city": "KENT",
+        "zipcode": 98042,
+        "latitude": "+47.353456",
+        "longitude": "-122.091718"
+    },
+    {
+        "county": "KING",
+        "city": "KENT",
+        "zipcode": 98064,
+        "latitude": "+47.432251",
+        "longitude": "-121.803388"
+    },
+    {
+        "county": "KING",
+        "city": "KIRKLAND",
+        "zipcode": 98033,
+        "latitude": "+47.673263",
+        "longitude": "-122.187029"
+    },
+    {
+        "county": "KING",
+        "city": "KIRKLAND",
+        "zipcode": 98034,
+        "latitude": "+47.725139",
+        "longitude": "-122.205646"
+    },
+    {
+        "county": "KING",
+        "city": "KIRKLAND",
+        "zipcode": 98083,
+        "latitude": "+47.432251",
+        "longitude": "-121.803388"
+    },
+    {
+        "county": "KING",
+        "city": "MAPLE VALLEY",
+        "zipcode": 98038,
+        "latitude": "+47.409304",
+        "longitude": "-121.969445"
+    },
+    {
+        "county": "KING",
+        "city": "MEDINA",
+        "zipcode": 98039,
+        "latitude": "+47.626920",
+        "longitude": "-122.231389"
+    },
+    {
+        "county": "KING",
+        "city": "MERCER ISLAND",
+        "zipcode": 98040,
+        "latitude": "+47.560250",
+        "longitude": "-122.228083"
+    },
+    {
+        "county": "KING",
+        "city": "NORTH BEND",
+        "zipcode": 98045,
+        "latitude": "+47.467224",
+        "longitude": "-121.687506"
+    },
+    {
+        "county": "KING",
+        "city": "PACIFIC",
+        "zipcode": 98047,
+        "latitude": "+47.432251",
+        "longitude": "-121.803388"
+    },
+    {
+        "county": "KING",
+        "city": "PRESTON",
+        "zipcode": 98050,
+        "latitude": "+47.536015",
+        "longitude": "-121.931195"
+    },
+    {
+        "county": "KING",
+        "city": "RAVENSDALE",
+        "zipcode": 98051,
+        "latitude": "+47.274764",
+        "longitude": "-121.932232"
+    },
+    {
+        "county": "KING",
+        "city": "REDMOND",
+        "zipcode": 98052,
+        "latitude": "+47.678756",
+        "longitude": "-122.121034"
+    },
+    {
+        "county": "KING",
+        "city": "REDMOND",
+        "zipcode": 98053,
+        "latitude": "+47.648626",
+        "longitude": "-122.021060"
+    },
+    {
+        "county": "KING",
+        "city": "REDMOND",
+        "zipcode": 98073,
+        "latitude": "+47.432251",
+        "longitude": "-121.803388"
+    },
+    {
+        "county": "KING",
+        "city": "REDONDO",
+        "zipcode": 98054,
+        "latitude": "+47.432251",
+        "longitude": "-121.803388"
+    },
+    {
+        "county": "KING",
+        "city": "RENTON",
+        "zipcode": 98055,
+        "latitude": "+47.485348",
+        "longitude": "-122.029670"
+    },
+    {
+        "county": "KING",
+        "city": "RENTON",
+        "zipcode": 98056,
+        "latitude": "+47.514671",
+        "longitude": "-122.186447"
+    },
+    {
+        "county": "KING",
+        "city": "RENTON",
+        "zipcode": 98057,
+        "latitude": "+47.432251",
+        "longitude": "-121.803388"
+    },
+    {
+        "county": "KING",
+        "city": "RENTON",
+        "zipcode": 98058,
+        "latitude": "+47.432927",
+        "longitude": "-122.117999"
+    },
+    {
+        "county": "KING",
+        "city": "RENTON",
+        "zipcode": 98059,
+        "latitude": "+47.505822",
+        "longitude": "-122.115699"
+    },
+    {
+        "county": "KING",
+        "city": "SAMMAMISH",
+        "zipcode": 98074,
+        "latitude": "",
+        "longitude": ""
+    },
+    {
+        "county": "KING",
+        "city": "SAMMAMISH",
+        "zipcode": 98075,
+        "latitude": "",
+        "longitude": ""
+    },
+    {
+        "county": "KING",
+        "city": "SEAHURST",
+        "zipcode": 98062,
+        "latitude": "+47.432251",
+        "longitude": "-121.803388"
+    },
+    {
+        "county": "KING",
+        "city": "SEATTLE",
+        "zipcode": 98101,
+        "latitude": "+47.432251",
+        "longitude": "-121.803388"
+    },
+    {
+        "county": "KING",
+        "city": "SEATTLE",
+        "zipcode": 98102,
+        "latitude": "+47.432251",
+        "longitude": "-121.803388"
+    },
+    {
+        "county": "KING",
+        "city": "SEATTLE",
+        "zipcode": 98103,
+        "latitude": "+47.432251",
+        "longitude": "-121.803388"
+    },
+    {
+        "county": "KING",
+        "city": "SEATTLE",
+        "zipcode": 98104,
+        "latitude": "+47.432251",
+        "longitude": "-121.803388"
+    },
+    {
+        "county": "KING",
+        "city": "SEATTLE",
+        "zipcode": 98105,
+        "latitude": "+47.432251",
+        "longitude": "-121.803388"
+    },
+    {
+        "county": "KING",
+        "city": "SEATTLE",
+        "zipcode": 98106,
+        "latitude": "+47.432251",
+        "longitude": "-121.803388"
+    },
+    {
+        "county": "KING",
+        "city": "SEATTLE",
+        "zipcode": 98107,
+        "latitude": "+47.432251",
+        "longitude": "-121.803388"
+    },
+    {
+        "county": "KING",
+        "city": "SEATTLE",
+        "zipcode": 98108,
+        "latitude": "+47.432251",
+        "longitude": "-121.803388"
+    },
+    {
+        "county": "KING",
+        "city": "SEATTLE",
+        "zipcode": 98109,
+        "latitude": "+47.583868",
+        "longitude": "-122.052333"
+    },
+    {
+        "county": "KING",
+        "city": "SEATTLE",
+        "zipcode": 98111,
+        "latitude": "+47.432251",
+        "longitude": "-121.803388"
+    },
+    {
+        "county": "KING",
+        "city": "SEATTLE",
+        "zipcode": 98112,
+        "latitude": "+47.432251",
+        "longitude": "-121.803388"
+    },
+    {
+        "county": "KING",
+        "city": "SEATTLE",
+        "zipcode": 98114,
+        "latitude": "+47.432251",
+        "longitude": "-121.803388"
+    },
+    {
+        "county": "KING",
+        "city": "SEATTLE",
+        "zipcode": 98115,
+        "latitude": "+47.432251",
+        "longitude": "-121.803388"
+    },
+    {
+        "county": "KING",
+        "city": "SEATTLE",
+        "zipcode": 98116,
+        "latitude": "+47.432251",
+        "longitude": "-121.803388"
+    },
+    {
+        "county": "KING",
+        "city": "SEATTLE",
+        "zipcode": 98117,
+        "latitude": "+47.432251",
+        "longitude": "-121.803388"
+    },
+    {
+        "county": "KING",
+        "city": "SEATTLE",
+        "zipcode": 98118,
+        "latitude": "+47.432251",
+        "longitude": "-121.803388"
+    },
+    {
+        "county": "KING",
+        "city": "SEATTLE",
+        "zipcode": 98119,
+        "latitude": "+47.432251",
+        "longitude": "-121.803388"
+    },
+    {
+        "county": "KING",
+        "city": "SEATTLE",
+        "zipcode": 98121,
+        "latitude": "+47.432251",
+        "longitude": "-121.803388"
+    },
+    {
+        "county": "KING",
+        "city": "SEATTLE",
+        "zipcode": 98122,
+        "latitude": "+47.432251",
+        "longitude": "-121.803388"
+    },
+    {
+        "county": "KING",
+        "city": "SEATTLE",
+        "zipcode": 98124,
+        "latitude": "+47.432251",
+        "longitude": "-121.803388"
+    },
+    {
+        "county": "KING",
+        "city": "SEATTLE",
+        "zipcode": 98125,
+        "latitude": "+47.432251",
+        "longitude": "-121.803388"
+    },
+    {
+        "county": "KING",
+        "city": "SEATTLE",
+        "zipcode": 98126,
+        "latitude": "+47.432251",
+        "longitude": "-121.803388"
+    },
+    {
+        "county": "KING",
+        "city": "SEATTLE",
+        "zipcode": 98129,
+        "latitude": "+47.432251",
+        "longitude": "-121.803388"
+    },
+    {
+        "county": "KING",
+        "city": "SEATTLE",
+        "zipcode": 98131,
+        "latitude": "+47.432251",
+        "longitude": "-121.803388"
+    },
+    {
+        "county": "KING",
+        "city": "SEATTLE",
+        "zipcode": 98132,
+        "latitude": "+47.432251",
+        "longitude": "-121.803388"
+    },
+    {
+        "county": "KING",
+        "city": "SEATTLE",
+        "zipcode": 98133,
+        "latitude": "+47.432251",
+        "longitude": "-121.803388"
+    },
+    {
+        "county": "KING",
+        "city": "SEATTLE",
+        "zipcode": 98134,
+        "latitude": "+47.432251",
+        "longitude": "-121.803388"
+    },
+    {
+        "county": "KING",
+        "city": "SEATTLE",
+        "zipcode": 98136,
+        "latitude": "+47.432251",
+        "longitude": "-121.803388"
+    },
+    {
+        "county": "KING",
+        "city": "SEATTLE",
+        "zipcode": 98138,
+        "latitude": "+47.432251",
+        "longitude": "-121.803388"
+    },
+    {
+        "county": "KING",
+        "city": "SEATTLE",
+        "zipcode": 98144,
+        "latitude": "+47.432251",
+        "longitude": "-121.803388"
+    },
+    {
+        "county": "KING",
+        "city": "SEATTLE",
+        "zipcode": 98145,
+        "latitude": "+47.432251",
+        "longitude": "-121.803388"
+    },
+    {
+        "county": "KING",
+        "city": "SEATTLE",
+        "zipcode": 98146,
+        "latitude": "+47.432251",
+        "longitude": "-121.803388"
+    },
+    {
+        "county": "KING",
+        "city": "SEATTLE",
+        "zipcode": 98148,
+        "latitude": "+47.432251",
+        "longitude": "-121.803388"
+    },
+    {
+        "county": "KING",
+        "city": "SEATTLE",
+        "zipcode": 98151,
+        "latitude": "+47.432251",
+        "longitude": "-121.803388"
+    },
+    {
+        "county": "KING",
+        "city": "SEATTLE",
+        "zipcode": 98154,
+        "latitude": "+47.432251",
+        "longitude": "-121.803388"
+    },
+    {
+        "county": "KING",
+        "city": "SEATTLE",
+        "zipcode": 98155,
+        "latitude": "+47.767169",
+        "longitude": "-122.259737"
+    },
+    {
+        "county": "KING",
+        "city": "SEATTLE",
+        "zipcode": 98158,
+        "latitude": "+47.432251",
+        "longitude": "-121.803388"
+    },
+    {
+        "county": "KING",
+        "city": "SEATTLE",
+        "zipcode": 98160,
+        "latitude": "+47.432251",
+        "longitude": "-121.803388"
+    },
+    {
+        "county": "KING",
+        "city": "SEATTLE",
+        "zipcode": 98161,
+        "latitude": "+47.432251",
+        "longitude": "-121.803388"
+    },
+    {
+        "county": "KING",
+        "city": "SEATTLE",
+        "zipcode": 98164,
+        "latitude": "+47.432251",
+        "longitude": "-121.803388"
+    },
+    {
+        "county": "KING",
+        "city": "SEATTLE",
+        "zipcode": 98166,
+        "latitude": "+47.432251",
+        "longitude": "-121.803388"
+    },
+    {
+        "county": "KING",
+        "city": "SEATTLE",
+        "zipcode": 98168,
+        "latitude": "+47.432251",
+        "longitude": "-121.803388"
+    },
+    {
+        "county": "KING",
+        "city": "SEATTLE",
+        "zipcode": 98170,
+        "latitude": "",
+        "longitude": ""
+    },
+    {
+        "county": "KING",
+        "city": "SEATTLE",
+        "zipcode": 98171,
+        "latitude": "+47.432251",
+        "longitude": "-121.803388"
+    },
+    {
+        "county": "KING",
+        "city": "SEATTLE",
+        "zipcode": 98174,
+        "latitude": "+47.432251",
+        "longitude": "-121.803388"
+    },
+    {
+        "county": "KING",
+        "city": "SEATTLE",
+        "zipcode": 98177,
+        "latitude": "+47.432251",
+        "longitude": "-121.803388"
+    },
+    {
+        "county": "KING",
+        "city": "SEATTLE",
+        "zipcode": 98178,
+        "latitude": "+47.492385",
+        "longitude": "-122.235856"
+    },
+    {
+        "county": "KING",
+        "city": "SEATTLE",
+        "zipcode": 98181,
+        "latitude": "+47.432251",
+        "longitude": "-121.803388"
+    },
+    {
+        "county": "KING",
+        "city": "SEATTLE",
+        "zipcode": 98184,
+        "latitude": "+47.432251",
+        "longitude": "-121.803388"
+    },
+    {
+        "county": "KING",
+        "city": "SEATTLE",
+        "zipcode": 98185,
+        "latitude": "+47.432251",
+        "longitude": "-121.803388"
+    },
+    {
+        "county": "KING",
+        "city": "SEATTLE",
+        "zipcode": 98188,
+        "latitude": "+47.432251",
+        "longitude": "-121.803388"
+    },
+    {
+        "county": "KING",
+        "city": "SEATTLE",
+        "zipcode": 98190,
+        "latitude": "+47.432251",
+        "longitude": "-121.803388"
+    },
+    {
+        "county": "KING",
+        "city": "SEATTLE",
+        "zipcode": 98191,
+        "latitude": "+47.432251",
+        "longitude": "-121.803388"
+    },
+    {
+        "county": "KING",
+        "city": "SEATTLE",
+        "zipcode": 98195,
+        "latitude": "+47.432251",
+        "longitude": "-121.803388"
+    },
+    {
+        "county": "KING",
+        "city": "SEATTLE",
+        "zipcode": 98198,
+        "latitude": "+47.432251",
+        "longitude": "-121.803388"
+    },
+    {
+        "county": "KING",
+        "city": "SEATTLE",
+        "zipcode": 98199,
+        "latitude": "+47.776875",
+        "longitude": "-122.264256"
+    },
+    {
+        "county": "KING",
+        "city": "SKYKOMISH",
+        "zipcode": 98288,
+        "latitude": "+47.722245",
+        "longitude": "-121.369352"
+    },
+    {
+        "county": "KING",
+        "city": "SNOQUALMIE",
+        "zipcode": 98065,
+        "latitude": "+47.534473",
+        "longitude": "-121.816158"
+    },
+    {
+        "county": "KING",
+        "city": "SNOQUALMIE PASS",
+        "zipcode": 98068,
+        "latitude": "+47.445171",
+        "longitude": "-121.431033"
+    },
+    {
+        "county": "KING",
+        "city": "VASHON",
+        "zipcode": 98070,
+        "latitude": "+47.432251",
+        "longitude": "-121.803388"
+    },
+    {
+        "county": "KING",
+        "city": "WOODINVILLE",
+        "zipcode": 98072,
+        "latitude": "+47.740741",
+        "longitude": "-122.090874"
+    },
+    {
+        "county": "KITSAP",
+        "city": "BAINBRIDGE ISLAND",
+        "zipcode": 98110,
+        "latitude": "+47.647774",
+        "longitude": "-122.538016"
+    },
+    {
+        "county": "KITSAP",
+        "city": "BREMERTON",
+        "zipcode": 98310,
+        "latitude": "+47.606478",
+        "longitude": "-122.634712"
+    },
+    {
+        "county": "KITSAP",
+        "city": "BREMERTON",
+        "zipcode": 98311,
+        "latitude": "+47.627129",
+        "longitude": "-122.637276"
+    },
+    {
+        "county": "KITSAP",
+        "city": "BREMERTON",
+        "zipcode": 98312,
+        "latitude": "+47.578921",
+        "longitude": "-122.798590"
+    },
+    {
+        "county": "KITSAP",
+        "city": "BREMERTON",
+        "zipcode": 98314,
+        "latitude": "+47.559317",
+        "longitude": "-122.649150"
+    },
+    {
+        "county": "KITSAP",
+        "city": "BREMERTON",
+        "zipcode": 98337,
+        "latitude": "+47.568617",
+        "longitude": "-122.637350"
+    },
+    {
+        "county": "KITSAP",
+        "city": "BURLEY",
+        "zipcode": 98322,
+        "latitude": "+47.687971",
+        "longitude": "-122.729304"
+    },
+    {
+        "county": "KITSAP",
+        "city": "HANSVILLE",
+        "zipcode": 98340,
+        "latitude": "+47.868952",
+        "longitude": "-122.557486"
+    },
+    {
+        "county": "KITSAP",
+        "city": "INDIANOLA",
+        "zipcode": 98342,
+        "latitude": "+47.753544",
+        "longitude": "-122.566561"
+    },
+    {
+        "county": "KITSAP",
+        "city": "KEYPORT",
+        "zipcode": 98345,
+        "latitude": "+47.698025",
+        "longitude": "-122.625529"
+    },
+    {
+        "county": "KITSAP",
+        "city": "KINGSTON",
+        "zipcode": 98346,
+        "latitude": "+47.834483",
+        "longitude": "-122.547078"
+    },
+    {
+        "county": "KITSAP",
+        "city": "MANCHESTER",
+        "zipcode": 98353,
+        "latitude": "+47.595155",
+        "longitude": "-122.622513"
+    },
+    {
+        "county": "KITSAP",
+        "city": "OLALLA",
+        "zipcode": 98359,
+        "latitude": "+47.435986",
+        "longitude": "-122.580554"
+    },
+    {
+        "county": "KITSAP",
+        "city": "PORT GAMBLE",
+        "zipcode": 98364,
+        "latitude": "+47.834431",
+        "longitude": "-122.592763"
+    },
+    {
+        "county": "KITSAP",
+        "city": "PORT ORCHARD",
+        "zipcode": 98366,
+        "latitude": "+47.542664",
+        "longitude": "-122.587102"
+    },
+    {
+        "county": "KITSAP",
+        "city": "PORT ORCHARD",
+        "zipcode": 98367,
+        "latitude": "+47.470651",
+        "longitude": "-122.650972"
+    },
+    {
+        "county": "KITSAP",
+        "city": "POULSBO",
+        "zipcode": 98370,
+        "latitude": "+47.751046",
+        "longitude": "-122.614094"
+    },
+    {
+        "county": "KITSAP",
+        "city": "RETSIL",
+        "zipcode": 98378,
+        "latitude": "+47.687971",
+        "longitude": "-122.729304"
+    },
+    {
+        "county": "KITSAP",
+        "city": "ROLLINGBAY",
+        "zipcode": 98061,
+        "latitude": "+47.680763",
+        "longitude": "-122.576199"
+    },
+    {
+        "county": "KITSAP",
+        "city": "SEABECK",
+        "zipcode": 98380,
+        "latitude": "+47.591261",
+        "longitude": "-122.868581"
+    },
+    {
+        "county": "KITSAP",
+        "city": "SILVERDALE",
+        "zipcode": 98315,
+        "latitude": "+47.690048",
+        "longitude": "-122.712678"
+    },
+    {
+        "county": "KITSAP",
+        "city": "SILVERDALE",
+        "zipcode": 98383,
+        "latitude": "+47.672498",
+        "longitude": "-122.707982"
+    },
+    {
+        "county": "KITSAP",
+        "city": "SOUTH COLBY",
+        "zipcode": 98384,
+        "latitude": "+47.521803",
+        "longitude": "-122.539637"
+    },
+    {
+        "county": "KITSAP",
+        "city": "SOUTHWORTH",
+        "zipcode": 98386,
+        "latitude": "+47.510370",
+        "longitude": "-122.499139"
+    },
+    {
+        "county": "KITSAP",
+        "city": "SUQUAMISH",
+        "zipcode": 98392,
+        "latitude": "+47.732624",
+        "longitude": "-122.564557"
+    },
+    {
+        "county": "KITSAP",
+        "city": "TRACYTON",
+        "zipcode": 98393,
+        "latitude": "+47.626717",
+        "longitude": "-122.649953"
+    },
+    {
+        "county": "KITTITAS",
+        "city": "CLE ELUM",
+        "zipcode": 98922,
+        "latitude": "+47.156558",
+        "longitude": "-120.806926"
+    },
+    {
+        "county": "KITTITAS",
+        "city": "EASTON",
+        "zipcode": 98925,
+        "latitude": "+47.232953",
+        "longitude": "-121.177187"
+    },
+    {
+        "county": "KITTITAS",
+        "city": "ELLENSBURG",
+        "zipcode": 98926,
+        "latitude": "+47.028084",
+        "longitude": "-120.489980"
+    },
+    {
+        "county": "KITTITAS",
+        "city": "KITTITAS",
+        "zipcode": 98934,
+        "latitude": "+46.980645",
+        "longitude": "-120.416259"
+    },
+    {
+        "county": "KITTITAS",
+        "city": "RONALD",
+        "zipcode": 98940,
+        "latitude": "+47.250307",
+        "longitude": "-121.045575"
+    },
+    {
+        "county": "KITTITAS",
+        "city": "ROSLYN",
+        "zipcode": 98941,
+        "latitude": "+47.223287",
+        "longitude": "-121.002513"
+    },
+    {
+        "county": "KITTITAS",
+        "city": "SOUTH CLE ELUM",
+        "zipcode": 98943,
+        "latitude": "+47.188645",
+        "longitude": "-120.953680"
+    },
+    {
+        "county": "KITTITAS",
+        "city": "THORP",
+        "zipcode": 98946,
+        "latitude": "+47.073905",
+        "longitude": "-120.758301"
+    },
+    {
+        "county": "KITTITAS",
+        "city": "VANTAGE",
+        "zipcode": 98950,
+        "latitude": "+46.871354",
+        "longitude": "-119.985869"
+    },
+    {
+        "county": "KLICKITAT",
+        "city": "APPLETON",
+        "zipcode": 98602,
+        "latitude": "+45.850437",
+        "longitude": "-121.312852"
+    },
+    {
+        "county": "KLICKITAT",
+        "city": "BICKLETON",
+        "zipcode": 99322,
+        "latitude": "+45.887647",
+        "longitude": "-120.281675"
+    },
+    {
+        "county": "KLICKITAT",
+        "city": "BINGEN",
+        "zipcode": 98605,
+        "latitude": "+45.721519",
+        "longitude": "-121.447323"
+    },
+    {
+        "county": "KLICKITAT",
+        "city": "CENTERVILLE",
+        "zipcode": 98613,
+        "latitude": "+45.738205",
+        "longitude": "-120.993902"
+    },
+    {
+        "county": "KLICKITAT",
+        "city": "DALLESPORT",
+        "zipcode": 98617,
+        "latitude": "+45.632681",
+        "longitude": "-121.171690"
+    },
+    {
+        "county": "KLICKITAT",
+        "city": "GLENWOOD",
+        "zipcode": 98619,
+        "latitude": "+45.989951",
+        "longitude": "-121.282054"
+    },
+    {
+        "county": "KLICKITAT",
+        "city": "GOLDENDALE",
+        "zipcode": 98620,
+        "latitude": "+45.840666",
+        "longitude": "-120.768762"
+    },
+    {
+        "county": "KLICKITAT",
+        "city": "HUSUM",
+        "zipcode": 98623,
+        "latitude": "+45.807631",
+        "longitude": "-121.487682"
+    },
+    {
+        "county": "KLICKITAT",
+        "city": "KLICKITAT",
+        "zipcode": 98628,
+        "latitude": "+45.856217",
+        "longitude": "-121.044345"
+    },
+    {
+        "county": "KLICKITAT",
+        "city": "LYLE",
+        "zipcode": 98635,
+        "latitude": "+45.822789",
+        "longitude": "-121.213705"
+    },
+    {
+        "county": "KLICKITAT",
+        "city": "ROOSEVELT",
+        "zipcode": 99356,
+        "latitude": "+45.851428",
+        "longitude": "-120.354257"
+    },
+    {
+        "county": "KLICKITAT",
+        "city": "TROUT LAKE",
+        "zipcode": 98650,
+        "latitude": "+45.958949",
+        "longitude": "-121.535640"
+    },
+    {
+        "county": "KLICKITAT",
+        "city": "WAHKIACUS",
+        "zipcode": 98670,
+        "latitude": "+45.810317",
+        "longitude": "-121.302305"
+    },
+    {
+        "county": "KLICKITAT",
+        "city": "WHITE SALMON",
+        "zipcode": 98672,
+        "latitude": "+45.828588",
+        "longitude": "-121.405863"
+    },
+    {
+        "county": "KLICKITAT",
+        "city": "WISHRAM",
+        "zipcode": 98673,
+        "latitude": "+45.641548",
+        "longitude": "-121.073170"
+    },
+    {
+        "county": "LEWIS",
+        "city": "ADNA",
+        "zipcode": 98522,
+        "latitude": "+46.571323",
+        "longitude": "-123.298384"
+    },
+    {
+        "county": "LEWIS",
+        "city": "CENTRALIA",
+        "zipcode": 98531,
+        "latitude": "+46.713822",
+        "longitude": "-123.010460"
+    },
+    {
+        "county": "LEWIS",
+        "city": "CHEHALIS",
+        "zipcode": 98532,
+        "latitude": "+46.615653",
+        "longitude": "-123.024845"
+    },
+    {
+        "county": "LEWIS",
+        "city": "CINEBAR",
+        "zipcode": 98533,
+        "latitude": "+46.579292",
+        "longitude": "-122.568709"
+    },
+    {
+        "county": "LEWIS",
+        "city": "CURTIS",
+        "zipcode": 98538,
+        "latitude": "+46.495639",
+        "longitude": "-123.146764"
+    },
+    {
+        "county": "LEWIS",
+        "city": "DOTY",
+        "zipcode": 98539,
+        "latitude": "+46.637834",
+        "longitude": "-123.280421"
+    },
+    {
+        "county": "LEWIS",
+        "city": "ETHEL",
+        "zipcode": 98542,
+        "latitude": "+46.530022",
+        "longitude": "-122.724004"
+    },
+    {
+        "county": "LEWIS",
+        "city": "GALVIN",
+        "zipcode": 98544,
+        "latitude": "+46.734909",
+        "longitude": "-123.025360"
+    },
+    {
+        "county": "LEWIS",
+        "city": "GLENOMA",
+        "zipcode": 98336,
+        "latitude": "+46.539120",
+        "longitude": "-122.100372"
+    },
+    {
+        "county": "LEWIS",
+        "city": "MINERAL",
+        "zipcode": 98355,
+        "latitude": "+46.713843",
+        "longitude": "-122.093813"
+    },
+    {
+        "county": "LEWIS",
+        "city": "MORTON",
+        "zipcode": 98356,
+        "latitude": "+46.591038",
+        "longitude": "-122.068418"
+    },
+    {
+        "county": "LEWIS",
+        "city": "MOSSYROCK",
+        "zipcode": 98564,
+        "latitude": "+46.502810",
+        "longitude": "-122.468293"
+    },
+    {
+        "county": "LEWIS",
+        "city": "NAPAVINE",
+        "zipcode": 98565,
+        "latitude": "+46.579281",
+        "longitude": "-122.909666"
+    },
+    {
+        "county": "LEWIS",
+        "city": "ONALASKA",
+        "zipcode": 98570,
+        "latitude": "+46.563491",
+        "longitude": "-122.690491"
+    },
+    {
+        "county": "LEWIS",
+        "city": "PACKWOOD",
+        "zipcode": 98361,
+        "latitude": "+46.621697",
+        "longitude": "-121.652807"
+    },
+    {
+        "county": "LEWIS",
+        "city": "PE ELL",
+        "zipcode": 98572,
+        "latitude": "+46.582897",
+        "longitude": "-123.314715"
+    },
+    {
+        "county": "LEWIS",
+        "city": "RANDLE",
+        "zipcode": 98377,
+        "latitude": "+46.516754",
+        "longitude": "-121.894411"
+    },
+    {
+        "county": "LEWIS",
+        "city": "SALKUM",
+        "zipcode": 98582,
+        "latitude": "+46.514633",
+        "longitude": "-122.648072"
+    },
+    {
+        "county": "LEWIS",
+        "city": "SILVER CREEK",
+        "zipcode": 98585,
+        "latitude": "+46.546091",
+        "longitude": "-122.487578"
+    },
+    {
+        "county": "LEWIS",
+        "city": "TOLEDO",
+        "zipcode": 98591,
+        "latitude": "+46.456038",
+        "longitude": "-122.794980"
+    },
+    {
+        "county": "LEWIS",
+        "city": "VADER",
+        "zipcode": 98593,
+        "latitude": "+46.423038",
+        "longitude": "-122.973972"
+    },
+    {
+        "county": "LEWIS",
+        "city": "WINLOCK",
+        "zipcode": 98596,
+        "latitude": "+46.490874",
+        "longitude": "-122.879917"
+    },
+    {
+        "county": "LINCOLN",
+        "city": "ALMIRA",
+        "zipcode": 99103,
+        "latitude": "+47.529705",
+        "longitude": "-118.599193"
+    },
+    {
+        "county": "LINCOLN",
+        "city": "CRESTON",
+        "zipcode": 99117,
+        "latitude": "+47.644181",
+        "longitude": "-118.450679"
+    },
+    {
+        "county": "LINCOLN",
+        "city": "DAVENPORT",
+        "zipcode": 99122,
+        "latitude": "+47.712295",
+        "longitude": "-118.122173"
+    },
+    {
+        "county": "LINCOLN",
+        "city": "EDWALL",
+        "zipcode": 99008,
+        "latitude": "+47.608940",
+        "longitude": "-118.399551"
+    },
+    {
+        "county": "LINCOLN",
+        "city": "HARRINGTON",
+        "zipcode": 99134,
+        "latitude": "+47.478233",
+        "longitude": "-118.254439"
+    },
+    {
+        "county": "LINCOLN",
+        "city": "LAMONA",
+        "zipcode": 99144,
+        "latitude": "+47.608940",
+        "longitude": "-118.399551"
+    },
+    {
+        "county": "LINCOLN",
+        "city": "LINCOLN",
+        "zipcode": 99147,
+        "latitude": "+47.608940",
+        "longitude": "-118.399551"
+    },
+    {
+        "county": "LINCOLN",
+        "city": "MOHLER",
+        "zipcode": 99154,
+        "latitude": "+47.608940",
+        "longitude": "-118.399551"
+    },
+    {
+        "county": "LINCOLN",
+        "city": "ODESSA",
+        "zipcode": 99159,
+        "latitude": "+47.344402",
+        "longitude": "-118.658816"
+    },
+    {
+        "county": "LINCOLN",
+        "city": "REARDAN",
+        "zipcode": 99029,
+        "latitude": "+47.701645",
+        "longitude": "-117.755268"
+    },
+    {
+        "county": "LINCOLN",
+        "city": "SPRAGUE",
+        "zipcode": 99032,
+        "latitude": "+47.299844",
+        "longitude": "-117.977732"
+    },
+    {
+        "county": "LINCOLN",
+        "city": "WILBUR",
+        "zipcode": 99185,
+        "latitude": "+47.761025",
+        "longitude": "-118.729143"
+    },
+    {
+        "county": "MASON",
+        "city": "ALLYN",
+        "zipcode": 98524,
+        "latitude": "+47.322429",
+        "longitude": "-122.984003"
+    },
+    {
+        "county": "MASON",
+        "city": "BELFAIR",
+        "zipcode": 98528,
+        "latitude": "+47.432465",
+        "longitude": "-122.928877"
+    },
+    {
+        "county": "MASON",
+        "city": "GRAPEVIEW",
+        "zipcode": 98546,
+        "latitude": "+47.327254",
+        "longitude": "-122.916256"
+    },
+    {
+        "county": "MASON",
+        "city": "HOODSPORT",
+        "zipcode": 98548,
+        "latitude": "+47.446972",
+        "longitude": "-123.198634"
+    },
+    {
+        "county": "MASON",
+        "city": "LILLIWAUP",
+        "zipcode": 98555,
+        "latitude": "+47.532281",
+        "longitude": "-123.049632"
+    },
+    {
+        "county": "MASON",
+        "city": "MATLOCK",
+        "zipcode": 98560,
+        "latitude": "+47.263601",
+        "longitude": "-123.441178"
+    },
+    {
+        "county": "MASON",
+        "city": "SHELTON",
+        "zipcode": 98584,
+        "latitude": "+47.263255",
+        "longitude": "-123.159683"
+    },
+    {
+        "county": "MASON",
+        "city": "TAHUYA",
+        "zipcode": 98588,
+        "latitude": "+47.434953",
+        "longitude": "-123.096769"
+    },
+    {
+        "county": "MASON",
+        "city": "UNION",
+        "zipcode": 98592,
+        "latitude": "+47.336838",
+        "longitude": "-123.074952"
+    },
+    {
+        "county": "OKANOGAN",
+        "city": "BREWSTER",
+        "zipcode": 98812,
+        "latitude": "+48.365236",
+        "longitude": "-119.829391"
+    },
+    {
+        "county": "OKANOGAN",
+        "city": "CARLTON",
+        "zipcode": 98814,
+        "latitude": "+48.551984",
+        "longitude": "-119.812938"
+    },
+    {
+        "county": "OKANOGAN",
+        "city": "CONCONULLY",
+        "zipcode": 98819,
+        "latitude": "+48.546905",
+        "longitude": "-119.752620"
+    },
+    {
+        "county": "OKANOGAN",
+        "city": "COULEE DAM",
+        "zipcode": 99116,
+        "latitude": "+48.037889",
+        "longitude": "-118.941876"
+    },
+    {
+        "county": "OKANOGAN",
+        "city": "ELMER CITY",
+        "zipcode": 99124,
+        "latitude": "+48.015361",
+        "longitude": "-118.954893"
+    },
+    {
+        "county": "OKANOGAN",
+        "city": "LOOMIS",
+        "zipcode": 98827,
+        "latitude": "+48.892514",
+        "longitude": "-119.721016"
+    },
+    {
+        "county": "OKANOGAN",
+        "city": "MALOTT",
+        "zipcode": 98829,
+        "latitude": "+48.248002",
+        "longitude": "-119.752460"
+    },
+    {
+        "county": "OKANOGAN",
+        "city": "MAZAMA",
+        "zipcode": 98833,
+        "latitude": "+48.619527",
+        "longitude": "-120.457954"
+    },
+    {
+        "county": "OKANOGAN",
+        "city": "METHOW",
+        "zipcode": 98834,
+        "latitude": "+48.139518",
+        "longitude": "-120.046348"
+    },
+    {
+        "county": "OKANOGAN",
+        "city": "NESPELEM",
+        "zipcode": 99155,
+        "latitude": "+48.143441",
+        "longitude": "-119.009380"
+    },
+    {
+        "county": "OKANOGAN",
+        "city": "OKANOGAN",
+        "zipcode": 98840,
+        "latitude": "+48.577378",
+        "longitude": "-119.956787"
+    },
+    {
+        "county": "OKANOGAN",
+        "city": "OMAK",
+        "zipcode": 98841,
+        "latitude": "+48.426942",
+        "longitude": "-119.560672"
+    },
+    {
+        "county": "OKANOGAN",
+        "city": "OROVILLE",
+        "zipcode": 98844,
+        "latitude": "+48.681342",
+        "longitude": "-119.579107"
+    },
+    {
+        "county": "OKANOGAN",
+        "city": "PATEROS",
+        "zipcode": 98846,
+        "latitude": "+48.411234",
+        "longitude": "-119.742154"
+    },
+    {
+        "county": "OKANOGAN",
+        "city": "RIVERSIDE",
+        "zipcode": 98849,
+        "latitude": "+48.518361",
+        "longitude": "-119.434674"
+    },
+    {
+        "county": "OKANOGAN",
+        "city": "TONASKET",
+        "zipcode": 98855,
+        "latitude": "+48.502603",
+        "longitude": "-119.542935"
+    },
+    {
+        "county": "OKANOGAN",
+        "city": "TWISP",
+        "zipcode": 98856,
+        "latitude": "+48.446836",
+        "longitude": "-119.811252"
+    },
+    {
+        "county": "OKANOGAN",
+        "city": "WAUCONDA",
+        "zipcode": 98859,
+        "latitude": "+48.798456",
+        "longitude": "-119.025578"
+    },
+    {
+        "county": "OKANOGAN",
+        "city": "WINTHROP",
+        "zipcode": 98862,
+        "latitude": "+48.500635",
+        "longitude": "-120.372447"
+    },
+    {
+        "county": "PACIFIC",
+        "city": "BAY CENTER",
+        "zipcode": 98527,
+        "latitude": "+46.637057",
+        "longitude": "-123.884996"
+    },
+    {
+        "county": "PACIFIC",
+        "city": "CHINOOK",
+        "zipcode": 98614,
+        "latitude": "+46.263023",
+        "longitude": "-123.933161"
+    },
+    {
+        "county": "PACIFIC",
+        "city": "ILWACO",
+        "zipcode": 98624,
+        "latitude": "+46.317185",
+        "longitude": "-123.999449"
+    },
+    {
+        "county": "PACIFIC",
+        "city": "LEBAM",
+        "zipcode": 98554,
+        "latitude": "+46.561375",
+        "longitude": "-123.547880"
+    },
+    {
+        "county": "PACIFIC",
+        "city": "LONG BEACH",
+        "zipcode": 98631,
+        "latitude": "+46.376798",
+        "longitude": "-123.995591"
+    },
+    {
+        "county": "PACIFIC",
+        "city": "MENLO",
+        "zipcode": 98561,
+        "latitude": "+46.514625",
+        "longitude": "-123.769030"
+    },
+    {
+        "county": "PACIFIC",
+        "city": "NAHCOTTA",
+        "zipcode": 98637,
+        "latitude": "+46.514625",
+        "longitude": "-123.769030"
+    },
+    {
+        "county": "PACIFIC",
+        "city": "NASELLE",
+        "zipcode": 98638,
+        "latitude": "+46.342219",
+        "longitude": "-123.802552"
+    },
+    {
+        "county": "PACIFIC",
+        "city": "OCEAN PARK",
+        "zipcode": 98640,
+        "latitude": "+46.495565",
+        "longitude": "-124.040389"
+    },
+    {
+        "county": "PACIFIC",
+        "city": "OYSTERVILLE",
+        "zipcode": 98641,
+        "latitude": "+46.544789",
+        "longitude": "-124.042671"
+    },
+    {
+        "county": "PACIFIC",
+        "city": "RAYMOND",
+        "zipcode": 98577,
+        "latitude": "+46.653496",
+        "longitude": "-123.657572"
+    },
+    {
+        "county": "PACIFIC",
+        "city": "SEAVIEW",
+        "zipcode": 98644,
+        "latitude": "+46.330755",
+        "longitude": "-124.045530"
+    },
+    {
+        "county": "PACIFIC",
+        "city": "SOUTH BEND",
+        "zipcode": 98586,
+        "latitude": "+46.588006",
+        "longitude": "-123.834262"
+    },
+    {
+        "county": "PACIFIC",
+        "city": "TOKELAND",
+        "zipcode": 98590,
+        "latitude": "+46.730891",
+        "longitude": "-124.027885"
+    },
+    {
+        "county": "PEND OREILLE",
+        "city": "CUSICK",
+        "zipcode": 99119,
+        "latitude": "+48.510409",
+        "longitude": "-117.348383"
+    },
+    {
+        "county": "PEND OREILLE",
+        "city": "IONE",
+        "zipcode": 99139,
+        "latitude": "+48.737714",
+        "longitude": "-117.364690"
+    },
+    {
+        "county": "PEND OREILLE",
+        "city": "METALINE",
+        "zipcode": 99152,
+        "latitude": "+48.484729",
+        "longitude": "-117.221440"
+    },
+    {
+        "county": "PEND OREILLE",
+        "city": "METALINE FALLS",
+        "zipcode": 99153,
+        "latitude": "+48.731121",
+        "longitude": "-117.339995"
+    },
+    {
+        "county": "PEND OREILLE",
+        "city": "NEWPORT",
+        "zipcode": 99156,
+        "latitude": "+48.448981",
+        "longitude": "-117.228067"
+    },
+    {
+        "county": "PEND OREILLE",
+        "city": "USK",
+        "zipcode": 99180,
+        "latitude": "+48.250130",
+        "longitude": "-117.353111"
+    },
+    {
+        "county": "PIERCE",
+        "city": "ANDERSON ISLAND",
+        "zipcode": 98303,
+        "latitude": "+47.156263",
+        "longitude": "-122.706706"
+    },
+    {
+        "county": "PIERCE",
+        "city": "ASHFORD",
+        "zipcode": 98304,
+        "latitude": "+46.752611",
+        "longitude": "-122.055170"
+    },
+    {
+        "county": "PIERCE",
+        "city": "BUCKLEY",
+        "zipcode": 98321,
+        "latitude": "+47.152347",
+        "longitude": "-122.079177"
+    },
+    {
+        "county": "PIERCE",
+        "city": "CAMP MURRAY",
+        "zipcode": 98430,
+        "latitude": "+47.066193",
+        "longitude": "-122.113223"
+    },
+    {
+        "county": "PIERCE",
+        "city": "CARBONADO",
+        "zipcode": 98323,
+        "latitude": "+47.052210",
+        "longitude": "-122.025502"
+    },
+    {
+        "county": "PIERCE",
+        "city": "DUPONT",
+        "zipcode": 98327,
+        "latitude": "+47.090904",
+        "longitude": "-122.656691"
+    },
+    {
+        "county": "PIERCE",
+        "city": "EATONVILLE",
+        "zipcode": 98328,
+        "latitude": "+46.904844",
+        "longitude": "-122.301410"
+    },
+    {
+        "county": "PIERCE",
+        "city": "ELBE",
+        "zipcode": 98330,
+        "latitude": "+46.777707",
+        "longitude": "-122.202297"
+    },
+    {
+        "county": "PIERCE",
+        "city": "FOX ISLAND",
+        "zipcode": 98333,
+        "latitude": "+47.248013",
+        "longitude": "-122.628989"
+    },
+    {
+        "county": "PIERCE",
+        "city": "GIG HARBOR",
+        "zipcode": 98329,
+        "latitude": "+47.369501",
+        "longitude": "-122.715346"
+    },
+    {
+        "county": "PIERCE",
+        "city": "GIG HARBOR",
+        "zipcode": 98332,
+        "latitude": "+47.363745",
+        "longitude": "-122.603703"
+    },
+    {
+        "county": "PIERCE",
+        "city": "GIG HARBOR",
+        "zipcode": 98335,
+        "latitude": "+47.293619",
+        "longitude": "-122.623504"
+    },
+    {
+        "county": "PIERCE",
+        "city": "GRAHAM",
+        "zipcode": 98338,
+        "latitude": "+46.966080",
+        "longitude": "-122.384322"
+    },
+    {
+        "county": "PIERCE",
+        "city": "KAPOWSIN",
+        "zipcode": 98344,
+        "latitude": "+46.989916",
+        "longitude": "-122.222642"
+    },
+    {
+        "county": "PIERCE",
+        "city": "LA GRANDE",
+        "zipcode": 98348,
+        "latitude": "+47.066193",
+        "longitude": "-122.113223"
+    },
+    {
+        "county": "PIERCE",
+        "city": "LAKEBAY",
+        "zipcode": 98349,
+        "latitude": "+47.288589",
+        "longitude": "-122.777592"
+    },
+    {
+        "county": "PIERCE",
+        "city": "LAKEWOOD",
+        "zipcode": 98439,
+        "latitude": "+47.128671",
+        "longitude": "-122.510316"
+    },
+    {
+        "county": "PIERCE",
+        "city": "LAKEWOOD",
+        "zipcode": 98492,
+        "latitude": "+47.066193",
+        "longitude": "-122.113223"
+    },
+    {
+        "county": "PIERCE",
+        "city": "LAKEWOOD",
+        "zipcode": 98497,
+        "latitude": "+47.066193",
+        "longitude": "-122.113223"
+    },
+    {
+        "county": "PIERCE",
+        "city": "LAKEWOOD",
+        "zipcode": 98498,
+        "latitude": "+47.159149",
+        "longitude": "-122.548486"
+    },
+    {
+        "county": "PIERCE",
+        "city": "LAKEWOOD",
+        "zipcode": 98499,
+        "latitude": "+47.167720",
+        "longitude": "-122.502360"
+    },
+    {
+        "county": "PIERCE",
+        "city": "LONGBRANCH",
+        "zipcode": 98351,
+        "latitude": "+47.207364",
+        "longitude": "-122.772012"
+    },
+    {
+        "county": "PIERCE",
+        "city": "LONGMIRE",
+        "zipcode": 98397,
+        "latitude": "+47.066193",
+        "longitude": "-122.113223"
+    },
+    {
+        "county": "PIERCE",
+        "city": "MCCHORD AFB",
+        "zipcode": 98438,
+        "latitude": "+47.151297",
+        "longitude": "-122.567631"
+    },
+    {
+        "county": "PIERCE",
+        "city": "MCKENNA",
+        "zipcode": 98558,
+        "latitude": "+46.955863",
+        "longitude": "-122.555850"
+    },
+    {
+        "county": "PIERCE",
+        "city": "MILTON",
+        "zipcode": 98354,
+        "latitude": "+47.245769",
+        "longitude": "-122.311073"
+    },
+    {
+        "county": "PIERCE",
+        "city": "ORTING",
+        "zipcode": 98360,
+        "latitude": "+47.006578",
+        "longitude": "-122.118676"
+    },
+    {
+        "county": "PIERCE",
+        "city": "PARADISE INN",
+        "zipcode": 98398,
+        "latitude": "+47.066193",
+        "longitude": "-122.113223"
+    },
+    {
+        "county": "PIERCE",
+        "city": "PUYALLUP",
+        "zipcode": 98371,
+        "latitude": "+47.212822",
+        "longitude": "-122.317148"
+    },
+    {
+        "county": "PIERCE",
+        "city": "PUYALLUP",
+        "zipcode": 98372,
+        "latitude": "+47.197581",
+        "longitude": "-122.162076"
+    },
+    {
+        "county": "PIERCE",
+        "city": "PUYALLUP",
+        "zipcode": 98373,
+        "latitude": "+47.145817",
+        "longitude": "-122.309704"
+    },
+    {
+        "county": "PIERCE",
+        "city": "PUYALLUP",
+        "zipcode": 98374,
+        "latitude": "+47.139095",
+        "longitude": "-122.258646"
+    },
+    {
+        "county": "PIERCE",
+        "city": "PUYALLUP",
+        "zipcode": 98375,
+        "latitude": "+47.098845",
+        "longitude": "-122.363930"
+    },
+    {
+        "county": "PIERCE",
+        "city": "ROY",
+        "zipcode": 98580,
+        "latitude": "+46.938230",
+        "longitude": "-122.468087"
+    },
+    {
+        "county": "PIERCE",
+        "city": "SOUTH PRAIRIE",
+        "zipcode": 98385,
+        "latitude": "+47.138271",
+        "longitude": "-122.096799"
+    },
+    {
+        "county": "PIERCE",
+        "city": "SPANAWAY",
+        "zipcode": 98387,
+        "latitude": "+47.058452",
+        "longitude": "-122.416480"
+    },
+    {
+        "county": "PIERCE",
+        "city": "STEILACOOM",
+        "zipcode": 98388,
+        "latitude": "+47.132671",
+        "longitude": "-122.331781"
+    },
+    {
+        "county": "PIERCE",
+        "city": "SUMNER",
+        "zipcode": 98352,
+        "latitude": "+47.066193",
+        "longitude": "-122.113223"
+    },
+    {
+        "county": "PIERCE",
+        "city": "SUMNER",
+        "zipcode": 98390,
+        "latitude": "+47.176966",
+        "longitude": "-122.159820"
+    },
+    {
+        "county": "PIERCE",
+        "city": "TACOMA",
+        "zipcode": 98401,
+        "latitude": "+47.253671",
+        "longitude": "-122.444335"
+    },
+    {
+        "county": "PIERCE",
+        "city": "TACOMA",
+        "zipcode": 98402,
+        "latitude": "+47.261502",
+        "longitude": "-122.463308"
+    },
+    {
+        "county": "PIERCE",
+        "city": "TACOMA",
+        "zipcode": 98403,
+        "latitude": "+47.265371",
+        "longitude": "-122.457087"
+    },
+    {
+        "county": "PIERCE",
+        "city": "TACOMA",
+        "zipcode": 98404,
+        "latitude": "+47.209131",
+        "longitude": "-122.397929"
+    },
+    {
+        "county": "PIERCE",
+        "city": "TACOMA",
+        "zipcode": 98405,
+        "latitude": "+47.247871",
+        "longitude": "-122.472793"
+    },
+    {
+        "county": "PIERCE",
+        "city": "TACOMA",
+        "zipcode": 98406,
+        "latitude": "+47.259216",
+        "longitude": "-122.509235"
+    },
+    {
+        "county": "PIERCE",
+        "city": "TACOMA",
+        "zipcode": 98407,
+        "latitude": "+47.287606",
+        "longitude": "-122.500486"
+    },
+    {
+        "county": "PIERCE",
+        "city": "TACOMA",
+        "zipcode": 98408,
+        "latitude": "+47.206871",
+        "longitude": "-122.448534"
+    },
+    {
+        "county": "PIERCE",
+        "city": "TACOMA",
+        "zipcode": 98409,
+        "latitude": "+47.205777",
+        "longitude": "-122.321095"
+    },
+    {
+        "county": "PIERCE",
+        "city": "TACOMA",
+        "zipcode": 98411,
+        "latitude": "+47.066193",
+        "longitude": "-122.113223"
+    },
+    {
+        "county": "PIERCE",
+        "city": "TACOMA",
+        "zipcode": 98412,
+        "latitude": "+47.066193",
+        "longitude": "-122.113223"
+    },
+    {
+        "county": "PIERCE",
+        "city": "TACOMA",
+        "zipcode": 98413,
+        "latitude": "+47.066193",
+        "longitude": "-122.113223"
+    },
+    {
+        "county": "PIERCE",
+        "city": "TACOMA",
+        "zipcode": 98415,
+        "latitude": "+47.066193",
+        "longitude": "-122.113223"
+    },
+    {
+        "county": "PIERCE",
+        "city": "TACOMA",
+        "zipcode": 98416,
+        "latitude": "+47.264577",
+        "longitude": "-122.482076"
+    },
+    {
+        "county": "PIERCE",
+        "city": "TACOMA",
+        "zipcode": 98418,
+        "latitude": "+47.066193",
+        "longitude": "-122.113223"
+    },
+    {
+        "county": "PIERCE",
+        "city": "TACOMA",
+        "zipcode": 98421,
+        "latitude": "+47.254021",
+        "longitude": "-122.400133"
+    },
+    {
+        "county": "PIERCE",
+        "city": "TACOMA",
+        "zipcode": 98422,
+        "latitude": "+47.283379",
+        "longitude": "-122.388781"
+    },
+    {
+        "county": "PIERCE",
+        "city": "TACOMA",
+        "zipcode": 98424,
+        "latitude": "+47.232513",
+        "longitude": "-122.359432"
+    },
+    {
+        "county": "PIERCE",
+        "city": "TACOMA",
+        "zipcode": 98431,
+        "latitude": "+47.066193",
+        "longitude": "-122.113223"
+    },
+    {
+        "county": "PIERCE",
+        "city": "TACOMA",
+        "zipcode": 98433,
+        "latitude": "+47.126735",
+        "longitude": "-122.491749"
+    },
+    {
+        "county": "PIERCE",
+        "city": "TACOMA",
+        "zipcode": 98442,
+        "latitude": "+47.308061",
+        "longitude": "-122.418495"
+    },
+    {
+        "county": "PIERCE",
+        "city": "TACOMA",
+        "zipcode": 98443,
+        "latitude": "+47.207371",
+        "longitude": "-122.373466"
+    },
+    {
+        "county": "PIERCE",
+        "city": "TACOMA",
+        "zipcode": 98444,
+        "latitude": "+47.146371",
+        "longitude": "-122.457172"
+    },
+    {
+        "county": "PIERCE",
+        "city": "TACOMA",
+        "zipcode": 98445,
+        "latitude": "+47.129145",
+        "longitude": "-122.409355"
+    },
+    {
+        "county": "PIERCE",
+        "city": "TACOMA",
+        "zipcode": 98446,
+        "latitude": "+47.128485",
+        "longitude": "-122.373631"
+    },
+    {
+        "county": "PIERCE",
+        "city": "TACOMA",
+        "zipcode": 98447,
+        "latitude": "+47.066193",
+        "longitude": "-122.113223"
+    },
+    {
+        "county": "PIERCE",
+        "city": "TACOMA",
+        "zipcode": 98450,
+        "latitude": "+47.066193",
+        "longitude": "-122.113223"
+    },
+    {
+        "county": "PIERCE",
+        "city": "TACOMA",
+        "zipcode": 98455,
+        "latitude": "+47.066193",
+        "longitude": "-122.113223"
+    },
+    {
+        "county": "PIERCE",
+        "city": "TACOMA",
+        "zipcode": 98460,
+        "latitude": "+47.066193",
+        "longitude": "-122.113223"
+    },
+    {
+        "county": "PIERCE",
+        "city": "TACOMA",
+        "zipcode": 98464,
+        "latitude": "+47.066193",
+        "longitude": "-122.113223"
+    },
+    {
+        "county": "PIERCE",
+        "city": "TACOMA",
+        "zipcode": 98465,
+        "latitude": "+47.254749",
+        "longitude": "-122.530336"
+    },
+    {
+        "county": "PIERCE",
+        "city": "TACOMA",
+        "zipcode": 98466,
+        "latitude": "+47.243075",
+        "longitude": "-122.539360"
+    },
+    {
+        "county": "PIERCE",
+        "city": "TACOMA",
+        "zipcode": 98471,
+        "latitude": "+47.066193",
+        "longitude": "-122.113223"
+    },
+    {
+        "county": "PIERCE",
+        "city": "TACOMA",
+        "zipcode": 98477,
+        "latitude": "+47.066193",
+        "longitude": "-122.113223"
+    },
+    {
+        "county": "PIERCE",
+        "city": "TACOMA",
+        "zipcode": 98481,
+        "latitude": "+47.066193",
+        "longitude": "-122.113223"
+    },
+    {
+        "county": "PIERCE",
+        "city": "TACOMA",
+        "zipcode": 98493,
+        "latitude": "+47.066193",
+        "longitude": "-122.113223"
+    },
+    {
+        "county": "PIERCE",
+        "city": "UNIVERSITY PLACE",
+        "zipcode": 98467,
+        "latitude": "+47.187170",
+        "longitude": "-122.532335"
+    },
+    {
+        "county": "PIERCE",
+        "city": "VAUGHN",
+        "zipcode": 98394,
+        "latitude": "+47.311117",
+        "longitude": "-122.772503"
+    },
+    {
+        "county": "PIERCE",
+        "city": "WAUNA",
+        "zipcode": 98395,
+        "latitude": "+47.266017",
+        "longitude": "-122.832799"
+    },
+    {
+        "county": "PIERCE",
+        "city": "WILKESON",
+        "zipcode": 98396,
+        "latitude": "+47.109524",
+        "longitude": "-122.037015"
+    },
+    {
+        "county": "SAN JUAN",
+        "city": "BLAKELY ISLAND",
+        "zipcode": 98222,
+        "latitude": "+48.610644",
+        "longitude": "-122.921551"
+    },
+    {
+        "county": "SAN JUAN",
+        "city": "DEER HARBOR",
+        "zipcode": 98243,
+        "latitude": "+48.557824",
+        "longitude": "-122.983742"
+    },
+    {
+        "county": "SAN JUAN",
+        "city": "EASTSOUND",
+        "zipcode": 98245,
+        "latitude": "+48.659128",
+        "longitude": "-122.867603"
+    },
+    {
+        "county": "SAN JUAN",
+        "city": "FRIDAY HARBOR",
+        "zipcode": 98250,
+        "latitude": "+48.538181",
+        "longitude": "-123.068323"
+    },
+    {
+        "county": "SAN JUAN",
+        "city": "LOPEZ ISLAND",
+        "zipcode": 98261,
+        "latitude": "+48.498773",
+        "longitude": "-122.874334"
+    },
+    {
+        "county": "SAN JUAN",
+        "city": "OLGA",
+        "zipcode": 98279,
+        "latitude": "+48.557824",
+        "longitude": "-122.983742"
+    },
+    {
+        "county": "SAN JUAN",
+        "city": "ORCAS",
+        "zipcode": 98280,
+        "latitude": "+48.590114",
+        "longitude": "-122.940972"
+    },
+    {
+        "county": "SAN JUAN",
+        "city": "SHAW ISLAND",
+        "zipcode": 98286,
+        "latitude": "+48.557824",
+        "longitude": "-122.983742"
+    },
+    {
+        "county": "SAN JUAN",
+        "city": "WALDRON",
+        "zipcode": 98297,
+        "latitude": "+48.557824",
+        "longitude": "-122.983742"
+    },
+    {
+        "county": "SKAGIT",
+        "city": "ANACORTES",
+        "zipcode": 98221,
+        "latitude": "+48.499172",
+        "longitude": "-122.607111"
+    },
+    {
+        "county": "SKAGIT",
+        "city": "BOW",
+        "zipcode": 98232,
+        "latitude": "+48.565955",
+        "longitude": "-122.448358"
+    },
+    {
+        "county": "SKAGIT",
+        "city": "BURLINGTON",
+        "zipcode": 98233,
+        "latitude": "+48.533616",
+        "longitude": "-122.362337"
+    },
+    {
+        "county": "SKAGIT",
+        "city": "CLEARLAKE",
+        "zipcode": 98235,
+        "latitude": "+48.470099",
+        "longitude": "-122.238754"
+    },
+    {
+        "county": "SKAGIT",
+        "city": "CONCRETE",
+        "zipcode": 98237,
+        "latitude": "+48.508868",
+        "longitude": "-121.697178"
+    },
+    {
+        "county": "SKAGIT",
+        "city": "CONWAY",
+        "zipcode": 98238,
+        "latitude": "+48.340002",
+        "longitude": "-122.345571"
+    },
+    {
+        "county": "SKAGIT",
+        "city": "HAMILTON",
+        "zipcode": 98255,
+        "latitude": "+48.525461",
+        "longitude": "-121.988700"
+    },
+    {
+        "county": "SKAGIT",
+        "city": "LA CONNER",
+        "zipcode": 98257,
+        "latitude": "+48.414123",
+        "longitude": "-122.508364"
+    },
+    {
+        "county": "SKAGIT",
+        "city": "LYMAN",
+        "zipcode": 98263,
+        "latitude": "+48.534462",
+        "longitude": "-122.058644"
+    },
+    {
+        "county": "SKAGIT",
+        "city": "MARBLEMOUNT",
+        "zipcode": 98267,
+        "latitude": "+48.537813",
+        "longitude": "-121.473840"
+    },
+    {
+        "county": "SKAGIT",
+        "city": "MOUNT VERNON",
+        "zipcode": 98273,
+        "latitude": "+48.435248",
+        "longitude": "-122.208184"
+    },
+    {
+        "county": "SKAGIT",
+        "city": "MOUNT VERNON",
+        "zipcode": 98274,
+        "latitude": "+48.364253",
+        "longitude": "-122.140311"
+    },
+    {
+        "county": "SKAGIT",
+        "city": "ROCKPORT",
+        "zipcode": 98283,
+        "latitude": "+48.428261",
+        "longitude": "-121.609872"
+    },
+    {
+        "county": "SKAGIT",
+        "city": "SEDRO WOOLLEY",
+        "zipcode": 98284,
+        "latitude": "+48.486147",
+        "longitude": "-122.137243"
+    },
+    {
+        "county": "SKAMANIA",
+        "city": "CARSON",
+        "zipcode": 98610,
+        "latitude": "+45.784205",
+        "longitude": "-121.841736"
+    },
+    {
+        "county": "SKAMANIA",
+        "city": "NORTH BONNEVILLE",
+        "zipcode": 98639,
+        "latitude": "+45.641704",
+        "longitude": "-122.005783"
+    },
+    {
+        "county": "SKAMANIA",
+        "city": "STEVENSON",
+        "zipcode": 98648,
+        "latitude": "+45.673707",
+        "longitude": "-121.912581"
+    },
+    {
+        "county": "SKAMANIA",
+        "city": "UNDERWOOD",
+        "zipcode": 98651,
+        "latitude": "+45.758260",
+        "longitude": "-121.576567"
+    },
+    {
+        "county": "SNOHOMISH",
+        "city": "ARLINGTON",
+        "zipcode": 98223,
+        "latitude": "+48.181498",
+        "longitude": "-121.959469"
+    },
+    {
+        "county": "SNOHOMISH",
+        "city": "BOTHELL",
+        "zipcode": 98012,
+        "latitude": "+47.840068",
+        "longitude": "-122.197238"
+    },
+    {
+        "county": "SNOHOMISH",
+        "city": "BOTHELL",
+        "zipcode": 98021,
+        "latitude": "+47.794519",
+        "longitude": "-122.194276"
+    },
+    {
+        "county": "SNOHOMISH",
+        "city": "BOTHELL",
+        "zipcode": 98082,
+        "latitude": "+47.432251",
+        "longitude": "-121.803388"
+    },
+    {
+        "county": "SNOHOMISH",
+        "city": "DARRINGTON",
+        "zipcode": 98241,
+        "latitude": "+48.239542",
+        "longitude": "-121.589209"
+    },
+    {
+        "county": "SNOHOMISH",
+        "city": "EDMONDS",
+        "zipcode": 98020,
+        "latitude": "+47.806068",
+        "longitude": "-122.372401"
+    },
+    {
+        "county": "SNOHOMISH",
+        "city": "EDMONDS",
+        "zipcode": 98026,
+        "latitude": "+47.835318",
+        "longitude": "-122.326981"
+    },
+    {
+        "county": "SNOHOMISH",
+        "city": "EVERETT",
+        "zipcode": 98201,
+        "latitude": "+47.988661",
+        "longitude": "-122.199795"
+    },
+    {
+        "county": "SNOHOMISH",
+        "city": "EVERETT",
+        "zipcode": 98203,
+        "latitude": "+47.946017",
+        "longitude": "-122.231795"
+    },
+    {
+        "county": "SNOHOMISH",
+        "city": "EVERETT",
+        "zipcode": 98204,
+        "latitude": "+47.899696",
+        "longitude": "-122.255522"
+    },
+    {
+        "county": "SNOHOMISH",
+        "city": "EVERETT",
+        "zipcode": 98205,
+        "latitude": "+47.953523",
+        "longitude": "-122.123325"
+    },
+    {
+        "county": "SNOHOMISH",
+        "city": "EVERETT",
+        "zipcode": 98206,
+        "latitude": "+47.859918",
+        "longitude": "-122.284785"
+    },
+    {
+        "county": "SNOHOMISH",
+        "city": "EVERETT",
+        "zipcode": 98207,
+        "latitude": "+48.037258",
+        "longitude": "-121.682271"
+    },
+    {
+        "county": "SNOHOMISH",
+        "city": "EVERETT",
+        "zipcode": 98208,
+        "latitude": "+47.897284",
+        "longitude": "-122.190392"
+    },
+    {
+        "county": "SNOHOMISH",
+        "city": "GOLD BAR",
+        "zipcode": 98251,
+        "latitude": "+47.833114",
+        "longitude": "-121.636528"
+    },
+    {
+        "county": "SNOHOMISH",
+        "city": "GRANITE FALLS",
+        "zipcode": 98252,
+        "latitude": "+48.074894",
+        "longitude": "-121.798489"
+    },
+    {
+        "county": "SNOHOMISH",
+        "city": "INDEX",
+        "zipcode": 98256,
+        "latitude": "+47.811790",
+        "longitude": "-121.549712"
+    },
+    {
+        "county": "SNOHOMISH",
+        "city": "LAKE STEVENS",
+        "zipcode": 98258,
+        "latitude": "+48.046751",
+        "longitude": "-122.056379"
+    },
+    {
+        "county": "SNOHOMISH",
+        "city": "LYNNWOOD",
+        "zipcode": 98036,
+        "latitude": "+47.804869",
+        "longitude": "-122.285481"
+    },
+    {
+        "county": "SNOHOMISH",
+        "city": "LYNNWOOD",
+        "zipcode": 98037,
+        "latitude": "+47.857022",
+        "longitude": "-122.283010"
+    },
+    {
+        "county": "SNOHOMISH",
+        "city": "LYNNWOOD",
+        "zipcode": 98046,
+        "latitude": "+48.037258",
+        "longitude": "-121.682271"
+    },
+    {
+        "county": "SNOHOMISH",
+        "city": "MARYSVILLE",
+        "zipcode": 98270,
+        "latitude": "+48.049576",
+        "longitude": "-122.161951"
+    },
+    {
+        "county": "SNOHOMISH",
+        "city": "MARYSVILLE",
+        "zipcode": 98271,
+        "latitude": "+48.079149",
+        "longitude": "-122.234168"
+    },
+    {
+        "county": "SNOHOMISH",
+        "city": "MONROE",
+        "zipcode": 98272,
+        "latitude": "+47.863149",
+        "longitude": "-121.884330"
+    },
+    {
+        "county": "SNOHOMISH",
+        "city": "MOUNTLAKE TERRACE",
+        "zipcode": 98043,
+        "latitude": "+47.793269",
+        "longitude": "-122.307640"
+    },
+    {
+        "county": "SNOHOMISH",
+        "city": "MUKILTEO",
+        "zipcode": 98275,
+        "latitude": "+47.912402",
+        "longitude": "-122.302114"
+    },
+    {
+        "county": "SNOHOMISH",
+        "city": "NORTH LAKEWOOD",
+        "zipcode": 98259,
+        "latitude": "+48.037258",
+        "longitude": "-121.682271"
+    },
+    {
+        "county": "SNOHOMISH",
+        "city": "SILVANA",
+        "zipcode": 98287,
+        "latitude": "+48.037258",
+        "longitude": "-121.682271"
+    },
+    {
+        "county": "SNOHOMISH",
+        "city": "SNOHOMISH",
+        "zipcode": 98290,
+        "latitude": "+47.954558",
+        "longitude": "-122.014722"
+    },
+    {
+        "county": "SNOHOMISH",
+        "city": "SNOHOMISH",
+        "zipcode": 98291,
+        "latitude": "+47.909511",
+        "longitude": "-122.050108"
+    },
+    {
+        "county": "SNOHOMISH",
+        "city": "SNOHOMISH",
+        "zipcode": 98296,
+        "latitude": "+47.857915",
+        "longitude": "-122.092025"
+    },
+    {
+        "county": "SNOHOMISH",
+        "city": "STANWOOD",
+        "zipcode": 98292,
+        "latitude": "+48.080148",
+        "longitude": "-122.106400"
+    },
+    {
+        "county": "SNOHOMISH",
+        "city": "STARTUP",
+        "zipcode": 98293,
+        "latitude": "+47.870275",
+        "longitude": "-121.768490"
+    },
+    {
+        "county": "SNOHOMISH",
+        "city": "SULTAN",
+        "zipcode": 98294,
+        "latitude": "+47.869494",
+        "longitude": "-121.731275"
+    },
+    {
+        "county": "SPOKANE",
+        "city": "AIRWAY HEIGHTS",
+        "zipcode": 99001,
+        "latitude": "+47.643803",
+        "longitude": "-117.592050"
+    },
+    {
+        "county": "SPOKANE",
+        "city": "CHATTAROY",
+        "zipcode": 99003,
+        "latitude": "+47.921670",
+        "longitude": "-117.262989"
+    },
+    {
+        "county": "SPOKANE",
+        "city": "CHENEY",
+        "zipcode": 99004,
+        "latitude": "+47.606700",
+        "longitude": "-117.500285"
+    },
+    {
+        "county": "SPOKANE",
+        "city": "COLBERT",
+        "zipcode": 99005,
+        "latitude": "+47.852847",
+        "longitude": "-117.337529"
+    },
+    {
+        "county": "SPOKANE",
+        "city": "DEER PARK",
+        "zipcode": 99006,
+        "latitude": "+47.738740",
+        "longitude": "-117.442395"
+    },
+    {
+        "county": "SPOKANE",
+        "city": "ELK",
+        "zipcode": 99009,
+        "latitude": "+47.992362",
+        "longitude": "-117.266150"
+    },
+    {
+        "county": "SPOKANE",
+        "city": "FAIRCHILD AIR FORCE BASE",
+        "zipcode": 99011,
+        "latitude": "+47.633161",
+        "longitude": "-117.654603"
+    },
+    {
+        "county": "SPOKANE",
+        "city": "FAIRFIELD",
+        "zipcode": 99012,
+        "latitude": "+47.405253",
+        "longitude": "-117.172530"
+    },
+    {
+        "county": "SPOKANE",
+        "city": "FOUR LAKES",
+        "zipcode": 99014,
+        "latitude": "+47.559880",
+        "longitude": "-117.595751"
+    },
+    {
+        "county": "SPOKANE",
+        "city": "FREEMAN",
+        "zipcode": 99015,
+        "latitude": "+47.653568",
+        "longitude": "-117.431742"
+    },
+    {
+        "county": "SPOKANE",
+        "city": "GREENACRES",
+        "zipcode": 99016,
+        "latitude": "+47.622784",
+        "longitude": "-117.138178"
+    },
+    {
+        "county": "SPOKANE",
+        "city": "LATAH",
+        "zipcode": 99018,
+        "latitude": "+47.299889",
+        "longitude": "-117.139491"
+    },
+    {
+        "county": "SPOKANE",
+        "city": "LIBERTY LAKE",
+        "zipcode": 99019,
+        "latitude": "+47.651635",
+        "longitude": "-117.085845"
+    },
+    {
+        "county": "SPOKANE",
+        "city": "MARSHALL",
+        "zipcode": 99020,
+        "latitude": "+47.617665",
+        "longitude": "-117.592591"
+    },
+    {
+        "county": "SPOKANE",
+        "city": "MEAD",
+        "zipcode": 99021,
+        "latitude": "+47.834074",
+        "longitude": "-117.240392"
+    },
+    {
+        "county": "SPOKANE",
+        "city": "MEDICAL LAKE",
+        "zipcode": 99022,
+        "latitude": "+47.615007",
+        "longitude": "-117.703977"
+    },
+    {
+        "county": "SPOKANE",
+        "city": "MICA",
+        "zipcode": 99023,
+        "latitude": "+47.557733",
+        "longitude": "-117.183637"
+    },
+    {
+        "county": "SPOKANE",
+        "city": "NEWMAN LAKE",
+        "zipcode": 99025,
+        "latitude": "+47.767270",
+        "longitude": "-117.090112"
+    },
+    {
+        "county": "SPOKANE",
+        "city": "NINE MILE FALLS",
+        "zipcode": 99026,
+        "latitude": "+47.799507",
+        "longitude": "-117.619375"
+    },
+    {
+        "county": "SPOKANE",
+        "city": "OTIS ORCHARDS",
+        "zipcode": 99027,
+        "latitude": "+47.734728",
+        "longitude": "-117.107735"
+    },
+    {
+        "county": "SPOKANE",
+        "city": "ROCKFORD",
+        "zipcode": 99030,
+        "latitude": "+47.672177",
+        "longitude": "-117.255465"
+    },
+    {
+        "county": "SPOKANE",
+        "city": "SPANGLE",
+        "zipcode": 99031,
+        "latitude": "+47.438748",
+        "longitude": "-117.370017"
+    },
+    {
+        "county": "SPOKANE",
+        "city": "SPOKANE",
+        "zipcode": 99201,
+        "latitude": "+47.662640",
+        "longitude": "-117.435997"
+    },
+    {
+        "county": "SPOKANE",
+        "city": "SPOKANE",
+        "zipcode": 99202,
+        "latitude": "+47.613475",
+        "longitude": "-117.515897"
+    },
+    {
+        "county": "SPOKANE",
+        "city": "SPOKANE",
+        "zipcode": 99203,
+        "latitude": "+47.629341",
+        "longitude": "-117.406269"
+    },
+    {
+        "county": "SPOKANE",
+        "city": "SPOKANE",
+        "zipcode": 99204,
+        "latitude": "+47.650091",
+        "longitude": "-117.429846"
+    },
+    {
+        "county": "SPOKANE",
+        "city": "SPOKANE",
+        "zipcode": 99205,
+        "latitude": "+47.693501",
+        "longitude": "-117.449950"
+    },
+    {
+        "county": "SPOKANE",
+        "city": "SPOKANE",
+        "zipcode": 99206,
+        "latitude": "+47.665198",
+        "longitude": "-117.373399"
+    },
+    {
+        "county": "SPOKANE",
+        "city": "SPOKANE",
+        "zipcode": 99207,
+        "latitude": "+47.693766",
+        "longitude": "-117.379096"
+    },
+    {
+        "county": "SPOKANE",
+        "city": "SPOKANE",
+        "zipcode": 99208,
+        "latitude": "+47.780541",
+        "longitude": "-117.455375"
+    },
+    {
+        "county": "SPOKANE",
+        "city": "SPOKANE",
+        "zipcode": 99209,
+        "latitude": "+47.646148",
+        "longitude": "-117.793734"
+    },
+    {
+        "county": "SPOKANE",
+        "city": "SPOKANE",
+        "zipcode": 99210,
+        "latitude": "+47.653568",
+        "longitude": "-117.431742"
+    },
+    {
+        "county": "SPOKANE",
+        "city": "SPOKANE",
+        "zipcode": 99211,
+        "latitude": "+47.653568",
+        "longitude": "-117.431742"
+    },
+    {
+        "county": "SPOKANE",
+        "city": "SPOKANE",
+        "zipcode": 99212,
+        "latitude": "+47.670693",
+        "longitude": "-117.310991"
+    },
+    {
+        "county": "SPOKANE",
+        "city": "SPOKANE",
+        "zipcode": 99213,
+        "latitude": "+47.656726",
+        "longitude": "-117.282483"
+    },
+    {
+        "county": "SPOKANE",
+        "city": "SPOKANE",
+        "zipcode": 99214,
+        "latitude": "+47.653568",
+        "longitude": "-117.431742"
+    },
+    {
+        "county": "SPOKANE",
+        "city": "SPOKANE",
+        "zipcode": 99215,
+        "latitude": "+47.653568",
+        "longitude": "-117.431742"
+    },
+    {
+        "county": "SPOKANE",
+        "city": "SPOKANE",
+        "zipcode": 99216,
+        "latitude": "+47.671164",
+        "longitude": "-117.199260"
+    },
+    {
+        "county": "SPOKANE",
+        "city": "SPOKANE",
+        "zipcode": 99217,
+        "latitude": "+47.737957",
+        "longitude": "-117.255690"
+    },
+    {
+        "county": "SPOKANE",
+        "city": "SPOKANE",
+        "zipcode": 99218,
+        "latitude": "+47.757540",
+        "longitude": "-117.407552"
+    },
+    {
+        "county": "SPOKANE",
+        "city": "SPOKANE",
+        "zipcode": 99219,
+        "latitude": "+47.653568",
+        "longitude": "-117.431742"
+    },
+    {
+        "county": "SPOKANE",
+        "city": "SPOKANE",
+        "zipcode": 99220,
+        "latitude": "+47.653568",
+        "longitude": "-117.431742"
+    },
+    {
+        "county": "SPOKANE",
+        "city": "SPOKANE",
+        "zipcode": 99223,
+        "latitude": "+47.592452",
+        "longitude": "-117.342120"
+    },
+    {
+        "county": "SPOKANE",
+        "city": "SPOKANE",
+        "zipcode": 99224,
+        "latitude": "+47.628858",
+        "longitude": "-117.551291"
+    },
+    {
+        "county": "SPOKANE",
+        "city": "SPOKANE",
+        "zipcode": 99228,
+        "latitude": "+47.653568",
+        "longitude": "-117.431742"
+    },
+    {
+        "county": "SPOKANE",
+        "city": "SPOKANE",
+        "zipcode": 99251,
+        "latitude": "+47.653568",
+        "longitude": "-117.431742"
+    },
+    {
+        "county": "SPOKANE",
+        "city": "SPOKANE",
+        "zipcode": 99252,
+        "latitude": "+47.653568",
+        "longitude": "-117.431742"
+    },
+    {
+        "county": "SPOKANE",
+        "city": "SPOKANE",
+        "zipcode": 99256,
+        "latitude": "+47.653568",
+        "longitude": "-117.431742"
+    },
+    {
+        "county": "SPOKANE",
+        "city": "SPOKANE",
+        "zipcode": 99258,
+        "latitude": "+47.653568",
+        "longitude": "-117.431742"
+    },
+    {
+        "county": "SPOKANE",
+        "city": "SPOKANE",
+        "zipcode": 99260,
+        "latitude": "+47.653568",
+        "longitude": "-117.431742"
+    },
+    {
+        "county": "SPOKANE",
+        "city": "SPOKANE",
+        "zipcode": 99299,
+        "latitude": "+47.653568",
+        "longitude": "-117.431742"
+    },
+    {
+        "county": "SPOKANE",
+        "city": "VALLEYFORD",
+        "zipcode": 99036,
+        "latitude": "+47.520107",
+        "longitude": "-117.270216"
+    },
+    {
+        "county": "SPOKANE",
+        "city": "VERADALE",
+        "zipcode": 99037,
+        "latitude": "+47.636834",
+        "longitude": "-117.199587"
+    },
+    {
+        "county": "SPOKANE",
+        "city": "WAVERLY",
+        "zipcode": 99039,
+        "latitude": "+47.329704",
+        "longitude": "-117.244981"
+    },
+    {
+        "county": "STEVENS",
+        "city": "ADDY",
+        "zipcode": 99101,
+        "latitude": "+48.336378",
+        "longitude": "-117.957926"
+    },
+    {
+        "county": "STEVENS",
+        "city": "CHEWELAH",
+        "zipcode": 99109,
+        "latitude": "+48.293181",
+        "longitude": "-117.739245"
+    },
+    {
+        "county": "STEVENS",
+        "city": "CLAYTON",
+        "zipcode": 99110,
+        "latitude": "+48.007138",
+        "longitude": "-117.557907"
+    },
+    {
+        "county": "STEVENS",
+        "city": "COLVILLE",
+        "zipcode": 99114,
+        "latitude": "+48.676916",
+        "longitude": "-117.809315"
+    },
+    {
+        "county": "STEVENS",
+        "city": "EVANS",
+        "zipcode": 99126,
+        "latitude": "+48.740671",
+        "longitude": "-117.972888"
+    },
+    {
+        "county": "STEVENS",
+        "city": "FORD",
+        "zipcode": 99013,
+        "latitude": "+47.913372",
+        "longitude": "-117.797447"
+    },
+    {
+        "county": "STEVENS",
+        "city": "FRUITLAND",
+        "zipcode": 99129,
+        "latitude": "+48.005075",
+        "longitude": "-118.228564"
+    },
+    {
+        "county": "STEVENS",
+        "city": "GIFFORD",
+        "zipcode": 99131,
+        "latitude": "+48.268511",
+        "longitude": "-118.113552"
+    },
+    {
+        "county": "STEVENS",
+        "city": "HUNTERS",
+        "zipcode": 99137,
+        "latitude": "+48.150398",
+        "longitude": "-118.077422"
+    },
+    {
+        "county": "STEVENS",
+        "city": "KETTLE FALLS",
+        "zipcode": 99141,
+        "latitude": "+48.695338",
+        "longitude": "-117.966943"
+    },
+    {
+        "county": "STEVENS",
+        "city": "LOON LAKE",
+        "zipcode": 99148,
+        "latitude": "+48.107165",
+        "longitude": "-117.627815"
+    },
+    {
+        "county": "STEVENS",
+        "city": "MARCUS",
+        "zipcode": 99151,
+        "latitude": "+48.786802",
+        "longitude": "-117.924021"
+    },
+    {
+        "county": "STEVENS",
+        "city": "NORTHPORT",
+        "zipcode": 99157,
+        "latitude": "+48.905142",
+        "longitude": "-117.851127"
+    },
+    {
+        "county": "STEVENS",
+        "city": "RICE",
+        "zipcode": 99167,
+        "latitude": "+48.424240",
+        "longitude": "-118.100693"
+    },
+    {
+        "county": "STEVENS",
+        "city": "SPRINGDALE",
+        "zipcode": 99173,
+        "latitude": "+48.002188",
+        "longitude": "-117.828964"
+    },
+    {
+        "county": "STEVENS",
+        "city": "TUMTUM",
+        "zipcode": 99034,
+        "latitude": "+47.894108",
+        "longitude": "-117.753629"
+    },
+    {
+        "county": "STEVENS",
+        "city": "VALLEY",
+        "zipcode": 99181,
+        "latitude": "+48.124594",
+        "longitude": "-117.762554"
+    },
+    {
+        "county": "STEVENS",
+        "city": "WELLPINIT",
+        "zipcode": 99040,
+        "latitude": "+47.881367",
+        "longitude": "-117.933742"
+    },
+    {
+        "county": "THURSTON",
+        "city": "BUCODA",
+        "zipcode": 98530,
+        "latitude": "+46.798216",
+        "longitude": "-122.871798"
+    },
+    {
+        "county": "THURSTON",
+        "city": "EAST OLYMPIA",
+        "zipcode": 98540,
+        "latitude": "+46.978118",
+        "longitude": "-122.702393"
+    },
+    {
+        "county": "THURSTON",
+        "city": "LACEY",
+        "zipcode": 98503,
+        "latitude": "+47.026418",
+        "longitude": "-122.796695"
+    },
+    {
+        "county": "THURSTON",
+        "city": "LACEY",
+        "zipcode": 98509,
+        "latitude": "+46.978118",
+        "longitude": "-122.702393"
+    },
+    {
+        "county": "THURSTON",
+        "city": "LITTLEROCK",
+        "zipcode": 98556,
+        "latitude": "+46.902376",
+        "longitude": "-123.017043"
+    },
+    {
+        "county": "THURSTON",
+        "city": "OLYMPIA",
+        "zipcode": 98501,
+        "latitude": "+46.984767",
+        "longitude": "-122.869079"
+    },
+    {
+        "county": "THURSTON",
+        "city": "OLYMPIA",
+        "zipcode": 98502,
+        "latitude": "+47.104269",
+        "longitude": "-123.055153"
+    },
+    {
+        "county": "THURSTON",
+        "city": "OLYMPIA",
+        "zipcode": 98504,
+        "latitude": "+46.978118",
+        "longitude": "-122.702393"
+    },
+    {
+        "county": "THURSTON",
+        "city": "OLYMPIA",
+        "zipcode": 98505,
+        "latitude": "+47.065404",
+        "longitude": "-122.976187"
+    },
+    {
+        "county": "THURSTON",
+        "city": "OLYMPIA",
+        "zipcode": 98506,
+        "latitude": "+47.104227",
+        "longitude": "-122.870043"
+    },
+    {
+        "county": "THURSTON",
+        "city": "OLYMPIA",
+        "zipcode": 98507,
+        "latitude": "+46.978118",
+        "longitude": "-122.702393"
+    },
+    {
+        "county": "THURSTON",
+        "city": "OLYMPIA",
+        "zipcode": 98508,
+        "latitude": "+46.978118",
+        "longitude": "-122.702393"
+    },
+    {
+        "county": "THURSTON",
+        "city": "OLYMPIA",
+        "zipcode": 98512,
+        "latitude": "+46.949776",
+        "longitude": "-123.021207"
+    },
+    {
+        "county": "THURSTON",
+        "city": "OLYMPIA",
+        "zipcode": 98513,
+        "latitude": "+46.993897",
+        "longitude": "-122.743016"
+    },
+    {
+        "county": "THURSTON",
+        "city": "OLYMPIA",
+        "zipcode": 98516,
+        "latitude": "+47.112575",
+        "longitude": "-122.779419"
+    },
+    {
+        "county": "THURSTON",
+        "city": "OLYMPIA",
+        "zipcode": 98599,
+        "latitude": "+46.978118",
+        "longitude": "-122.702393"
+    },
+    {
+        "county": "THURSTON",
+        "city": "RAINIER",
+        "zipcode": 98576,
+        "latitude": "+46.873509",
+        "longitude": "-122.661394"
+    },
+    {
+        "county": "THURSTON",
+        "city": "ROCHESTER",
+        "zipcode": 98579,
+        "latitude": "+46.832816",
+        "longitude": "-123.059270"
+    },
+    {
+        "county": "THURSTON",
+        "city": "TENINO",
+        "zipcode": 98589,
+        "latitude": "+46.842750",
+        "longitude": "-122.849451"
+    },
+    {
+        "county": "THURSTON",
+        "city": "TUMWATER",
+        "zipcode": 98511,
+        "latitude": "",
+        "longitude": ""
+    },
+    {
+        "county": "THURSTON",
+        "city": "YELM",
+        "zipcode": 98597,
+        "latitude": "+46.882364",
+        "longitude": "-122.562689"
+    },
+    {
+        "county": "WAHKIAKUM",
+        "city": "CATHLAMET",
+        "zipcode": 98612,
+        "latitude": "+46.214628",
+        "longitude": "-123.334899"
+    },
+    {
+        "county": "WAHKIAKUM",
+        "city": "GRAYS RIVER",
+        "zipcode": 98621,
+        "latitude": "+46.355461",
+        "longitude": "-123.597874"
+    },
+    {
+        "county": "WAHKIAKUM",
+        "city": "ROSBURG",
+        "zipcode": 98643,
+        "latitude": "+46.310011",
+        "longitude": "-123.614319"
+    },
+    {
+        "county": "WAHKIAKUM",
+        "city": "SKAMOKAWA",
+        "zipcode": 98647,
+        "latitude": "+46.300349",
+        "longitude": "-123.456145"
+    },
+    {
+        "county": "WALLA WALLA",
+        "city": "BURBANK",
+        "zipcode": 99323,
+        "latitude": "+46.196597",
+        "longitude": "-118.901678"
+    },
+    {
+        "county": "WALLA WALLA",
+        "city": "COLLEGE PLACE",
+        "zipcode": 99324,
+        "latitude": "+46.047069",
+        "longitude": "-118.409275"
+    },
+    {
+        "county": "WALLA WALLA",
+        "city": "DIXIE",
+        "zipcode": 99329,
+        "latitude": "+46.140821",
+        "longitude": "-118.153064"
+    },
+    {
+        "county": "WALLA WALLA",
+        "city": "PRESCOTT",
+        "zipcode": 99348,
+        "latitude": "+46.354972",
+        "longitude": "-118.455541"
+    },
+    {
+        "county": "WALLA WALLA",
+        "city": "TOUCHET",
+        "zipcode": 99360,
+        "latitude": "+46.134445",
+        "longitude": "-118.461436"
+    },
+    {
+        "county": "WALLA WALLA",
+        "city": "WAITSBURG",
+        "zipcode": 99361,
+        "latitude": "+46.159844",
+        "longitude": "-118.139822"
+    },
+    {
+        "county": "WALLA WALLA",
+        "city": "WALLA WALLA",
+        "zipcode": 99362,
+        "latitude": "+46.134100",
+        "longitude": "-118.291407"
+    },
+    {
+        "county": "WALLA WALLA",
+        "city": "WALLULA",
+        "zipcode": 99363,
+        "latitude": "+46.084584",
+        "longitude": "-118.906079"
+    },
+    {
+        "county": "WHATCOM",
+        "city": "ACME",
+        "zipcode": 98220,
+        "latitude": "+48.688554",
+        "longitude": "-122.186966"
+    },
+    {
+        "county": "WHATCOM",
+        "city": "BELLINGHAM",
+        "zipcode": 98225,
+        "latitude": "+48.747687",
+        "longitude": "-122.454297"
+    },
+    {
+        "county": "WHATCOM",
+        "city": "BELLINGHAM",
+        "zipcode": 98226,
+        "latitude": "+48.768396",
+        "longitude": "-122.486483"
+    },
+    {
+        "county": "WHATCOM",
+        "city": "BELLINGHAM",
+        "zipcode": 98227,
+        "latitude": "+48.814753",
+        "longitude": "-121.988548"
+    },
+    {
+        "county": "WHATCOM",
+        "city": "BELLINGHAM",
+        "zipcode": 98228,
+        "latitude": "+48.814753",
+        "longitude": "-121.988548"
+    },
+    {
+        "county": "WHATCOM",
+        "city": "BLAINE",
+        "zipcode": 98230,
+        "latitude": "+48.935767",
+        "longitude": "-122.366448"
+    },
+    {
+        "county": "WHATCOM",
+        "city": "BLAINE",
+        "zipcode": 98231,
+        "latitude": "+48.814753",
+        "longitude": "-121.988548"
+    },
+    {
+        "county": "WHATCOM",
+        "city": "CUSTER",
+        "zipcode": 98240,
+        "latitude": "+48.941068",
+        "longitude": "-122.625235"
+    },
+    {
+        "county": "WHATCOM",
+        "city": "DEMING",
+        "zipcode": 98244,
+        "latitude": "+48.801770",
+        "longitude": "-122.091834"
+    },
+    {
+        "county": "WHATCOM",
+        "city": "EVERSON",
+        "zipcode": 98247,
+        "latitude": "+48.904384",
+        "longitude": "-122.321834"
+    },
+    {
+        "county": "WHATCOM",
+        "city": "FERNDALE",
+        "zipcode": 98248,
+        "latitude": "+48.861113",
+        "longitude": "-122.608561"
+    },
+    {
+        "county": "WHATCOM",
+        "city": "LUMMI ISLAND",
+        "zipcode": 98262,
+        "latitude": "+48.713022",
+        "longitude": "-122.676470"
+    },
+    {
+        "county": "WHATCOM",
+        "city": "LYNDEN",
+        "zipcode": 98264,
+        "latitude": "+48.932328",
+        "longitude": "-122.436249"
+    },
+    {
+        "county": "WHATCOM",
+        "city": "MAPLE FALLS",
+        "zipcode": 98266,
+        "latitude": "+48.853213",
+        "longitude": "-122.247881"
+    },
+    {
+        "county": "WHATCOM",
+        "city": "NOOKSACK",
+        "zipcode": 98276,
+        "latitude": "+48.834208",
+        "longitude": "-122.335734"
+    },
+    {
+        "county": "WHATCOM",
+        "city": "POINT ROBERTS",
+        "zipcode": 98281,
+        "latitude": "+48.987386",
+        "longitude": "-123.058243"
+    },
+    {
+        "county": "WHATCOM",
+        "city": "SUMAS",
+        "zipcode": 98295,
+        "latitude": "+48.953377",
+        "longitude": "-122.198860"
+    },
+    {
+        "county": "WHITMAN",
+        "city": "ALBION",
+        "zipcode": 99102,
+        "latitude": "+46.934379",
+        "longitude": "-117.412136"
+    },
+    {
+        "county": "WHITMAN",
+        "city": "BELMONT",
+        "zipcode": 99104,
+        "latitude": "+47.079345",
+        "longitude": "-117.176954"
+    },
+    {
+        "county": "WHITMAN",
+        "city": "COLFAX",
+        "zipcode": 99111,
+        "latitude": "+46.959127",
+        "longitude": "-117.505163"
+    },
+    {
+        "county": "WHITMAN",
+        "city": "COLTON",
+        "zipcode": 99113,
+        "latitude": "+46.575075",
+        "longitude": "-117.206588"
+    },
+    {
+        "county": "WHITMAN",
+        "city": "ENDICOTT",
+        "zipcode": 99125,
+        "latitude": "+46.911972",
+        "longitude": "-117.702655"
+    },
+    {
+        "county": "WHITMAN",
+        "city": "FARMINGTON",
+        "zipcode": 99128,
+        "latitude": "+47.066613",
+        "longitude": "-117.361435"
+    },
+    {
+        "county": "WHITMAN",
+        "city": "GARFIELD",
+        "zipcode": 99130,
+        "latitude": "+46.929426",
+        "longitude": "-117.170603"
+    },
+    {
+        "county": "WHITMAN",
+        "city": "HAY",
+        "zipcode": 99136,
+        "latitude": "+46.697296",
+        "longitude": "-117.941665"
+    },
+    {
+        "county": "WHITMAN",
+        "city": "HOOPER",
+        "zipcode": 99333,
+        "latitude": "+46.838747",
+        "longitude": "-117.644337"
+    },
+    {
+        "county": "WHITMAN",
+        "city": "LACROSSE",
+        "zipcode": 99143,
+        "latitude": "+46.759878",
+        "longitude": "-117.728679"
+    },
+    {
+        "county": "WHITMAN",
+        "city": "LAMONT",
+        "zipcode": 99017,
+        "latitude": "+46.961780",
+        "longitude": "-117.687163"
+    },
+    {
+        "county": "WHITMAN",
+        "city": "MALDEN",
+        "zipcode": 99149,
+        "latitude": "+47.010100",
+        "longitude": "-117.476605"
+    },
+    {
+        "county": "WHITMAN",
+        "city": "OAKESDALE",
+        "zipcode": 99158,
+        "latitude": "+47.079658",
+        "longitude": "-117.411460"
+    },
+    {
+        "county": "WHITMAN",
+        "city": "PALOUSE",
+        "zipcode": 99161,
+        "latitude": "+46.770141",
+        "longitude": "-117.157476"
+    },
+    {
+        "county": "WHITMAN",
+        "city": "PULLMAN",
+        "zipcode": 99163,
+        "latitude": "+46.827480",
+        "longitude": "-117.317741"
+    },
+    {
+        "county": "WHITMAN",
+        "city": "PULLMAN",
+        "zipcode": 99164,
+        "latitude": "+46.838747",
+        "longitude": "-117.644337"
+    },
+    {
+        "county": "WHITMAN",
+        "city": "PULLMAN",
+        "zipcode": 99165,
+        "latitude": "+46.838747",
+        "longitude": "-117.644337"
+    },
+    {
+        "county": "WHITMAN",
+        "city": "ROSALIA",
+        "zipcode": 99170,
+        "latitude": "+47.034713",
+        "longitude": "-117.464600"
+    },
+    {
+        "county": "WHITMAN",
+        "city": "SAINT JOHN",
+        "zipcode": 99127,
+        "latitude": "+46.838747",
+        "longitude": "-117.644337"
+    },
+    {
+        "county": "WHITMAN",
+        "city": "SAINT JOHN",
+        "zipcode": 99171,
+        "latitude": "+47.123718",
+        "longitude": "-117.676432"
+    },
+    {
+        "county": "WHITMAN",
+        "city": "STEPTOE",
+        "zipcode": 99174,
+        "latitude": "+46.838747",
+        "longitude": "-117.644337"
+    },
+    {
+        "county": "WHITMAN",
+        "city": "TEKOA",
+        "zipcode": 99033,
+        "latitude": "+47.226641",
+        "longitude": "-117.096157"
+    },
+    {
+        "county": "WHITMAN",
+        "city": "THORNTON",
+        "zipcode": 99176,
+        "latitude": "+47.121960",
+        "longitude": "-117.433708"
+    },
+    {
+        "county": "WHITMAN",
+        "city": "UNIONTOWN",
+        "zipcode": 99179,
+        "latitude": "+46.545655",
+        "longitude": "-117.107970"
+    },
+    {
+        "county": "YAKIMA",
+        "city": "BROWNSTOWN",
+        "zipcode": 98920,
+        "latitude": "+46.564510",
+        "longitude": "-120.694658"
+    },
+    {
+        "county": "YAKIMA",
+        "city": "BUENA",
+        "zipcode": 98921,
+        "latitude": "+46.421218",
+        "longitude": "-120.315141"
+    },
+    {
+        "county": "YAKIMA",
+        "city": "COWICHE",
+        "zipcode": 98923,
+        "latitude": "+46.678192",
+        "longitude": "-120.753007"
+    },
+    {
+        "county": "YAKIMA",
+        "city": "GOOSE PRAIRIE",
+        "zipcode": 98929,
+        "latitude": "+46.915735",
+        "longitude": "-121.241591"
+    },
+    {
+        "county": "YAKIMA",
+        "city": "GRANDVIEW",
+        "zipcode": 98930,
+        "latitude": "+46.455940",
+        "longitude": "-120.312088"
+    },
+    {
+        "county": "YAKIMA",
+        "city": "GRANGER",
+        "zipcode": 98932,
+        "latitude": "+46.340157",
+        "longitude": "-120.154930"
+    },
+    {
+        "county": "YAKIMA",
+        "city": "HARRAH",
+        "zipcode": 98933,
+        "latitude": "+46.323528",
+        "longitude": "-120.375459"
+    },
+    {
+        "county": "YAKIMA",
+        "city": "MABTON",
+        "zipcode": 98935,
+        "latitude": "+46.165237",
+        "longitude": "-120.050377"
+    },
+    {
+        "county": "YAKIMA",
+        "city": "MOXEE",
+        "zipcode": 98936,
+        "latitude": "+46.410236",
+        "longitude": "-120.233518"
+    },
+    {
+        "county": "YAKIMA",
+        "city": "NACHES",
+        "zipcode": 98937,
+        "latitude": "+46.805796",
+        "longitude": "-120.992096"
+    },
+    {
+        "county": "YAKIMA",
+        "city": "OUTLOOK",
+        "zipcode": 98938,
+        "latitude": "+46.366004",
+        "longitude": "-120.119917"
+    },
+    {
+        "county": "YAKIMA",
+        "city": "PARKER",
+        "zipcode": 98939,
+        "latitude": "+46.564510",
+        "longitude": "-120.694658"
+    },
+    {
+        "county": "YAKIMA",
+        "city": "SELAH",
+        "zipcode": 98942,
+        "latitude": "+46.544316",
+        "longitude": "-120.396038"
+    },
+    {
+        "county": "YAKIMA",
+        "city": "SUNNYSIDE",
+        "zipcode": 98944,
+        "latitude": "+46.373611",
+        "longitude": "-120.010590"
+    },
+    {
+        "county": "YAKIMA",
+        "city": "TIETON",
+        "zipcode": 98947,
+        "latitude": "+46.740371",
+        "longitude": "-120.693103"
+    },
+    {
+        "county": "YAKIMA",
+        "city": "TOPPENISH",
+        "zipcode": 98948,
+        "latitude": "+46.328522",
+        "longitude": "-120.370257"
+    },
+    {
+        "county": "YAKIMA",
+        "city": "WAPATO",
+        "zipcode": 98951,
+        "latitude": "+46.522398",
+        "longitude": "-120.508444"
+    },
+    {
+        "county": "YAKIMA",
+        "city": "WHITE SWAN",
+        "zipcode": 98952,
+        "latitude": "+46.449869",
+        "longitude": "-120.667145"
+    },
+    {
+        "county": "YAKIMA",
+        "city": "YAKIMA",
+        "zipcode": 98901,
+        "latitude": "+46.644476",
+        "longitude": "-120.725557"
+    },
+    {
+        "county": "YAKIMA",
+        "city": "YAKIMA",
+        "zipcode": 98902,
+        "latitude": "+46.420138",
+        "longitude": "-120.297120"
+    },
+    {
+        "county": "YAKIMA",
+        "city": "YAKIMA",
+        "zipcode": 98903,
+        "latitude": "+46.544506",
+        "longitude": "-120.744393"
+    },
+    {
+        "county": "YAKIMA",
+        "city": "YAKIMA",
+        "zipcode": 98904,
+        "latitude": "+46.564510",
+        "longitude": "-120.694658"
+    },
+    {
+        "county": "YAKIMA",
+        "city": "YAKIMA",
+        "zipcode": 98907,
+        "latitude": "+46.628757",
+        "longitude": "-120.573967"
+    },
+    {
+        "county": "YAKIMA",
+        "city": "YAKIMA",
+        "zipcode": 98908,
+        "latitude": "+46.527811",
+        "longitude": "-120.687412"
+    },
+    {
+        "county": "YAKIMA",
+        "city": "YAKIMA",
+        "zipcode": 98909,
+        "latitude": "+46.637538",
+        "longitude": "-120.794978"
+    },
+    {
+        "county": "YAKIMA",
+        "city": "ZILLAH",
+        "zipcode": 98953,
+        "latitude": "+46.419838",
+        "longitude": "-120.231713"
+    }
+]

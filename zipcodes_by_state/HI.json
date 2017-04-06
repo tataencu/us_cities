@@ -1,0 +1,1003 @@
+[
+    {
+        "county": "HAWAII",
+        "city": "CAPTAIN COOK",
+        "zipcode": 96704,
+        "latitude": "+19.269226",
+        "longitude": "-155.757929"
+    },
+    {
+        "county": "HAWAII",
+        "city": "HAKALAU",
+        "zipcode": 96710,
+        "latitude": "+19.911689",
+        "longitude": "-155.148483"
+    },
+    {
+        "county": "HAWAII",
+        "city": "HAWAII NATIONAL PARK",
+        "zipcode": 96718,
+        "latitude": "+19.593456",
+        "longitude": "-155.438015"
+    },
+    {
+        "county": "HAWAII",
+        "city": "HAWI",
+        "zipcode": 96719,
+        "latitude": "+20.222737",
+        "longitude": "-155.818291"
+    },
+    {
+        "county": "HAWAII",
+        "city": "HILO",
+        "zipcode": 96720,
+        "latitude": "+19.564519",
+        "longitude": "-155.262030"
+    },
+    {
+        "county": "HAWAII",
+        "city": "HILO",
+        "zipcode": 96721,
+        "latitude": "+19.593456",
+        "longitude": "-155.438015"
+    },
+    {
+        "county": "HAWAII",
+        "city": "HOLUALOA",
+        "zipcode": 96725,
+        "latitude": "+19.618904",
+        "longitude": "-155.948308"
+    },
+    {
+        "county": "HAWAII",
+        "city": "HONAUNAU",
+        "zipcode": 96726,
+        "latitude": "+19.278298",
+        "longitude": "-155.845329"
+    },
+    {
+        "county": "HAWAII",
+        "city": "HONOKAA",
+        "zipcode": 96727,
+        "latitude": "+20.079156",
+        "longitude": "-155.507938"
+    },
+    {
+        "county": "HAWAII",
+        "city": "HONOMU",
+        "zipcode": 96728,
+        "latitude": "+19.593456",
+        "longitude": "-155.438015"
+    },
+    {
+        "county": "HAWAII",
+        "city": "KAILUA KONA",
+        "zipcode": 96740,
+        "latitude": "+19.674123",
+        "longitude": "-155.936565"
+    },
+    {
+        "county": "HAWAII",
+        "city": "KAILUA KONA",
+        "zipcode": 96745,
+        "latitude": "+19.593456",
+        "longitude": "-155.438015"
+    },
+    {
+        "county": "HAWAII",
+        "city": "KAMUELA",
+        "zipcode": 96743,
+        "latitude": "+19.887872",
+        "longitude": "-155.751907"
+    },
+    {
+        "county": "HAWAII",
+        "city": "KAPAAU",
+        "zipcode": 96755,
+        "latitude": "+20.226101",
+        "longitude": "-155.776957"
+    },
+    {
+        "county": "HAWAII",
+        "city": "KEAAU",
+        "zipcode": 96749,
+        "latitude": "+19.581873",
+        "longitude": "-155.032104"
+    },
+    {
+        "county": "HAWAII",
+        "city": "KEALAKEKUA",
+        "zipcode": 96750,
+        "latitude": "+19.343913",
+        "longitude": "-155.874923"
+    },
+    {
+        "county": "HAWAII",
+        "city": "KEAUHOU",
+        "zipcode": 96739,
+        "latitude": "+19.593456",
+        "longitude": "-155.438015"
+    },
+    {
+        "county": "HAWAII",
+        "city": "KURTISTOWN",
+        "zipcode": 96760,
+        "latitude": "+19.569277",
+        "longitude": "-155.034859"
+    },
+    {
+        "county": "HAWAII",
+        "city": "LAUPAHOEHOE",
+        "zipcode": 96764,
+        "latitude": "+19.985166",
+        "longitude": "-155.248429"
+    },
+    {
+        "county": "HAWAII",
+        "city": "MOUNTAIN VIEW",
+        "zipcode": 96771,
+        "latitude": "+19.534945",
+        "longitude": "-155.125657"
+    },
+    {
+        "county": "HAWAII",
+        "city": "NAALEHU",
+        "zipcode": 96772,
+        "latitude": "+19.052137",
+        "longitude": "-155.622528"
+    },
+    {
+        "county": "HAWAII",
+        "city": "NINOLE",
+        "zipcode": 96773,
+        "latitude": "+19.935047",
+        "longitude": "-155.166821"
+    },
+    {
+        "county": "HAWAII",
+        "city": "OCEAN VIEW",
+        "zipcode": 96737,
+        "latitude": "+19.100167",
+        "longitude": "-155.725803"
+    },
+    {
+        "county": "HAWAII",
+        "city": "OOKALA",
+        "zipcode": 96774,
+        "latitude": "+20.015060",
+        "longitude": "-155.280974"
+    },
+    {
+        "county": "HAWAII",
+        "city": "PAAUHAU",
+        "zipcode": 96775,
+        "latitude": "+19.593456",
+        "longitude": "-155.438015"
+    },
+    {
+        "county": "HAWAII",
+        "city": "PAAUILO",
+        "zipcode": 96776,
+        "latitude": "+20.035356",
+        "longitude": "-155.377961"
+    },
+    {
+        "county": "HAWAII",
+        "city": "PAHALA",
+        "zipcode": 96777,
+        "latitude": "+19.593456",
+        "longitude": "-155.438015"
+    },
+    {
+        "county": "HAWAII",
+        "city": "PAHOA",
+        "zipcode": 96778,
+        "latitude": "+19.390023",
+        "longitude": "-155.152268"
+    },
+    {
+        "county": "HAWAII",
+        "city": "PAPAALOA",
+        "zipcode": 96780,
+        "latitude": "+19.964138",
+        "longitude": "-155.201267"
+    },
+    {
+        "county": "HAWAII",
+        "city": "PAPAIKOU",
+        "zipcode": 96781,
+        "latitude": "+19.798878",
+        "longitude": "-155.116093"
+    },
+    {
+        "county": "HAWAII",
+        "city": "PEPEEKEO",
+        "zipcode": 96783,
+        "latitude": "+19.819475",
+        "longitude": "-155.106308"
+    },
+    {
+        "county": "HAWAII",
+        "city": "VOLCANO",
+        "zipcode": 96785,
+        "latitude": "+19.440523",
+        "longitude": "-155.250569"
+    },
+    {
+        "county": "HAWAII",
+        "city": "WAIKOLOA",
+        "zipcode": 96738,
+        "latitude": "+19.972371",
+        "longitude": "-155.817987"
+    },
+    {
+        "county": "HONOLULU",
+        "city": "AIEA",
+        "zipcode": 96701,
+        "latitude": "+21.390650",
+        "longitude": "-157.927829"
+    },
+    {
+        "county": "HONOLULU",
+        "city": "BARBERS POINT",
+        "zipcode": 96862,
+        "latitude": "+21.319000",
+        "longitude": "-158.074900"
+    },
+    {
+        "county": "HONOLULU",
+        "city": "CAMP H M SMITH",
+        "zipcode": 96861,
+        "latitude": "+24.859832",
+        "longitude": "-168.021815"
+    },
+    {
+        "county": "HONOLULU",
+        "city": "EWA BEACH",
+        "zipcode": 96706,
+        "latitude": "+21.344550",
+        "longitude": "-158.013950"
+    },
+    {
+        "county": "HONOLULU",
+        "city": "FORT SHAFTER",
+        "zipcode": 96858,
+        "latitude": "+24.859832",
+        "longitude": "-168.021815"
+    },
+    {
+        "county": "HONOLULU",
+        "city": "HALEIWA",
+        "zipcode": 96712,
+        "latitude": "+21.631850",
+        "longitude": "-158.036450"
+    },
+    {
+        "county": "HONOLULU",
+        "city": "HAUULA",
+        "zipcode": 96717,
+        "latitude": "+21.583507",
+        "longitude": "-157.882511"
+    },
+    {
+        "county": "HONOLULU",
+        "city": "HICKAM AFB",
+        "zipcode": 96853,
+        "latitude": "+24.859832",
+        "longitude": "-168.021815"
+    },
+    {
+        "county": "HONOLULU",
+        "city": "HONOLULU",
+        "zipcode": 96801,
+        "latitude": "+24.859832",
+        "longitude": "-168.021815"
+    },
+    {
+        "county": "HONOLULU",
+        "city": "HONOLULU",
+        "zipcode": 96802,
+        "latitude": "+24.859832",
+        "longitude": "-168.021815"
+    },
+    {
+        "county": "HONOLULU",
+        "city": "HONOLULU",
+        "zipcode": 96803,
+        "latitude": "+24.859832",
+        "longitude": "-168.021815"
+    },
+    {
+        "county": "HONOLULU",
+        "city": "HONOLULU",
+        "zipcode": 96804,
+        "latitude": "+24.859832",
+        "longitude": "-168.021815"
+    },
+    {
+        "county": "HONOLULU",
+        "city": "HONOLULU",
+        "zipcode": 96805,
+        "latitude": "+24.859832",
+        "longitude": "-168.021815"
+    },
+    {
+        "county": "HONOLULU",
+        "city": "HONOLULU",
+        "zipcode": 96806,
+        "latitude": "+24.859832",
+        "longitude": "-168.021815"
+    },
+    {
+        "county": "HONOLULU",
+        "city": "HONOLULU",
+        "zipcode": 96807,
+        "latitude": "+24.859832",
+        "longitude": "-168.021815"
+    },
+    {
+        "county": "HONOLULU",
+        "city": "HONOLULU",
+        "zipcode": 96808,
+        "latitude": "+24.859832",
+        "longitude": "-168.021815"
+    },
+    {
+        "county": "HONOLULU",
+        "city": "HONOLULU",
+        "zipcode": 96809,
+        "latitude": "+24.859832",
+        "longitude": "-168.021815"
+    },
+    {
+        "county": "HONOLULU",
+        "city": "HONOLULU",
+        "zipcode": 96810,
+        "latitude": "+24.859832",
+        "longitude": "-168.021815"
+    },
+    {
+        "county": "HONOLULU",
+        "city": "HONOLULU",
+        "zipcode": 96811,
+        "latitude": "+24.859832",
+        "longitude": "-168.021815"
+    },
+    {
+        "county": "HONOLULU",
+        "city": "HONOLULU",
+        "zipcode": 96812,
+        "latitude": "+24.859832",
+        "longitude": "-168.021815"
+    },
+    {
+        "county": "HONOLULU",
+        "city": "HONOLULU",
+        "zipcode": 96813,
+        "latitude": "+24.859832",
+        "longitude": "-168.021815"
+    },
+    {
+        "county": "HONOLULU",
+        "city": "HONOLULU",
+        "zipcode": 96814,
+        "latitude": "+24.859832",
+        "longitude": "-168.021815"
+    },
+    {
+        "county": "HONOLULU",
+        "city": "HONOLULU",
+        "zipcode": 96815,
+        "latitude": "+24.859832",
+        "longitude": "-168.021815"
+    },
+    {
+        "county": "HONOLULU",
+        "city": "HONOLULU",
+        "zipcode": 96816,
+        "latitude": "+24.859832",
+        "longitude": "-168.021815"
+    },
+    {
+        "county": "HONOLULU",
+        "city": "HONOLULU",
+        "zipcode": 96817,
+        "latitude": "+21.650980",
+        "longitude": "-157.922303"
+    },
+    {
+        "county": "HONOLULU",
+        "city": "HONOLULU",
+        "zipcode": 96818,
+        "latitude": "+21.347951",
+        "longitude": "-157.939650"
+    },
+    {
+        "county": "HONOLULU",
+        "city": "HONOLULU",
+        "zipcode": 96819,
+        "latitude": "+21.373179",
+        "longitude": "-157.901979"
+    },
+    {
+        "county": "HONOLULU",
+        "city": "HONOLULU",
+        "zipcode": 96820,
+        "latitude": "+24.859832",
+        "longitude": "-168.021815"
+    },
+    {
+        "county": "HONOLULU",
+        "city": "HONOLULU",
+        "zipcode": 96821,
+        "latitude": "+24.859832",
+        "longitude": "-168.021815"
+    },
+    {
+        "county": "HONOLULU",
+        "city": "HONOLULU",
+        "zipcode": 96822,
+        "latitude": "+21.671150",
+        "longitude": "-157.940850"
+    },
+    {
+        "county": "HONOLULU",
+        "city": "HONOLULU",
+        "zipcode": 96823,
+        "latitude": "+24.859832",
+        "longitude": "-168.021815"
+    },
+    {
+        "county": "HONOLULU",
+        "city": "HONOLULU",
+        "zipcode": 96824,
+        "latitude": "+24.859832",
+        "longitude": "-168.021815"
+    },
+    {
+        "county": "HONOLULU",
+        "city": "HONOLULU",
+        "zipcode": 96825,
+        "latitude": "+21.670926",
+        "longitude": "-157.940731"
+    },
+    {
+        "county": "HONOLULU",
+        "city": "HONOLULU",
+        "zipcode": 96826,
+        "latitude": "+24.859832",
+        "longitude": "-168.021815"
+    },
+    {
+        "county": "HONOLULU",
+        "city": "HONOLULU",
+        "zipcode": 96827,
+        "latitude": "+24.859832",
+        "longitude": "-168.021815"
+    },
+    {
+        "county": "HONOLULU",
+        "city": "HONOLULU",
+        "zipcode": 96828,
+        "latitude": "+24.859832",
+        "longitude": "-168.021815"
+    },
+    {
+        "county": "HONOLULU",
+        "city": "HONOLULU",
+        "zipcode": 96830,
+        "latitude": "+24.859832",
+        "longitude": "-168.021815"
+    },
+    {
+        "county": "HONOLULU",
+        "city": "HONOLULU",
+        "zipcode": 96835,
+        "latitude": "+24.859832",
+        "longitude": "-168.021815"
+    },
+    {
+        "county": "HONOLULU",
+        "city": "HONOLULU",
+        "zipcode": 96836,
+        "latitude": "+24.859832",
+        "longitude": "-168.021815"
+    },
+    {
+        "county": "HONOLULU",
+        "city": "HONOLULU",
+        "zipcode": 96837,
+        "latitude": "+24.859832",
+        "longitude": "-168.021815"
+    },
+    {
+        "county": "HONOLULU",
+        "city": "HONOLULU",
+        "zipcode": 96838,
+        "latitude": "+24.859832",
+        "longitude": "-168.021815"
+    },
+    {
+        "county": "HONOLULU",
+        "city": "HONOLULU",
+        "zipcode": 96839,
+        "latitude": "+24.859832",
+        "longitude": "-168.021815"
+    },
+    {
+        "county": "HONOLULU",
+        "city": "HONOLULU",
+        "zipcode": 96840,
+        "latitude": "+24.859832",
+        "longitude": "-168.021815"
+    },
+    {
+        "county": "HONOLULU",
+        "city": "HONOLULU",
+        "zipcode": 96841,
+        "latitude": "+24.859832",
+        "longitude": "-168.021815"
+    },
+    {
+        "county": "HONOLULU",
+        "city": "HONOLULU",
+        "zipcode": 96842,
+        "latitude": "+24.859832",
+        "longitude": "-168.021815"
+    },
+    {
+        "county": "HONOLULU",
+        "city": "HONOLULU",
+        "zipcode": 96843,
+        "latitude": "+24.859832",
+        "longitude": "-168.021815"
+    },
+    {
+        "county": "HONOLULU",
+        "city": "HONOLULU",
+        "zipcode": 96844,
+        "latitude": "+24.859832",
+        "longitude": "-168.021815"
+    },
+    {
+        "county": "HONOLULU",
+        "city": "HONOLULU",
+        "zipcode": 96845,
+        "latitude": "+24.859832",
+        "longitude": "-168.021815"
+    },
+    {
+        "county": "HONOLULU",
+        "city": "HONOLULU",
+        "zipcode": 96846,
+        "latitude": "+24.859832",
+        "longitude": "-168.021815"
+    },
+    {
+        "county": "HONOLULU",
+        "city": "HONOLULU",
+        "zipcode": 96847,
+        "latitude": "+24.859832",
+        "longitude": "-168.021815"
+    },
+    {
+        "county": "HONOLULU",
+        "city": "HONOLULU",
+        "zipcode": 96848,
+        "latitude": "+24.859832",
+        "longitude": "-168.021815"
+    },
+    {
+        "county": "HONOLULU",
+        "city": "HONOLULU",
+        "zipcode": 96849,
+        "latitude": "+24.859832",
+        "longitude": "-168.021815"
+    },
+    {
+        "county": "HONOLULU",
+        "city": "HONOLULU",
+        "zipcode": 96850,
+        "latitude": "+24.859832",
+        "longitude": "-168.021815"
+    },
+    {
+        "county": "HONOLULU",
+        "city": "KAAAWA",
+        "zipcode": 96730,
+        "latitude": "+21.585127",
+        "longitude": "-157.883316"
+    },
+    {
+        "county": "HONOLULU",
+        "city": "KAHUKU",
+        "zipcode": 96731,
+        "latitude": "+21.627700",
+        "longitude": "-157.935304"
+    },
+    {
+        "county": "HONOLULU",
+        "city": "KAILUA",
+        "zipcode": 96734,
+        "latitude": "+21.595644",
+        "longitude": "-158.039121"
+    },
+    {
+        "county": "HONOLULU",
+        "city": "KANEOHE",
+        "zipcode": 96744,
+        "latitude": "+21.668750",
+        "longitude": "-157.939550"
+    },
+    {
+        "county": "HONOLULU",
+        "city": "KAPOLEI",
+        "zipcode": 96707,
+        "latitude": "+21.341784",
+        "longitude": "-158.091383"
+    },
+    {
+        "county": "HONOLULU",
+        "city": "KAPOLEI",
+        "zipcode": 96709,
+        "latitude": "+23.573339",
+        "longitude": "-164.701172"
+    },
+    {
+        "county": "HONOLULU",
+        "city": "KUNIA",
+        "zipcode": 96759,
+        "latitude": "+21.463000",
+        "longitude": "-158.063850"
+    },
+    {
+        "county": "HONOLULU",
+        "city": "LAIE",
+        "zipcode": 96762,
+        "latitude": "+21.610950",
+        "longitude": "-157.902050"
+    },
+    {
+        "county": "HONOLULU",
+        "city": "M C B H KANEOHE BAY",
+        "zipcode": 96863,
+        "latitude": "+24.859832",
+        "longitude": "-168.021815"
+    },
+    {
+        "county": "HONOLULU",
+        "city": "MILILANI",
+        "zipcode": 96789,
+        "latitude": "+21.458855",
+        "longitude": "-158.012322"
+    },
+    {
+        "county": "HONOLULU",
+        "city": "PEARL CITY",
+        "zipcode": 96782,
+        "latitude": "+21.511950",
+        "longitude": "-157.994662"
+    },
+    {
+        "county": "HONOLULU",
+        "city": "PEARL HARBOR",
+        "zipcode": 96860,
+        "latitude": "+24.859832",
+        "longitude": "-168.021815"
+    },
+    {
+        "county": "HONOLULU",
+        "city": "SCHOFIELD BARRACKS",
+        "zipcode": 96857,
+        "latitude": "+24.859832",
+        "longitude": "-168.021815"
+    },
+    {
+        "county": "HONOLULU",
+        "city": "TRIPLER ARMY MEDICAL CTR",
+        "zipcode": 96859,
+        "latitude": "+24.859832",
+        "longitude": "-168.021815"
+    },
+    {
+        "county": "HONOLULU",
+        "city": "WAHIAWA",
+        "zipcode": 96786,
+        "latitude": "+21.532400",
+        "longitude": "-158.047735"
+    },
+    {
+        "county": "HONOLULU",
+        "city": "WAIALUA",
+        "zipcode": 96791,
+        "latitude": "+21.553250",
+        "longitude": "-158.163415"
+    },
+    {
+        "county": "HONOLULU",
+        "city": "WAIANAE",
+        "zipcode": 96792,
+        "latitude": "+21.437389",
+        "longitude": "-158.181356"
+    },
+    {
+        "county": "HONOLULU",
+        "city": "WAIMANALO",
+        "zipcode": 96795,
+        "latitude": "+24.859832",
+        "longitude": "-168.021815"
+    },
+    {
+        "county": "HONOLULU",
+        "city": "WAIPAHU",
+        "zipcode": 96797,
+        "latitude": "+21.399548",
+        "longitude": "-158.015151"
+    },
+    {
+        "county": "HONOLULU",
+        "city": "WAKE ISLAND",
+        "zipcode": 96898,
+        "latitude": "+24.859832",
+        "longitude": "-168.021815"
+    },
+    {
+        "county": "HONOLULU",
+        "city": "WHEELER ARMY AIRFIELD",
+        "zipcode": 96854,
+        "latitude": "+24.859832",
+        "longitude": "-168.021815"
+    },
+    {
+        "county": "KAUAI",
+        "city": "ANAHOLA",
+        "zipcode": 96703,
+        "latitude": "+22.055787",
+        "longitude": "-159.454519"
+    },
+    {
+        "county": "KAUAI",
+        "city": "ELEELE",
+        "zipcode": 96705,
+        "latitude": "+21.937654",
+        "longitude": "-159.645162"
+    },
+    {
+        "county": "KAUAI",
+        "city": "HANALEI",
+        "zipcode": 96714,
+        "latitude": "+22.213592",
+        "longitude": "-159.482796"
+    },
+    {
+        "county": "KAUAI",
+        "city": "HANAMAULU",
+        "zipcode": 96715,
+        "latitude": "+21.979991",
+        "longitude": "-159.512392"
+    },
+    {
+        "county": "KAUAI",
+        "city": "HANAPEPE",
+        "zipcode": 96716,
+        "latitude": "+22.020489",
+        "longitude": "-159.617765"
+    },
+    {
+        "county": "KAUAI",
+        "city": "KALAHEO",
+        "zipcode": 96741,
+        "latitude": "+21.925909",
+        "longitude": "-159.530254"
+    },
+    {
+        "county": "KAUAI",
+        "city": "KAPAA",
+        "zipcode": 96746,
+        "latitude": "+22.074197",
+        "longitude": "-159.406197"
+    },
+    {
+        "county": "KAUAI",
+        "city": "KAUMAKANI",
+        "zipcode": 96747,
+        "latitude": "+21.945428",
+        "longitude": "-159.921351"
+    },
+    {
+        "county": "KAUAI",
+        "city": "KEALIA",
+        "zipcode": 96751,
+        "latitude": "+22.105955",
+        "longitude": "-159.308471"
+    },
+    {
+        "county": "KAUAI",
+        "city": "KEKAHA",
+        "zipcode": 96752,
+        "latitude": "+21.971285",
+        "longitude": "-159.713792"
+    },
+    {
+        "county": "KAUAI",
+        "city": "KILAUEA",
+        "zipcode": 96754,
+        "latitude": "+22.207314",
+        "longitude": "-159.395386"
+    },
+    {
+        "county": "KAUAI",
+        "city": "KOLOA",
+        "zipcode": 96756,
+        "latitude": "+22.028379",
+        "longitude": "-159.432992"
+    },
+    {
+        "county": "KAUAI",
+        "city": "LAWAI",
+        "zipcode": 96765,
+        "latitude": "+21.930922",
+        "longitude": "-159.499342"
+    },
+    {
+        "county": "KAUAI",
+        "city": "LIHUE",
+        "zipcode": 96766,
+        "latitude": "+22.070553",
+        "longitude": "-159.430328"
+    },
+    {
+        "county": "KAUAI",
+        "city": "MAKAWELI",
+        "zipcode": 96769,
+        "latitude": "+21.945428",
+        "longitude": "-159.921351"
+    },
+    {
+        "county": "KAUAI",
+        "city": "PRINCEVILLE",
+        "zipcode": 96722,
+        "latitude": "+22.219231",
+        "longitude": "-159.486562"
+    },
+    {
+        "county": "KAUAI",
+        "city": "WAIMEA",
+        "zipcode": 96796,
+        "latitude": "+21.966709",
+        "longitude": "-159.686193"
+    },
+    {
+        "county": "MAUI",
+        "city": "HAIKU",
+        "zipcode": 96708,
+        "latitude": "+20.849675",
+        "longitude": "-156.165622"
+    },
+    {
+        "county": "MAUI",
+        "city": "HANA",
+        "zipcode": 96713,
+        "latitude": "+20.725172",
+        "longitude": "-156.022930"
+    },
+    {
+        "county": "MAUI",
+        "city": "HOOLEHUA",
+        "zipcode": 96729,
+        "latitude": "+21.163056",
+        "longitude": "-157.076600"
+    },
+    {
+        "county": "MAUI",
+        "city": "KAHULUI",
+        "zipcode": 96732,
+        "latitude": "+20.859244",
+        "longitude": "-156.259166"
+    },
+    {
+        "county": "MAUI",
+        "city": "KAHULUI",
+        "zipcode": 96733,
+        "latitude": "+20.866638",
+        "longitude": "-156.646667"
+    },
+    {
+        "county": "MAUI",
+        "city": "KALAUPAPA",
+        "zipcode": 96742,
+        "latitude": "+20.866638",
+        "longitude": "-156.646667"
+    },
+    {
+        "county": "MAUI",
+        "city": "KAUNAKAKAI",
+        "zipcode": 96748,
+        "latitude": "+21.092266",
+        "longitude": "-157.012533"
+    },
+    {
+        "county": "MAUI",
+        "city": "KIHEI",
+        "zipcode": 96753,
+        "latitude": "+20.723542",
+        "longitude": "-156.469915"
+    },
+    {
+        "county": "MAUI",
+        "city": "KUALAPUU",
+        "zipcode": 96757,
+        "latitude": "+21.161010",
+        "longitude": "-157.025440"
+    },
+    {
+        "county": "MAUI",
+        "city": "KULA",
+        "zipcode": 96790,
+        "latitude": "+20.753763",
+        "longitude": "-156.329499"
+    },
+    {
+        "county": "MAUI",
+        "city": "LAHAINA",
+        "zipcode": 96761,
+        "latitude": "+20.919823",
+        "longitude": "-156.717614"
+    },
+    {
+        "county": "MAUI",
+        "city": "LAHAINA",
+        "zipcode": 96767,
+        "latitude": "+20.866638",
+        "longitude": "-156.646667"
+    },
+    {
+        "county": "MAUI",
+        "city": "LANAI CITY",
+        "zipcode": 96763,
+        "latitude": "+20.812854",
+        "longitude": "-156.952830"
+    },
+    {
+        "county": "MAUI",
+        "city": "MAKAWAO",
+        "zipcode": 96768,
+        "latitude": "+20.832664",
+        "longitude": "-156.320242"
+    },
+    {
+        "county": "MAUI",
+        "city": "MAUNALOA",
+        "zipcode": 96770,
+        "latitude": "+21.176357",
+        "longitude": "-157.257157"
+    },
+    {
+        "county": "MAUI",
+        "city": "PAIA",
+        "zipcode": 96779,
+        "latitude": "+20.904275",
+        "longitude": "-156.373506"
+    },
+    {
+        "county": "MAUI",
+        "city": "PUKALANI",
+        "zipcode": 96788,
+        "latitude": "+20.855864",
+        "longitude": "-156.325923"
+    },
+    {
+        "county": "MAUI",
+        "city": "PUUNENE",
+        "zipcode": 96784,
+        "latitude": "+20.866638",
+        "longitude": "-156.646667"
+    },
+    {
+        "county": "MAUI",
+        "city": "WAILUKU",
+        "zipcode": 96793,
+        "latitude": "+20.901536",
+        "longitude": "-156.566493"
+    }
+]

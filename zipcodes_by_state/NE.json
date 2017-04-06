@@ -1,0 +1,4398 @@
+[
+    {
+        "county": "ADAMS",
+        "city": "AYR",
+        "zipcode": 68925,
+        "latitude": "+40.429989",
+        "longitude": "-098.463055"
+    },
+    {
+        "county": "ADAMS",
+        "city": "HASTINGS",
+        "zipcode": 68901,
+        "latitude": "+40.582425",
+        "longitude": "-098.389035"
+    },
+    {
+        "county": "ADAMS",
+        "city": "HASTINGS",
+        "zipcode": 68902,
+        "latitude": "+40.589594",
+        "longitude": "-098.397248"
+    },
+    {
+        "county": "ADAMS",
+        "city": "HOLSTEIN",
+        "zipcode": 68950,
+        "latitude": "+40.437334",
+        "longitude": "-098.638633"
+    },
+    {
+        "county": "ADAMS",
+        "city": "JUNIATA",
+        "zipcode": 68955,
+        "latitude": "+40.596951",
+        "longitude": "-098.506045"
+    },
+    {
+        "county": "ADAMS",
+        "city": "KENESAW",
+        "zipcode": 68956,
+        "latitude": "+40.611581",
+        "longitude": "-098.610696"
+    },
+    {
+        "county": "ADAMS",
+        "city": "ROSELAND",
+        "zipcode": 68973,
+        "latitude": "+40.466384",
+        "longitude": "-098.544036"
+    },
+    {
+        "county": "ANTELOPE",
+        "city": "BRUNSWICK",
+        "zipcode": 68720,
+        "latitude": "+42.176397",
+        "longitude": "-098.066911"
+    },
+    {
+        "county": "ANTELOPE",
+        "city": "CLEARWATER",
+        "zipcode": 68726,
+        "latitude": "+42.176397",
+        "longitude": "-098.066911"
+    },
+    {
+        "county": "ANTELOPE",
+        "city": "ELGIN",
+        "zipcode": 68636,
+        "latitude": "+41.982761",
+        "longitude": "-098.083714"
+    },
+    {
+        "county": "ANTELOPE",
+        "city": "NELIGH",
+        "zipcode": 68756,
+        "latitude": "+42.216925",
+        "longitude": "-098.131760"
+    },
+    {
+        "county": "ANTELOPE",
+        "city": "OAKDALE",
+        "zipcode": 68761,
+        "latitude": "+42.176397",
+        "longitude": "-098.066911"
+    },
+    {
+        "county": "ANTELOPE",
+        "city": "ORCHARD",
+        "zipcode": 68764,
+        "latitude": "+42.337003",
+        "longitude": "-098.239908"
+    },
+    {
+        "county": "ANTELOPE",
+        "city": "ROYAL",
+        "zipcode": 68773,
+        "latitude": "+42.176397",
+        "longitude": "-098.066911"
+    },
+    {
+        "county": "ARTHUR",
+        "city": "ARTHUR",
+        "zipcode": 69121,
+        "latitude": "+41.554073",
+        "longitude": "-101.714495"
+    },
+    {
+        "county": "BANNER",
+        "city": "HARRISBURG",
+        "zipcode": 69345,
+        "latitude": "+41.546441",
+        "longitude": "-103.710045"
+    },
+    {
+        "county": "BLAINE",
+        "city": "BREWSTER",
+        "zipcode": 68821,
+        "latitude": "+41.936376",
+        "longitude": "-099.857111"
+    },
+    {
+        "county": "BLAINE",
+        "city": "DUNNING",
+        "zipcode": 68833,
+        "latitude": "+41.912303",
+        "longitude": "-099.977135"
+    },
+    {
+        "county": "BLAINE",
+        "city": "PURDUM",
+        "zipcode": 69157,
+        "latitude": "+41.912303",
+        "longitude": "-099.977135"
+    },
+    {
+        "county": "BOONE",
+        "city": "ALBION",
+        "zipcode": 68620,
+        "latitude": "+41.648736",
+        "longitude": "-098.011092"
+    },
+    {
+        "county": "BOONE",
+        "city": "CEDAR RAPIDS",
+        "zipcode": 68627,
+        "latitude": "+41.558087",
+        "longitude": "-098.150139"
+    },
+    {
+        "county": "BOONE",
+        "city": "PETERSBURG",
+        "zipcode": 68652,
+        "latitude": "+41.853086",
+        "longitude": "-098.079960"
+    },
+    {
+        "county": "BOONE",
+        "city": "PRIMROSE",
+        "zipcode": 68655,
+        "latitude": "+41.698452",
+        "longitude": "-098.062909"
+    },
+    {
+        "county": "BOONE",
+        "city": "SAINT EDWARD",
+        "zipcode": 68660,
+        "latitude": "+41.570444",
+        "longitude": "-097.863484"
+    },
+    {
+        "county": "BOX BUTTE",
+        "city": "ALLIANCE",
+        "zipcode": 69301,
+        "latitude": "+42.219844",
+        "longitude": "-103.073327"
+    },
+    {
+        "county": "BOX BUTTE",
+        "city": "HEMINGFORD",
+        "zipcode": 69348,
+        "latitude": "+42.314537",
+        "longitude": "-103.097258"
+    },
+    {
+        "county": "BOYD",
+        "city": "BRISTOW",
+        "zipcode": 68719,
+        "latitude": "+42.879903",
+        "longitude": "-098.781334"
+    },
+    {
+        "county": "BOYD",
+        "city": "BUTTE",
+        "zipcode": 68722,
+        "latitude": "+42.911492",
+        "longitude": "-098.847065"
+    },
+    {
+        "county": "BOYD",
+        "city": "LYNCH",
+        "zipcode": 68746,
+        "latitude": "+42.879903",
+        "longitude": "-098.781334"
+    },
+    {
+        "county": "BOYD",
+        "city": "NAPER",
+        "zipcode": 68755,
+        "latitude": "+42.879903",
+        "longitude": "-098.781334"
+    },
+    {
+        "county": "BOYD",
+        "city": "SPENCER",
+        "zipcode": 68777,
+        "latitude": "+42.872702",
+        "longitude": "-098.701552"
+    },
+    {
+        "county": "BROWN",
+        "city": "AINSWORTH",
+        "zipcode": 69210,
+        "latitude": "+42.542734",
+        "longitude": "-099.852364"
+    },
+    {
+        "county": "BROWN",
+        "city": "JOHNSTOWN",
+        "zipcode": 69214,
+        "latitude": "+42.465698",
+        "longitude": "-099.930477"
+    },
+    {
+        "county": "BROWN",
+        "city": "LONG PINE",
+        "zipcode": 69217,
+        "latitude": "+42.533987",
+        "longitude": "-099.702813"
+    },
+    {
+        "county": "BUFFALO",
+        "city": "AMHERST",
+        "zipcode": 68812,
+        "latitude": "+40.916581",
+        "longitude": "-099.292974"
+    },
+    {
+        "county": "BUFFALO",
+        "city": "ELM CREEK",
+        "zipcode": 68836,
+        "latitude": "+40.779914",
+        "longitude": "-099.331426"
+    },
+    {
+        "county": "BUFFALO",
+        "city": "GIBBON",
+        "zipcode": 68840,
+        "latitude": "+40.770884",
+        "longitude": "-098.882818"
+    },
+    {
+        "county": "BUFFALO",
+        "city": "KEARNEY",
+        "zipcode": 68845,
+        "latitude": "+40.751410",
+        "longitude": "-099.129054"
+    },
+    {
+        "county": "BUFFALO",
+        "city": "KEARNEY",
+        "zipcode": 68847,
+        "latitude": "+40.850493",
+        "longitude": "-099.073398"
+    },
+    {
+        "county": "BUFFALO",
+        "city": "KEARNEY",
+        "zipcode": 68848,
+        "latitude": "+40.686053",
+        "longitude": "-099.069318"
+    },
+    {
+        "county": "BUFFALO",
+        "city": "KEARNEY",
+        "zipcode": 68849,
+        "latitude": "+40.849654",
+        "longitude": "-099.074058"
+    },
+    {
+        "county": "BUFFALO",
+        "city": "MILLER",
+        "zipcode": 68858,
+        "latitude": "+40.952708",
+        "longitude": "-099.364921"
+    },
+    {
+        "county": "BUFFALO",
+        "city": "ODESSA",
+        "zipcode": 68861,
+        "latitude": "+40.729960",
+        "longitude": "-099.283748"
+    },
+    {
+        "county": "BUFFALO",
+        "city": "PLEASANTON",
+        "zipcode": 68866,
+        "latitude": "+40.960145",
+        "longitude": "-099.121861"
+    },
+    {
+        "county": "BUFFALO",
+        "city": "RAVENNA",
+        "zipcode": 68869,
+        "latitude": "+40.960075",
+        "longitude": "-098.902302"
+    },
+    {
+        "county": "BUFFALO",
+        "city": "RIVERDALE",
+        "zipcode": 68870,
+        "latitude": "+40.829478",
+        "longitude": "-099.126061"
+    },
+    {
+        "county": "BUFFALO",
+        "city": "SHELTON",
+        "zipcode": 68876,
+        "latitude": "+40.812713",
+        "longitude": "-098.788349"
+    },
+    {
+        "county": "BURT",
+        "city": "CRAIG",
+        "zipcode": 68019,
+        "latitude": "+41.792415",
+        "longitude": "-096.376462"
+    },
+    {
+        "county": "BURT",
+        "city": "DECATUR",
+        "zipcode": 68020,
+        "latitude": "+41.974318",
+        "longitude": "-096.250681"
+    },
+    {
+        "county": "BURT",
+        "city": "LYONS",
+        "zipcode": 68038,
+        "latitude": "+41.951479",
+        "longitude": "-096.450944"
+    },
+    {
+        "county": "BURT",
+        "city": "OAKLAND",
+        "zipcode": 68045,
+        "latitude": "+41.845492",
+        "longitude": "-096.401432"
+    },
+    {
+        "county": "BURT",
+        "city": "TEKAMAH",
+        "zipcode": 68061,
+        "latitude": "+41.808435",
+        "longitude": "-096.255430"
+    },
+    {
+        "county": "BUTLER",
+        "city": "ABIE",
+        "zipcode": 68001,
+        "latitude": "+41.332034",
+        "longitude": "-096.949369"
+    },
+    {
+        "county": "BUTLER",
+        "city": "BELLWOOD",
+        "zipcode": 68624,
+        "latitude": "+41.342556",
+        "longitude": "-097.214802"
+    },
+    {
+        "county": "BUTLER",
+        "city": "BRAINARD",
+        "zipcode": 68626,
+        "latitude": "+41.143956",
+        "longitude": "-096.992319"
+    },
+    {
+        "county": "BUTLER",
+        "city": "BRUNO",
+        "zipcode": 68014,
+        "latitude": "+41.278245",
+        "longitude": "-096.975393"
+    },
+    {
+        "county": "BUTLER",
+        "city": "DAVID CITY",
+        "zipcode": 68632,
+        "latitude": "+41.220715",
+        "longitude": "-097.157229"
+    },
+    {
+        "county": "BUTLER",
+        "city": "DWIGHT",
+        "zipcode": 68635,
+        "latitude": "+41.066016",
+        "longitude": "-097.114365"
+    },
+    {
+        "county": "BUTLER",
+        "city": "LINWOOD",
+        "zipcode": 68036,
+        "latitude": "+41.375639",
+        "longitude": "-096.983695"
+    },
+    {
+        "county": "BUTLER",
+        "city": "RISING CITY",
+        "zipcode": 68658,
+        "latitude": "+41.197120",
+        "longitude": "-097.181952"
+    },
+    {
+        "county": "BUTLER",
+        "city": "SURPRISE",
+        "zipcode": 68667,
+        "latitude": "+41.126818",
+        "longitude": "-097.292178"
+    },
+    {
+        "county": "BUTLER",
+        "city": "ULYSSES",
+        "zipcode": 68669,
+        "latitude": "+41.091760",
+        "longitude": "-097.224683"
+    },
+    {
+        "county": "CASS",
+        "city": "ALVO",
+        "zipcode": 68304,
+        "latitude": "+40.885316",
+        "longitude": "-096.378980"
+    },
+    {
+        "county": "CASS",
+        "city": "AVOCA",
+        "zipcode": 68307,
+        "latitude": "+40.881809",
+        "longitude": "-096.239403"
+    },
+    {
+        "county": "CASS",
+        "city": "CEDAR CREEK",
+        "zipcode": 68016,
+        "latitude": "+41.042487",
+        "longitude": "-096.104359"
+    },
+    {
+        "county": "CASS",
+        "city": "EAGLE",
+        "zipcode": 68347,
+        "latitude": "+40.899936",
+        "longitude": "-096.378887"
+    },
+    {
+        "county": "CASS",
+        "city": "ELMWOOD",
+        "zipcode": 68349,
+        "latitude": "+40.834419",
+        "longitude": "-096.323714"
+    },
+    {
+        "county": "CASS",
+        "city": "GREENWOOD",
+        "zipcode": 68366,
+        "latitude": "+40.905385",
+        "longitude": "-096.290223"
+    },
+    {
+        "county": "CASS",
+        "city": "LOUISVILLE",
+        "zipcode": 68037,
+        "latitude": "+40.979898",
+        "longitude": "-096.084122"
+    },
+    {
+        "county": "CASS",
+        "city": "MANLEY",
+        "zipcode": 68403,
+        "latitude": "+40.923199",
+        "longitude": "-096.171189"
+    },
+    {
+        "county": "CASS",
+        "city": "MURDOCK",
+        "zipcode": 68407,
+        "latitude": "+40.907906",
+        "longitude": "-096.268221"
+    },
+    {
+        "county": "CASS",
+        "city": "MURRAY",
+        "zipcode": 68409,
+        "latitude": "+40.907670",
+        "longitude": "-095.949383"
+    },
+    {
+        "county": "CASS",
+        "city": "NEHAWKA",
+        "zipcode": 68413,
+        "latitude": "+40.856763",
+        "longitude": "-096.015428"
+    },
+    {
+        "county": "CASS",
+        "city": "PLATTSMOUTH",
+        "zipcode": 68048,
+        "latitude": "+40.971961",
+        "longitude": "-096.001244"
+    },
+    {
+        "county": "CASS",
+        "city": "SOUTH BEND",
+        "zipcode": 68058,
+        "latitude": "+41.006712",
+        "longitude": "-096.246207"
+    },
+    {
+        "county": "CASS",
+        "city": "UNION",
+        "zipcode": 68455,
+        "latitude": "+40.831238",
+        "longitude": "-095.903802"
+    },
+    {
+        "county": "CASS",
+        "city": "WEEPING WATER",
+        "zipcode": 68463,
+        "latitude": "+40.884503",
+        "longitude": "-096.146512"
+    },
+    {
+        "county": "CEDAR",
+        "city": "BELDEN",
+        "zipcode": 68717,
+        "latitude": "+42.429295",
+        "longitude": "-097.212986"
+    },
+    {
+        "county": "CEDAR",
+        "city": "COLERIDGE",
+        "zipcode": 68727,
+        "latitude": "+42.530505",
+        "longitude": "-097.260393"
+    },
+    {
+        "county": "CEDAR",
+        "city": "FORDYCE",
+        "zipcode": 68736,
+        "latitude": "+42.728606",
+        "longitude": "-097.319381"
+    },
+    {
+        "county": "CEDAR",
+        "city": "HARTINGTON",
+        "zipcode": 68739,
+        "latitude": "+42.591685",
+        "longitude": "-097.250509"
+    },
+    {
+        "county": "CEDAR",
+        "city": "LAUREL",
+        "zipcode": 68745,
+        "latitude": "+42.475072",
+        "longitude": "-097.142457"
+    },
+    {
+        "county": "CEDAR",
+        "city": "MAGNET",
+        "zipcode": 68749,
+        "latitude": "+42.609687",
+        "longitude": "-097.250378"
+    },
+    {
+        "county": "CEDAR",
+        "city": "RANDOLPH",
+        "zipcode": 68771,
+        "latitude": "+42.438743",
+        "longitude": "-097.319835"
+    },
+    {
+        "county": "CEDAR",
+        "city": "SAINT HELENA",
+        "zipcode": 68774,
+        "latitude": "+42.804591",
+        "longitude": "-097.304691"
+    },
+    {
+        "county": "CEDAR",
+        "city": "WYNOT",
+        "zipcode": 68792,
+        "latitude": "+42.708262",
+        "longitude": "-097.161919"
+    },
+    {
+        "county": "CHASE",
+        "city": "CHAMPION",
+        "zipcode": 69023,
+        "latitude": "+40.524730",
+        "longitude": "-101.697240"
+    },
+    {
+        "county": "CHASE",
+        "city": "ENDERS",
+        "zipcode": 69027,
+        "latitude": "+40.524730",
+        "longitude": "-101.697240"
+    },
+    {
+        "county": "CHASE",
+        "city": "IMPERIAL",
+        "zipcode": 69033,
+        "latitude": "+40.515114",
+        "longitude": "-101.632038"
+    },
+    {
+        "county": "CHASE",
+        "city": "WAUNETA",
+        "zipcode": 69045,
+        "latitude": "+40.416806",
+        "longitude": "-101.370507"
+    },
+    {
+        "county": "CHERRY",
+        "city": "CODY",
+        "zipcode": 69211,
+        "latitude": "+42.542631",
+        "longitude": "-101.126167"
+    },
+    {
+        "county": "CHERRY",
+        "city": "CROOKSTON",
+        "zipcode": 69212,
+        "latitude": "+42.542631",
+        "longitude": "-101.126167"
+    },
+    {
+        "county": "CHERRY",
+        "city": "ELSMERE",
+        "zipcode": 69135,
+        "latitude": "+42.542631",
+        "longitude": "-101.126167"
+    },
+    {
+        "county": "CHERRY",
+        "city": "KILGORE",
+        "zipcode": 69216,
+        "latitude": "+42.542631",
+        "longitude": "-101.126167"
+    },
+    {
+        "county": "CHERRY",
+        "city": "MERRIMAN",
+        "zipcode": 69218,
+        "latitude": "+42.542631",
+        "longitude": "-101.126167"
+    },
+    {
+        "county": "CHERRY",
+        "city": "NENZEL",
+        "zipcode": 69219,
+        "latitude": "+42.542631",
+        "longitude": "-101.126167"
+    },
+    {
+        "county": "CHERRY",
+        "city": "SPARKS",
+        "zipcode": 69220,
+        "latitude": "+42.542631",
+        "longitude": "-101.126167"
+    },
+    {
+        "county": "CHERRY",
+        "city": "VALENTINE",
+        "zipcode": 69201,
+        "latitude": "+42.906836",
+        "longitude": "-100.996747"
+    },
+    {
+        "county": "CHERRY",
+        "city": "WOOD LAKE",
+        "zipcode": 69221,
+        "latitude": "+42.542631",
+        "longitude": "-101.126167"
+    },
+    {
+        "county": "CHEYENNE",
+        "city": "DALTON",
+        "zipcode": 69131,
+        "latitude": "+41.380172",
+        "longitude": "-103.031435"
+    },
+    {
+        "county": "CHEYENNE",
+        "city": "GURLEY",
+        "zipcode": 69141,
+        "latitude": "+41.315041",
+        "longitude": "-102.983464"
+    },
+    {
+        "county": "CHEYENNE",
+        "city": "LODGEPOLE",
+        "zipcode": 69149,
+        "latitude": "+41.223638",
+        "longitude": "-102.794277"
+    },
+    {
+        "county": "CHEYENNE",
+        "city": "POTTER",
+        "zipcode": 69156,
+        "latitude": "+41.212817",
+        "longitude": "-103.247811"
+    },
+    {
+        "county": "CHEYENNE",
+        "city": "SIDNEY",
+        "zipcode": 69160,
+        "latitude": "+41.220549",
+        "longitude": "-102.995925"
+    },
+    {
+        "county": "CHEYENNE",
+        "city": "SIDNEY",
+        "zipcode": 69162,
+        "latitude": "+41.161943",
+        "longitude": "-103.066015"
+    },
+    {
+        "county": "CLAY",
+        "city": "CLAY CENTER",
+        "zipcode": 68933,
+        "latitude": "+40.565856",
+        "longitude": "-098.070907"
+    },
+    {
+        "county": "CLAY",
+        "city": "DEWEESE",
+        "zipcode": 68934,
+        "latitude": "+40.353980",
+        "longitude": "-098.140015"
+    },
+    {
+        "county": "CLAY",
+        "city": "EDGAR",
+        "zipcode": 68935,
+        "latitude": "+40.379736",
+        "longitude": "-097.905641"
+    },
+    {
+        "county": "CLAY",
+        "city": "FAIRFIELD",
+        "zipcode": 68938,
+        "latitude": "+40.395335",
+        "longitude": "-098.053432"
+    },
+    {
+        "county": "CLAY",
+        "city": "GLENVIL",
+        "zipcode": 68941,
+        "latitude": "+40.503252",
+        "longitude": "-098.255757"
+    },
+    {
+        "county": "CLAY",
+        "city": "HARVARD",
+        "zipcode": 68944,
+        "latitude": "+40.620578",
+        "longitude": "-098.096849"
+    },
+    {
+        "county": "CLAY",
+        "city": "INLAND",
+        "zipcode": 68954,
+        "latitude": "+40.524526",
+        "longitude": "-098.051184"
+    },
+    {
+        "county": "CLAY",
+        "city": "ONG",
+        "zipcode": 68452,
+        "latitude": "+40.524526",
+        "longitude": "-098.051184"
+    },
+    {
+        "county": "CLAY",
+        "city": "SARONVILLE",
+        "zipcode": 68975,
+        "latitude": "+40.602128",
+        "longitude": "-097.938811"
+    },
+    {
+        "county": "CLAY",
+        "city": "SUTTON",
+        "zipcode": 68979,
+        "latitude": "+40.507387",
+        "longitude": "-097.855430"
+    },
+    {
+        "county": "CLAY",
+        "city": "TRUMBULL",
+        "zipcode": 68980,
+        "latitude": "+40.639247",
+        "longitude": "-098.251120"
+    },
+    {
+        "county": "COLFAX",
+        "city": "CLARKSON",
+        "zipcode": 68629,
+        "latitude": "+41.663195",
+        "longitude": "-097.137751"
+    },
+    {
+        "county": "COLFAX",
+        "city": "HOWELLS",
+        "zipcode": 68641,
+        "latitude": "+41.661720",
+        "longitude": "-097.103325"
+    },
+    {
+        "county": "COLFAX",
+        "city": "LEIGH",
+        "zipcode": 68643,
+        "latitude": "+41.647114",
+        "longitude": "-097.184984"
+    },
+    {
+        "county": "COLFAX",
+        "city": "ROGERS",
+        "zipcode": 68659,
+        "latitude": "+41.593926",
+        "longitude": "-096.956019"
+    },
+    {
+        "county": "COLFAX",
+        "city": "SCHUYLER",
+        "zipcode": 68661,
+        "latitude": "+41.559744",
+        "longitude": "-097.079635"
+    },
+    {
+        "county": "CUMING",
+        "city": "BANCROFT",
+        "zipcode": 68004,
+        "latitude": "+41.995729",
+        "longitude": "-096.671008"
+    },
+    {
+        "county": "CUMING",
+        "city": "BEEMER",
+        "zipcode": 68716,
+        "latitude": "+41.909399",
+        "longitude": "-096.816403"
+    },
+    {
+        "county": "CUMING",
+        "city": "WEST POINT",
+        "zipcode": 68788,
+        "latitude": "+41.870968",
+        "longitude": "-096.777787"
+    },
+    {
+        "county": "CUMING",
+        "city": "WISNER",
+        "zipcode": 68791,
+        "latitude": "+41.960145",
+        "longitude": "-096.893932"
+    },
+    {
+        "county": "CUSTER",
+        "city": "ANSELMO",
+        "zipcode": 68813,
+        "latitude": "+41.620773",
+        "longitude": "-099.864392"
+    },
+    {
+        "county": "CUSTER",
+        "city": "ANSLEY",
+        "zipcode": 68814,
+        "latitude": "+41.289827",
+        "longitude": "-099.381735"
+    },
+    {
+        "county": "CUSTER",
+        "city": "ARNOLD",
+        "zipcode": 69120,
+        "latitude": "+41.423996",
+        "longitude": "-100.194253"
+    },
+    {
+        "county": "CUSTER",
+        "city": "BERWYN",
+        "zipcode": 68819,
+        "latitude": "+41.352010",
+        "longitude": "-099.502374"
+    },
+    {
+        "county": "CUSTER",
+        "city": "BROKEN BOW",
+        "zipcode": 68822,
+        "latitude": "+41.451119",
+        "longitude": "-099.621491"
+    },
+    {
+        "county": "CUSTER",
+        "city": "CALLAWAY",
+        "zipcode": 68825,
+        "latitude": "+41.290502",
+        "longitude": "-099.921245"
+    },
+    {
+        "county": "CUSTER",
+        "city": "COMSTOCK",
+        "zipcode": 68828,
+        "latitude": "+41.393902",
+        "longitude": "-099.728097"
+    },
+    {
+        "county": "CUSTER",
+        "city": "MASON CITY",
+        "zipcode": 68855,
+        "latitude": "+41.283369",
+        "longitude": "-099.378710"
+    },
+    {
+        "county": "CUSTER",
+        "city": "MERNA",
+        "zipcode": 68856,
+        "latitude": "+41.484951",
+        "longitude": "-099.760782"
+    },
+    {
+        "county": "CUSTER",
+        "city": "OCONTO",
+        "zipcode": 68860,
+        "latitude": "+41.393902",
+        "longitude": "-099.728097"
+    },
+    {
+        "county": "CUSTER",
+        "city": "SARGENT",
+        "zipcode": 68874,
+        "latitude": "+41.645695",
+        "longitude": "-099.371585"
+    },
+    {
+        "county": "CUSTER",
+        "city": "WEISSERT",
+        "zipcode": 68880,
+        "latitude": "+41.393902",
+        "longitude": "-099.728097"
+    },
+    {
+        "county": "CUSTER",
+        "city": "WESTERVILLE",
+        "zipcode": 68881,
+        "latitude": "+41.393902",
+        "longitude": "-099.728097"
+    },
+    {
+        "county": "DAKOTA",
+        "city": "DAKOTA CITY",
+        "zipcode": 68731,
+        "latitude": "+42.381775",
+        "longitude": "-096.565385"
+    },
+    {
+        "county": "DAKOTA",
+        "city": "EMERSON",
+        "zipcode": 68733,
+        "latitude": "+42.361551",
+        "longitude": "-096.639317"
+    },
+    {
+        "county": "DAKOTA",
+        "city": "HOMER",
+        "zipcode": 68030,
+        "latitude": "+42.332188",
+        "longitude": "-096.465599"
+    },
+    {
+        "county": "DAKOTA",
+        "city": "HUBBARD",
+        "zipcode": 68741,
+        "latitude": "+42.357595",
+        "longitude": "-096.603097"
+    },
+    {
+        "county": "DAKOTA",
+        "city": "JACKSON",
+        "zipcode": 68743,
+        "latitude": "+42.452053",
+        "longitude": "-096.631738"
+    },
+    {
+        "county": "DAKOTA",
+        "city": "SOUTH SIOUX CITY",
+        "zipcode": 68776,
+        "latitude": "+42.459711",
+        "longitude": "-096.457068"
+    },
+    {
+        "county": "DAWES",
+        "city": "CHADRON",
+        "zipcode": 69337,
+        "latitude": "+42.774479",
+        "longitude": "-103.138479"
+    },
+    {
+        "county": "DAWES",
+        "city": "CRAWFORD",
+        "zipcode": 69339,
+        "latitude": "+42.611517",
+        "longitude": "-103.303223"
+    },
+    {
+        "county": "DAWES",
+        "city": "MARSLAND",
+        "zipcode": 69354,
+        "latitude": "+42.524433",
+        "longitude": "-103.256440"
+    },
+    {
+        "county": "DAWES",
+        "city": "WHITNEY",
+        "zipcode": 69367,
+        "latitude": "+42.788579",
+        "longitude": "-103.299462"
+    },
+    {
+        "county": "DAWSON",
+        "city": "COZAD",
+        "zipcode": 69130,
+        "latitude": "+40.895003",
+        "longitude": "-099.967448"
+    },
+    {
+        "county": "DAWSON",
+        "city": "EDDYVILLE",
+        "zipcode": 68834,
+        "latitude": "+40.980376",
+        "longitude": "-099.685939"
+    },
+    {
+        "county": "DAWSON",
+        "city": "FARNAM",
+        "zipcode": 69029,
+        "latitude": "+40.740544",
+        "longitude": "-100.173314"
+    },
+    {
+        "county": "DAWSON",
+        "city": "GOTHENBURG",
+        "zipcode": 69138,
+        "latitude": "+40.945256",
+        "longitude": "-100.129125"
+    },
+    {
+        "county": "DAWSON",
+        "city": "LEXINGTON",
+        "zipcode": 68850,
+        "latitude": "+40.873227",
+        "longitude": "-099.718408"
+    },
+    {
+        "county": "DAWSON",
+        "city": "OVERTON",
+        "zipcode": 68863,
+        "latitude": "+40.801246",
+        "longitude": "-099.521933"
+    },
+    {
+        "county": "DAWSON",
+        "city": "SUMNER",
+        "zipcode": 68878,
+        "latitude": "+40.959402",
+        "longitude": "-099.539866"
+    },
+    {
+        "county": "DAWSON",
+        "city": "WILLOW ISLAND",
+        "zipcode": 69171,
+        "latitude": "+40.892469",
+        "longitude": "-100.070257"
+    },
+    {
+        "county": "DEUEL",
+        "city": "BIG SPRINGS",
+        "zipcode": 69122,
+        "latitude": "+41.111961",
+        "longitude": "-102.261262"
+    },
+    {
+        "county": "DEUEL",
+        "city": "CHAPPELL",
+        "zipcode": 69129,
+        "latitude": "+41.112122",
+        "longitude": "-102.421494"
+    },
+    {
+        "county": "DIXON",
+        "city": "ALLEN",
+        "zipcode": 68710,
+        "latitude": "+42.445278",
+        "longitude": "-096.884378"
+    },
+    {
+        "county": "DIXON",
+        "city": "CONCORD",
+        "zipcode": 68728,
+        "latitude": "+42.493637",
+        "longitude": "-096.853429"
+    },
+    {
+        "county": "DIXON",
+        "city": "DIXON",
+        "zipcode": 68732,
+        "latitude": "+42.480297",
+        "longitude": "-096.967598"
+    },
+    {
+        "county": "DIXON",
+        "city": "MASKELL",
+        "zipcode": 68751,
+        "latitude": "+42.481711",
+        "longitude": "-096.926042"
+    },
+    {
+        "county": "DIXON",
+        "city": "NEWCASTLE",
+        "zipcode": 68757,
+        "latitude": "+42.494685",
+        "longitude": "-096.861558"
+    },
+    {
+        "county": "DIXON",
+        "city": "PONCA",
+        "zipcode": 68770,
+        "latitude": "+42.565991",
+        "longitude": "-096.711058"
+    },
+    {
+        "county": "DIXON",
+        "city": "WAKEFIELD",
+        "zipcode": 68784,
+        "latitude": "+42.307797",
+        "longitude": "-096.930286"
+    },
+    {
+        "county": "DIXON",
+        "city": "WATERBURY",
+        "zipcode": 68785,
+        "latitude": "+42.512745",
+        "longitude": "-096.824742"
+    },
+    {
+        "county": "DODGE",
+        "city": "AMES",
+        "zipcode": 68621,
+        "latitude": "+41.499208",
+        "longitude": "-096.624657"
+    },
+    {
+        "county": "DODGE",
+        "city": "DODGE",
+        "zipcode": 68633,
+        "latitude": "+41.593378",
+        "longitude": "-096.675369"
+    },
+    {
+        "county": "DODGE",
+        "city": "FREMONT",
+        "zipcode": 68025,
+        "latitude": "+41.487786",
+        "longitude": "-096.501672"
+    },
+    {
+        "county": "DODGE",
+        "city": "FREMONT",
+        "zipcode": 68026,
+        "latitude": "+41.567907",
+        "longitude": "-096.617443"
+    },
+    {
+        "county": "DODGE",
+        "city": "HOOPER",
+        "zipcode": 68031,
+        "latitude": "+41.621961",
+        "longitude": "-096.549316"
+    },
+    {
+        "county": "DODGE",
+        "city": "NICKERSON",
+        "zipcode": 68044,
+        "latitude": "+41.536902",
+        "longitude": "-096.520741"
+    },
+    {
+        "county": "DODGE",
+        "city": "NORTH BEND",
+        "zipcode": 68649,
+        "latitude": "+41.541480",
+        "longitude": "-096.685416"
+    },
+    {
+        "county": "DODGE",
+        "city": "SCRIBNER",
+        "zipcode": 68057,
+        "latitude": "+41.567768",
+        "longitude": "-096.588672"
+    },
+    {
+        "county": "DODGE",
+        "city": "SNYDER",
+        "zipcode": 68664,
+        "latitude": "+41.648478",
+        "longitude": "-096.787252"
+    },
+    {
+        "county": "DODGE",
+        "city": "UEHLING",
+        "zipcode": 68063,
+        "latitude": "+41.736896",
+        "longitude": "-096.503746"
+    },
+    {
+        "county": "DODGE",
+        "city": "WINSLOW",
+        "zipcode": 68072,
+        "latitude": "+41.610230",
+        "longitude": "-096.503281"
+    },
+    {
+        "county": "DOUGLAS",
+        "city": "BENNINGTON",
+        "zipcode": 68007,
+        "latitude": "+41.357015",
+        "longitude": "-096.203393"
+    },
+    {
+        "county": "DOUGLAS",
+        "city": "BOYS TOWN",
+        "zipcode": 68010,
+        "latitude": "+41.258700",
+        "longitude": "-096.133047"
+    },
+    {
+        "county": "DOUGLAS",
+        "city": "ELKHORN",
+        "zipcode": 68022,
+        "latitude": "+41.288631",
+        "longitude": "-096.238818"
+    },
+    {
+        "county": "DOUGLAS",
+        "city": "OMAHA",
+        "zipcode": 68101,
+        "latitude": "+41.291736",
+        "longitude": "-096.171104"
+    },
+    {
+        "county": "DOUGLAS",
+        "city": "OMAHA",
+        "zipcode": 68102,
+        "latitude": "+41.262003",
+        "longitude": "-095.933564"
+    },
+    {
+        "county": "DOUGLAS",
+        "city": "OMAHA",
+        "zipcode": 68103,
+        "latitude": "+41.291736",
+        "longitude": "-096.171104"
+    },
+    {
+        "county": "DOUGLAS",
+        "city": "OMAHA",
+        "zipcode": 68104,
+        "latitude": "+41.295396",
+        "longitude": "-095.998950"
+    },
+    {
+        "county": "DOUGLAS",
+        "city": "OMAHA",
+        "zipcode": 68105,
+        "latitude": "+41.240468",
+        "longitude": "-095.964396"
+    },
+    {
+        "county": "DOUGLAS",
+        "city": "OMAHA",
+        "zipcode": 68106,
+        "latitude": "+41.239005",
+        "longitude": "-095.999367"
+    },
+    {
+        "county": "DOUGLAS",
+        "city": "OMAHA",
+        "zipcode": 68107,
+        "latitude": "+41.211348",
+        "longitude": "-095.950312"
+    },
+    {
+        "county": "DOUGLAS",
+        "city": "OMAHA",
+        "zipcode": 68108,
+        "latitude": "+41.238140",
+        "longitude": "-095.964985"
+    },
+    {
+        "county": "DOUGLAS",
+        "city": "OMAHA",
+        "zipcode": 68109,
+        "latitude": "+41.291736",
+        "longitude": "-096.171104"
+    },
+    {
+        "county": "DOUGLAS",
+        "city": "OMAHA",
+        "zipcode": 68110,
+        "latitude": "+41.295598",
+        "longitude": "-095.914481"
+    },
+    {
+        "county": "DOUGLAS",
+        "city": "OMAHA",
+        "zipcode": 68111,
+        "latitude": "+41.295395",
+        "longitude": "-095.964477"
+    },
+    {
+        "county": "DOUGLAS",
+        "city": "OMAHA",
+        "zipcode": 68112,
+        "latitude": "+41.353658",
+        "longitude": "-095.950640"
+    },
+    {
+        "county": "DOUGLAS",
+        "city": "OMAHA",
+        "zipcode": 68114,
+        "latitude": "+41.263262",
+        "longitude": "-096.053634"
+    },
+    {
+        "county": "DOUGLAS",
+        "city": "OMAHA",
+        "zipcode": 68116,
+        "latitude": "+41.293997",
+        "longitude": "-096.167398"
+    },
+    {
+        "county": "DOUGLAS",
+        "city": "OMAHA",
+        "zipcode": 68117,
+        "latitude": "+41.207194",
+        "longitude": "-096.001636"
+    },
+    {
+        "county": "DOUGLAS",
+        "city": "OMAHA",
+        "zipcode": 68118,
+        "latitude": "+41.264155",
+        "longitude": "-096.176419"
+    },
+    {
+        "county": "DOUGLAS",
+        "city": "OMAHA",
+        "zipcode": 68119,
+        "latitude": "+41.291736",
+        "longitude": "-096.171104"
+    },
+    {
+        "county": "DOUGLAS",
+        "city": "OMAHA",
+        "zipcode": 68120,
+        "latitude": "+41.291736",
+        "longitude": "-096.171104"
+    },
+    {
+        "county": "DOUGLAS",
+        "city": "OMAHA",
+        "zipcode": 68122,
+        "latitude": "+41.353003",
+        "longitude": "-096.070260"
+    },
+    {
+        "county": "DOUGLAS",
+        "city": "OMAHA",
+        "zipcode": 68124,
+        "latitude": "+41.234670",
+        "longitude": "-096.052206"
+    },
+    {
+        "county": "DOUGLAS",
+        "city": "OMAHA",
+        "zipcode": 68127,
+        "latitude": "+41.207414",
+        "longitude": "-096.061154"
+    },
+    {
+        "county": "DOUGLAS",
+        "city": "OMAHA",
+        "zipcode": 68130,
+        "latitude": "+41.234004",
+        "longitude": "-096.195060"
+    },
+    {
+        "county": "DOUGLAS",
+        "city": "OMAHA",
+        "zipcode": 68131,
+        "latitude": "+41.265611",
+        "longitude": "-095.963832"
+    },
+    {
+        "county": "DOUGLAS",
+        "city": "OMAHA",
+        "zipcode": 68132,
+        "latitude": "+41.264309",
+        "longitude": "-096.000888"
+    },
+    {
+        "county": "DOUGLAS",
+        "city": "OMAHA",
+        "zipcode": 68134,
+        "latitude": "+41.302434",
+        "longitude": "-096.055426"
+    },
+    {
+        "county": "DOUGLAS",
+        "city": "OMAHA",
+        "zipcode": 68135,
+        "latitude": "+41.205998",
+        "longitude": "-096.193498"
+    },
+    {
+        "county": "DOUGLAS",
+        "city": "OMAHA",
+        "zipcode": 68137,
+        "latitude": "+41.207498",
+        "longitude": "-096.114696"
+    },
+    {
+        "county": "DOUGLAS",
+        "city": "OMAHA",
+        "zipcode": 68139,
+        "latitude": "+41.291736",
+        "longitude": "-096.171104"
+    },
+    {
+        "county": "DOUGLAS",
+        "city": "OMAHA",
+        "zipcode": 68142,
+        "latitude": "+41.355850",
+        "longitude": "-096.101846"
+    },
+    {
+        "county": "DOUGLAS",
+        "city": "OMAHA",
+        "zipcode": 68144,
+        "latitude": "+41.233498",
+        "longitude": "-096.118847"
+    },
+    {
+        "county": "DOUGLAS",
+        "city": "OMAHA",
+        "zipcode": 68145,
+        "latitude": "+41.291736",
+        "longitude": "-096.171104"
+    },
+    {
+        "county": "DOUGLAS",
+        "city": "OMAHA",
+        "zipcode": 68152,
+        "latitude": "+41.354544",
+        "longitude": "-095.988532"
+    },
+    {
+        "county": "DOUGLAS",
+        "city": "OMAHA",
+        "zipcode": 68154,
+        "latitude": "+41.286298",
+        "longitude": "-096.117202"
+    },
+    {
+        "county": "DOUGLAS",
+        "city": "OMAHA",
+        "zipcode": 68155,
+        "latitude": "+41.291736",
+        "longitude": "-096.171104"
+    },
+    {
+        "county": "DOUGLAS",
+        "city": "OMAHA",
+        "zipcode": 68164,
+        "latitude": "+41.306689",
+        "longitude": "-096.104795"
+    },
+    {
+        "county": "DOUGLAS",
+        "city": "OMAHA",
+        "zipcode": 68172,
+        "latitude": "+41.291736",
+        "longitude": "-096.171104"
+    },
+    {
+        "county": "DOUGLAS",
+        "city": "OMAHA",
+        "zipcode": 68175,
+        "latitude": "+41.291736",
+        "longitude": "-096.171104"
+    },
+    {
+        "county": "DOUGLAS",
+        "city": "OMAHA",
+        "zipcode": 68176,
+        "latitude": "+41.291736",
+        "longitude": "-096.171104"
+    },
+    {
+        "county": "DOUGLAS",
+        "city": "OMAHA",
+        "zipcode": 68178,
+        "latitude": "+41.291736",
+        "longitude": "-096.171104"
+    },
+    {
+        "county": "DOUGLAS",
+        "city": "OMAHA",
+        "zipcode": 68179,
+        "latitude": "+41.291736",
+        "longitude": "-096.171104"
+    },
+    {
+        "county": "DOUGLAS",
+        "city": "OMAHA",
+        "zipcode": 68180,
+        "latitude": "+41.291736",
+        "longitude": "-096.171104"
+    },
+    {
+        "county": "DOUGLAS",
+        "city": "OMAHA",
+        "zipcode": 68181,
+        "latitude": "+41.291736",
+        "longitude": "-096.171104"
+    },
+    {
+        "county": "DOUGLAS",
+        "city": "OMAHA",
+        "zipcode": 68182,
+        "latitude": "+41.291736",
+        "longitude": "-096.171104"
+    },
+    {
+        "county": "DOUGLAS",
+        "city": "OMAHA",
+        "zipcode": 68183,
+        "latitude": "+41.291736",
+        "longitude": "-096.171104"
+    },
+    {
+        "county": "DOUGLAS",
+        "city": "OMAHA",
+        "zipcode": 68197,
+        "latitude": "",
+        "longitude": ""
+    },
+    {
+        "county": "DOUGLAS",
+        "city": "OMAHA",
+        "zipcode": 68198,
+        "latitude": "+41.291736",
+        "longitude": "-096.171104"
+    },
+    {
+        "county": "DOUGLAS",
+        "city": "VALLEY",
+        "zipcode": 68064,
+        "latitude": "+41.342714",
+        "longitude": "-096.344273"
+    },
+    {
+        "county": "DOUGLAS",
+        "city": "WATERLOO",
+        "zipcode": 68069,
+        "latitude": "+41.248299",
+        "longitude": "-096.305914"
+    },
+    {
+        "county": "DUNDY",
+        "city": "BENKELMAN",
+        "zipcode": 69021,
+        "latitude": "+40.103088",
+        "longitude": "-101.789168"
+    },
+    {
+        "county": "DUNDY",
+        "city": "HAIGLER",
+        "zipcode": 69030,
+        "latitude": "+40.176417",
+        "longitude": "-101.687688"
+    },
+    {
+        "county": "DUNDY",
+        "city": "MAX",
+        "zipcode": 69037,
+        "latitude": "+40.176417",
+        "longitude": "-101.687688"
+    },
+    {
+        "county": "DUNDY",
+        "city": "PARKS",
+        "zipcode": 69041,
+        "latitude": "+40.176417",
+        "longitude": "-101.687688"
+    },
+    {
+        "county": "FILLMORE",
+        "city": "EXETER",
+        "zipcode": 68351,
+        "latitude": "+40.653635",
+        "longitude": "-097.430884"
+    },
+    {
+        "county": "FILLMORE",
+        "city": "FAIRMONT",
+        "zipcode": 68354,
+        "latitude": "+40.641428",
+        "longitude": "-097.559927"
+    },
+    {
+        "county": "FILLMORE",
+        "city": "GENEVA",
+        "zipcode": 68361,
+        "latitude": "+40.527490",
+        "longitude": "-097.600691"
+    },
+    {
+        "county": "FILLMORE",
+        "city": "GRAFTON",
+        "zipcode": 68365,
+        "latitude": "+40.629407",
+        "longitude": "-097.714675"
+    },
+    {
+        "county": "FILLMORE",
+        "city": "MILLIGAN",
+        "zipcode": 68406,
+        "latitude": "+40.501806",
+        "longitude": "-097.385947"
+    },
+    {
+        "county": "FILLMORE",
+        "city": "OHIOWA",
+        "zipcode": 68416,
+        "latitude": "+40.454112",
+        "longitude": "-097.421084"
+    },
+    {
+        "county": "FILLMORE",
+        "city": "SHICKLEY",
+        "zipcode": 68436,
+        "latitude": "+40.416166",
+        "longitude": "-097.722218"
+    },
+    {
+        "county": "FILLMORE",
+        "city": "STRANG",
+        "zipcode": 68444,
+        "latitude": "+40.418921",
+        "longitude": "-097.578418"
+    },
+    {
+        "county": "FRANKLIN",
+        "city": "BLOOMINGTON",
+        "zipcode": 68929,
+        "latitude": "+40.097871",
+        "longitude": "-099.037737"
+    },
+    {
+        "county": "FRANKLIN",
+        "city": "CAMPBELL",
+        "zipcode": 68932,
+        "latitude": "+40.306364",
+        "longitude": "-098.814655"
+    },
+    {
+        "county": "FRANKLIN",
+        "city": "FRANKLIN",
+        "zipcode": 68939,
+        "latitude": "+40.096305",
+        "longitude": "-098.995406"
+    },
+    {
+        "county": "FRANKLIN",
+        "city": "HILDRETH",
+        "zipcode": 68947,
+        "latitude": "+40.337828",
+        "longitude": "-099.043138"
+    },
+    {
+        "county": "FRANKLIN",
+        "city": "NAPONEE",
+        "zipcode": 68960,
+        "latitude": "+40.074785",
+        "longitude": "-099.137325"
+    },
+    {
+        "county": "FRANKLIN",
+        "city": "RIVERTON",
+        "zipcode": 68972,
+        "latitude": "+40.176335",
+        "longitude": "-098.952642"
+    },
+    {
+        "county": "FRANKLIN",
+        "city": "UPLAND",
+        "zipcode": 68981,
+        "latitude": "+40.317430",
+        "longitude": "-098.904418"
+    },
+    {
+        "county": "FRONTIER",
+        "city": "CURTIS",
+        "zipcode": 69025,
+        "latitude": "+40.643861",
+        "longitude": "-100.543990"
+    },
+    {
+        "county": "FRONTIER",
+        "city": "EUSTIS",
+        "zipcode": 69028,
+        "latitude": "+40.564186",
+        "longitude": "-100.009780"
+    },
+    {
+        "county": "FRONTIER",
+        "city": "MAYWOOD",
+        "zipcode": 69038,
+        "latitude": "+40.524809",
+        "longitude": "-100.382030"
+    },
+    {
+        "county": "FRONTIER",
+        "city": "MOOREFIELD",
+        "zipcode": 69039,
+        "latitude": "+40.524809",
+        "longitude": "-100.382030"
+    },
+    {
+        "county": "FRONTIER",
+        "city": "STOCKVILLE",
+        "zipcode": 69042,
+        "latitude": "+40.524809",
+        "longitude": "-100.382030"
+    },
+    {
+        "county": "FURNAS",
+        "city": "ARAPAHOE",
+        "zipcode": 68922,
+        "latitude": "+40.294628",
+        "longitude": "-099.842844"
+    },
+    {
+        "county": "FURNAS",
+        "city": "BEAVER CITY",
+        "zipcode": 68926,
+        "latitude": "+40.137671",
+        "longitude": "-099.826930"
+    },
+    {
+        "county": "FURNAS",
+        "city": "CAMBRIDGE",
+        "zipcode": 69022,
+        "latitude": "+40.269966",
+        "longitude": "-100.171378"
+    },
+    {
+        "county": "FURNAS",
+        "city": "EDISON",
+        "zipcode": 68936,
+        "latitude": "+40.277359",
+        "longitude": "-099.776089"
+    },
+    {
+        "county": "FURNAS",
+        "city": "HENDLEY",
+        "zipcode": 68946,
+        "latitude": "+40.176314",
+        "longitude": "-099.913076"
+    },
+    {
+        "county": "FURNAS",
+        "city": "HOLBROOK",
+        "zipcode": 68948,
+        "latitude": "+40.304641",
+        "longitude": "-099.959503"
+    },
+    {
+        "county": "FURNAS",
+        "city": "OXFORD",
+        "zipcode": 68967,
+        "latitude": "+40.254078",
+        "longitude": "-099.637884"
+    },
+    {
+        "county": "FURNAS",
+        "city": "WILSONVILLE",
+        "zipcode": 69046,
+        "latitude": "+40.112009",
+        "longitude": "-100.106003"
+    },
+    {
+        "county": "GAGE",
+        "city": "ADAMS",
+        "zipcode": 68301,
+        "latitude": "+40.456030",
+        "longitude": "-096.513526"
+    },
+    {
+        "county": "GAGE",
+        "city": "BARNESTON",
+        "zipcode": 68309,
+        "latitude": "+40.041196",
+        "longitude": "-096.596300"
+    },
+    {
+        "county": "GAGE",
+        "city": "BEATRICE",
+        "zipcode": 68310,
+        "latitude": "+40.313364",
+        "longitude": "-096.693082"
+    },
+    {
+        "county": "GAGE",
+        "city": "BLUE SPRINGS",
+        "zipcode": 68318,
+        "latitude": "+40.299157",
+        "longitude": "-096.753208"
+    },
+    {
+        "county": "GAGE",
+        "city": "CLATONIA",
+        "zipcode": 68328,
+        "latitude": "+40.466038",
+        "longitude": "-096.850863"
+    },
+    {
+        "county": "GAGE",
+        "city": "CORTLAND",
+        "zipcode": 68331,
+        "latitude": "+40.505280",
+        "longitude": "-096.752373"
+    },
+    {
+        "county": "GAGE",
+        "city": "FILLEY",
+        "zipcode": 68357,
+        "latitude": "+40.284748",
+        "longitude": "-096.535195"
+    },
+    {
+        "county": "GAGE",
+        "city": "LIBERTY",
+        "zipcode": 68381,
+        "latitude": "+40.262266",
+        "longitude": "-096.689998"
+    },
+    {
+        "county": "GAGE",
+        "city": "ODELL",
+        "zipcode": 68415,
+        "latitude": "+40.050592",
+        "longitude": "-096.801542"
+    },
+    {
+        "county": "GAGE",
+        "city": "PICKRELL",
+        "zipcode": 68422,
+        "latitude": "+40.378063",
+        "longitude": "-096.728578"
+    },
+    {
+        "county": "GAGE",
+        "city": "VIRGINIA",
+        "zipcode": 68458,
+        "latitude": "+40.262266",
+        "longitude": "-096.689998"
+    },
+    {
+        "county": "GAGE",
+        "city": "WYMORE",
+        "zipcode": 68466,
+        "latitude": "+40.122407",
+        "longitude": "-096.666863"
+    },
+    {
+        "county": "GARDEN",
+        "city": "LEWELLEN",
+        "zipcode": 69147,
+        "latitude": "+41.315509",
+        "longitude": "-102.153084"
+    },
+    {
+        "county": "GARDEN",
+        "city": "LISCO",
+        "zipcode": 69148,
+        "latitude": "+41.409518",
+        "longitude": "-102.476752"
+    },
+    {
+        "county": "GARDEN",
+        "city": "OSHKOSH",
+        "zipcode": 69154,
+        "latitude": "+41.377536",
+        "longitude": "-102.385678"
+    },
+    {
+        "county": "GARDEN",
+        "city": "OSHKOSH",
+        "zipcode": 69190,
+        "latitude": "+41.615307",
+        "longitude": "-102.331762"
+    },
+    {
+        "county": "GARFIELD",
+        "city": "BURWELL",
+        "zipcode": 68823,
+        "latitude": "+41.782277",
+        "longitude": "-099.134041"
+    },
+    {
+        "county": "GOSPER",
+        "city": "ELWOOD",
+        "zipcode": 68937,
+        "latitude": "+40.569620",
+        "longitude": "-099.831972"
+    },
+    {
+        "county": "GOSPER",
+        "city": "SMITHFIELD",
+        "zipcode": 68976,
+        "latitude": "+40.539998",
+        "longitude": "-099.830345"
+    },
+    {
+        "county": "GRANT",
+        "city": "ASHBY",
+        "zipcode": 69333,
+        "latitude": "+41.919117",
+        "longitude": "-101.746919"
+    },
+    {
+        "county": "GRANT",
+        "city": "HYANNIS",
+        "zipcode": 69350,
+        "latitude": "+41.959181",
+        "longitude": "-101.751854"
+    },
+    {
+        "county": "GRANT",
+        "city": "WHITMAN",
+        "zipcode": 69366,
+        "latitude": "+41.919117",
+        "longitude": "-101.746919"
+    },
+    {
+        "county": "GREELEY",
+        "city": "GREELEY",
+        "zipcode": 68842,
+        "latitude": "+41.563806",
+        "longitude": "-098.530685"
+    },
+    {
+        "county": "GREELEY",
+        "city": "SCOTIA",
+        "zipcode": 68875,
+        "latitude": "+41.467579",
+        "longitude": "-098.703727"
+    },
+    {
+        "county": "GREELEY",
+        "city": "SPALDING",
+        "zipcode": 68665,
+        "latitude": "+41.688144",
+        "longitude": "-098.363282"
+    },
+    {
+        "county": "GREELEY",
+        "city": "WOLBACH",
+        "zipcode": 68882,
+        "latitude": "+41.397214",
+        "longitude": "-098.431898"
+    },
+    {
+        "county": "HALL",
+        "city": "ALDA",
+        "zipcode": 68810,
+        "latitude": "+40.860721",
+        "longitude": "-098.504787"
+    },
+    {
+        "county": "HALL",
+        "city": "CAIRO",
+        "zipcode": 68824,
+        "latitude": "+40.908706",
+        "longitude": "-098.568185"
+    },
+    {
+        "county": "HALL",
+        "city": "DONIPHAN",
+        "zipcode": 68832,
+        "latitude": "+40.800367",
+        "longitude": "-098.446665"
+    },
+    {
+        "county": "HALL",
+        "city": "GRAND ISLAND",
+        "zipcode": 68801,
+        "latitude": "+40.872270",
+        "longitude": "-098.368698"
+    },
+    {
+        "county": "HALL",
+        "city": "GRAND ISLAND",
+        "zipcode": 68802,
+        "latitude": "+40.872457",
+        "longitude": "-098.502130"
+    },
+    {
+        "county": "HALL",
+        "city": "GRAND ISLAND",
+        "zipcode": 68803,
+        "latitude": "+40.872531",
+        "longitude": "-098.521343"
+    },
+    {
+        "county": "HALL",
+        "city": "WOOD RIVER",
+        "zipcode": 68883,
+        "latitude": "+40.872494",
+        "longitude": "-098.589324"
+    },
+    {
+        "county": "HAMILTON",
+        "city": "AURORA",
+        "zipcode": 68818,
+        "latitude": "+40.850832",
+        "longitude": "-098.054272"
+    },
+    {
+        "county": "HAMILTON",
+        "city": "GILTNER",
+        "zipcode": 68841,
+        "latitude": "+40.763612",
+        "longitude": "-098.158838"
+    },
+    {
+        "county": "HAMILTON",
+        "city": "HAMPTON",
+        "zipcode": 68843,
+        "latitude": "+40.933448",
+        "longitude": "-098.021035"
+    },
+    {
+        "county": "HAMILTON",
+        "city": "HORDVILLE",
+        "zipcode": 68846,
+        "latitude": "+40.962667",
+        "longitude": "-097.991525"
+    },
+    {
+        "county": "HAMILTON",
+        "city": "MARQUETTE",
+        "zipcode": 68854,
+        "latitude": "+41.015778",
+        "longitude": "-098.008324"
+    },
+    {
+        "county": "HAMILTON",
+        "city": "PHILLIPS",
+        "zipcode": 68865,
+        "latitude": "+40.893539",
+        "longitude": "-098.102223"
+    },
+    {
+        "county": "HARLAN",
+        "city": "ALMA",
+        "zipcode": 68920,
+        "latitude": "+40.101761",
+        "longitude": "-099.352846"
+    },
+    {
+        "county": "HARLAN",
+        "city": "ORLEANS",
+        "zipcode": 68966,
+        "latitude": "+40.130072",
+        "longitude": "-099.455110"
+    },
+    {
+        "county": "HARLAN",
+        "city": "RAGAN",
+        "zipcode": 68969,
+        "latitude": "+40.176513",
+        "longitude": "-099.404864"
+    },
+    {
+        "county": "HARLAN",
+        "city": "REPUBLICAN CITY",
+        "zipcode": 68971,
+        "latitude": "+40.093106",
+        "longitude": "-099.246197"
+    },
+    {
+        "county": "HARLAN",
+        "city": "STAMFORD",
+        "zipcode": 68977,
+        "latitude": "+40.176513",
+        "longitude": "-099.404864"
+    },
+    {
+        "county": "HAYES",
+        "city": "HAMLET",
+        "zipcode": 69031,
+        "latitude": "+40.524819",
+        "longitude": "-101.061328"
+    },
+    {
+        "county": "HAYES",
+        "city": "HAYES CENTER",
+        "zipcode": 69032,
+        "latitude": "+40.524819",
+        "longitude": "-101.061328"
+    },
+    {
+        "county": "HITCHCOCK",
+        "city": "CULBERTSON",
+        "zipcode": 69024,
+        "latitude": "+40.231495",
+        "longitude": "-100.835774"
+    },
+    {
+        "county": "HITCHCOCK",
+        "city": "PALISADE",
+        "zipcode": 69040,
+        "latitude": "+40.267333",
+        "longitude": "-101.065001"
+    },
+    {
+        "county": "HITCHCOCK",
+        "city": "STRATTON",
+        "zipcode": 69043,
+        "latitude": "+40.150140",
+        "longitude": "-101.227939"
+    },
+    {
+        "county": "HITCHCOCK",
+        "city": "TRENTON",
+        "zipcode": 69044,
+        "latitude": "+40.176356",
+        "longitude": "-101.010823"
+    },
+    {
+        "county": "HOLT",
+        "city": "AMELIA",
+        "zipcode": 68711,
+        "latitude": "+42.556421",
+        "longitude": "-099.032048"
+    },
+    {
+        "county": "HOLT",
+        "city": "ATKINSON",
+        "zipcode": 68713,
+        "latitude": "+42.533852",
+        "longitude": "-098.975603"
+    },
+    {
+        "county": "HOLT",
+        "city": "CHAMBERS",
+        "zipcode": 68725,
+        "latitude": "+42.201860",
+        "longitude": "-098.749451"
+    },
+    {
+        "county": "HOLT",
+        "city": "EMMET",
+        "zipcode": 68734,
+        "latitude": "+42.492295",
+        "longitude": "-098.778556"
+    },
+    {
+        "county": "HOLT",
+        "city": "EWING",
+        "zipcode": 68735,
+        "latitude": "+42.259207",
+        "longitude": "-098.344313"
+    },
+    {
+        "county": "HOLT",
+        "city": "INMAN",
+        "zipcode": 68742,
+        "latitude": "+42.380604",
+        "longitude": "-098.530866"
+    },
+    {
+        "county": "HOLT",
+        "city": "ONEILL",
+        "zipcode": 68763,
+        "latitude": "+42.370456",
+        "longitude": "-098.665685"
+    },
+    {
+        "county": "HOLT",
+        "city": "PAGE",
+        "zipcode": 68766,
+        "latitude": "+42.492295",
+        "longitude": "-098.778556"
+    },
+    {
+        "county": "HOLT",
+        "city": "STUART",
+        "zipcode": 68780,
+        "latitude": "+42.599715",
+        "longitude": "-099.141514"
+    },
+    {
+        "county": "HOOKER",
+        "city": "MULLEN",
+        "zipcode": 69152,
+        "latitude": "+42.042143",
+        "longitude": "-101.045192"
+    },
+    {
+        "county": "HOWARD",
+        "city": "BOELUS",
+        "zipcode": 68820,
+        "latitude": "+41.119240",
+        "longitude": "-098.681367"
+    },
+    {
+        "county": "HOWARD",
+        "city": "DANNEBROG",
+        "zipcode": 68831,
+        "latitude": "+41.166140",
+        "longitude": "-098.546616"
+    },
+    {
+        "county": "HOWARD",
+        "city": "ELBA",
+        "zipcode": 68835,
+        "latitude": "+41.321780",
+        "longitude": "-098.604437"
+    },
+    {
+        "county": "HOWARD",
+        "city": "FARWELL",
+        "zipcode": 68838,
+        "latitude": "+41.206635",
+        "longitude": "-098.679842"
+    },
+    {
+        "county": "HOWARD",
+        "city": "SAINT LIBORY",
+        "zipcode": 68872,
+        "latitude": "+41.096855",
+        "longitude": "-098.450297"
+    },
+    {
+        "county": "HOWARD",
+        "city": "SAINT PAUL",
+        "zipcode": 68873,
+        "latitude": "+41.232405",
+        "longitude": "-098.503283"
+    },
+    {
+        "county": "JEFFERSON",
+        "city": "DAYKIN",
+        "zipcode": 68338,
+        "latitude": "+40.306449",
+        "longitude": "-097.142390"
+    },
+    {
+        "county": "JEFFERSON",
+        "city": "DILLER",
+        "zipcode": 68342,
+        "latitude": "+40.109484",
+        "longitude": "-097.125705"
+    },
+    {
+        "county": "JEFFERSON",
+        "city": "ENDICOTT",
+        "zipcode": 68350,
+        "latitude": "+40.049596",
+        "longitude": "-097.081254"
+    },
+    {
+        "county": "JEFFERSON",
+        "city": "FAIRBURY",
+        "zipcode": 68352,
+        "latitude": "+40.175641",
+        "longitude": "-097.171023"
+    },
+    {
+        "county": "JEFFERSON",
+        "city": "JANSEN",
+        "zipcode": 68377,
+        "latitude": "+40.232006",
+        "longitude": "-097.028942"
+    },
+    {
+        "county": "JEFFERSON",
+        "city": "PLYMOUTH",
+        "zipcode": 68424,
+        "latitude": "+40.291721",
+        "longitude": "-097.029005"
+    },
+    {
+        "county": "JEFFERSON",
+        "city": "STEELE CITY",
+        "zipcode": 68440,
+        "latitude": "+40.152861",
+        "longitude": "-097.126435"
+    },
+    {
+        "county": "JOHNSON",
+        "city": "COOK",
+        "zipcode": 68329,
+        "latitude": "+40.510888",
+        "longitude": "-096.161196"
+    },
+    {
+        "county": "JOHNSON",
+        "city": "CRAB ORCHARD",
+        "zipcode": 68332,
+        "latitude": "+40.392595",
+        "longitude": "-096.264780"
+    },
+    {
+        "county": "JOHNSON",
+        "city": "ELK CREEK",
+        "zipcode": 68348,
+        "latitude": "+40.287778",
+        "longitude": "-096.127480"
+    },
+    {
+        "county": "JOHNSON",
+        "city": "STERLING",
+        "zipcode": 68443,
+        "latitude": "+40.463451",
+        "longitude": "-096.378249"
+    },
+    {
+        "county": "JOHNSON",
+        "city": "TECUMSEH",
+        "zipcode": 68450,
+        "latitude": "+40.410949",
+        "longitude": "-096.280341"
+    },
+    {
+        "county": "KEARNEY",
+        "city": "AXTELL",
+        "zipcode": 68924,
+        "latitude": "+40.503390",
+        "longitude": "-099.091654"
+    },
+    {
+        "county": "KEARNEY",
+        "city": "HEARTWELL",
+        "zipcode": 68945,
+        "latitude": "+40.554280",
+        "longitude": "-098.790623"
+    },
+    {
+        "county": "KEARNEY",
+        "city": "MINDEN",
+        "zipcode": 68959,
+        "latitude": "+40.502515",
+        "longitude": "-098.907731"
+    },
+    {
+        "county": "KEARNEY",
+        "city": "NORMAN",
+        "zipcode": 68963,
+        "latitude": "+40.478879",
+        "longitude": "-098.792699"
+    },
+    {
+        "county": "KEARNEY",
+        "city": "WILCOX",
+        "zipcode": 68982,
+        "latitude": "+40.378795",
+        "longitude": "-099.152181"
+    },
+    {
+        "county": "KEITH",
+        "city": "BRULE",
+        "zipcode": 69127,
+        "latitude": "+41.135819",
+        "longitude": "-101.921709"
+    },
+    {
+        "county": "KEITH",
+        "city": "KEYSTONE",
+        "zipcode": 69144,
+        "latitude": "+41.293525",
+        "longitude": "-101.604569"
+    },
+    {
+        "county": "KEITH",
+        "city": "LEMOYNE",
+        "zipcode": 69146,
+        "latitude": "+41.323607",
+        "longitude": "-101.767329"
+    },
+    {
+        "county": "KEITH",
+        "city": "OGALLALA",
+        "zipcode": 69153,
+        "latitude": "+41.131676",
+        "longitude": "-101.663033"
+    },
+    {
+        "county": "KEITH",
+        "city": "PAXTON",
+        "zipcode": 69155,
+        "latitude": "+41.199097",
+        "longitude": "-101.423214"
+    },
+    {
+        "county": "KEYA PAHA",
+        "city": "MILLS",
+        "zipcode": 68753,
+        "latitude": "+42.858168",
+        "longitude": "-099.726221"
+    },
+    {
+        "county": "KEYA PAHA",
+        "city": "NEWPORT",
+        "zipcode": 68759,
+        "latitude": "+42.858168",
+        "longitude": "-099.726221"
+    },
+    {
+        "county": "KEYA PAHA",
+        "city": "SPRINGVIEW",
+        "zipcode": 68778,
+        "latitude": "+42.836424",
+        "longitude": "-099.747046"
+    },
+    {
+        "county": "KIMBALL",
+        "city": "BUSHNELL",
+        "zipcode": 69128,
+        "latitude": "+41.232626",
+        "longitude": "-103.891757"
+    },
+    {
+        "county": "KIMBALL",
+        "city": "DIX",
+        "zipcode": 69133,
+        "latitude": "+41.198010",
+        "longitude": "-103.714501"
+    },
+    {
+        "county": "KIMBALL",
+        "city": "KIMBALL",
+        "zipcode": 69145,
+        "latitude": "+41.206972",
+        "longitude": "-103.769557"
+    },
+    {
+        "county": "KNOX",
+        "city": "BLOOMFIELD",
+        "zipcode": 68718,
+        "latitude": "+42.628731",
+        "longitude": "-097.659606"
+    },
+    {
+        "county": "KNOX",
+        "city": "CENTER",
+        "zipcode": 68724,
+        "latitude": "+42.597304",
+        "longitude": "-097.866951"
+    },
+    {
+        "county": "KNOX",
+        "city": "CREIGHTON",
+        "zipcode": 68729,
+        "latitude": "+42.490856",
+        "longitude": "-097.919351"
+    },
+    {
+        "county": "KNOX",
+        "city": "CROFTON",
+        "zipcode": 68730,
+        "latitude": "+42.758387",
+        "longitude": "-097.603391"
+    },
+    {
+        "county": "KNOX",
+        "city": "NIOBRARA",
+        "zipcode": 68760,
+        "latitude": "+42.739127",
+        "longitude": "-097.924783"
+    },
+    {
+        "county": "KNOX",
+        "city": "VERDIGRE",
+        "zipcode": 68783,
+        "latitude": "+42.624821",
+        "longitude": "-098.129817"
+    },
+    {
+        "county": "KNOX",
+        "city": "WAUSA",
+        "zipcode": 68786,
+        "latitude": "+42.518247",
+        "longitude": "-097.608966"
+    },
+    {
+        "county": "KNOX",
+        "city": "WINNETOON",
+        "zipcode": 68789,
+        "latitude": "+42.533387",
+        "longitude": "-098.004988"
+    },
+    {
+        "county": "LANCASTER",
+        "city": "BENNET",
+        "zipcode": 68317,
+        "latitude": "+40.664491",
+        "longitude": "-096.518083"
+    },
+    {
+        "county": "LANCASTER",
+        "city": "DAVEY",
+        "zipcode": 68336,
+        "latitude": "+40.955071",
+        "longitude": "-096.699697"
+    },
+    {
+        "county": "LANCASTER",
+        "city": "DENTON",
+        "zipcode": 68339,
+        "latitude": "+40.719464",
+        "longitude": "-096.850518"
+    },
+    {
+        "county": "LANCASTER",
+        "city": "FIRTH",
+        "zipcode": 68358,
+        "latitude": "+40.560657",
+        "longitude": "-096.583930"
+    },
+    {
+        "county": "LANCASTER",
+        "city": "HALLAM",
+        "zipcode": 68368,
+        "latitude": "+40.573856",
+        "longitude": "-096.799820"
+    },
+    {
+        "county": "LANCASTER",
+        "city": "HICKMAN",
+        "zipcode": 68372,
+        "latitude": "+40.611890",
+        "longitude": "-096.624680"
+    },
+    {
+        "county": "LANCASTER",
+        "city": "LINCOLN",
+        "zipcode": 68501,
+        "latitude": "+40.865142",
+        "longitude": "-096.823133"
+    },
+    {
+        "county": "LANCASTER",
+        "city": "LINCOLN",
+        "zipcode": 68502,
+        "latitude": "+40.813101",
+        "longitude": "-096.683702"
+    },
+    {
+        "county": "LANCASTER",
+        "city": "LINCOLN",
+        "zipcode": 68503,
+        "latitude": "+40.845050",
+        "longitude": "-096.698646"
+    },
+    {
+        "county": "LANCASTER",
+        "city": "LINCOLN",
+        "zipcode": 68504,
+        "latitude": "+40.853200",
+        "longitude": "-096.662454"
+    },
+    {
+        "county": "LANCASTER",
+        "city": "LINCOLN",
+        "zipcode": 68505,
+        "latitude": "+40.900275",
+        "longitude": "-096.618058"
+    },
+    {
+        "county": "LANCASTER",
+        "city": "LINCOLN",
+        "zipcode": 68506,
+        "latitude": "+40.804064",
+        "longitude": "-096.687195"
+    },
+    {
+        "county": "LANCASTER",
+        "city": "LINCOLN",
+        "zipcode": 68507,
+        "latitude": "+40.889449",
+        "longitude": "-096.652274"
+    },
+    {
+        "county": "LANCASTER",
+        "city": "LINCOLN",
+        "zipcode": 68508,
+        "latitude": "+40.798100",
+        "longitude": "-096.624692"
+    },
+    {
+        "county": "LANCASTER",
+        "city": "LINCOLN",
+        "zipcode": 68509,
+        "latitude": "+40.784451",
+        "longitude": "-096.688799"
+    },
+    {
+        "county": "LANCASTER",
+        "city": "LINCOLN",
+        "zipcode": 68510,
+        "latitude": "+40.835450",
+        "longitude": "-096.630741"
+    },
+    {
+        "county": "LANCASTER",
+        "city": "LINCOLN",
+        "zipcode": 68512,
+        "latitude": "+40.785689",
+        "longitude": "-096.686643"
+    },
+    {
+        "county": "LANCASTER",
+        "city": "LINCOLN",
+        "zipcode": 68514,
+        "latitude": "+40.940125",
+        "longitude": "-096.662138"
+    },
+    {
+        "county": "LANCASTER",
+        "city": "LINCOLN",
+        "zipcode": 68516,
+        "latitude": "+40.777556",
+        "longitude": "-096.661769"
+    },
+    {
+        "county": "LANCASTER",
+        "city": "LINCOLN",
+        "zipcode": 68517,
+        "latitude": "+40.939903",
+        "longitude": "-096.609721"
+    },
+    {
+        "county": "LANCASTER",
+        "city": "LINCOLN",
+        "zipcode": 68520,
+        "latitude": "+40.784200",
+        "longitude": "-096.534981"
+    },
+    {
+        "county": "LANCASTER",
+        "city": "LINCOLN",
+        "zipcode": 68521,
+        "latitude": "+40.863301",
+        "longitude": "-096.718994"
+    },
+    {
+        "county": "LANCASTER",
+        "city": "LINCOLN",
+        "zipcode": 68522,
+        "latitude": "+40.784560",
+        "longitude": "-096.750075"
+    },
+    {
+        "county": "LANCASTER",
+        "city": "LINCOLN",
+        "zipcode": 68523,
+        "latitude": "+40.735793",
+        "longitude": "-096.763247"
+    },
+    {
+        "county": "LANCASTER",
+        "city": "LINCOLN",
+        "zipcode": 68524,
+        "latitude": "+40.879252",
+        "longitude": "-096.815309"
+    },
+    {
+        "county": "LANCASTER",
+        "city": "LINCOLN",
+        "zipcode": 68526,
+        "latitude": "+40.743346",
+        "longitude": "-096.582442"
+    },
+    {
+        "county": "LANCASTER",
+        "city": "LINCOLN",
+        "zipcode": 68527,
+        "latitude": "+40.855121",
+        "longitude": "-096.525245"
+    },
+    {
+        "county": "LANCASTER",
+        "city": "LINCOLN",
+        "zipcode": 68528,
+        "latitude": "+40.855107",
+        "longitude": "-096.813579"
+    },
+    {
+        "county": "LANCASTER",
+        "city": "LINCOLN",
+        "zipcode": 68529,
+        "latitude": "+40.879752",
+        "longitude": "-096.779796"
+    },
+    {
+        "county": "LANCASTER",
+        "city": "LINCOLN",
+        "zipcode": 68531,
+        "latitude": "+40.900801",
+        "longitude": "-096.720143"
+    },
+    {
+        "county": "LANCASTER",
+        "city": "LINCOLN",
+        "zipcode": 68532,
+        "latitude": "+40.777663",
+        "longitude": "-096.853616"
+    },
+    {
+        "county": "LANCASTER",
+        "city": "LINCOLN",
+        "zipcode": 68542,
+        "latitude": "+40.784451",
+        "longitude": "-096.688799"
+    },
+    {
+        "county": "LANCASTER",
+        "city": "LINCOLN",
+        "zipcode": 68583,
+        "latitude": "+40.784451",
+        "longitude": "-096.688799"
+    },
+    {
+        "county": "LANCASTER",
+        "city": "LINCOLN",
+        "zipcode": 68588,
+        "latitude": "+40.820645",
+        "longitude": "-096.692843"
+    },
+    {
+        "county": "LANCASTER",
+        "city": "MALCOLM",
+        "zipcode": 68402,
+        "latitude": "+40.908246",
+        "longitude": "-096.813503"
+    },
+    {
+        "county": "LANCASTER",
+        "city": "MARTELL",
+        "zipcode": 68404,
+        "latitude": "+40.617579",
+        "longitude": "-096.669936"
+    },
+    {
+        "county": "LANCASTER",
+        "city": "PANAMA",
+        "zipcode": 68419,
+        "latitude": "+40.599807",
+        "longitude": "-096.512915"
+    },
+    {
+        "county": "LANCASTER",
+        "city": "RAYMOND",
+        "zipcode": 68428,
+        "latitude": "+40.934176",
+        "longitude": "-096.786573"
+    },
+    {
+        "county": "LANCASTER",
+        "city": "ROCA",
+        "zipcode": 68430,
+        "latitude": "+40.661609",
+        "longitude": "-096.664859"
+    },
+    {
+        "county": "LANCASTER",
+        "city": "SPRAGUE",
+        "zipcode": 68438,
+        "latitude": "+40.626661",
+        "longitude": "-096.745622"
+    },
+    {
+        "county": "LANCASTER",
+        "city": "WALTON",
+        "zipcode": 68461,
+        "latitude": "+40.762763",
+        "longitude": "-096.515859"
+    },
+    {
+        "county": "LANCASTER",
+        "city": "WAVERLY",
+        "zipcode": 68462,
+        "latitude": "+40.935601",
+        "longitude": "-096.543431"
+    },
+    {
+        "county": "LINCOLN",
+        "city": "BRADY",
+        "zipcode": 69123,
+        "latitude": "+41.049046",
+        "longitude": "-100.391826"
+    },
+    {
+        "county": "LINCOLN",
+        "city": "DICKENS",
+        "zipcode": 69132,
+        "latitude": "+41.046447",
+        "longitude": "-100.746912"
+    },
+    {
+        "county": "LINCOLN",
+        "city": "HERSHEY",
+        "zipcode": 69143,
+        "latitude": "+40.989930",
+        "longitude": "-100.963080"
+    },
+    {
+        "county": "LINCOLN",
+        "city": "MAXWELL",
+        "zipcode": 69151,
+        "latitude": "+41.096752",
+        "longitude": "-100.583269"
+    },
+    {
+        "county": "LINCOLN",
+        "city": "NORTH PLATTE",
+        "zipcode": 69101,
+        "latitude": "+41.102555",
+        "longitude": "-100.749070"
+    },
+    {
+        "county": "LINCOLN",
+        "city": "NORTH PLATTE",
+        "zipcode": 69103,
+        "latitude": "+41.046447",
+        "longitude": "-100.746912"
+    },
+    {
+        "county": "LINCOLN",
+        "city": "SUTHERLAND",
+        "zipcode": 69165,
+        "latitude": "+41.159700",
+        "longitude": "-101.136616"
+    },
+    {
+        "county": "LINCOLN",
+        "city": "WALLACE",
+        "zipcode": 69169,
+        "latitude": "+41.046447",
+        "longitude": "-100.746912"
+    },
+    {
+        "county": "LINCOLN",
+        "city": "WELLFLEET",
+        "zipcode": 69170,
+        "latitude": "+40.762172",
+        "longitude": "-100.760429"
+    },
+    {
+        "county": "LOGAN",
+        "city": "STAPLETON",
+        "zipcode": 69163,
+        "latitude": "+41.480166",
+        "longitude": "-100.512463"
+    },
+    {
+        "county": "LOUP",
+        "city": "TAYLOR",
+        "zipcode": 68879,
+        "latitude": "+41.914060",
+        "longitude": "-099.454335"
+    },
+    {
+        "county": "MADISON",
+        "city": "BATTLE CREEK",
+        "zipcode": 68715,
+        "latitude": "+41.976904",
+        "longitude": "-097.568855"
+    },
+    {
+        "county": "MADISON",
+        "city": "MADISON",
+        "zipcode": 68748,
+        "latitude": "+41.881046",
+        "longitude": "-097.484480"
+    },
+    {
+        "county": "MADISON",
+        "city": "MEADOW GROVE",
+        "zipcode": 68752,
+        "latitude": "+42.034395",
+        "longitude": "-097.782829"
+    },
+    {
+        "county": "MADISON",
+        "city": "NEWMAN GROVE",
+        "zipcode": 68758,
+        "latitude": "+41.747884",
+        "longitude": "-097.777198"
+    },
+    {
+        "county": "MADISON",
+        "city": "NORFOLK",
+        "zipcode": 68701,
+        "latitude": "+41.996410",
+        "longitude": "-097.601189"
+    },
+    {
+        "county": "MADISON",
+        "city": "NORFOLK",
+        "zipcode": 68702,
+        "latitude": "+41.916476",
+        "longitude": "-097.601348"
+    },
+    {
+        "county": "MADISON",
+        "city": "TILDEN",
+        "zipcode": 68781,
+        "latitude": "+42.042732",
+        "longitude": "-097.829855"
+    },
+    {
+        "county": "MCPHERSON",
+        "city": "TRYON",
+        "zipcode": 69167,
+        "latitude": "+41.568548",
+        "longitude": "-101.059489"
+    },
+    {
+        "county": "MERRICK",
+        "city": "ARCHER",
+        "zipcode": 68816,
+        "latitude": "+41.140845",
+        "longitude": "-098.135590"
+    },
+    {
+        "county": "MERRICK",
+        "city": "CENTRAL CITY",
+        "zipcode": 68826,
+        "latitude": "+41.162876",
+        "longitude": "-098.010548"
+    },
+    {
+        "county": "MERRICK",
+        "city": "CHAPMAN",
+        "zipcode": 68827,
+        "latitude": "+41.046263",
+        "longitude": "-098.188441"
+    },
+    {
+        "county": "MERRICK",
+        "city": "CLARKS",
+        "zipcode": 68628,
+        "latitude": "+41.202853",
+        "longitude": "-097.809370"
+    },
+    {
+        "county": "MERRICK",
+        "city": "PALMER",
+        "zipcode": 68864,
+        "latitude": "+41.244701",
+        "longitude": "-098.182952"
+    },
+    {
+        "county": "MERRICK",
+        "city": "SILVER CREEK",
+        "zipcode": 68663,
+        "latitude": "+41.303844",
+        "longitude": "-097.723453"
+    },
+    {
+        "county": "MORRILL",
+        "city": "ANGORA",
+        "zipcode": 69331,
+        "latitude": "+41.721468",
+        "longitude": "-103.003835"
+    },
+    {
+        "county": "MORRILL",
+        "city": "BAYARD",
+        "zipcode": 69334,
+        "latitude": "+41.760711",
+        "longitude": "-103.327050"
+    },
+    {
+        "county": "MORRILL",
+        "city": "BRIDGEPORT",
+        "zipcode": 69336,
+        "latitude": "+41.667733",
+        "longitude": "-103.102335"
+    },
+    {
+        "county": "MORRILL",
+        "city": "BROADWATER",
+        "zipcode": 69125,
+        "latitude": "+41.598622",
+        "longitude": "-102.852752"
+    },
+    {
+        "county": "NANCE",
+        "city": "BELGRADE",
+        "zipcode": 68623,
+        "latitude": "+41.471865",
+        "longitude": "-098.068163"
+    },
+    {
+        "county": "NANCE",
+        "city": "FULLERTON",
+        "zipcode": 68638,
+        "latitude": "+41.414475",
+        "longitude": "-097.899889"
+    },
+    {
+        "county": "NANCE",
+        "city": "GENOA",
+        "zipcode": 68640,
+        "latitude": "+41.445863",
+        "longitude": "-097.732584"
+    },
+    {
+        "county": "NEMAHA",
+        "city": "AUBURN",
+        "zipcode": 68305,
+        "latitude": "+40.428801",
+        "longitude": "-095.843077"
+    },
+    {
+        "county": "NEMAHA",
+        "city": "BROCK",
+        "zipcode": 68320,
+        "latitude": "+40.479009",
+        "longitude": "-095.960638"
+    },
+    {
+        "county": "NEMAHA",
+        "city": "BROWNVILLE",
+        "zipcode": 68321,
+        "latitude": "+40.397541",
+        "longitude": "-095.663987"
+    },
+    {
+        "county": "NEMAHA",
+        "city": "JOHNSON",
+        "zipcode": 68378,
+        "latitude": "+40.345196",
+        "longitude": "-096.000386"
+    },
+    {
+        "county": "NEMAHA",
+        "city": "NEMAHA",
+        "zipcode": 68414,
+        "latitude": "+40.339435",
+        "longitude": "-095.676576"
+    },
+    {
+        "county": "NEMAHA",
+        "city": "PERU",
+        "zipcode": 68421,
+        "latitude": "+40.477743",
+        "longitude": "-095.729589"
+    },
+    {
+        "county": "NUCKOLLS",
+        "city": "HARDY",
+        "zipcode": 68943,
+        "latitude": "+40.074907",
+        "longitude": "-097.900651"
+    },
+    {
+        "county": "NUCKOLLS",
+        "city": "LAWRENCE",
+        "zipcode": 68957,
+        "latitude": "+40.291047",
+        "longitude": "-098.259540"
+    },
+    {
+        "county": "NUCKOLLS",
+        "city": "NELSON",
+        "zipcode": 68961,
+        "latitude": "+40.201050",
+        "longitude": "-098.068371"
+    },
+    {
+        "county": "NUCKOLLS",
+        "city": "OAK",
+        "zipcode": 68964,
+        "latitude": "+40.237813",
+        "longitude": "-097.903047"
+    },
+    {
+        "county": "NUCKOLLS",
+        "city": "RUSKIN",
+        "zipcode": 68974,
+        "latitude": "+40.152394",
+        "longitude": "-097.914680"
+    },
+    {
+        "county": "NUCKOLLS",
+        "city": "SUPERIOR",
+        "zipcode": 68978,
+        "latitude": "+40.036673",
+        "longitude": "-098.069593"
+    },
+    {
+        "county": "OTOE",
+        "city": "BURR",
+        "zipcode": 68324,
+        "latitude": "+40.536353",
+        "longitude": "-096.299662"
+    },
+    {
+        "county": "OTOE",
+        "city": "DOUGLAS",
+        "zipcode": 68344,
+        "latitude": "+40.569758",
+        "longitude": "-096.422380"
+    },
+    {
+        "county": "OTOE",
+        "city": "DUNBAR",
+        "zipcode": 68346,
+        "latitude": "+40.634055",
+        "longitude": "-096.030125"
+    },
+    {
+        "county": "OTOE",
+        "city": "LORTON",
+        "zipcode": 68382,
+        "latitude": "+40.653589",
+        "longitude": "-096.086904"
+    },
+    {
+        "county": "OTOE",
+        "city": "NEBRASKA CITY",
+        "zipcode": 68410,
+        "latitude": "+40.707742",
+        "longitude": "-095.907718"
+    },
+    {
+        "county": "OTOE",
+        "city": "OTOE",
+        "zipcode": 68417,
+        "latitude": "+40.750553",
+        "longitude": "-096.080921"
+    },
+    {
+        "county": "OTOE",
+        "city": "PALMYRA",
+        "zipcode": 68418,
+        "latitude": "+40.705559",
+        "longitude": "-096.397545"
+    },
+    {
+        "county": "OTOE",
+        "city": "SYRACUSE",
+        "zipcode": 68446,
+        "latitude": "+40.645896",
+        "longitude": "-096.169603"
+    },
+    {
+        "county": "OTOE",
+        "city": "TALMAGE",
+        "zipcode": 68448,
+        "latitude": "+40.557110",
+        "longitude": "-095.998514"
+    },
+    {
+        "county": "OTOE",
+        "city": "UNADILLA",
+        "zipcode": 68454,
+        "latitude": "+40.684941",
+        "longitude": "-096.270409"
+    },
+    {
+        "county": "PAWNEE",
+        "city": "BURCHARD",
+        "zipcode": 68323,
+        "latitude": "+40.146335",
+        "longitude": "-096.348151"
+    },
+    {
+        "county": "PAWNEE",
+        "city": "DU BOIS",
+        "zipcode": 68345,
+        "latitude": "+40.037725",
+        "longitude": "-096.069797"
+    },
+    {
+        "county": "PAWNEE",
+        "city": "LEWISTON",
+        "zipcode": 68380,
+        "latitude": "+40.195573",
+        "longitude": "-096.379188"
+    },
+    {
+        "county": "PAWNEE",
+        "city": "PAWNEE CITY",
+        "zipcode": 68420,
+        "latitude": "+40.111565",
+        "longitude": "-096.151758"
+    },
+    {
+        "county": "PAWNEE",
+        "city": "STEINAUER",
+        "zipcode": 68441,
+        "latitude": "+40.207313",
+        "longitude": "-096.231879"
+    },
+    {
+        "county": "PAWNEE",
+        "city": "TABLE ROCK",
+        "zipcode": 68447,
+        "latitude": "+40.179541",
+        "longitude": "-096.097374"
+    },
+    {
+        "county": "PERKINS",
+        "city": "ELSIE",
+        "zipcode": 69134,
+        "latitude": "+40.850739",
+        "longitude": "-101.649075"
+    },
+    {
+        "county": "PERKINS",
+        "city": "GRANT",
+        "zipcode": 69140,
+        "latitude": "+40.846046",
+        "longitude": "-101.725800"
+    },
+    {
+        "county": "PERKINS",
+        "city": "MADRID",
+        "zipcode": 69150,
+        "latitude": "+40.850739",
+        "longitude": "-101.649075"
+    },
+    {
+        "county": "PERKINS",
+        "city": "VENANGO",
+        "zipcode": 69168,
+        "latitude": "+40.850739",
+        "longitude": "-101.649075"
+    },
+    {
+        "county": "PHELPS",
+        "city": "ATLANTA",
+        "zipcode": 68923,
+        "latitude": "+40.410446",
+        "longitude": "-099.405055"
+    },
+    {
+        "county": "PHELPS",
+        "city": "BERTRAND",
+        "zipcode": 68927,
+        "latitude": "+40.525235",
+        "longitude": "-099.634275"
+    },
+    {
+        "county": "PHELPS",
+        "city": "FUNK",
+        "zipcode": 68940,
+        "latitude": "+40.464046",
+        "longitude": "-099.251676"
+    },
+    {
+        "county": "PHELPS",
+        "city": "HOLDREGE",
+        "zipcode": 68949,
+        "latitude": "+40.429207",
+        "longitude": "-099.325955"
+    },
+    {
+        "county": "PHELPS",
+        "city": "LOOMIS",
+        "zipcode": 68958,
+        "latitude": "+40.477867",
+        "longitude": "-099.508075"
+    },
+    {
+        "county": "PIERCE",
+        "city": "FOSTER",
+        "zipcode": 68737,
+        "latitude": "+42.264356",
+        "longitude": "-097.601337"
+    },
+    {
+        "county": "PIERCE",
+        "city": "HADAR",
+        "zipcode": 68738,
+        "latitude": "+42.264356",
+        "longitude": "-097.601337"
+    },
+    {
+        "county": "PIERCE",
+        "city": "MCLEAN",
+        "zipcode": 68747,
+        "latitude": "+42.438634",
+        "longitude": "-097.475151"
+    },
+    {
+        "county": "PIERCE",
+        "city": "OSMOND",
+        "zipcode": 68765,
+        "latitude": "+42.360661",
+        "longitude": "-097.598511"
+    },
+    {
+        "county": "PIERCE",
+        "city": "PIERCE",
+        "zipcode": 68767,
+        "latitude": "+42.224218",
+        "longitude": "-097.581551"
+    },
+    {
+        "county": "PIERCE",
+        "city": "PLAINVIEW",
+        "zipcode": 68769,
+        "latitude": "+42.353780",
+        "longitude": "-097.788065"
+    },
+    {
+        "county": "PLATTE",
+        "city": "COLUMBUS",
+        "zipcode": 68601,
+        "latitude": "+41.542962",
+        "longitude": "-097.376314"
+    },
+    {
+        "county": "PLATTE",
+        "city": "COLUMBUS",
+        "zipcode": 68602,
+        "latitude": "+41.538080",
+        "longitude": "-097.541795"
+    },
+    {
+        "county": "PLATTE",
+        "city": "CRESTON",
+        "zipcode": 68631,
+        "latitude": "+41.718708",
+        "longitude": "-097.372671"
+    },
+    {
+        "county": "PLATTE",
+        "city": "DUNCAN",
+        "zipcode": 68634,
+        "latitude": "+41.393146",
+        "longitude": "-097.595435"
+    },
+    {
+        "county": "PLATTE",
+        "city": "HUMPHREY",
+        "zipcode": 68642,
+        "latitude": "+41.690226",
+        "longitude": "-097.487407"
+    },
+    {
+        "county": "PLATTE",
+        "city": "LINDSAY",
+        "zipcode": 68644,
+        "latitude": "+41.701476",
+        "longitude": "-097.694247"
+    },
+    {
+        "county": "PLATTE",
+        "city": "MONROE",
+        "zipcode": 68647,
+        "latitude": "+41.465573",
+        "longitude": "-097.625525"
+    },
+    {
+        "county": "PLATTE",
+        "city": "PLATTE CENTER",
+        "zipcode": 68653,
+        "latitude": "+41.537151",
+        "longitude": "-097.484880"
+    },
+    {
+        "county": "POLK",
+        "city": "OSCEOLA",
+        "zipcode": 68651,
+        "latitude": "+41.170633",
+        "longitude": "-097.570000"
+    },
+    {
+        "county": "POLK",
+        "city": "POLK",
+        "zipcode": 68654,
+        "latitude": "+41.075237",
+        "longitude": "-097.787070"
+    },
+    {
+        "county": "POLK",
+        "city": "SHELBY",
+        "zipcode": 68662,
+        "latitude": "+41.154703",
+        "longitude": "-097.519253"
+    },
+    {
+        "county": "POLK",
+        "city": "STROMSBURG",
+        "zipcode": 68666,
+        "latitude": "+41.114446",
+        "longitude": "-097.591433"
+    },
+    {
+        "county": "RED WILLOW",
+        "city": "BARTLEY",
+        "zipcode": 69020,
+        "latitude": "+40.252545",
+        "longitude": "-100.305432"
+    },
+    {
+        "county": "RED WILLOW",
+        "city": "DANBURY",
+        "zipcode": 69026,
+        "latitude": "+40.176507",
+        "longitude": "-100.476977"
+    },
+    {
+        "county": "RED WILLOW",
+        "city": "INDIANOLA",
+        "zipcode": 69034,
+        "latitude": "+40.240034",
+        "longitude": "-100.365256"
+    },
+    {
+        "county": "RED WILLOW",
+        "city": "LEBANON",
+        "zipcode": 69036,
+        "latitude": "+40.176507",
+        "longitude": "-100.476977"
+    },
+    {
+        "county": "RED WILLOW",
+        "city": "MC COOK",
+        "zipcode": 69001,
+        "latitude": "+40.207969",
+        "longitude": "-100.620628"
+    },
+    {
+        "county": "RICHARDSON",
+        "city": "DAWSON",
+        "zipcode": 68337,
+        "latitude": "+40.132685",
+        "longitude": "-095.830408"
+    },
+    {
+        "county": "RICHARDSON",
+        "city": "FALLS CITY",
+        "zipcode": 68355,
+        "latitude": "+40.073908",
+        "longitude": "-095.602053"
+    },
+    {
+        "county": "RICHARDSON",
+        "city": "HUMBOLDT",
+        "zipcode": 68376,
+        "latitude": "+40.167245",
+        "longitude": "-095.945731"
+    },
+    {
+        "county": "RICHARDSON",
+        "city": "RULO",
+        "zipcode": 68431,
+        "latitude": "+40.046277",
+        "longitude": "-095.428531"
+    },
+    {
+        "county": "RICHARDSON",
+        "city": "SALEM",
+        "zipcode": 68433,
+        "latitude": "+40.131136",
+        "longitude": "-095.659484"
+    },
+    {
+        "county": "RICHARDSON",
+        "city": "SHUBERT",
+        "zipcode": 68437,
+        "latitude": "+40.236756",
+        "longitude": "-095.684024"
+    },
+    {
+        "county": "RICHARDSON",
+        "city": "STELLA",
+        "zipcode": 68442,
+        "latitude": "+40.231020",
+        "longitude": "-095.772850"
+    },
+    {
+        "county": "RICHARDSON",
+        "city": "VERDON",
+        "zipcode": 68457,
+        "latitude": "+40.149228",
+        "longitude": "-095.710477"
+    },
+    {
+        "county": "ROCK",
+        "city": "BASSETT",
+        "zipcode": 68714,
+        "latitude": "+42.583147",
+        "longitude": "-099.551245"
+    },
+    {
+        "county": "ROCK",
+        "city": "ROSE",
+        "zipcode": 68772,
+        "latitude": "+42.445152",
+        "longitude": "-099.455891"
+    },
+    {
+        "county": "SALINE",
+        "city": "CRETE",
+        "zipcode": 68333,
+        "latitude": "+40.628937",
+        "longitude": "-097.016925"
+    },
+    {
+        "county": "SALINE",
+        "city": "DE WITT",
+        "zipcode": 68341,
+        "latitude": "+40.374875",
+        "longitude": "-096.960827"
+    },
+    {
+        "county": "SALINE",
+        "city": "DORCHESTER",
+        "zipcode": 68343,
+        "latitude": "+40.646087",
+        "longitude": "-097.114965"
+    },
+    {
+        "county": "SALINE",
+        "city": "FRIEND",
+        "zipcode": 68359,
+        "latitude": "+40.526915",
+        "longitude": "-097.111028"
+    },
+    {
+        "county": "SALINE",
+        "city": "SWANTON",
+        "zipcode": 68445,
+        "latitude": "+40.379788",
+        "longitude": "-097.080431"
+    },
+    {
+        "county": "SALINE",
+        "city": "TOBIAS",
+        "zipcode": 68453,
+        "latitude": "+40.418436",
+        "longitude": "-097.336671"
+    },
+    {
+        "county": "SALINE",
+        "city": "WESTERN",
+        "zipcode": 68464,
+        "latitude": "+40.403717",
+        "longitude": "-097.265045"
+    },
+    {
+        "county": "SALINE",
+        "city": "WILBER",
+        "zipcode": 68465,
+        "latitude": "+40.484136",
+        "longitude": "-096.968290"
+    },
+    {
+        "county": "SARPY",
+        "city": "BELLEVUE",
+        "zipcode": 68005,
+        "latitude": "+41.132948",
+        "longitude": "-095.903956"
+    },
+    {
+        "county": "SARPY",
+        "city": "BELLEVUE",
+        "zipcode": 68123,
+        "latitude": "+41.115628",
+        "longitude": "-095.939269"
+    },
+    {
+        "county": "SARPY",
+        "city": "BELLEVUE",
+        "zipcode": 68147,
+        "latitude": "+41.175798",
+        "longitude": "-095.955290"
+    },
+    {
+        "county": "SARPY",
+        "city": "GRETNA",
+        "zipcode": 68028,
+        "latitude": "+41.098888",
+        "longitude": "-096.239744"
+    },
+    {
+        "county": "SARPY",
+        "city": "LA VISTA",
+        "zipcode": 68128,
+        "latitude": "+41.164994",
+        "longitude": "-096.061055"
+    },
+    {
+        "county": "SARPY",
+        "city": "OFFUTT A F B",
+        "zipcode": 68113,
+        "latitude": "+41.128191",
+        "longitude": "-095.917392"
+    },
+    {
+        "county": "SARPY",
+        "city": "OMAHA",
+        "zipcode": 68136,
+        "latitude": "+41.169034",
+        "longitude": "-096.172007"
+    },
+    {
+        "county": "SARPY",
+        "city": "OMAHA",
+        "zipcode": 68138,
+        "latitude": "+41.154898",
+        "longitude": "-096.137617"
+    },
+    {
+        "county": "SARPY",
+        "city": "OMAHA",
+        "zipcode": 68157,
+        "latitude": "+41.180985",
+        "longitude": "-095.990942"
+    },
+    {
+        "county": "SARPY",
+        "city": "PAPILLION",
+        "zipcode": 68046,
+        "latitude": "+41.118594",
+        "longitude": "-096.060367"
+    },
+    {
+        "county": "SARPY",
+        "city": "PAPILLION",
+        "zipcode": 68133,
+        "latitude": "+41.129114",
+        "longitude": "-096.100064"
+    },
+    {
+        "county": "SARPY",
+        "city": "RICHFIELD",
+        "zipcode": 68054,
+        "latitude": "+41.089048",
+        "longitude": "-096.070433"
+    },
+    {
+        "county": "SARPY",
+        "city": "SPRINGFIELD",
+        "zipcode": 68059,
+        "latitude": "+41.066988",
+        "longitude": "-096.184792"
+    },
+    {
+        "county": "SARPY",
+        "city": "ST COLUMBANS",
+        "zipcode": 68056,
+        "latitude": "+41.092703",
+        "longitude": "-096.090546"
+    },
+    {
+        "county": "SAUNDERS",
+        "city": "ASHLAND",
+        "zipcode": 68003,
+        "latitude": "+41.102696",
+        "longitude": "-096.577634"
+    },
+    {
+        "county": "SAUNDERS",
+        "city": "CEDAR BLUFFS",
+        "zipcode": 68015,
+        "latitude": "+41.365495",
+        "longitude": "-096.631576"
+    },
+    {
+        "county": "SAUNDERS",
+        "city": "CERESCO",
+        "zipcode": 68017,
+        "latitude": "+41.096052",
+        "longitude": "-096.638116"
+    },
+    {
+        "county": "SAUNDERS",
+        "city": "COLON",
+        "zipcode": 68018,
+        "latitude": "+41.307157",
+        "longitude": "-096.610014"
+    },
+    {
+        "county": "SAUNDERS",
+        "city": "ITHACA",
+        "zipcode": 68033,
+        "latitude": "+41.147084",
+        "longitude": "-096.523011"
+    },
+    {
+        "county": "SAUNDERS",
+        "city": "LESHARA",
+        "zipcode": 68035,
+        "latitude": "+41.339383",
+        "longitude": "-096.444769"
+    },
+    {
+        "county": "SAUNDERS",
+        "city": "MALMO",
+        "zipcode": 68040,
+        "latitude": "+41.270638",
+        "longitude": "-096.647937"
+    },
+    {
+        "county": "SAUNDERS",
+        "city": "MEAD",
+        "zipcode": 68041,
+        "latitude": "+41.199990",
+        "longitude": "-096.640076"
+    },
+    {
+        "county": "SAUNDERS",
+        "city": "MEMPHIS",
+        "zipcode": 68042,
+        "latitude": "+41.094587",
+        "longitude": "-096.430553"
+    },
+    {
+        "county": "SAUNDERS",
+        "city": "MORSE BLUFF",
+        "zipcode": 68648,
+        "latitude": "+41.375782",
+        "longitude": "-096.811409"
+    },
+    {
+        "county": "SAUNDERS",
+        "city": "PRAGUE",
+        "zipcode": 68050,
+        "latitude": "+41.314461",
+        "longitude": "-096.823281"
+    },
+    {
+        "county": "SAUNDERS",
+        "city": "VALPARAISO",
+        "zipcode": 68065,
+        "latitude": "+41.108919",
+        "longitude": "-096.831839"
+    },
+    {
+        "county": "SAUNDERS",
+        "city": "WAHOO",
+        "zipcode": 68066,
+        "latitude": "+41.197043",
+        "longitude": "-096.669114"
+    },
+    {
+        "county": "SAUNDERS",
+        "city": "WESTON",
+        "zipcode": 68070,
+        "latitude": "+41.207240",
+        "longitude": "-096.758162"
+    },
+    {
+        "county": "SAUNDERS",
+        "city": "YUTAN",
+        "zipcode": 68073,
+        "latitude": "+41.211111",
+        "longitude": "-096.453285"
+    },
+    {
+        "county": "SCOTTS BLUFF",
+        "city": "GERING",
+        "zipcode": 69341,
+        "latitude": "+41.806020",
+        "longitude": "-103.757960"
+    },
+    {
+        "county": "SCOTTS BLUFF",
+        "city": "HENRY",
+        "zipcode": 69349,
+        "latitude": "+41.987327",
+        "longitude": "-104.045244"
+    },
+    {
+        "county": "SCOTTS BLUFF",
+        "city": "LYMAN",
+        "zipcode": 69352,
+        "latitude": "+41.835492",
+        "longitude": "-103.974153"
+    },
+    {
+        "county": "SCOTTS BLUFF",
+        "city": "MCGREW",
+        "zipcode": 69353,
+        "latitude": "+41.746944",
+        "longitude": "-103.416351"
+    },
+    {
+        "county": "SCOTTS BLUFF",
+        "city": "MELBETA",
+        "zipcode": 69355,
+        "latitude": "+41.765008",
+        "longitude": "-103.468748"
+    },
+    {
+        "county": "SCOTTS BLUFF",
+        "city": "MINATARE",
+        "zipcode": 69356,
+        "latitude": "+41.861192",
+        "longitude": "-103.643939"
+    },
+    {
+        "county": "SCOTTS BLUFF",
+        "city": "MITCHELL",
+        "zipcode": 69357,
+        "latitude": "+41.874333",
+        "longitude": "-103.803504"
+    },
+    {
+        "county": "SCOTTS BLUFF",
+        "city": "MORRILL",
+        "zipcode": 69358,
+        "latitude": "+41.929379",
+        "longitude": "-103.950162"
+    },
+    {
+        "county": "SCOTTS BLUFF",
+        "city": "SCOTTSBLUFF",
+        "zipcode": 69361,
+        "latitude": "+41.872005",
+        "longitude": "-103.770230"
+    },
+    {
+        "county": "SCOTTS BLUFF",
+        "city": "SCOTTSBLUFF",
+        "zipcode": 69363,
+        "latitude": "+41.851012",
+        "longitude": "-103.707260"
+    },
+    {
+        "county": "SEWARD",
+        "city": "BEAVER CROSSING",
+        "zipcode": 68313,
+        "latitude": "+40.785436",
+        "longitude": "-097.234990"
+    },
+    {
+        "county": "SEWARD",
+        "city": "BEE",
+        "zipcode": 68314,
+        "latitude": "+41.002864",
+        "longitude": "-097.034527"
+    },
+    {
+        "county": "SEWARD",
+        "city": "CORDOVA",
+        "zipcode": 68330,
+        "latitude": "+40.720174",
+        "longitude": "-097.311257"
+    },
+    {
+        "county": "SEWARD",
+        "city": "GARLAND",
+        "zipcode": 68360,
+        "latitude": "+40.966358",
+        "longitude": "-096.967830"
+    },
+    {
+        "county": "SEWARD",
+        "city": "GOEHNER",
+        "zipcode": 68364,
+        "latitude": "+40.829068",
+        "longitude": "-097.196716"
+    },
+    {
+        "county": "SEWARD",
+        "city": "MILFORD",
+        "zipcode": 68405,
+        "latitude": "+40.777860",
+        "longitude": "-097.082489"
+    },
+    {
+        "county": "SEWARD",
+        "city": "PLEASANT DALE",
+        "zipcode": 68423,
+        "latitude": "+40.813869",
+        "longitude": "-096.968018"
+    },
+    {
+        "county": "SEWARD",
+        "city": "SEWARD",
+        "zipcode": 68434,
+        "latitude": "+40.915820",
+        "longitude": "-097.101341"
+    },
+    {
+        "county": "SEWARD",
+        "city": "STAPLEHURST",
+        "zipcode": 68439,
+        "latitude": "+40.959710",
+        "longitude": "-097.251684"
+    },
+    {
+        "county": "SEWARD",
+        "city": "UTICA",
+        "zipcode": 68456,
+        "latitude": "+40.938023",
+        "longitude": "-097.292178"
+    },
+    {
+        "county": "SHERIDAN",
+        "city": "BINGHAM",
+        "zipcode": 69335,
+        "latitude": "+42.730616",
+        "longitude": "-102.471549"
+    },
+    {
+        "county": "SHERIDAN",
+        "city": "ELLSWORTH",
+        "zipcode": 69340,
+        "latitude": "+42.502412",
+        "longitude": "-102.399697"
+    },
+    {
+        "county": "SHERIDAN",
+        "city": "GORDON",
+        "zipcode": 69343,
+        "latitude": "+42.763456",
+        "longitude": "-102.314593"
+    },
+    {
+        "county": "SHERIDAN",
+        "city": "HAY SPRINGS",
+        "zipcode": 69347,
+        "latitude": "+42.636894",
+        "longitude": "-102.665536"
+    },
+    {
+        "county": "SHERIDAN",
+        "city": "LAKESIDE",
+        "zipcode": 69351,
+        "latitude": "+42.502412",
+        "longitude": "-102.399697"
+    },
+    {
+        "county": "SHERIDAN",
+        "city": "RUSHVILLE",
+        "zipcode": 69360,
+        "latitude": "+42.716340",
+        "longitude": "-102.463590"
+    },
+    {
+        "county": "SHERIDAN",
+        "city": "WHITECLAY",
+        "zipcode": 69365,
+        "latitude": "+42.502412",
+        "longitude": "-102.399697"
+    },
+    {
+        "county": "SHERMAN",
+        "city": "ASHTON",
+        "zipcode": 68817,
+        "latitude": "+41.249476",
+        "longitude": "-098.794760"
+    },
+    {
+        "county": "SHERMAN",
+        "city": "HAZARD",
+        "zipcode": 68844,
+        "latitude": "+41.220515",
+        "longitude": "-098.975997"
+    },
+    {
+        "county": "SHERMAN",
+        "city": "LITCHFIELD",
+        "zipcode": 68852,
+        "latitude": "+41.156948",
+        "longitude": "-099.153012"
+    },
+    {
+        "county": "SHERMAN",
+        "city": "LOUP CITY",
+        "zipcode": 68853,
+        "latitude": "+41.276435",
+        "longitude": "-098.966954"
+    },
+    {
+        "county": "SHERMAN",
+        "city": "ROCKVILLE",
+        "zipcode": 68871,
+        "latitude": "+41.117178",
+        "longitude": "-098.832654"
+    },
+    {
+        "county": "SIOUX",
+        "city": "HARRISON",
+        "zipcode": 69346,
+        "latitude": "+42.631216",
+        "longitude": "-103.782027"
+    },
+    {
+        "county": "STANTON",
+        "city": "PILGER",
+        "zipcode": 68768,
+        "latitude": "+41.976143",
+        "longitude": "-097.077910"
+    },
+    {
+        "county": "STANTON",
+        "city": "STANTON",
+        "zipcode": 68779,
+        "latitude": "+41.982175",
+        "longitude": "-097.203396"
+    },
+    {
+        "county": "THAYER",
+        "city": "ALEXANDRIA",
+        "zipcode": 68303,
+        "latitude": "+40.244068",
+        "longitude": "-097.386612"
+    },
+    {
+        "county": "THAYER",
+        "city": "BELVIDERE",
+        "zipcode": 68315,
+        "latitude": "+40.176221",
+        "longitude": "-097.594987"
+    },
+    {
+        "county": "THAYER",
+        "city": "BRUNING",
+        "zipcode": 68322,
+        "latitude": "+40.335959",
+        "longitude": "-097.564950"
+    },
+    {
+        "county": "THAYER",
+        "city": "BYRON",
+        "zipcode": 68325,
+        "latitude": "+40.005757",
+        "longitude": "-097.765660"
+    },
+    {
+        "county": "THAYER",
+        "city": "CARLETON",
+        "zipcode": 68326,
+        "latitude": "+40.303471",
+        "longitude": "-097.676150"
+    },
+    {
+        "county": "THAYER",
+        "city": "CHESTER",
+        "zipcode": 68327,
+        "latitude": "+40.009370",
+        "longitude": "-097.617985"
+    },
+    {
+        "county": "THAYER",
+        "city": "DAVENPORT",
+        "zipcode": 68335,
+        "latitude": "+40.312473",
+        "longitude": "-097.811467"
+    },
+    {
+        "county": "THAYER",
+        "city": "DESHLER",
+        "zipcode": 68340,
+        "latitude": "+40.139448",
+        "longitude": "-097.723461"
+    },
+    {
+        "county": "THAYER",
+        "city": "GILEAD",
+        "zipcode": 68362,
+        "latitude": "+40.176221",
+        "longitude": "-097.594987"
+    },
+    {
+        "county": "THAYER",
+        "city": "HEBRON",
+        "zipcode": 68370,
+        "latitude": "+40.240562",
+        "longitude": "-097.644850"
+    },
+    {
+        "county": "THAYER",
+        "city": "HUBBELL",
+        "zipcode": 68375,
+        "latitude": "+40.008563",
+        "longitude": "-097.497878"
+    },
+    {
+        "county": "THAYER",
+        "city": "REYNOLDS",
+        "zipcode": 68429,
+        "latitude": "+40.059775",
+        "longitude": "-097.380646"
+    },
+    {
+        "county": "THOMAS",
+        "city": "HALSEY",
+        "zipcode": 69142,
+        "latitude": "+41.913806",
+        "longitude": "-100.555805"
+    },
+    {
+        "county": "THOMAS",
+        "city": "SENECA",
+        "zipcode": 69161,
+        "latitude": "+41.913806",
+        "longitude": "-100.555805"
+    },
+    {
+        "county": "THOMAS",
+        "city": "THEDFORD",
+        "zipcode": 69166,
+        "latitude": "+41.979407",
+        "longitude": "-100.557354"
+    },
+    {
+        "county": "THURSTON",
+        "city": "MACY",
+        "zipcode": 68039,
+        "latitude": "+42.146597",
+        "longitude": "-096.545297"
+    },
+    {
+        "county": "THURSTON",
+        "city": "PENDER",
+        "zipcode": 68047,
+        "latitude": "+42.110449",
+        "longitude": "-096.723917"
+    },
+    {
+        "county": "THURSTON",
+        "city": "ROSALIE",
+        "zipcode": 68055,
+        "latitude": "+42.056416",
+        "longitude": "-096.513859"
+    },
+    {
+        "county": "THURSTON",
+        "city": "THURSTON",
+        "zipcode": 68062,
+        "latitude": "+42.146597",
+        "longitude": "-096.545297"
+    },
+    {
+        "county": "THURSTON",
+        "city": "WALTHILL",
+        "zipcode": 68067,
+        "latitude": "+42.149670",
+        "longitude": "-096.493734"
+    },
+    {
+        "county": "THURSTON",
+        "city": "WINNEBAGO",
+        "zipcode": 68071,
+        "latitude": "+42.238161",
+        "longitude": "-096.472847"
+    },
+    {
+        "county": "VALLEY",
+        "city": "ARCADIA",
+        "zipcode": 68815,
+        "latitude": "+41.522440",
+        "longitude": "-099.038945"
+    },
+    {
+        "county": "VALLEY",
+        "city": "ELYRIA",
+        "zipcode": 68837,
+        "latitude": "+41.567344",
+        "longitude": "-098.981592"
+    },
+    {
+        "county": "VALLEY",
+        "city": "NORTH LOUP",
+        "zipcode": 68859,
+        "latitude": "+41.567344",
+        "longitude": "-098.981592"
+    },
+    {
+        "county": "VALLEY",
+        "city": "ORD",
+        "zipcode": 68862,
+        "latitude": "+41.603603",
+        "longitude": "-098.932718"
+    },
+    {
+        "county": "WASHINGTON",
+        "city": "ARLINGTON",
+        "zipcode": 68002,
+        "latitude": "+41.501979",
+        "longitude": "-096.317932"
+    },
+    {
+        "county": "WASHINGTON",
+        "city": "BLAIR",
+        "zipcode": 68008,
+        "latitude": "+41.543582",
+        "longitude": "-096.176530"
+    },
+    {
+        "county": "WASHINGTON",
+        "city": "BLAIR",
+        "zipcode": 68009,
+        "latitude": "+41.538270",
+        "longitude": "-096.182295"
+    },
+    {
+        "county": "WASHINGTON",
+        "city": "FORT CALHOUN",
+        "zipcode": 68023,
+        "latitude": "+41.447307",
+        "longitude": "-096.023829"
+    },
+    {
+        "county": "WASHINGTON",
+        "city": "HERMAN",
+        "zipcode": 68029,
+        "latitude": "+41.632560",
+        "longitude": "-096.273735"
+    },
+    {
+        "county": "WASHINGTON",
+        "city": "KENNARD",
+        "zipcode": 68034,
+        "latitude": "+41.452560",
+        "longitude": "-096.190348"
+    },
+    {
+        "county": "WASHINGTON",
+        "city": "WASHINGTON",
+        "zipcode": 68068,
+        "latitude": "+41.395315",
+        "longitude": "-096.209006"
+    },
+    {
+        "county": "WAYNE",
+        "city": "CARROLL",
+        "zipcode": 68723,
+        "latitude": "+42.286328",
+        "longitude": "-097.193337"
+    },
+    {
+        "county": "WAYNE",
+        "city": "HOSKINS",
+        "zipcode": 68740,
+        "latitude": "+42.221141",
+        "longitude": "-097.309909"
+    },
+    {
+        "county": "WAYNE",
+        "city": "WAYNE",
+        "zipcode": 68787,
+        "latitude": "+42.206417",
+        "longitude": "-096.979049"
+    },
+    {
+        "county": "WAYNE",
+        "city": "WINSIDE",
+        "zipcode": 68790,
+        "latitude": "+42.155768",
+        "longitude": "-097.193232"
+    },
+    {
+        "county": "WEBSTER",
+        "city": "BLADEN",
+        "zipcode": 68928,
+        "latitude": "+40.323796",
+        "longitude": "-098.597026"
+    },
+    {
+        "county": "WEBSTER",
+        "city": "BLUE HILL",
+        "zipcode": 68930,
+        "latitude": "+40.316739",
+        "longitude": "-098.450468"
+    },
+    {
+        "county": "WEBSTER",
+        "city": "GUIDE ROCK",
+        "zipcode": 68942,
+        "latitude": "+40.071648",
+        "longitude": "-098.330001"
+    },
+    {
+        "county": "WEBSTER",
+        "city": "INAVALE",
+        "zipcode": 68952,
+        "latitude": "+40.176368",
+        "longitude": "-098.500037"
+    },
+    {
+        "county": "WEBSTER",
+        "city": "RED CLOUD",
+        "zipcode": 68970,
+        "latitude": "+40.201919",
+        "longitude": "-098.500021"
+    },
+    {
+        "county": "WHEELER",
+        "city": "BARTLETT",
+        "zipcode": 68622,
+        "latitude": "+41.914601",
+        "longitude": "-098.528373"
+    },
+    {
+        "county": "WHEELER",
+        "city": "ERICSON",
+        "zipcode": 68637,
+        "latitude": "+41.779992",
+        "longitude": "-098.679988"
+    },
+    {
+        "county": "YORK",
+        "city": "BENEDICT",
+        "zipcode": 68316,
+        "latitude": "+41.003042",
+        "longitude": "-097.610404"
+    },
+    {
+        "county": "YORK",
+        "city": "BRADSHAW",
+        "zipcode": 68319,
+        "latitude": "+40.930567",
+        "longitude": "-097.750193"
+    },
+    {
+        "county": "YORK",
+        "city": "GRESHAM",
+        "zipcode": 68367,
+        "latitude": "+41.010433",
+        "longitude": "-097.425506"
+    },
+    {
+        "county": "YORK",
+        "city": "HENDERSON",
+        "zipcode": 68371,
+        "latitude": "+40.796446",
+        "longitude": "-097.773811"
+    },
+    {
+        "county": "YORK",
+        "city": "MC COOL JUNCTION",
+        "zipcode": 68401,
+        "latitude": "+40.734852",
+        "longitude": "-097.568381"
+    },
+    {
+        "county": "YORK",
+        "city": "WACO",
+        "zipcode": 68460,
+        "latitude": "+40.886702",
+        "longitude": "-097.437812"
+    },
+    {
+        "county": "YORK",
+        "city": "YORK",
+        "zipcode": 68467,
+        "latitude": "+40.890132",
+        "longitude": "-097.597278"
+    }
+]

@@ -1,0 +1,1241 @@
+[
+    {
+        "county": "ADJUNTAS",
+        "city": "ADJUNTAS",
+        "zipcode": "00601",
+        "latitude": "+18.165273",
+        "longitude": "-066.722583"
+    },
+    {
+        "county": "AGUADA",
+        "city": "AGUADA",
+        "zipcode": "00602",
+        "latitude": "+18.393103",
+        "longitude": "-067.180953"
+    },
+    {
+        "county": "AGUADILLA",
+        "city": "AGUADILLA",
+        "zipcode": "00603",
+        "latitude": "+18.455913",
+        "longitude": "-067.145780"
+    },
+    {
+        "county": "AGUADILLA",
+        "city": "AGUADILLA",
+        "zipcode": "00604",
+        "latitude": "+18.493520",
+        "longitude": "-067.135883"
+    },
+    {
+        "county": "AGUADILLA",
+        "city": "AGUADILLA",
+        "zipcode": "00605",
+        "latitude": "+18.465162",
+        "longitude": "-067.141486"
+    },
+    {
+        "county": "AGUADILLA",
+        "city": "SAN ANTONIO",
+        "zipcode": "00690",
+        "latitude": "+18.476196",
+        "longitude": "-067.139597"
+    },
+    {
+        "county": "AGUAS BUENAS",
+        "city": "AGUAS BUENAS",
+        "zipcode": "00703",
+        "latitude": "+18.250398",
+        "longitude": "-066.128450"
+    },
+    {
+        "county": "AIBONITO",
+        "city": "AIBONITO",
+        "zipcode": "00705",
+        "latitude": "+18.128092",
+        "longitude": "-066.268717"
+    },
+    {
+        "county": "AIBONITO",
+        "city": "LA PLATA",
+        "zipcode": "00786",
+        "latitude": "+18.128092",
+        "longitude": "-066.268717"
+    },
+    {
+        "county": "ANASCO",
+        "city": "ANASCO",
+        "zipcode": "00610",
+        "latitude": "+18.288685",
+        "longitude": "-067.139696"
+    },
+    {
+        "county": "ARECIBO",
+        "city": "ARECIBO",
+        "zipcode": "00612",
+        "latitude": "+18.450674",
+        "longitude": "-066.698262"
+    },
+    {
+        "county": "ARECIBO",
+        "city": "ARECIBO",
+        "zipcode": "00613",
+        "latitude": "+18.458093",
+        "longitude": "-066.732732"
+    },
+    {
+        "county": "ARECIBO",
+        "city": "ARECIBO",
+        "zipcode": "00614",
+        "latitude": "+18.429675",
+        "longitude": "-066.674506"
+    },
+    {
+        "county": "ARECIBO",
+        "city": "BAJADERO",
+        "zipcode": "00616",
+        "latitude": "+18.444792",
+        "longitude": "-066.640678"
+    },
+    {
+        "county": "ARECIBO",
+        "city": "GARROCHALES",
+        "zipcode": "00652",
+        "latitude": "+18.457254",
+        "longitude": "-066.603358"
+    },
+    {
+        "county": "ARECIBO",
+        "city": "SABANA HOYOS",
+        "zipcode": "00688",
+        "latitude": "+18.429675",
+        "longitude": "-066.674506"
+    },
+    {
+        "county": "ARROYO",
+        "city": "ARROYO",
+        "zipcode": "00714",
+        "latitude": "+17.967510",
+        "longitude": "-066.041380"
+    },
+    {
+        "county": "BARCELONETA",
+        "city": "BARCELONETA",
+        "zipcode": "00617",
+        "latitude": "+18.447092",
+        "longitude": "-066.544255"
+    },
+    {
+        "county": "BARRANQUITAS",
+        "city": "BARRANQUITAS",
+        "zipcode": "00794",
+        "latitude": "+18.200898",
+        "longitude": "-066.307236"
+    },
+    {
+        "county": "BAYAMON",
+        "city": "BAYAMON",
+        "zipcode": "00956",
+        "latitude": "+18.326702",
+        "longitude": "-066.174176"
+    },
+    {
+        "county": "BAYAMON",
+        "city": "BAYAMON",
+        "zipcode": "00957",
+        "latitude": "+18.366645",
+        "longitude": "-066.183907"
+    },
+    {
+        "county": "BAYAMON",
+        "city": "BAYAMON",
+        "zipcode": "00958",
+        "latitude": "+18.344870",
+        "longitude": "-066.166014"
+    },
+    {
+        "county": "BAYAMON",
+        "city": "BAYAMON",
+        "zipcode": "00959",
+        "latitude": "+18.387058",
+        "longitude": "-066.159044"
+    },
+    {
+        "county": "BAYAMON",
+        "city": "BAYAMON",
+        "zipcode": "00960",
+        "latitude": "+18.344870",
+        "longitude": "-066.166014"
+    },
+    {
+        "county": "BAYAMON",
+        "city": "BAYAMON",
+        "zipcode": "00961",
+        "latitude": "+18.413195",
+        "longitude": "-066.168651"
+    },
+    {
+        "county": "BAYAMON",
+        "city": "FORT BUCHANAN",
+        "zipcode": "00934",
+        "latitude": "+18.344870",
+        "longitude": "-066.166014"
+    },
+    {
+        "county": "CABO ROJO",
+        "city": "BOQUERON",
+        "zipcode": "00622",
+        "latitude": "+17.998531",
+        "longitude": "-067.187318"
+    },
+    {
+        "county": "CABO ROJO",
+        "city": "CABO ROJO",
+        "zipcode": "00623",
+        "latitude": "+18.062201",
+        "longitude": "-067.149541"
+    },
+    {
+        "county": "CAGUAS",
+        "city": "CAGUAS",
+        "zipcode": "00725",
+        "latitude": "+18.212965",
+        "longitude": "-066.058033"
+    },
+    {
+        "county": "CAGUAS",
+        "city": "CAGUAS",
+        "zipcode": "00726",
+        "latitude": "+18.212965",
+        "longitude": "-066.058033"
+    },
+    {
+        "county": "CAGUAS",
+        "city": "CAGUAS",
+        "zipcode": "00727",
+        "latitude": "+18.212965",
+        "longitude": "-066.058033"
+    },
+    {
+        "county": "CAMUY",
+        "city": "CAMUY",
+        "zipcode": "00627",
+        "latitude": "+18.477891",
+        "longitude": "-066.854770"
+    },
+    {
+        "county": "CANOVANAS",
+        "city": "CANOVANAS",
+        "zipcode": "00729",
+        "latitude": "+18.333093",
+        "longitude": "-065.883864"
+    },
+    {
+        "county": "CAROLINA",
+        "city": "CAROLINA",
+        "zipcode": "00983",
+        "latitude": "+18.413452",
+        "longitude": "-065.977659"
+    },
+    {
+        "county": "CAROLINA",
+        "city": "CAROLINA",
+        "zipcode": "00984",
+        "latitude": "+18.393355",
+        "longitude": "-065.972495"
+    },
+    {
+        "county": "CAROLINA",
+        "city": "CAROLINA",
+        "zipcode": "00985",
+        "latitude": "+18.345741",
+        "longitude": "-065.938880"
+    },
+    {
+        "county": "CAROLINA",
+        "city": "CAROLINA",
+        "zipcode": "00986",
+        "latitude": "+18.393355",
+        "longitude": "-065.972495"
+    },
+    {
+        "county": "CAROLINA",
+        "city": "CAROLINA",
+        "zipcode": "00987",
+        "latitude": "+18.373466",
+        "longitude": "-065.959932"
+    },
+    {
+        "county": "CAROLINA",
+        "city": "CAROLINA",
+        "zipcode": "00988",
+        "latitude": "+18.393355",
+        "longitude": "-065.972495"
+    },
+    {
+        "county": "CATANO",
+        "city": "CATANO",
+        "zipcode": "00962",
+        "latitude": "+18.437644",
+        "longitude": "-066.140407"
+    },
+    {
+        "county": "CATANO",
+        "city": "CATANO",
+        "zipcode": "00963",
+        "latitude": "+18.443217",
+        "longitude": "-066.139293"
+    },
+    {
+        "county": "CAYEY",
+        "city": "CAYEY",
+        "zipcode": "00736",
+        "latitude": "+18.102967",
+        "longitude": "-066.139274"
+    },
+    {
+        "county": "CAYEY",
+        "city": "CAYEY",
+        "zipcode": "00737",
+        "latitude": "+18.102967",
+        "longitude": "-066.139274"
+    },
+    {
+        "county": "CEIBA",
+        "city": "CEIBA",
+        "zipcode": "00735",
+        "latitude": "+18.264872",
+        "longitude": "-065.594769"
+    },
+    {
+        "county": "CEIBA",
+        "city": "ROOSEVELT ROADS",
+        "zipcode": "00742",
+        "latitude": "+18.264872",
+        "longitude": "-065.594769"
+    },
+    {
+        "county": "CIALES",
+        "city": "CIALES",
+        "zipcode": "00638",
+        "latitude": "+18.336160",
+        "longitude": "-066.472087"
+    },
+    {
+        "county": "CIDRA",
+        "city": "CIDRA",
+        "zipcode": "00739",
+        "latitude": "+18.181469",
+        "longitude": "-066.169519"
+    },
+    {
+        "county": "COAMO",
+        "city": "COAMO",
+        "zipcode": "00769",
+        "latitude": "+18.095992",
+        "longitude": "-066.350810"
+    },
+    {
+        "county": "COMERIO",
+        "city": "COMERIO",
+        "zipcode": "00782",
+        "latitude": "+18.224958",
+        "longitude": "-066.219885"
+    },
+    {
+        "county": "COROZAL",
+        "city": "COROZAL",
+        "zipcode": "00783",
+        "latitude": "+18.304369",
+        "longitude": "-066.330525"
+    },
+    {
+        "county": "CULEBRA",
+        "city": "CULEBRA",
+        "zipcode": "00775",
+        "latitude": "+18.323736",
+        "longitude": "-065.296467"
+    },
+    {
+        "county": "DORADO",
+        "city": "DORADO",
+        "zipcode": "00646",
+        "latitude": "+18.436060",
+        "longitude": "-066.281954"
+    },
+    {
+        "county": "FAJARDO",
+        "city": "FAJARDO",
+        "zipcode": "00738",
+        "latitude": "+18.359381",
+        "longitude": "-065.611361"
+    },
+    {
+        "county": "FAJARDO",
+        "city": "PUERTO REAL",
+        "zipcode": "00740",
+        "latitude": "+18.331958",
+        "longitude": "-065.638780"
+    },
+    {
+        "county": "FLORIDA",
+        "city": "FLORIDA",
+        "zipcode": "00650",
+        "latitude": "+18.360125",
+        "longitude": "-066.562311"
+    },
+    {
+        "county": "GUANICA",
+        "city": "ENSENADA",
+        "zipcode": "00647",
+        "latitude": "+17.969594",
+        "longitude": "-066.939754"
+    },
+    {
+        "county": "GUANICA",
+        "city": "GUANICA",
+        "zipcode": "00653",
+        "latitude": "+17.972468",
+        "longitude": "-066.898661"
+    },
+    {
+        "county": "GUAYAMA",
+        "city": "AGUIRRE",
+        "zipcode": "00704",
+        "latitude": "+17.992290",
+        "longitude": "-066.139253"
+    },
+    {
+        "county": "GUAYAMA",
+        "city": "GUAYAMA",
+        "zipcode": "00784",
+        "latitude": "+17.992290",
+        "longitude": "-066.139253"
+    },
+    {
+        "county": "GUAYANILLA",
+        "city": "GUAYAMA",
+        "zipcode": "00785",
+        "latitude": "+18.018822",
+        "longitude": "-066.795603"
+    },
+    {
+        "county": "GUAYANILLA",
+        "city": "GUAYANILLA",
+        "zipcode": "00656",
+        "latitude": "+18.023280",
+        "longitude": "-066.786909"
+    },
+    {
+        "county": "GUAYNABO",
+        "city": "GUAYNABO",
+        "zipcode": "00965",
+        "latitude": "+18.428784",
+        "longitude": "-066.115390"
+    },
+    {
+        "county": "GUAYNABO",
+        "city": "GUAYNABO",
+        "zipcode": "00966",
+        "latitude": "+18.396815",
+        "longitude": "-066.114889"
+    },
+    {
+        "county": "GUAYNABO",
+        "city": "GUAYNABO",
+        "zipcode": "00969",
+        "latitude": "+18.362322",
+        "longitude": "-066.113729"
+    },
+    {
+        "county": "GUAYNABO",
+        "city": "GUAYNABO",
+        "zipcode": "00970",
+        "latitude": "+18.359143",
+        "longitude": "-066.112295"
+    },
+    {
+        "county": "GUAYNABO",
+        "city": "GUAYNABO",
+        "zipcode": "00971",
+        "latitude": "+18.309420",
+        "longitude": "-066.113606"
+    },
+    {
+        "county": "GURABO",
+        "city": "GURABO",
+        "zipcode": "00778",
+        "latitude": "+18.259092",
+        "longitude": "-065.974641"
+    },
+    {
+        "county": "HATILLO",
+        "city": "HATILLO",
+        "zipcode": "00659",
+        "latitude": "+18.481391",
+        "longitude": "-066.808696"
+    },
+    {
+        "county": "HORMIGUEROS",
+        "city": "HORMIGUEROS",
+        "zipcode": "00660",
+        "latitude": "+18.145486",
+        "longitude": "-067.135323"
+    },
+    {
+        "county": "HUMACAO",
+        "city": "HUMACAO",
+        "zipcode": "00791",
+        "latitude": "+18.138029",
+        "longitude": "-065.788499"
+    },
+    {
+        "county": "HUMACAO",
+        "city": "HUMACAO",
+        "zipcode": "00792",
+        "latitude": "+18.138029",
+        "longitude": "-065.788499"
+    },
+    {
+        "county": "HUMACAO",
+        "city": "PUNTA SANTIAGO",
+        "zipcode": "00741",
+        "latitude": "+18.162156",
+        "longitude": "-065.753485"
+    },
+    {
+        "county": "ISABELA",
+        "city": "ISABELA",
+        "zipcode": "00662",
+        "latitude": "+18.480285",
+        "longitude": "-067.028155"
+    },
+    {
+        "county": "JAYUYA",
+        "city": "JAYUYA",
+        "zipcode": "00664",
+        "latitude": "+18.217606",
+        "longitude": "-066.598306"
+    },
+    {
+        "county": "JUANA DIAZ",
+        "city": "JUANA DIAZ",
+        "zipcode": "00795",
+        "latitude": "+17.997367",
+        "longitude": "-066.493218"
+    },
+    {
+        "county": "JUNCOS",
+        "city": "JUNCOS",
+        "zipcode": "00777",
+        "latitude": "+18.206489",
+        "longitude": "-065.901774"
+    },
+    {
+        "county": "LAJAS",
+        "city": "LAJAS",
+        "zipcode": "00667",
+        "latitude": "+18.015099",
+        "longitude": "-067.055973"
+    },
+    {
+        "county": "LARES",
+        "city": "CASTANER",
+        "zipcode": "00631",
+        "latitude": "+18.269187",
+        "longitude": "-066.864993"
+    },
+    {
+        "county": "LARES",
+        "city": "LARES",
+        "zipcode": "00669",
+        "latitude": "+18.295952",
+        "longitude": "-066.881925"
+    },
+    {
+        "county": "LAS MARIAS",
+        "city": "LAS MARIAS",
+        "zipcode": "00670",
+        "latitude": "+18.252135",
+        "longitude": "-066.990967"
+    },
+    {
+        "county": "LAS PIEDRAS",
+        "city": "LAS PIEDRAS",
+        "zipcode": "00771",
+        "latitude": "+18.196576",
+        "longitude": "-065.871970"
+    },
+    {
+        "county": "LOIZA",
+        "city": "LOIZA",
+        "zipcode": "00772",
+        "latitude": "+18.447406",
+        "longitude": "-065.899357"
+    },
+    {
+        "county": "LUQUILLO",
+        "city": "LUQUILLO",
+        "zipcode": "00773",
+        "latitude": "+18.366027",
+        "longitude": "-065.708138"
+    },
+    {
+        "county": "MANATI",
+        "city": "MANATI",
+        "zipcode": "00674",
+        "latitude": "+18.445530",
+        "longitude": "-066.490268"
+    },
+    {
+        "county": "MARICAO",
+        "city": "MARICAO",
+        "zipcode": "00606",
+        "latitude": "+18.172947",
+        "longitude": "-066.944111"
+    },
+    {
+        "county": "MAUNABO",
+        "city": "MAUNABO",
+        "zipcode": "00707",
+        "latitude": "+18.007014",
+        "longitude": "-065.898719"
+    },
+    {
+        "county": "MAYAGUEZ",
+        "city": "MAYAGUEZ",
+        "zipcode": "00680",
+        "latitude": "+18.219023",
+        "longitude": "-067.508068"
+    },
+    {
+        "county": "MAYAGUEZ",
+        "city": "MAYAGUEZ",
+        "zipcode": "00681",
+        "latitude": "+18.219023",
+        "longitude": "-067.508068"
+    },
+    {
+        "county": "MAYAGUEZ",
+        "city": "MAYAGUEZ",
+        "zipcode": "00682",
+        "latitude": "+18.219023",
+        "longitude": "-067.508068"
+    },
+    {
+        "county": "MOCA",
+        "city": "MOCA",
+        "zipcode": "00676",
+        "latitude": "+18.383727",
+        "longitude": "-067.080799"
+    },
+    {
+        "county": "MOROVIS",
+        "city": "MOROVIS",
+        "zipcode": "00687",
+        "latitude": "+18.316976",
+        "longitude": "-066.415207"
+    },
+    {
+        "county": "NAGUABO",
+        "city": "NAGUABO",
+        "zipcode": "00718",
+        "latitude": "+18.221390",
+        "longitude": "-065.778310"
+    },
+    {
+        "county": "NAGUABO",
+        "city": "RIO BLANCO",
+        "zipcode": "00744",
+        "latitude": "+18.206329",
+        "longitude": "-065.743058"
+    },
+    {
+        "county": "NARANJITO",
+        "city": "NARANJITO",
+        "zipcode": "00719",
+        "latitude": "+18.298017",
+        "longitude": "-066.229751"
+    },
+    {
+        "county": "OROCOVIS",
+        "city": "OROCOVIS",
+        "zipcode": "00720",
+        "latitude": "+18.226862",
+        "longitude": "-066.394020"
+    },
+    {
+        "county": "PATILLAS",
+        "city": "PATILLAS",
+        "zipcode": "00723",
+        "latitude": "+18.009994",
+        "longitude": "-066.010572"
+    },
+    {
+        "county": "PENUELAS",
+        "city": "PENUELAS",
+        "zipcode": "00624",
+        "latitude": "+18.023535",
+        "longitude": "-066.726156"
+    },
+    {
+        "county": "PONCE",
+        "city": "COTO LAUREL",
+        "zipcode": "00780",
+        "latitude": "+18.001995",
+        "longitude": "-066.607429"
+    },
+    {
+        "county": "PONCE",
+        "city": "MERCEDITA",
+        "zipcode": "00715",
+        "latitude": "+18.011854",
+        "longitude": "-066.563721"
+    },
+    {
+        "county": "PONCE",
+        "city": "PONCE",
+        "zipcode": "00716",
+        "latitude": "+18.001995",
+        "longitude": "-066.607429"
+    },
+    {
+        "county": "PONCE",
+        "city": "PONCE",
+        "zipcode": "00717",
+        "latitude": "+18.001995",
+        "longitude": "-066.607429"
+    },
+    {
+        "county": "PONCE",
+        "city": "PONCE",
+        "zipcode": "00728",
+        "latitude": "+18.001995",
+        "longitude": "-066.607429"
+    },
+    {
+        "county": "PONCE",
+        "city": "PONCE",
+        "zipcode": "00730",
+        "latitude": "+18.001995",
+        "longitude": "-066.607429"
+    },
+    {
+        "county": "PONCE",
+        "city": "PONCE",
+        "zipcode": "00731",
+        "latitude": "+18.038310",
+        "longitude": "-066.626344"
+    },
+    {
+        "county": "PONCE",
+        "city": "PONCE",
+        "zipcode": "00732",
+        "latitude": "+18.021781",
+        "longitude": "-066.613742"
+    },
+    {
+        "county": "PONCE",
+        "city": "PONCE",
+        "zipcode": "00733",
+        "latitude": "+18.019331",
+        "longitude": "-066.619165"
+    },
+    {
+        "county": "PONCE",
+        "city": "PONCE",
+        "zipcode": "00734",
+        "latitude": "+17.999499",
+        "longitude": "-066.643934"
+    },
+    {
+        "county": "QUEBRADILLAS",
+        "city": "QUEBRADILLAS",
+        "zipcode": "00678",
+        "latitude": "+18.453030",
+        "longitude": "-066.933689"
+    },
+    {
+        "county": "RINCON",
+        "city": "RINCON",
+        "zipcode": "00677",
+        "latitude": "+18.335781",
+        "longitude": "-067.252547"
+    },
+    {
+        "county": "RIO GRANDE",
+        "city": "PALMER",
+        "zipcode": "00721",
+        "latitude": "+18.364161",
+        "longitude": "-065.778288"
+    },
+    {
+        "county": "RIO GRANDE",
+        "city": "RIO GRANDE",
+        "zipcode": "00745",
+        "latitude": "+18.367347",
+        "longitude": "-065.816583"
+    },
+    {
+        "county": "SABANA GRANDE",
+        "city": "SABANA GRANDE",
+        "zipcode": "00637",
+        "latitude": "+18.087322",
+        "longitude": "-066.934911"
+    },
+    {
+        "county": "SALINAS",
+        "city": "SALINAS",
+        "zipcode": "00751",
+        "latitude": "+17.998520",
+        "longitude": "-066.264825"
+    },
+    {
+        "county": "SAN GERMAN",
+        "city": "ROSARIO",
+        "zipcode": "00636",
+        "latitude": "+18.113284",
+        "longitude": "-067.039706"
+    },
+    {
+        "county": "SAN GERMAN",
+        "city": "SAN GERMAN",
+        "zipcode": "00683",
+        "latitude": "+18.113284",
+        "longitude": "-067.039706"
+    },
+    {
+        "county": "SAN JUAN",
+        "city": "CAROLINA",
+        "zipcode": "00979",
+        "latitude": "+18.410462",
+        "longitude": "-066.060533"
+    },
+    {
+        "county": "SAN JUAN",
+        "city": "CAROLINA",
+        "zipcode": "00981",
+        "latitude": "+18.410462",
+        "longitude": "-066.060533"
+    },
+    {
+        "county": "SAN JUAN",
+        "city": "CAROLINA",
+        "zipcode": "00982",
+        "latitude": "+18.410462",
+        "longitude": "-066.060533"
+    },
+    {
+        "county": "SAN JUAN",
+        "city": "GUAYNABO",
+        "zipcode": "00968",
+        "latitude": "+18.410462",
+        "longitude": "-066.060533"
+    },
+    {
+        "county": "SAN JUAN",
+        "city": "SAN JUAN",
+        "zipcode": "00901",
+        "latitude": "+18.465901",
+        "longitude": "-066.103568"
+    },
+    {
+        "county": "SAN JUAN",
+        "city": "SAN JUAN",
+        "zipcode": "00902",
+        "latitude": "+18.410462",
+        "longitude": "-066.060533"
+    },
+    {
+        "county": "SAN JUAN",
+        "city": "SAN JUAN",
+        "zipcode": "00906",
+        "latitude": "+18.410462",
+        "longitude": "-066.060533"
+    },
+    {
+        "county": "SAN JUAN",
+        "city": "SAN JUAN",
+        "zipcode": "00907",
+        "latitude": "+18.451647",
+        "longitude": "-066.077003"
+    },
+    {
+        "county": "SAN JUAN",
+        "city": "SAN JUAN",
+        "zipcode": "00908",
+        "latitude": "+18.410462",
+        "longitude": "-066.060533"
+    },
+    {
+        "county": "SAN JUAN",
+        "city": "SAN JUAN",
+        "zipcode": "00909",
+        "latitude": "+18.443384",
+        "longitude": "-066.068133"
+    },
+    {
+        "county": "SAN JUAN",
+        "city": "SAN JUAN",
+        "zipcode": "00910",
+        "latitude": "+18.410462",
+        "longitude": "-066.060533"
+    },
+    {
+        "county": "SAN JUAN",
+        "city": "SAN JUAN",
+        "zipcode": "00911",
+        "latitude": "+18.450828",
+        "longitude": "-066.057859"
+    },
+    {
+        "county": "SAN JUAN",
+        "city": "SAN JUAN",
+        "zipcode": "00912",
+        "latitude": "+18.444187",
+        "longitude": "-066.059859"
+    },
+    {
+        "county": "SAN JUAN",
+        "city": "SAN JUAN",
+        "zipcode": "00913",
+        "latitude": "+18.450735",
+        "longitude": "-066.043352"
+    },
+    {
+        "county": "SAN JUAN",
+        "city": "SAN JUAN",
+        "zipcode": "00914",
+        "latitude": "+18.410462",
+        "longitude": "-066.060533"
+    },
+    {
+        "county": "SAN JUAN",
+        "city": "SAN JUAN",
+        "zipcode": "00915",
+        "latitude": "+18.437896",
+        "longitude": "-066.048087"
+    },
+    {
+        "county": "SAN JUAN",
+        "city": "SAN JUAN",
+        "zipcode": "00916",
+        "latitude": "+18.410462",
+        "longitude": "-066.060533"
+    },
+    {
+        "county": "SAN JUAN",
+        "city": "SAN JUAN",
+        "zipcode": "00917",
+        "latitude": "+18.422018",
+        "longitude": "-066.050602"
+    },
+    {
+        "county": "SAN JUAN",
+        "city": "SAN JUAN",
+        "zipcode": "00918",
+        "latitude": "+18.419069",
+        "longitude": "-066.062319"
+    },
+    {
+        "county": "SAN JUAN",
+        "city": "SAN JUAN",
+        "zipcode": "00919",
+        "latitude": "+18.410462",
+        "longitude": "-066.060533"
+    },
+    {
+        "county": "SAN JUAN",
+        "city": "SAN JUAN",
+        "zipcode": "00920",
+        "latitude": "+18.406808",
+        "longitude": "-066.091885"
+    },
+    {
+        "county": "SAN JUAN",
+        "city": "SAN JUAN",
+        "zipcode": "00921",
+        "latitude": "+18.390429",
+        "longitude": "-066.066124"
+    },
+    {
+        "county": "SAN JUAN",
+        "city": "SAN JUAN",
+        "zipcode": "00922",
+        "latitude": "+18.410462",
+        "longitude": "-066.060533"
+    },
+    {
+        "county": "SAN JUAN",
+        "city": "SAN JUAN",
+        "zipcode": "00923",
+        "latitude": "+18.410775",
+        "longitude": "-066.036708"
+    },
+    {
+        "county": "SAN JUAN",
+        "city": "SAN JUAN",
+        "zipcode": "00924",
+        "latitude": "+18.396392",
+        "longitude": "-066.011460"
+    },
+    {
+        "county": "SAN JUAN",
+        "city": "SAN JUAN",
+        "zipcode": "00925",
+        "latitude": "+18.401055",
+        "longitude": "-066.049773"
+    },
+    {
+        "county": "SAN JUAN",
+        "city": "SAN JUAN",
+        "zipcode": "00926",
+        "latitude": "+18.369376",
+        "longitude": "-066.062804"
+    },
+    {
+        "county": "SAN JUAN",
+        "city": "SAN JUAN",
+        "zipcode": "00927",
+        "latitude": "+18.385174",
+        "longitude": "-066.071959"
+    },
+    {
+        "county": "SAN JUAN",
+        "city": "SAN JUAN",
+        "zipcode": "00928",
+        "latitude": "+18.410462",
+        "longitude": "-066.060533"
+    },
+    {
+        "county": "SAN JUAN",
+        "city": "SAN JUAN",
+        "zipcode": "00929",
+        "latitude": "+18.410462",
+        "longitude": "-066.060533"
+    },
+    {
+        "county": "SAN JUAN",
+        "city": "SAN JUAN",
+        "zipcode": "00930",
+        "latitude": "+18.410462",
+        "longitude": "-066.060533"
+    },
+    {
+        "county": "SAN JUAN",
+        "city": "SAN JUAN",
+        "zipcode": "00931",
+        "latitude": "+18.410462",
+        "longitude": "-066.060533"
+    },
+    {
+        "county": "SAN JUAN",
+        "city": "SAN JUAN",
+        "zipcode": "00933",
+        "latitude": "+18.410462",
+        "longitude": "-066.060533"
+    },
+    {
+        "county": "SAN JUAN",
+        "city": "SAN JUAN",
+        "zipcode": "00935",
+        "latitude": "+18.410462",
+        "longitude": "-066.060533"
+    },
+    {
+        "county": "SAN JUAN",
+        "city": "SAN JUAN",
+        "zipcode": "00936",
+        "latitude": "+18.410462",
+        "longitude": "-066.060533"
+    },
+    {
+        "county": "SAN JUAN",
+        "city": "SAN JUAN",
+        "zipcode": "00937",
+        "latitude": "+18.410462",
+        "longitude": "-066.060533"
+    },
+    {
+        "county": "SAN JUAN",
+        "city": "SAN JUAN",
+        "zipcode": "00938",
+        "latitude": "+18.410462",
+        "longitude": "-066.060533"
+    },
+    {
+        "county": "SAN JUAN",
+        "city": "SAN JUAN",
+        "zipcode": "00939",
+        "latitude": "+18.410462",
+        "longitude": "-066.060533"
+    },
+    {
+        "county": "SAN JUAN",
+        "city": "SAN JUAN",
+        "zipcode": "00940",
+        "latitude": "+18.410462",
+        "longitude": "-066.060533"
+    },
+    {
+        "county": "SAN JUAN",
+        "city": "SAN JUAN",
+        "zipcode": "00955",
+        "latitude": "+18.410462",
+        "longitude": "-066.060533"
+    },
+    {
+        "county": "SAN JUAN",
+        "city": "SAN JUAN",
+        "zipcode": "00975",
+        "latitude": "+18.410462",
+        "longitude": "-066.060533"
+    },
+    {
+        "county": "SAN LORENZO",
+        "city": "SAN LORENZO",
+        "zipcode": "00754",
+        "latitude": "+18.187584",
+        "longitude": "-065.962389"
+    },
+    {
+        "county": "SAN SEBASTIAN",
+        "city": "SAN SEBASTIAN",
+        "zipcode": "00685",
+        "latitude": "+18.323600",
+        "longitude": "-066.972227"
+    },
+    {
+        "county": "SANTA ISABEL",
+        "city": "SANTA ISABEL",
+        "zipcode": "00757",
+        "latitude": "+17.991233",
+        "longitude": "-066.395543"
+    },
+    {
+        "county": "TOA ALTA",
+        "city": "TOA ALTA",
+        "zipcode": "00953",
+        "latitude": "+18.356795",
+        "longitude": "-066.257010"
+    },
+    {
+        "county": "TOA ALTA",
+        "city": "TOA ALTA",
+        "zipcode": "00954",
+        "latitude": "+18.358939",
+        "longitude": "-066.258108"
+    },
+    {
+        "county": "TOA BAJA",
+        "city": "SABANA SECA",
+        "zipcode": "00952",
+        "latitude": "+18.457761",
+        "longitude": "-066.196503"
+    },
+    {
+        "county": "TOA BAJA",
+        "city": "TOA BAJA",
+        "zipcode": "00949",
+        "latitude": "+18.431911",
+        "longitude": "-066.199692"
+    },
+    {
+        "county": "TOA BAJA",
+        "city": "TOA BAJA",
+        "zipcode": "00950",
+        "latitude": "+18.457761",
+        "longitude": "-066.196503"
+    },
+    {
+        "county": "TOA BAJA",
+        "city": "TOA BAJA",
+        "zipcode": "00951",
+        "latitude": "+18.457761",
+        "longitude": "-066.196503"
+    },
+    {
+        "county": "TRUJILLO ALTO",
+        "city": "SAINT JUST CONTRACT",
+        "zipcode": "00978",
+        "latitude": "+18.337004",
+        "longitude": "-065.990099"
+    },
+    {
+        "county": "TRUJILLO ALTO",
+        "city": "TRUJILLO ALTO",
+        "zipcode": "00976",
+        "latitude": "+18.338133",
+        "longitude": "-065.989229"
+    },
+    {
+        "county": "TRUJILLO ALTO",
+        "city": "TRUJILLO ALTO",
+        "zipcode": "00977",
+        "latitude": "+18.337004",
+        "longitude": "-065.990099"
+    },
+    {
+        "county": "UTUADO",
+        "city": "ANGELES",
+        "zipcode": "00611",
+        "latitude": "+18.279531",
+        "longitude": "-066.802170"
+    },
+    {
+        "county": "UTUADO",
+        "city": "UTUADO",
+        "zipcode": "00641",
+        "latitude": "+18.250027",
+        "longitude": "-066.698957"
+    },
+    {
+        "county": "VEGA ALTA",
+        "city": "VEGA ALTA",
+        "zipcode": "00692",
+        "latitude": "+18.435818",
+        "longitude": "-066.338523"
+    },
+    {
+        "county": "VEGA BAJA",
+        "city": "VEGA BAJA",
+        "zipcode": "00693",
+        "latitude": "+18.443109",
+        "longitude": "-066.398302"
+    },
+    {
+        "county": "VEGA BAJA",
+        "city": "VEGA BAJA",
+        "zipcode": "00694",
+        "latitude": "+18.443109",
+        "longitude": "-066.398302"
+    },
+    {
+        "county": "VIEQUES",
+        "city": "VIEQUES",
+        "zipcode": "00765",
+        "latitude": "+18.123347",
+        "longitude": "-065.460356"
+    },
+    {
+        "county": "VILLALBA",
+        "city": "VILLALBA",
+        "zipcode": "00766",
+        "latitude": "+18.120519",
+        "longitude": "-066.496607"
+    },
+    {
+        "county": "YABUCOA",
+        "city": "YABUCOA",
+        "zipcode": "00767",
+        "latitude": "+18.045522",
+        "longitude": "-065.886988"
+    },
+    {
+        "county": "YAUCO",
+        "city": "YAUCO",
+        "zipcode": "00698",
+        "latitude": "+18.061040",
+        "longitude": "-066.861164"
+    }
+]

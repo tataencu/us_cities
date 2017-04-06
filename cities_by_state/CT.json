@@ -1,0 +1,1622 @@
+[
+    {
+        "county": "FAIRFIELD",
+        "city": "BETHEL",
+        "latitude": "+41.381244",
+        "longitude": "-073.399080"
+    },
+    {
+        "county": "FAIRFIELD",
+        "city": "BOTSFORD",
+        "latitude": "+41.165097",
+        "longitude": "-073.129186"
+    },
+    {
+        "county": "FAIRFIELD",
+        "city": "BRIDGEPORT",
+        "latitude": "+41.308873",
+        "longitude": "-073.363661"
+    },
+    {
+        "county": "FAIRFIELD",
+        "city": "BROOKFIELD",
+        "latitude": "+41.404799",
+        "longitude": "-073.275562"
+    },
+    {
+        "county": "FAIRFIELD",
+        "city": "COS COB",
+        "latitude": "+41.058646",
+        "longitude": "-073.587618"
+    },
+    {
+        "county": "FAIRFIELD",
+        "city": "DANBURY",
+        "latitude": "+41.308873",
+        "longitude": "-073.363661"
+    },
+    {
+        "county": "FAIRFIELD",
+        "city": "DARIEN",
+        "latitude": "+41.075846",
+        "longitude": "-073.480765"
+    },
+    {
+        "county": "FAIRFIELD",
+        "city": "EASTON",
+        "latitude": "+41.273016",
+        "longitude": "-073.297721"
+    },
+    {
+        "county": "FAIRFIELD",
+        "city": "FAIRFIELD",
+        "latitude": "+41.196046",
+        "longitude": "-073.252802"
+    },
+    {
+        "county": "FAIRFIELD",
+        "city": "GEORGETOWN",
+        "latitude": "+41.255530",
+        "longitude": "-073.427915"
+    },
+    {
+        "county": "FAIRFIELD",
+        "city": "GREENS FARMS",
+        "latitude": "+41.308873",
+        "longitude": "-073.363661"
+    },
+    {
+        "county": "FAIRFIELD",
+        "city": "GREENWICH",
+        "latitude": "+41.308873",
+        "longitude": "-073.363661"
+    },
+    {
+        "county": "FAIRFIELD",
+        "city": "HAWLEYVILLE",
+        "latitude": "+41.308873",
+        "longitude": "-073.363661"
+    },
+    {
+        "county": "FAIRFIELD",
+        "city": "MONROE",
+        "latitude": "+41.341845",
+        "longitude": "-073.236918"
+    },
+    {
+        "county": "FAIRFIELD",
+        "city": "NEW CANAAN",
+        "latitude": "+41.147096",
+        "longitude": "-073.495366"
+    },
+    {
+        "county": "FAIRFIELD",
+        "city": "NEW FAIRFIELD",
+        "latitude": "+41.486689",
+        "longitude": "-073.491042"
+    },
+    {
+        "county": "FAIRFIELD",
+        "city": "NEWTOWN",
+        "latitude": "+41.396295",
+        "longitude": "-073.310561"
+    },
+    {
+        "county": "FAIRFIELD",
+        "city": "NORWALK",
+        "latitude": "+41.308873",
+        "longitude": "-073.363661"
+    },
+    {
+        "county": "FAIRFIELD",
+        "city": "OLD GREENWICH",
+        "latitude": "+41.034946",
+        "longitude": "-073.566968"
+    },
+    {
+        "county": "FAIRFIELD",
+        "city": "REDDING",
+        "latitude": "+41.271095",
+        "longitude": "-073.386340"
+    },
+    {
+        "county": "FAIRFIELD",
+        "city": "REDDING CENTER",
+        "latitude": "+41.308873",
+        "longitude": "-073.363661"
+    },
+    {
+        "county": "FAIRFIELD",
+        "city": "REDDING RIDGE",
+        "latitude": "+41.032647",
+        "longitude": "-073.583569"
+    },
+    {
+        "county": "FAIRFIELD",
+        "city": "RIDGEFIELD",
+        "latitude": "+41.308873",
+        "longitude": "-073.363661"
+    },
+    {
+        "county": "FAIRFIELD",
+        "city": "RIVERSIDE",
+        "latitude": "+41.035596",
+        "longitude": "-073.580241"
+    },
+    {
+        "county": "FAIRFIELD",
+        "city": "SANDY HOOK",
+        "latitude": "+41.408137",
+        "longitude": "-073.249671"
+    },
+    {
+        "county": "FAIRFIELD",
+        "city": "SHELTON",
+        "latitude": "+41.314347",
+        "longitude": "-073.137143"
+    },
+    {
+        "county": "FAIRFIELD",
+        "city": "SHERMAN",
+        "latitude": "+41.525631",
+        "longitude": "-073.490891"
+    },
+    {
+        "county": "FAIRFIELD",
+        "city": "SOUTHPORT",
+        "latitude": "+41.143396",
+        "longitude": "-073.289859"
+    },
+    {
+        "county": "FAIRFIELD",
+        "city": "STAMFORD",
+        "latitude": "+41.308873",
+        "longitude": "-073.363661"
+    },
+    {
+        "county": "FAIRFIELD",
+        "city": "STEVENSON",
+        "latitude": "+41.386646",
+        "longitude": "-073.187207"
+    },
+    {
+        "county": "FAIRFIELD",
+        "city": "STRATFORD",
+        "latitude": "+41.177046",
+        "longitude": "-073.133574"
+    },
+    {
+        "county": "FAIRFIELD",
+        "city": "TRUMBULL",
+        "latitude": "+41.259996",
+        "longitude": "-073.206957"
+    },
+    {
+        "county": "FAIRFIELD",
+        "city": "WESTON",
+        "latitude": "+41.222945",
+        "longitude": "-073.376263"
+    },
+    {
+        "county": "FAIRFIELD",
+        "city": "WESTPORT",
+        "latitude": "+41.141005",
+        "longitude": "-073.346890"
+    },
+    {
+        "county": "FAIRFIELD",
+        "city": "WILTON",
+        "latitude": "+41.209695",
+        "longitude": "-073.439165"
+    },
+    {
+        "county": "HARTFORD",
+        "city": "AVON",
+        "latitude": "+41.757944",
+        "longitude": "-072.728272"
+    },
+    {
+        "county": "HARTFORD",
+        "city": "BERLIN",
+        "latitude": "+41.602948",
+        "longitude": "-072.769991"
+    },
+    {
+        "county": "HARTFORD",
+        "city": "BLOOMFIELD",
+        "latitude": "+41.851961",
+        "longitude": "-072.738939"
+    },
+    {
+        "county": "HARTFORD",
+        "city": "BRISTOL",
+        "latitude": "+41.791776",
+        "longitude": "-072.718832"
+    },
+    {
+        "county": "HARTFORD",
+        "city": "BROAD BROOK",
+        "latitude": "+41.842097",
+        "longitude": "-072.708388"
+    },
+    {
+        "county": "HARTFORD",
+        "city": "BURLINGTON",
+        "latitude": "+41.761773",
+        "longitude": "-072.958260"
+    },
+    {
+        "county": "HARTFORD",
+        "city": "CANTON",
+        "latitude": "+41.842882",
+        "longitude": "-072.899645"
+    },
+    {
+        "county": "HARTFORD",
+        "city": "CANTON CENTER",
+        "latitude": "+41.853921",
+        "longitude": "-072.902811"
+    },
+    {
+        "county": "HARTFORD",
+        "city": "COLLINSVILLE",
+        "latitude": "+41.851597",
+        "longitude": "-072.918127"
+    },
+    {
+        "county": "HARTFORD",
+        "city": "EAST BERLIN",
+        "latitude": "+41.613489",
+        "longitude": "-072.720700"
+    },
+    {
+        "county": "HARTFORD",
+        "city": "EAST GLASTONBURY",
+        "latitude": "+41.688896",
+        "longitude": "-072.534482"
+    },
+    {
+        "county": "HARTFORD",
+        "city": "EAST GRANBY",
+        "latitude": "+41.939096",
+        "longitude": "-072.740538"
+    },
+    {
+        "county": "HARTFORD",
+        "city": "EAST HARTFORD",
+        "latitude": "+41.791776",
+        "longitude": "-072.718832"
+    },
+    {
+        "county": "HARTFORD",
+        "city": "EAST HARTLAND",
+        "latitude": "+42.004978",
+        "longitude": "-072.896907"
+    },
+    {
+        "county": "HARTFORD",
+        "city": "EAST WINDSOR",
+        "latitude": "+41.903347",
+        "longitude": "-072.592883"
+    },
+    {
+        "county": "HARTFORD",
+        "city": "EAST WINDSOR HILL",
+        "latitude": "+41.859248",
+        "longitude": "-072.603033"
+    },
+    {
+        "county": "HARTFORD",
+        "city": "ENFIELD",
+        "latitude": "+41.791776",
+        "longitude": "-072.718832"
+    },
+    {
+        "county": "HARTFORD",
+        "city": "FARMINGTON",
+        "latitude": "+41.791776",
+        "longitude": "-072.718832"
+    },
+    {
+        "county": "HARTFORD",
+        "city": "GLASTONBURY",
+        "latitude": "+41.703451",
+        "longitude": "-072.539332"
+    },
+    {
+        "county": "HARTFORD",
+        "city": "GRANBY",
+        "latitude": "+41.966062",
+        "longitude": "-072.796407"
+    },
+    {
+        "county": "HARTFORD",
+        "city": "HARTFORD",
+        "latitude": "+41.927447",
+        "longitude": "-072.680386"
+    },
+    {
+        "county": "HARTFORD",
+        "city": "MANCHESTER",
+        "latitude": "+41.791776",
+        "longitude": "-072.718832"
+    },
+    {
+        "county": "HARTFORD",
+        "city": "MARION",
+        "latitude": "+41.791776",
+        "longitude": "-072.718832"
+    },
+    {
+        "county": "HARTFORD",
+        "city": "MARLBOROUGH",
+        "latitude": "+41.636949",
+        "longitude": "-072.463179"
+    },
+    {
+        "county": "HARTFORD",
+        "city": "MELROSE",
+        "latitude": "+41.791776",
+        "longitude": "-072.718832"
+    },
+    {
+        "county": "HARTFORD",
+        "city": "MILLDALE",
+        "latitude": "+41.565697",
+        "longitude": "-072.903746"
+    },
+    {
+        "county": "HARTFORD",
+        "city": "NEW BRITAIN",
+        "latitude": "+41.690249",
+        "longitude": "-072.790991"
+    },
+    {
+        "county": "HARTFORD",
+        "city": "NEWINGTON",
+        "latitude": "+41.791776",
+        "longitude": "-072.718832"
+    },
+    {
+        "county": "HARTFORD",
+        "city": "NORTH CANTON",
+        "latitude": "+41.899683",
+        "longitude": "-072.890744"
+    },
+    {
+        "county": "HARTFORD",
+        "city": "NORTH GRANBY",
+        "latitude": "+42.004694",
+        "longitude": "-072.843205"
+    },
+    {
+        "county": "HARTFORD",
+        "city": "PLAINVILLE",
+        "latitude": "+41.672983",
+        "longitude": "-072.859695"
+    },
+    {
+        "county": "HARTFORD",
+        "city": "PLANTSVILLE",
+        "latitude": "+41.577845",
+        "longitude": "-072.902496"
+    },
+    {
+        "county": "HARTFORD",
+        "city": "POQUONOCK",
+        "latitude": "+41.791776",
+        "longitude": "-072.718832"
+    },
+    {
+        "county": "HARTFORD",
+        "city": "ROCKY HILL",
+        "latitude": "+41.657249",
+        "longitude": "-072.670887"
+    },
+    {
+        "county": "HARTFORD",
+        "city": "SIMSBURY",
+        "latitude": "+41.868647",
+        "longitude": "-072.819742"
+    },
+    {
+        "county": "HARTFORD",
+        "city": "SOUTH GLASTONBURY",
+        "latitude": "+41.657099",
+        "longitude": "-072.572233"
+    },
+    {
+        "county": "HARTFORD",
+        "city": "SOUTH WINDSOR",
+        "latitude": "+41.834198",
+        "longitude": "-072.564632"
+    },
+    {
+        "county": "HARTFORD",
+        "city": "SOUTHINGTON",
+        "latitude": "+41.604786",
+        "longitude": "-072.871945"
+    },
+    {
+        "county": "HARTFORD",
+        "city": "SUFFIELD",
+        "latitude": "+41.948597",
+        "longitude": "-072.628802"
+    },
+    {
+        "county": "HARTFORD",
+        "city": "TARIFFVILLE",
+        "latitude": "+41.905269",
+        "longitude": "-072.767239"
+    },
+    {
+        "county": "HARTFORD",
+        "city": "UNIONVILLE",
+        "latitude": "+41.757616",
+        "longitude": "-072.884953"
+    },
+    {
+        "county": "HARTFORD",
+        "city": "W HARTFORD",
+        "latitude": "+41.791776",
+        "longitude": "-072.718832"
+    },
+    {
+        "county": "HARTFORD",
+        "city": "WEATOGUE",
+        "latitude": "+41.889965",
+        "longitude": "-072.704000"
+    },
+    {
+        "county": "HARTFORD",
+        "city": "WEST GRANBY",
+        "latitude": "+41.955645",
+        "longitude": "-072.861993"
+    },
+    {
+        "county": "HARTFORD",
+        "city": "WEST HARTLAND",
+        "latitude": "+42.003447",
+        "longitude": "-072.992109"
+    },
+    {
+        "county": "HARTFORD",
+        "city": "WEST SIMSBURY",
+        "latitude": "+41.865597",
+        "longitude": "-072.849854"
+    },
+    {
+        "county": "HARTFORD",
+        "city": "WEST SUFFIELD",
+        "latitude": "+42.005795",
+        "longitude": "-072.727337"
+    },
+    {
+        "county": "HARTFORD",
+        "city": "WETHERSFIELD",
+        "latitude": "+41.791776",
+        "longitude": "-072.718832"
+    },
+    {
+        "county": "HARTFORD",
+        "city": "WINDSOR",
+        "latitude": "+41.909988",
+        "longitude": "-072.804935"
+    },
+    {
+        "county": "HARTFORD",
+        "city": "WINDSOR LOCKS",
+        "latitude": "+41.933846",
+        "longitude": "-072.660245"
+    },
+    {
+        "county": "LITCHFIELD",
+        "city": "BANTAM",
+        "latitude": "+41.714352",
+        "longitude": "-073.251598"
+    },
+    {
+        "county": "LITCHFIELD",
+        "city": "BARKHAMSTED",
+        "latitude": "+41.939370",
+        "longitude": "-072.990647"
+    },
+    {
+        "county": "LITCHFIELD",
+        "city": "BETHLEHEM",
+        "latitude": "+41.640900",
+        "longitude": "-073.209685"
+    },
+    {
+        "county": "LITCHFIELD",
+        "city": "BRIDGEWATER",
+        "latitude": "+41.520312",
+        "longitude": "-073.363875"
+    },
+    {
+        "county": "LITCHFIELD",
+        "city": "CANAAN",
+        "latitude": "+42.001585",
+        "longitude": "-073.295891"
+    },
+    {
+        "county": "LITCHFIELD",
+        "city": "COLEBROOK",
+        "latitude": "+42.005809",
+        "longitude": "-073.118329"
+    },
+    {
+        "county": "LITCHFIELD",
+        "city": "CORNWALL",
+        "latitude": "+41.828067",
+        "longitude": "-073.332345"
+    },
+    {
+        "county": "LITCHFIELD",
+        "city": "CORNWALL BRIDGE",
+        "latitude": "+41.744373",
+        "longitude": "-073.301922"
+    },
+    {
+        "county": "LITCHFIELD",
+        "city": "EAST CANAAN",
+        "latitude": "+42.015806",
+        "longitude": "-073.291299"
+    },
+    {
+        "county": "LITCHFIELD",
+        "city": "FALLS VILLAGE",
+        "latitude": "+41.949717",
+        "longitude": "-073.304403"
+    },
+    {
+        "county": "LITCHFIELD",
+        "city": "GAYLORDSVILLE",
+        "latitude": "+41.634686",
+        "longitude": "-073.472048"
+    },
+    {
+        "county": "LITCHFIELD",
+        "city": "GOSHEN",
+        "latitude": "+41.794278",
+        "longitude": "-073.239023"
+    },
+    {
+        "county": "LITCHFIELD",
+        "city": "HARWINTON",
+        "latitude": "+41.649639",
+        "longitude": "-073.176163"
+    },
+    {
+        "county": "LITCHFIELD",
+        "city": "KENT",
+        "latitude": "+41.774725",
+        "longitude": "-073.401908"
+    },
+    {
+        "county": "LITCHFIELD",
+        "city": "LAKESIDE",
+        "latitude": "+41.739889",
+        "longitude": "-073.222981"
+    },
+    {
+        "county": "LITCHFIELD",
+        "city": "LAKEVILLE",
+        "latitude": "+41.951917",
+        "longitude": "-073.381380"
+    },
+    {
+        "county": "LITCHFIELD",
+        "city": "LITCHFIELD",
+        "latitude": "+41.791598",
+        "longitude": "-073.229787"
+    },
+    {
+        "county": "LITCHFIELD",
+        "city": "MORRIS",
+        "latitude": "+41.689616",
+        "longitude": "-073.212587"
+    },
+    {
+        "county": "LITCHFIELD",
+        "city": "NEW HARTFORD",
+        "latitude": "+41.883102",
+        "longitude": "-073.045918"
+    },
+    {
+        "county": "LITCHFIELD",
+        "city": "NEW MILFORD",
+        "latitude": "+41.658619",
+        "longitude": "-073.366017"
+    },
+    {
+        "county": "LITCHFIELD",
+        "city": "NEW PRESTON MARBLE DALE",
+        "latitude": "+41.690297",
+        "longitude": "-073.310346"
+    },
+    {
+        "county": "LITCHFIELD",
+        "city": "NORFOLK",
+        "latitude": "+41.886811",
+        "longitude": "-073.184674"
+    },
+    {
+        "county": "LITCHFIELD",
+        "city": "NORTHFIELD",
+        "latitude": "+41.707722",
+        "longitude": "-073.108997"
+    },
+    {
+        "county": "LITCHFIELD",
+        "city": "OAKVILLE",
+        "latitude": "+41.604052",
+        "longitude": "-073.216887"
+    },
+    {
+        "county": "LITCHFIELD",
+        "city": "PEQUABUCK",
+        "latitude": "+41.669898",
+        "longitude": "-072.991450"
+    },
+    {
+        "county": "LITCHFIELD",
+        "city": "PINE MEADOW",
+        "latitude": "+41.874382",
+        "longitude": "-072.967958"
+    },
+    {
+        "county": "LITCHFIELD",
+        "city": "PLYMOUTH",
+        "latitude": "+41.658730",
+        "longitude": "-073.044364"
+    },
+    {
+        "county": "LITCHFIELD",
+        "city": "RIVERTON",
+        "latitude": "+41.968597",
+        "longitude": "-073.014467"
+    },
+    {
+        "county": "LITCHFIELD",
+        "city": "ROXBURY",
+        "latitude": "+41.578971",
+        "longitude": "-073.298344"
+    },
+    {
+        "county": "LITCHFIELD",
+        "city": "SALISBURY",
+        "latitude": "+42.005790",
+        "longitude": "-073.399336"
+    },
+    {
+        "county": "LITCHFIELD",
+        "city": "SHARON",
+        "latitude": "+41.874681",
+        "longitude": "-073.433903"
+    },
+    {
+        "county": "LITCHFIELD",
+        "city": "SOUTH KENT",
+        "latitude": "+41.682439",
+        "longitude": "-073.305256"
+    },
+    {
+        "county": "LITCHFIELD",
+        "city": "TACONIC",
+        "latitude": "+42.032012",
+        "longitude": "-073.403763"
+    },
+    {
+        "county": "LITCHFIELD",
+        "city": "TERRYVILLE",
+        "latitude": "+41.663530",
+        "longitude": "-073.022449"
+    },
+    {
+        "county": "LITCHFIELD",
+        "city": "THOMASTON",
+        "latitude": "+41.658721",
+        "longitude": "-073.098657"
+    },
+    {
+        "county": "LITCHFIELD",
+        "city": "TORRINGTON",
+        "latitude": "+41.874840",
+        "longitude": "-073.126763"
+    },
+    {
+        "county": "LITCHFIELD",
+        "city": "WASHINGTON",
+        "latitude": "+41.718159",
+        "longitude": "-073.294187"
+    },
+    {
+        "county": "LITCHFIELD",
+        "city": "WASHINGTON DEPOT",
+        "latitude": "+41.646347",
+        "longitude": "-073.316951"
+    },
+    {
+        "county": "LITCHFIELD",
+        "city": "WATERTOWN",
+        "latitude": "+41.759427",
+        "longitude": "-073.162003"
+    },
+    {
+        "county": "LITCHFIELD",
+        "city": "WEST CORNWALL",
+        "latitude": "+41.821529",
+        "longitude": "-073.350384"
+    },
+    {
+        "county": "LITCHFIELD",
+        "city": "WINCHESTER CENTER",
+        "latitude": "+41.896321",
+        "longitude": "-073.146312"
+    },
+    {
+        "county": "LITCHFIELD",
+        "city": "WINSTED",
+        "latitude": "+41.925671",
+        "longitude": "-073.058157"
+    },
+    {
+        "county": "LITCHFIELD",
+        "city": "WOODBURY",
+        "latitude": "+41.733106",
+        "longitude": "-073.135499"
+    },
+    {
+        "county": "MIDDLESEX",
+        "city": "CENTERBROOK",
+        "latitude": "+41.349098",
+        "longitude": "-072.413380"
+    },
+    {
+        "county": "MIDDLESEX",
+        "city": "CHESTER",
+        "latitude": "+41.390270",
+        "longitude": "-072.461805"
+    },
+    {
+        "county": "MIDDLESEX",
+        "city": "CLINTON",
+        "latitude": "+41.298201",
+        "longitude": "-072.532934"
+    },
+    {
+        "county": "MIDDLESEX",
+        "city": "COBALT",
+        "latitude": "+41.566668",
+        "longitude": "-072.558055"
+    },
+    {
+        "county": "MIDDLESEX",
+        "city": "CROMWELL",
+        "latitude": "+41.608529",
+        "longitude": "-072.667807"
+    },
+    {
+        "county": "MIDDLESEX",
+        "city": "DEEP RIVER",
+        "latitude": "+41.368124",
+        "longitude": "-072.452284"
+    },
+    {
+        "county": "MIDDLESEX",
+        "city": "DURHAM",
+        "latitude": "+41.462468",
+        "longitude": "-072.682297"
+    },
+    {
+        "county": "MIDDLESEX",
+        "city": "EAST HADDAM",
+        "latitude": "+41.475478",
+        "longitude": "-072.389729"
+    },
+    {
+        "county": "MIDDLESEX",
+        "city": "EAST HAMPTON",
+        "latitude": "+41.559841",
+        "longitude": "-072.494927"
+    },
+    {
+        "county": "MIDDLESEX",
+        "city": "ESSEX",
+        "latitude": "+41.448179",
+        "longitude": "-072.504260"
+    },
+    {
+        "county": "MIDDLESEX",
+        "city": "HADDAM",
+        "latitude": "+41.471457",
+        "longitude": "-072.511376"
+    },
+    {
+        "county": "MIDDLESEX",
+        "city": "HIGGANUM",
+        "latitude": "+41.462718",
+        "longitude": "-072.578971"
+    },
+    {
+        "county": "MIDDLESEX",
+        "city": "IVORYTON",
+        "latitude": "+41.344076",
+        "longitude": "-072.444369"
+    },
+    {
+        "county": "MIDDLESEX",
+        "city": "KILLINGWORTH",
+        "latitude": "+41.417962",
+        "longitude": "-072.493446"
+    },
+    {
+        "county": "MIDDLESEX",
+        "city": "MIDDLE HADDAM",
+        "latitude": "+41.538017",
+        "longitude": "-072.525208"
+    },
+    {
+        "county": "MIDDLESEX",
+        "city": "MIDDLEFIELD",
+        "latitude": "+41.515346",
+        "longitude": "-072.712988"
+    },
+    {
+        "county": "MIDDLESEX",
+        "city": "MIDDLETOWN",
+        "latitude": "+41.556463",
+        "longitude": "-072.658179"
+    },
+    {
+        "county": "MIDDLESEX",
+        "city": "MOODUS",
+        "latitude": "+41.508904",
+        "longitude": "-072.440086"
+    },
+    {
+        "county": "MIDDLESEX",
+        "city": "OLD SAYBROOK",
+        "latitude": "+41.300448",
+        "longitude": "-072.389129"
+    },
+    {
+        "county": "MIDDLESEX",
+        "city": "PORTLAND",
+        "latitude": "+41.598339",
+        "longitude": "-072.601307"
+    },
+    {
+        "county": "MIDDLESEX",
+        "city": "ROCKFALL",
+        "latitude": "+41.542105",
+        "longitude": "-072.666583"
+    },
+    {
+        "county": "MIDDLESEX",
+        "city": "WESTBROOK",
+        "latitude": "+41.307899",
+        "longitude": "-072.463381"
+    },
+    {
+        "county": "NEW HAVEN",
+        "city": "ANSONIA",
+        "latitude": "+41.342514",
+        "longitude": "-073.070301"
+    },
+    {
+        "county": "NEW HAVEN",
+        "city": "BEACON FALLS",
+        "latitude": "+41.435134",
+        "longitude": "-073.058835"
+    },
+    {
+        "county": "NEW HAVEN",
+        "city": "BETHANY",
+        "latitude": "+41.428088",
+        "longitude": "-072.996191"
+    },
+    {
+        "county": "NEW HAVEN",
+        "city": "BRANFORD",
+        "latitude": "+41.284746",
+        "longitude": "-072.796292"
+    },
+    {
+        "county": "NEW HAVEN",
+        "city": "CHESHIRE",
+        "latitude": "+41.550097",
+        "longitude": "-072.922235"
+    },
+    {
+        "county": "NEW HAVEN",
+        "city": "DERBY",
+        "latitude": "+41.327246",
+        "longitude": "-073.084252"
+    },
+    {
+        "county": "NEW HAVEN",
+        "city": "EAST HAVEN",
+        "latitude": "+41.290997",
+        "longitude": "-072.865894"
+    },
+    {
+        "county": "NEW HAVEN",
+        "city": "GUILFORD",
+        "latitude": "+41.338847",
+        "longitude": "-072.690089"
+    },
+    {
+        "county": "NEW HAVEN",
+        "city": "HAMDEN",
+        "latitude": "+41.416747",
+        "longitude": "-072.906096"
+    },
+    {
+        "county": "NEW HAVEN",
+        "city": "MADISON",
+        "latitude": "+41.350397",
+        "longitude": "-072.788392"
+    },
+    {
+        "county": "NEW HAVEN",
+        "city": "MERIDEN",
+        "latitude": "+41.365709",
+        "longitude": "-072.927507"
+    },
+    {
+        "county": "NEW HAVEN",
+        "city": "MIDDLEBURY",
+        "latitude": "+41.528274",
+        "longitude": "-073.116458"
+    },
+    {
+        "county": "NEW HAVEN",
+        "city": "MILFORD",
+        "latitude": "+41.343773",
+        "longitude": "-072.951273"
+    },
+    {
+        "county": "NEW HAVEN",
+        "city": "NAUGATUCK",
+        "latitude": "+41.491016",
+        "longitude": "-073.052965"
+    },
+    {
+        "county": "NEW HAVEN",
+        "city": "NEW HAVEN",
+        "latitude": "+41.299647",
+        "longitude": "-072.918846"
+    },
+    {
+        "county": "NEW HAVEN",
+        "city": "NORTH BRANFORD",
+        "latitude": "+41.332347",
+        "longitude": "-072.780892"
+    },
+    {
+        "county": "NEW HAVEN",
+        "city": "NORTH HAVEN",
+        "latitude": "+41.384381",
+        "longitude": "-072.862644"
+    },
+    {
+        "county": "NEW HAVEN",
+        "city": "NORTHFORD",
+        "latitude": "+41.379797",
+        "longitude": "-072.772991"
+    },
+    {
+        "county": "NEW HAVEN",
+        "city": "ORANGE",
+        "latitude": "+41.279896",
+        "longitude": "-073.031018"
+    },
+    {
+        "county": "NEW HAVEN",
+        "city": "OXFORD",
+        "latitude": "+41.432583",
+        "longitude": "-073.138379"
+    },
+    {
+        "county": "NEW HAVEN",
+        "city": "PROSPECT",
+        "latitude": "+41.499097",
+        "longitude": "-072.975694"
+    },
+    {
+        "county": "NEW HAVEN",
+        "city": "SEYMOUR",
+        "latitude": "+41.417646",
+        "longitude": "-073.102078"
+    },
+    {
+        "county": "NEW HAVEN",
+        "city": "SOUTH BRITAIN",
+        "latitude": "+41.365709",
+        "longitude": "-072.927507"
+    },
+    {
+        "county": "NEW HAVEN",
+        "city": "SOUTHBURY",
+        "latitude": "+41.470921",
+        "longitude": "-073.240839"
+    },
+    {
+        "county": "NEW HAVEN",
+        "city": "WALLINGFORD",
+        "latitude": "+41.365709",
+        "longitude": "-072.927507"
+    },
+    {
+        "county": "NEW HAVEN",
+        "city": "WATERBURY",
+        "latitude": "+41.365709",
+        "longitude": "-072.927507"
+    },
+    {
+        "county": "NEW HAVEN",
+        "city": "WEST HAVEN",
+        "latitude": "+41.272452",
+        "longitude": "-072.940335"
+    },
+    {
+        "county": "NEW HAVEN",
+        "city": "WOLCOTT",
+        "latitude": "+41.598347",
+        "longitude": "-072.980578"
+    },
+    {
+        "county": "NEW HAVEN",
+        "city": "WOODBRIDGE",
+        "latitude": "+41.353296",
+        "longitude": "-073.013981"
+    },
+    {
+        "county": "NEW LONDON",
+        "city": "BALTIC",
+        "latitude": "+41.501708",
+        "longitude": "-072.044306"
+    },
+    {
+        "county": "NEW LONDON",
+        "city": "BOZRAH",
+        "latitude": "+41.544598",
+        "longitude": "-072.177023"
+    },
+    {
+        "county": "NEW LONDON",
+        "city": "COLCHESTER",
+        "latitude": "+41.546443",
+        "longitude": "-072.338832"
+    },
+    {
+        "county": "NEW LONDON",
+        "city": "EAST LYME",
+        "latitude": "+41.378842",
+        "longitude": "-072.236794"
+    },
+    {
+        "county": "NEW LONDON",
+        "city": "GALES FERRY",
+        "latitude": "+41.523377",
+        "longitude": "-072.021165"
+    },
+    {
+        "county": "NEW LONDON",
+        "city": "GILMAN",
+        "latitude": "+41.579548",
+        "longitude": "-072.196273"
+    },
+    {
+        "county": "NEW LONDON",
+        "city": "GLASGO",
+        "latitude": "+41.559873",
+        "longitude": "-071.889199"
+    },
+    {
+        "county": "NEW LONDON",
+        "city": "GROTON",
+        "latitude": "+41.399730",
+        "longitude": "-072.090357"
+    },
+    {
+        "county": "NEW LONDON",
+        "city": "HADLYME",
+        "latitude": "+41.421198",
+        "longitude": "-072.414095"
+    },
+    {
+        "county": "NEW LONDON",
+        "city": "HANOVER",
+        "latitude": "+41.644546",
+        "longitude": "-072.067690"
+    },
+    {
+        "county": "NEW LONDON",
+        "city": "JEWETT CITY",
+        "latitude": "+41.599562",
+        "longitude": "-071.982619"
+    },
+    {
+        "county": "NEW LONDON",
+        "city": "LEBANON",
+        "latitude": "+41.628008",
+        "longitude": "-072.245422"
+    },
+    {
+        "county": "NEW LONDON",
+        "city": "LEDYARD",
+        "latitude": "+41.492843",
+        "longitude": "-071.965554"
+    },
+    {
+        "county": "NEW LONDON",
+        "city": "MONTVILLE",
+        "latitude": "+41.452548",
+        "longitude": "-072.137471"
+    },
+    {
+        "county": "NEW LONDON",
+        "city": "MYSTIC",
+        "latitude": "+41.485188",
+        "longitude": "-072.000748"
+    },
+    {
+        "county": "NEW LONDON",
+        "city": "NEW LONDON",
+        "latitude": "+41.413998",
+        "longitude": "-072.109070"
+    },
+    {
+        "county": "NEW LONDON",
+        "city": "NIANTIC",
+        "latitude": "+41.323447",
+        "longitude": "-072.215623"
+    },
+    {
+        "county": "NEW LONDON",
+        "city": "NORTH FRANKLIN",
+        "latitude": "+41.609895",
+        "longitude": "-072.150305"
+    },
+    {
+        "county": "NEW LONDON",
+        "city": "NORTH STONINGTON",
+        "latitude": "+41.466851",
+        "longitude": "-071.880694"
+    },
+    {
+        "county": "NEW LONDON",
+        "city": "NORTH WESTCHESTER",
+        "latitude": "+41.464758",
+        "longitude": "-072.127301"
+    },
+    {
+        "county": "NEW LONDON",
+        "city": "NORWICH",
+        "latitude": "+41.499398",
+        "longitude": "-071.994757"
+    },
+    {
+        "county": "NEW LONDON",
+        "city": "OAKDALE",
+        "latitude": "+41.512172",
+        "longitude": "-072.102302"
+    },
+    {
+        "county": "NEW LONDON",
+        "city": "OLD LYME",
+        "latitude": "+41.409397",
+        "longitude": "-072.147665"
+    },
+    {
+        "county": "NEW LONDON",
+        "city": "OLD MYSTIC",
+        "latitude": "+41.388216",
+        "longitude": "-071.949548"
+    },
+    {
+        "county": "NEW LONDON",
+        "city": "PAWCATUCK",
+        "latitude": "+41.455191",
+        "longitude": "-071.895547"
+    },
+    {
+        "county": "NEW LONDON",
+        "city": "PRESTON",
+        "latitude": "+41.522369",
+        "longitude": "-071.993427"
+    },
+    {
+        "county": "NEW LONDON",
+        "city": "QUAKER HILL",
+        "latitude": "+41.401066",
+        "longitude": "-072.140022"
+    },
+    {
+        "county": "NEW LONDON",
+        "city": "SALEM",
+        "latitude": "+41.527441",
+        "longitude": "-072.269141"
+    },
+    {
+        "county": "NEW LONDON",
+        "city": "SOUTH LYME",
+        "latitude": "+41.296668",
+        "longitude": "-072.263296"
+    },
+    {
+        "county": "NEW LONDON",
+        "city": "STONINGTON",
+        "latitude": "+41.378598",
+        "longitude": "-071.917915"
+    },
+    {
+        "county": "NEW LONDON",
+        "city": "TAFTVILLE",
+        "latitude": "+41.563998",
+        "longitude": "-072.055220"
+    },
+    {
+        "county": "NEW LONDON",
+        "city": "UNCASVILLE",
+        "latitude": "+41.424507",
+        "longitude": "-072.069578"
+    },
+    {
+        "county": "NEW LONDON",
+        "city": "VERSAILLES",
+        "latitude": "+41.601648",
+        "longitude": "-072.040370"
+    },
+    {
+        "county": "NEW LONDON",
+        "city": "VOLUNTOWN",
+        "latitude": "+41.576894",
+        "longitude": "-071.866587"
+    },
+    {
+        "county": "NEW LONDON",
+        "city": "WATERFORD",
+        "latitude": "+41.464758",
+        "longitude": "-072.127301"
+    },
+    {
+        "county": "NEW LONDON",
+        "city": "WEST MYSTIC",
+        "latitude": "+41.344098",
+        "longitude": "-071.976467"
+    },
+    {
+        "county": "NEW LONDON",
+        "city": "YANTIC",
+        "latitude": "+41.559648",
+        "longitude": "-072.122672"
+    },
+    {
+        "county": "TOLLAND",
+        "city": "AMSTON",
+        "latitude": "+41.626377",
+        "longitude": "-072.372800"
+    },
+    {
+        "county": "TOLLAND",
+        "city": "ANDOVER",
+        "latitude": "+41.731847",
+        "longitude": "-072.374634"
+    },
+    {
+        "county": "TOLLAND",
+        "city": "BOLTON",
+        "latitude": "+41.768648",
+        "longitude": "-072.439278"
+    },
+    {
+        "county": "TOLLAND",
+        "city": "COLUMBIA",
+        "latitude": "+41.696124",
+        "longitude": "-072.300043"
+    },
+    {
+        "county": "TOLLAND",
+        "city": "COVENTRY",
+        "latitude": "+41.778623",
+        "longitude": "-072.323642"
+    },
+    {
+        "county": "TOLLAND",
+        "city": "ELLINGTON",
+        "latitude": "+41.849319",
+        "longitude": "-072.411777"
+    },
+    {
+        "county": "TOLLAND",
+        "city": "HEBRON",
+        "latitude": "+41.689249",
+        "longitude": "-072.398627"
+    },
+    {
+        "county": "TOLLAND",
+        "city": "MANSFIELD CENTER",
+        "latitude": "+41.781550",
+        "longitude": "-072.225540"
+    },
+    {
+        "county": "TOLLAND",
+        "city": "MANSFIELD DEPOT",
+        "latitude": "+41.799326",
+        "longitude": "-072.306526"
+    },
+    {
+        "county": "TOLLAND",
+        "city": "SOMERS",
+        "latitude": "+41.919603",
+        "longitude": "-072.433046"
+    },
+    {
+        "county": "TOLLAND",
+        "city": "SOMERSVILLE",
+        "latitude": "+41.976466",
+        "longitude": "-072.490593"
+    },
+    {
+        "county": "TOLLAND",
+        "city": "SOUTH WILLINGTON",
+        "latitude": "+41.811520",
+        "longitude": "-072.308779"
+    },
+    {
+        "county": "TOLLAND",
+        "city": "STAFFORD",
+        "latitude": "+41.811520",
+        "longitude": "-072.308779"
+    },
+    {
+        "county": "TOLLAND",
+        "city": "STAFFORD SPRINGS",
+        "latitude": "+41.900495",
+        "longitude": "-072.276410"
+    },
+    {
+        "county": "TOLLAND",
+        "city": "STAFFORDVILLE",
+        "latitude": "+41.991645",
+        "longitude": "-072.257735"
+    },
+    {
+        "county": "TOLLAND",
+        "city": "STORRS MANSFIELD",
+        "latitude": "+41.808007",
+        "longitude": "-072.250963"
+    },
+    {
+        "county": "TOLLAND",
+        "city": "TOLLAND",
+        "latitude": "+41.882553",
+        "longitude": "-072.361039"
+    },
+    {
+        "county": "TOLLAND",
+        "city": "VERNON ROCKVILLE",
+        "latitude": "+41.837200",
+        "longitude": "-072.454917"
+    },
+    {
+        "county": "TOLLAND",
+        "city": "WILLINGTON",
+        "latitude": "+41.896623",
+        "longitude": "-072.262236"
+    },
+    {
+        "county": "WINDHAM",
+        "city": "ABINGTON",
+        "latitude": "+41.847302",
+        "longitude": "-072.025280"
+    },
+    {
+        "county": "WINDHAM",
+        "city": "ASHFORD",
+        "latitude": "+41.889043",
+        "longitude": "-072.147561"
+    },
+    {
+        "county": "WINDHAM",
+        "city": "BALLOUVILLE",
+        "latitude": "+41.831565",
+        "longitude": "-072.020137"
+    },
+    {
+        "county": "WINDHAM",
+        "city": "BROOKLYN",
+        "latitude": "+41.847758",
+        "longitude": "-071.983412"
+    },
+    {
+        "county": "WINDHAM",
+        "city": "CANTERBURY",
+        "latitude": "+41.696753",
+        "longitude": "-071.998277"
+    },
+    {
+        "county": "WINDHAM",
+        "city": "CENTRAL VILLAGE",
+        "latitude": "+41.725694",
+        "longitude": "-071.909019"
+    },
+    {
+        "county": "WINDHAM",
+        "city": "CHAPLIN",
+        "latitude": "+41.802940",
+        "longitude": "-072.126036"
+    },
+    {
+        "county": "WINDHAM",
+        "city": "DANIELSON",
+        "latitude": "+41.864901",
+        "longitude": "-071.874354"
+    },
+    {
+        "county": "WINDHAM",
+        "city": "DAYVILLE",
+        "latitude": "+41.854975",
+        "longitude": "-071.858826"
+    },
+    {
+        "county": "WINDHAM",
+        "city": "EAST KILLINGLY",
+        "latitude": "+41.844885",
+        "longitude": "-071.818941"
+    },
+    {
+        "county": "WINDHAM",
+        "city": "EAST WOODSTOCK",
+        "latitude": "+41.984327",
+        "longitude": "-071.981045"
+    },
+    {
+        "county": "WINDHAM",
+        "city": "EASTFORD",
+        "latitude": "+41.927524",
+        "longitude": "-072.041112"
+    },
+    {
+        "county": "WINDHAM",
+        "city": "FABYAN",
+        "latitude": "+42.019776",
+        "longitude": "-071.941669"
+    },
+    {
+        "county": "WINDHAM",
+        "city": "GROSVENOR DALE",
+        "latitude": "+41.971116",
+        "longitude": "-071.891732"
+    },
+    {
+        "county": "WINDHAM",
+        "city": "HAMPTON",
+        "latitude": "+41.788756",
+        "longitude": "-071.975819"
+    },
+    {
+        "county": "WINDHAM",
+        "city": "MOOSUP",
+        "latitude": "+41.704931",
+        "longitude": "-071.849772"
+    },
+    {
+        "county": "WINDHAM",
+        "city": "NORTH GROSVENORDALE",
+        "latitude": "+41.978392",
+        "longitude": "-071.899716"
+    },
+    {
+        "county": "WINDHAM",
+        "city": "NORTH WINDHAM",
+        "latitude": "+41.778469",
+        "longitude": "-072.040003"
+    },
+    {
+        "county": "WINDHAM",
+        "city": "ONECO",
+        "latitude": "+41.678546",
+        "longitude": "-071.817759"
+    },
+    {
+        "county": "WINDHAM",
+        "city": "PLAINFIELD",
+        "latitude": "+41.688121",
+        "longitude": "-071.884113"
+    },
+    {
+        "county": "WINDHAM",
+        "city": "POMFRET",
+        "latitude": "+41.889048",
+        "longitude": "-071.968232"
+    },
+    {
+        "county": "WINDHAM",
+        "city": "POMFRET CENTER",
+        "latitude": "+41.863133",
+        "longitude": "-072.002590"
+    },
+    {
+        "county": "WINDHAM",
+        "city": "PUTNAM",
+        "latitude": "+41.862904",
+        "longitude": "-071.887712"
+    },
+    {
+        "county": "WINDHAM",
+        "city": "QUINEBAUG",
+        "latitude": "+42.021536",
+        "longitude": "-071.947077"
+    },
+    {
+        "county": "WINDHAM",
+        "city": "ROGERS",
+        "latitude": "+41.839051",
+        "longitude": "-071.906340"
+    },
+    {
+        "county": "WINDHAM",
+        "city": "SCOTLAND",
+        "latitude": "+41.695803",
+        "longitude": "-072.087045"
+    },
+    {
+        "county": "WINDHAM",
+        "city": "SOUTH WINDHAM",
+        "latitude": "+41.674079",
+        "longitude": "-072.172298"
+    },
+    {
+        "county": "WINDHAM",
+        "city": "SOUTH WOODSTOCK",
+        "latitude": "+41.943902",
+        "longitude": "-071.945253"
+    },
+    {
+        "county": "WINDHAM",
+        "city": "STERLING",
+        "latitude": "+41.719948",
+        "longitude": "-071.823184"
+    },
+    {
+        "county": "WINDHAM",
+        "city": "THOMPSON",
+        "latitude": "+41.975796",
+        "longitude": "-071.862047"
+    },
+    {
+        "county": "WINDHAM",
+        "city": "WAUREGAN",
+        "latitude": "+41.744527",
+        "longitude": "-071.913339"
+    },
+    {
+        "county": "WINDHAM",
+        "city": "WILLIMANTIC",
+        "latitude": "+41.845504",
+        "longitude": "-072.091889"
+    },
+    {
+        "county": "WINDHAM",
+        "city": "WINDHAM",
+        "latitude": "+41.693914",
+        "longitude": "-072.137843"
+    },
+    {
+        "county": "WINDHAM",
+        "city": "WOODSTOCK",
+        "latitude": "+41.961991",
+        "longitude": "-072.014108"
+    },
+    {
+        "county": "WINDHAM",
+        "city": "WOODSTOCK VALLEY",
+        "latitude": "+41.952846",
+        "longitude": "-072.057134"
+    }
+]

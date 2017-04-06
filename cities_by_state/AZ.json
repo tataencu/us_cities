@@ -1,0 +1,1598 @@
+[
+    {
+        "county": "APACHE",
+        "city": "ALPINE",
+        "latitude": "+34.177052",
+        "longitude": "-109.240647"
+    },
+    {
+        "county": "APACHE",
+        "city": "CHAMBERS",
+        "latitude": "+35.237487",
+        "longitude": "-109.522950"
+    },
+    {
+        "county": "APACHE",
+        "city": "CHINLE",
+        "latitude": "+36.527297",
+        "longitude": "-109.691925"
+    },
+    {
+        "county": "APACHE",
+        "city": "CONCHO",
+        "latitude": "+34.468787",
+        "longitude": "-109.742654"
+    },
+    {
+        "county": "APACHE",
+        "city": "DENNEHOTSO",
+        "latitude": "+35.237487",
+        "longitude": "-109.522950"
+    },
+    {
+        "county": "APACHE",
+        "city": "EAGAR",
+        "latitude": "+34.107708",
+        "longitude": "-109.293952"
+    },
+    {
+        "county": "APACHE",
+        "city": "FORT DEFIANCE",
+        "latitude": "+35.237487",
+        "longitude": "-109.522950"
+    },
+    {
+        "county": "APACHE",
+        "city": "GANADO",
+        "latitude": "+35.237487",
+        "longitude": "-109.522950"
+    },
+    {
+        "county": "APACHE",
+        "city": "GREER",
+        "latitude": "+35.237487",
+        "longitude": "-109.522950"
+    },
+    {
+        "county": "APACHE",
+        "city": "HOUCK",
+        "latitude": "+35.337124",
+        "longitude": "-109.247759"
+    },
+    {
+        "county": "APACHE",
+        "city": "LUKACHUKAI",
+        "latitude": "+36.398903",
+        "longitude": "-109.259299"
+    },
+    {
+        "county": "APACHE",
+        "city": "LUPTON",
+        "latitude": "+35.237487",
+        "longitude": "-109.522950"
+    },
+    {
+        "county": "APACHE",
+        "city": "MANY FARMS",
+        "latitude": "+35.237487",
+        "longitude": "-109.522950"
+    },
+    {
+        "county": "APACHE",
+        "city": "MCNARY",
+        "latitude": "+34.075359",
+        "longitude": "-109.853192"
+    },
+    {
+        "county": "APACHE",
+        "city": "NAZLINI",
+        "latitude": "+35.237487",
+        "longitude": "-109.522950"
+    },
+    {
+        "county": "APACHE",
+        "city": "NUTRIOSO",
+        "latitude": "+35.237487",
+        "longitude": "-109.522950"
+    },
+    {
+        "county": "APACHE",
+        "city": "PETRIFIED FOREST NATL PK",
+        "latitude": "+35.237487",
+        "longitude": "-109.522950"
+    },
+    {
+        "county": "APACHE",
+        "city": "RED VALLEY",
+        "latitude": "+35.237487",
+        "longitude": "-109.522950"
+    },
+    {
+        "county": "APACHE",
+        "city": "ROCK POINT",
+        "latitude": "+35.237487",
+        "longitude": "-109.522950"
+    },
+    {
+        "county": "APACHE",
+        "city": "ROUND ROCK",
+        "latitude": "+35.237487",
+        "longitude": "-109.522950"
+    },
+    {
+        "county": "APACHE",
+        "city": "SAINT JOHNS",
+        "latitude": "+34.497709",
+        "longitude": "-109.481543"
+    },
+    {
+        "county": "APACHE",
+        "city": "SAINT MICHAELS",
+        "latitude": "+35.903962",
+        "longitude": "-109.308746"
+    },
+    {
+        "county": "APACHE",
+        "city": "SANDERS",
+        "latitude": "+35.406729",
+        "longitude": "-109.285537"
+    },
+    {
+        "county": "APACHE",
+        "city": "SAWMILL",
+        "latitude": "+35.237487",
+        "longitude": "-109.522950"
+    },
+    {
+        "county": "APACHE",
+        "city": "SPRINGERVILLE",
+        "latitude": "+34.118938",
+        "longitude": "-109.285553"
+    },
+    {
+        "county": "APACHE",
+        "city": "TEEC NOS POS",
+        "latitude": "+35.237487",
+        "longitude": "-109.522950"
+    },
+    {
+        "county": "APACHE",
+        "city": "TSAILE",
+        "latitude": "+35.237487",
+        "longitude": "-109.522950"
+    },
+    {
+        "county": "APACHE",
+        "city": "VERNON",
+        "latitude": "+35.237487",
+        "longitude": "-109.522950"
+    },
+    {
+        "county": "APACHE",
+        "city": "WINDOW ROCK",
+        "latitude": "+35.667596",
+        "longitude": "-109.078440"
+    },
+    {
+        "county": "COCHISE",
+        "city": "BENSON",
+        "latitude": "+32.035885",
+        "longitude": "-110.262611"
+    },
+    {
+        "county": "COCHISE",
+        "city": "BISBEE",
+        "latitude": "+31.445577",
+        "longitude": "-109.819216"
+    },
+    {
+        "county": "COCHISE",
+        "city": "BOWIE",
+        "latitude": "+31.891434",
+        "longitude": "-109.706426"
+    },
+    {
+        "county": "COCHISE",
+        "city": "COCHISE",
+        "latitude": "+32.043893",
+        "longitude": "-109.835893"
+    },
+    {
+        "county": "COCHISE",
+        "city": "DOUGLAS",
+        "latitude": "+31.880077",
+        "longitude": "-109.754263"
+    },
+    {
+        "county": "COCHISE",
+        "city": "DRAGOON",
+        "latitude": "+32.040753",
+        "longitude": "-109.818047"
+    },
+    {
+        "county": "COCHISE",
+        "city": "ELFRIDA",
+        "latitude": "+31.737711",
+        "longitude": "-109.622175"
+    },
+    {
+        "county": "COCHISE",
+        "city": "FORT HUACHUCA",
+        "latitude": "+31.880077",
+        "longitude": "-109.754263"
+    },
+    {
+        "county": "COCHISE",
+        "city": "HEREFORD",
+        "latitude": "+31.411921",
+        "longitude": "-110.158573"
+    },
+    {
+        "county": "COCHISE",
+        "city": "HUACHUCA CITY",
+        "latitude": "+31.606087",
+        "longitude": "-110.248009"
+    },
+    {
+        "county": "COCHISE",
+        "city": "MC NEAL",
+        "latitude": "+31.512083",
+        "longitude": "-109.843770"
+    },
+    {
+        "county": "COCHISE",
+        "city": "NACO",
+        "latitude": "+31.385182",
+        "longitude": "-109.919794"
+    },
+    {
+        "county": "COCHISE",
+        "city": "PEARCE",
+        "latitude": "+31.766243",
+        "longitude": "-109.896053"
+    },
+    {
+        "county": "COCHISE",
+        "city": "PIRTLEVILLE",
+        "latitude": "+31.357528",
+        "longitude": "-109.611545"
+    },
+    {
+        "county": "COCHISE",
+        "city": "POMERENE",
+        "latitude": "+32.049456",
+        "longitude": "-110.290892"
+    },
+    {
+        "county": "COCHISE",
+        "city": "SAINT DAVID",
+        "latitude": "+31.891828",
+        "longitude": "-110.170442"
+    },
+    {
+        "county": "COCHISE",
+        "city": "SAN SIMON",
+        "latitude": "+31.880077",
+        "longitude": "-109.754263"
+    },
+    {
+        "county": "COCHISE",
+        "city": "SIERRA VISTA",
+        "latitude": "+31.880077",
+        "longitude": "-109.754263"
+    },
+    {
+        "county": "COCHISE",
+        "city": "TOMBSTONE",
+        "latitude": "+31.671060",
+        "longitude": "-110.076564"
+    },
+    {
+        "county": "COCHISE",
+        "city": "WILLCOX",
+        "latitude": "+32.300690",
+        "longitude": "-109.878211"
+    },
+    {
+        "county": "COCONINO",
+        "city": "BELLEMONT",
+        "latitude": "+35.630842",
+        "longitude": "-112.052427"
+    },
+    {
+        "county": "COCONINO",
+        "city": "CAMERON",
+        "latitude": "+35.630842",
+        "longitude": "-112.052427"
+    },
+    {
+        "county": "COCONINO",
+        "city": "FLAGSTAFF",
+        "latitude": "+35.630842",
+        "longitude": "-112.052427"
+    },
+    {
+        "county": "COCONINO",
+        "city": "FOREST LAKES",
+        "latitude": "+35.537441",
+        "longitude": "-111.275860"
+    },
+    {
+        "county": "COCONINO",
+        "city": "FREDONIA",
+        "latitude": "+36.966490",
+        "longitude": "-112.524696"
+    },
+    {
+        "county": "COCONINO",
+        "city": "GRAND CANYON",
+        "latitude": "+35.942057",
+        "longitude": "-112.130937"
+    },
+    {
+        "county": "COCONINO",
+        "city": "GRAY MOUNTAIN",
+        "latitude": "+35.630842",
+        "longitude": "-112.052427"
+    },
+    {
+        "county": "COCONINO",
+        "city": "HAPPY JACK",
+        "latitude": "+35.630842",
+        "longitude": "-112.052427"
+    },
+    {
+        "county": "COCONINO",
+        "city": "KAIBITO",
+        "latitude": "+36.910554",
+        "longitude": "-111.451826"
+    },
+    {
+        "county": "COCONINO",
+        "city": "LEUPP",
+        "latitude": "+35.630842",
+        "longitude": "-112.052427"
+    },
+    {
+        "county": "COCONINO",
+        "city": "MARBLE CANYON",
+        "latitude": "+36.922976",
+        "longitude": "-111.449889"
+    },
+    {
+        "county": "COCONINO",
+        "city": "MORMON LAKE",
+        "latitude": "+34.908287",
+        "longitude": "-111.463026"
+    },
+    {
+        "county": "COCONINO",
+        "city": "MUNDS PARK",
+        "latitude": "+34.941220",
+        "longitude": "-111.640991"
+    },
+    {
+        "county": "COCONINO",
+        "city": "NORTH RIM",
+        "latitude": "+35.630842",
+        "longitude": "-112.052427"
+    },
+    {
+        "county": "COCONINO",
+        "city": "PAGE",
+        "latitude": "+36.910804",
+        "longitude": "-111.502009"
+    },
+    {
+        "county": "COCONINO",
+        "city": "PARKS",
+        "latitude": "+35.256347",
+        "longitude": "-111.950030"
+    },
+    {
+        "county": "COCONINO",
+        "city": "SEDONA",
+        "latitude": "+35.032371",
+        "longitude": "-111.684752"
+    },
+    {
+        "county": "COCONINO",
+        "city": "SUPAI",
+        "latitude": "+35.630842",
+        "longitude": "-112.052427"
+    },
+    {
+        "county": "COCONINO",
+        "city": "TONALEA",
+        "latitude": "+35.630842",
+        "longitude": "-112.052427"
+    },
+    {
+        "county": "COCONINO",
+        "city": "TUBA CITY",
+        "latitude": "+36.132723",
+        "longitude": "-111.241773"
+    },
+    {
+        "county": "COCONINO",
+        "city": "WILLIAMS",
+        "latitude": "+35.915563",
+        "longitude": "-112.366031"
+    },
+    {
+        "county": "GILA",
+        "city": "CLAYPOOL",
+        "latitude": "+33.415409",
+        "longitude": "-110.814893"
+    },
+    {
+        "county": "GILA",
+        "city": "GLOBE",
+        "latitude": "+33.421919",
+        "longitude": "-110.812680"
+    },
+    {
+        "county": "GILA",
+        "city": "HAYDEN",
+        "latitude": "+33.576401",
+        "longitude": "-110.855618"
+    },
+    {
+        "county": "GILA",
+        "city": "MIAMI",
+        "latitude": "+33.528204",
+        "longitude": "-110.966562"
+    },
+    {
+        "county": "GILA",
+        "city": "PAYSON",
+        "latitude": "+34.257457",
+        "longitude": "-111.287750"
+    },
+    {
+        "county": "GILA",
+        "city": "PERIDOT",
+        "latitude": "+33.741518",
+        "longitude": "-110.860653"
+    },
+    {
+        "county": "GILA",
+        "city": "PINE",
+        "latitude": "+34.320445",
+        "longitude": "-111.396855"
+    },
+    {
+        "county": "GILA",
+        "city": "ROOSEVELT",
+        "latitude": "+33.614316",
+        "longitude": "-111.005928"
+    },
+    {
+        "county": "GILA",
+        "city": "SAN CARLOS",
+        "latitude": "+33.289447",
+        "longitude": "-110.491898"
+    },
+    {
+        "county": "GILA",
+        "city": "TONTO BASIN",
+        "latitude": "+33.741518",
+        "longitude": "-110.860653"
+    },
+    {
+        "county": "GILA",
+        "city": "WINKELMAN",
+        "latitude": "+33.070467",
+        "longitude": "-110.789035"
+    },
+    {
+        "county": "GILA",
+        "city": "YOUNG",
+        "latitude": "+33.741518",
+        "longitude": "-110.860653"
+    },
+    {
+        "county": "GRAHAM",
+        "city": "BYLAS",
+        "latitude": "+33.038678",
+        "longitude": "-109.785973"
+    },
+    {
+        "county": "GRAHAM",
+        "city": "CENTRAL",
+        "latitude": "+32.869243",
+        "longitude": "-109.787778"
+    },
+    {
+        "county": "GRAHAM",
+        "city": "EDEN",
+        "latitude": "+32.975112",
+        "longitude": "-109.897401"
+    },
+    {
+        "county": "GRAHAM",
+        "city": "FORT THOMAS",
+        "latitude": "+33.033314",
+        "longitude": "-109.971733"
+    },
+    {
+        "county": "GRAHAM",
+        "city": "PIMA",
+        "latitude": "+32.878042",
+        "longitude": "-109.775698"
+    },
+    {
+        "county": "GRAHAM",
+        "city": "SAFFORD",
+        "latitude": "+32.797009",
+        "longitude": "-109.752196"
+    },
+    {
+        "county": "GRAHAM",
+        "city": "SOLOMON",
+        "latitude": "+32.842769",
+        "longitude": "-109.696449"
+    },
+    {
+        "county": "GRAHAM",
+        "city": "THATCHER",
+        "latitude": "+32.850436",
+        "longitude": "-109.746133"
+    },
+    {
+        "county": "GREENLEE",
+        "city": "BLUE",
+        "latitude": "+33.102464",
+        "longitude": "-109.271169"
+    },
+    {
+        "county": "GREENLEE",
+        "city": "CLIFTON",
+        "latitude": "+32.991251",
+        "longitude": "-109.255872"
+    },
+    {
+        "county": "GREENLEE",
+        "city": "DUNCAN",
+        "latitude": "+32.881003",
+        "longitude": "-109.215723"
+    },
+    {
+        "county": "GREENLEE",
+        "city": "MORENCI",
+        "latitude": "+33.054062",
+        "longitude": "-109.326923"
+    },
+    {
+        "county": "LA PAZ",
+        "city": "BOUSE",
+        "latitude": "+33.957820",
+        "longitude": "-114.003634"
+    },
+    {
+        "county": "LA PAZ",
+        "city": "CIBOLA",
+        "latitude": "+33.672255",
+        "longitude": "-114.032150"
+    },
+    {
+        "county": "LA PAZ",
+        "city": "EHRENBERG",
+        "latitude": "+33.617670",
+        "longitude": "-114.507697"
+    },
+    {
+        "county": "LA PAZ",
+        "city": "PARKER",
+        "latitude": "+33.967712",
+        "longitude": "-114.268073"
+    },
+    {
+        "county": "LA PAZ",
+        "city": "POSTON",
+        "latitude": "+34.031791",
+        "longitude": "-114.390171"
+    },
+    {
+        "county": "LA PAZ",
+        "city": "QUARTZSITE",
+        "latitude": "+33.666880",
+        "longitude": "-114.239557"
+    },
+    {
+        "county": "LA PAZ",
+        "city": "SALOME",
+        "latitude": "+33.647970",
+        "longitude": "-113.662489"
+    },
+    {
+        "county": "LA PAZ",
+        "city": "WENDEN",
+        "latitude": "+34.042203",
+        "longitude": "-113.458002"
+    },
+    {
+        "county": "MARICOPA",
+        "city": "AGUILA",
+        "latitude": "+33.276539",
+        "longitude": "-112.187170"
+    },
+    {
+        "county": "MARICOPA",
+        "city": "ARLINGTON",
+        "latitude": "+33.276539",
+        "longitude": "-112.187170"
+    },
+    {
+        "county": "MARICOPA",
+        "city": "AVONDALE",
+        "latitude": "+33.276539",
+        "longitude": "-112.187170"
+    },
+    {
+        "county": "MARICOPA",
+        "city": "BUCKEYE",
+        "latitude": "+33.276539",
+        "longitude": "-112.187170"
+    },
+    {
+        "county": "MARICOPA",
+        "city": "CAREFREE",
+        "latitude": "+33.276539",
+        "longitude": "-112.187170"
+    },
+    {
+        "county": "MARICOPA",
+        "city": "CASHION",
+        "latitude": "+33.276539",
+        "longitude": "-112.187170"
+    },
+    {
+        "county": "MARICOPA",
+        "city": "CAVE CREEK",
+        "latitude": "+33.276539",
+        "longitude": "-112.187170"
+    },
+    {
+        "county": "MARICOPA",
+        "city": "CHANDLER",
+        "latitude": "+33.247861",
+        "longitude": "-111.770161"
+    },
+    {
+        "county": "MARICOPA",
+        "city": "CHANDLER HEIGHTS",
+        "latitude": "+33.212186",
+        "longitude": "-111.686171"
+    },
+    {
+        "county": "MARICOPA",
+        "city": "EL MIRAGE",
+        "latitude": "+33.276539",
+        "longitude": "-112.187170"
+    },
+    {
+        "county": "MARICOPA",
+        "city": "FORT MCDOWELL",
+        "latitude": "+33.625163",
+        "longitude": "-111.677135"
+    },
+    {
+        "county": "MARICOPA",
+        "city": "FOUNTAIN HILLS",
+        "latitude": "+33.276539",
+        "longitude": "-112.187170"
+    },
+    {
+        "county": "MARICOPA",
+        "city": "GILA BEND",
+        "latitude": "+33.276539",
+        "longitude": "-112.187170"
+    },
+    {
+        "county": "MARICOPA",
+        "city": "GILBERT",
+        "latitude": "+33.276539",
+        "longitude": "-112.187170"
+    },
+    {
+        "county": "MARICOPA",
+        "city": "GLENDALE",
+        "latitude": "+33.276539",
+        "longitude": "-112.187170"
+    },
+    {
+        "county": "MARICOPA",
+        "city": "GOODYEAR",
+        "latitude": "+33.276539",
+        "longitude": "-112.187170"
+    },
+    {
+        "county": "MARICOPA",
+        "city": "HIGLEY",
+        "latitude": "+33.299317",
+        "longitude": "-111.695460"
+    },
+    {
+        "county": "MARICOPA",
+        "city": "LAVEEN",
+        "latitude": "+33.335057",
+        "longitude": "-112.182248"
+    },
+    {
+        "county": "MARICOPA",
+        "city": "LITCHFIELD PARK",
+        "latitude": "+33.276539",
+        "longitude": "-112.187170"
+    },
+    {
+        "county": "MARICOPA",
+        "city": "LUKE AFB",
+        "latitude": "+33.276539",
+        "longitude": "-112.187170"
+    },
+    {
+        "county": "MARICOPA",
+        "city": "MESA",
+        "latitude": "+33.276539",
+        "longitude": "-112.187170"
+    },
+    {
+        "county": "MARICOPA",
+        "city": "MORRISTOWN",
+        "latitude": "+33.276539",
+        "longitude": "-112.187170"
+    },
+    {
+        "county": "MARICOPA",
+        "city": "NEW RIVER",
+        "latitude": "+33.276539",
+        "longitude": "-112.187170"
+    },
+    {
+        "county": "MARICOPA",
+        "city": "PALO VERDE",
+        "latitude": "+33.276539",
+        "longitude": "-112.187170"
+    },
+    {
+        "county": "MARICOPA",
+        "city": "PARADISE VALLEY",
+        "latitude": "+33.360896",
+        "longitude": "-111.963149"
+    },
+    {
+        "county": "MARICOPA",
+        "city": "PEORIA",
+        "latitude": "+33.276539",
+        "longitude": "-112.187170"
+    },
+    {
+        "county": "MARICOPA",
+        "city": "PHOENIX",
+        "latitude": "+33.276539",
+        "longitude": "-112.187170"
+    },
+    {
+        "county": "MARICOPA",
+        "city": "QUEEN CREEK",
+        "latitude": "+33.284844",
+        "longitude": "-111.656128"
+    },
+    {
+        "county": "MARICOPA",
+        "city": "RIO VERDE",
+        "latitude": "+33.276539",
+        "longitude": "-112.187170"
+    },
+    {
+        "county": "MARICOPA",
+        "city": "SCOTTSDALE",
+        "latitude": "+33.276539",
+        "longitude": "-112.187170"
+    },
+    {
+        "county": "MARICOPA",
+        "city": "SUN CITY",
+        "latitude": "+33.276539",
+        "longitude": "-112.187170"
+    },
+    {
+        "county": "MARICOPA",
+        "city": "SUN CITY WEST",
+        "latitude": "+33.276539",
+        "longitude": "-112.187170"
+    },
+    {
+        "county": "MARICOPA",
+        "city": "SURPRISE",
+        "latitude": "+33.276539",
+        "longitude": "-112.187170"
+    },
+    {
+        "county": "MARICOPA",
+        "city": "TEMPE",
+        "latitude": "+33.276539",
+        "longitude": "-112.187170"
+    },
+    {
+        "county": "MARICOPA",
+        "city": "TOLLESON",
+        "latitude": "+33.276539",
+        "longitude": "-112.187170"
+    },
+    {
+        "county": "MARICOPA",
+        "city": "TONOPAH",
+        "latitude": "+33.276539",
+        "longitude": "-112.187170"
+    },
+    {
+        "county": "MARICOPA",
+        "city": "TORTILLA FLAT",
+        "latitude": "+33.276539",
+        "longitude": "-112.187170"
+    },
+    {
+        "county": "MARICOPA",
+        "city": "WADDELL",
+        "latitude": "+33.276539",
+        "longitude": "-112.187170"
+    },
+    {
+        "county": "MARICOPA",
+        "city": "WICKENBURG",
+        "latitude": "+33.276539",
+        "longitude": "-112.187170"
+    },
+    {
+        "county": "MARICOPA",
+        "city": "WITTMANN",
+        "latitude": "+33.276539",
+        "longitude": "-112.187170"
+    },
+    {
+        "county": "MARICOPA",
+        "city": "YOUNGTOWN",
+        "latitude": "+33.276539",
+        "longitude": "-112.187170"
+    },
+    {
+        "county": "MOHAVE",
+        "city": "BULLHEAD CITY",
+        "latitude": "+35.005498",
+        "longitude": "-114.323801"
+    },
+    {
+        "county": "MOHAVE",
+        "city": "CHLORIDE",
+        "latitude": "+35.389575",
+        "longitude": "-114.222136"
+    },
+    {
+        "county": "MOHAVE",
+        "city": "COLORADO CITY",
+        "latitude": "+36.974658",
+        "longitude": "-112.978914"
+    },
+    {
+        "county": "MOHAVE",
+        "city": "DOLAN SPRINGS",
+        "latitude": "+35.269759",
+        "longitude": "-114.243188"
+    },
+    {
+        "county": "MOHAVE",
+        "city": "FORT MOHAVE",
+        "latitude": "+35.004290",
+        "longitude": "-114.581228"
+    },
+    {
+        "county": "MOHAVE",
+        "city": "GOLDEN VALLEY",
+        "latitude": "+35.300240",
+        "longitude": "-114.221531"
+    },
+    {
+        "county": "MOHAVE",
+        "city": "HACKBERRY",
+        "latitude": "+35.605301",
+        "longitude": "-113.642712"
+    },
+    {
+        "county": "MOHAVE",
+        "city": "HUALAPAI",
+        "latitude": "+35.397172",
+        "longitude": "-113.843241"
+    },
+    {
+        "county": "MOHAVE",
+        "city": "KINGMAN",
+        "latitude": "+35.263249",
+        "longitude": "-114.063651"
+    },
+    {
+        "county": "MOHAVE",
+        "city": "LAKE HAVASU CITY",
+        "latitude": "+34.756714",
+        "longitude": "-114.118970"
+    },
+    {
+        "county": "MOHAVE",
+        "city": "LITTLEFIELD",
+        "latitude": "+34.901161",
+        "longitude": "-114.543288"
+    },
+    {
+        "county": "MOHAVE",
+        "city": "MEADVIEW",
+        "latitude": "+35.982167",
+        "longitude": "-114.077519"
+    },
+    {
+        "county": "MOHAVE",
+        "city": "MOHAVE VALLEY",
+        "latitude": "+34.849946",
+        "longitude": "-114.591728"
+    },
+    {
+        "county": "MOHAVE",
+        "city": "OATMAN",
+        "latitude": "+35.028492",
+        "longitude": "-114.383666"
+    },
+    {
+        "county": "MOHAVE",
+        "city": "PEACH SPRINGS",
+        "latitude": "+35.540361",
+        "longitude": "-113.415346"
+    },
+    {
+        "county": "MOHAVE",
+        "city": "TEMPLE BAR MARINA",
+        "latitude": "+35.210634",
+        "longitude": "-114.179228"
+    },
+    {
+        "county": "MOHAVE",
+        "city": "TOPOCK",
+        "latitude": "+34.779071",
+        "longitude": "-114.482571"
+    },
+    {
+        "county": "MOHAVE",
+        "city": "VALENTINE",
+        "latitude": "+35.605301",
+        "longitude": "-113.642712"
+    },
+    {
+        "county": "MOHAVE",
+        "city": "WIKIEUP",
+        "latitude": "+35.747820",
+        "longitude": "-113.810600"
+    },
+    {
+        "county": "MOHAVE",
+        "city": "WILLOW BEACH",
+        "latitude": "+35.605301",
+        "longitude": "-113.642712"
+    },
+    {
+        "county": "MOHAVE",
+        "city": "YUCCA",
+        "latitude": "+35.605301",
+        "longitude": "-113.642712"
+    },
+    {
+        "county": "NAVAJO",
+        "city": "BLUE GAP",
+        "latitude": "+35.285746",
+        "longitude": "-110.288704"
+    },
+    {
+        "county": "NAVAJO",
+        "city": "CIBECUE",
+        "latitude": "+35.285746",
+        "longitude": "-110.288704"
+    },
+    {
+        "county": "NAVAJO",
+        "city": "CLAY SPRINGS",
+        "latitude": "+35.285746",
+        "longitude": "-110.288704"
+    },
+    {
+        "county": "NAVAJO",
+        "city": "FORT APACHE",
+        "latitude": "+34.201164",
+        "longitude": "-110.010612"
+    },
+    {
+        "county": "NAVAJO",
+        "city": "HEBER",
+        "latitude": "+34.409980",
+        "longitude": "-110.588287"
+    },
+    {
+        "county": "NAVAJO",
+        "city": "HOLBROOK",
+        "latitude": "+34.776828",
+        "longitude": "-110.089544"
+    },
+    {
+        "county": "NAVAJO",
+        "city": "HOTEVILLA",
+        "latitude": "+35.285746",
+        "longitude": "-110.288704"
+    },
+    {
+        "county": "NAVAJO",
+        "city": "INDIAN WELLS",
+        "latitude": "+35.285746",
+        "longitude": "-110.288704"
+    },
+    {
+        "county": "NAVAJO",
+        "city": "JOSEPH CITY",
+        "latitude": "+34.981359",
+        "longitude": "-110.337348"
+    },
+    {
+        "county": "NAVAJO",
+        "city": "KAYENTA",
+        "latitude": "+35.285746",
+        "longitude": "-110.288704"
+    },
+    {
+        "county": "NAVAJO",
+        "city": "KEAMS CANYON",
+        "latitude": "+35.285746",
+        "longitude": "-110.288704"
+    },
+    {
+        "county": "NAVAJO",
+        "city": "KYKOTSMOVI VILLAGE",
+        "latitude": "+35.285746",
+        "longitude": "-110.288704"
+    },
+    {
+        "county": "NAVAJO",
+        "city": "LAKESIDE",
+        "latitude": "+34.175198",
+        "longitude": "-109.972598"
+    },
+    {
+        "county": "NAVAJO",
+        "city": "OVERGAARD",
+        "latitude": "+34.408619",
+        "longitude": "-110.560023"
+    },
+    {
+        "county": "NAVAJO",
+        "city": "PINEDALE",
+        "latitude": "+35.285746",
+        "longitude": "-110.288704"
+    },
+    {
+        "county": "NAVAJO",
+        "city": "PINETOP",
+        "latitude": "+34.141314",
+        "longitude": "-109.935556"
+    },
+    {
+        "county": "NAVAJO",
+        "city": "PINON",
+        "latitude": "+35.962139",
+        "longitude": "-110.308125"
+    },
+    {
+        "county": "NAVAJO",
+        "city": "POLACCA",
+        "latitude": "+35.285746",
+        "longitude": "-110.288704"
+    },
+    {
+        "county": "NAVAJO",
+        "city": "SECOND MESA",
+        "latitude": "+35.285746",
+        "longitude": "-110.288704"
+    },
+    {
+        "county": "NAVAJO",
+        "city": "SHONTO",
+        "latitude": "+36.593079",
+        "longitude": "-110.655526"
+    },
+    {
+        "county": "NAVAJO",
+        "city": "SHOW LOW",
+        "latitude": "+34.298092",
+        "longitude": "-110.035185"
+    },
+    {
+        "county": "NAVAJO",
+        "city": "SNOWFLAKE",
+        "latitude": "+34.521702",
+        "longitude": "-110.110981"
+    },
+    {
+        "county": "NAVAJO",
+        "city": "SUN VALLEY",
+        "latitude": "+35.285746",
+        "longitude": "-110.288704"
+    },
+    {
+        "county": "NAVAJO",
+        "city": "TAYLOR",
+        "latitude": "+34.314937",
+        "longitude": "-110.002763"
+    },
+    {
+        "county": "NAVAJO",
+        "city": "WHITE MOUNTAIN LAKE",
+        "latitude": "+34.266588",
+        "longitude": "-110.203073"
+    },
+    {
+        "county": "NAVAJO",
+        "city": "WHITERIVER",
+        "latitude": "+33.802071",
+        "longitude": "-109.993738"
+    },
+    {
+        "county": "NAVAJO",
+        "city": "WINSLOW",
+        "latitude": "+34.633764",
+        "longitude": "-110.350610"
+    },
+    {
+        "county": "NAVAJO",
+        "city": "WOODRUFF",
+        "latitude": "+34.647454",
+        "longitude": "-110.080632"
+    },
+    {
+        "county": "PIMA",
+        "city": "AJO",
+        "latitude": "+31.970131",
+        "longitude": "-111.890713"
+    },
+    {
+        "county": "PIMA",
+        "city": "ARIVACA",
+        "latitude": "+31.970131",
+        "longitude": "-111.890713"
+    },
+    {
+        "county": "PIMA",
+        "city": "CATALINA",
+        "latitude": "+31.970131",
+        "longitude": "-111.890713"
+    },
+    {
+        "county": "PIMA",
+        "city": "CORTARO",
+        "latitude": "+32.420055",
+        "longitude": "-111.113178"
+    },
+    {
+        "county": "PIMA",
+        "city": "GREEN VALLEY",
+        "latitude": "+31.853334",
+        "longitude": "-110.932803"
+    },
+    {
+        "county": "PIMA",
+        "city": "LUKEVILLE",
+        "latitude": "+31.970131",
+        "longitude": "-111.890713"
+    },
+    {
+        "county": "PIMA",
+        "city": "MARANA",
+        "latitude": "+32.442979",
+        "longitude": "-111.159344"
+    },
+    {
+        "county": "PIMA",
+        "city": "MOUNT LEMMON",
+        "latitude": "+32.376306",
+        "longitude": "-110.760458"
+    },
+    {
+        "county": "PIMA",
+        "city": "RILLITO",
+        "latitude": "+31.970131",
+        "longitude": "-111.890713"
+    },
+    {
+        "county": "PIMA",
+        "city": "SAHUARITA",
+        "latitude": "+31.932883",
+        "longitude": "-110.895188"
+    },
+    {
+        "county": "PIMA",
+        "city": "SASABE",
+        "latitude": "+31.970131",
+        "longitude": "-111.890713"
+    },
+    {
+        "county": "PIMA",
+        "city": "SELLS",
+        "latitude": "+31.974033",
+        "longitude": "-110.702027"
+    },
+    {
+        "county": "PIMA",
+        "city": "TOPAWA",
+        "latitude": "+31.970131",
+        "longitude": "-111.890713"
+    },
+    {
+        "county": "PIMA",
+        "city": "TUCSON",
+        "latitude": "+32.071764",
+        "longitude": "-110.859106"
+    },
+    {
+        "county": "PIMA",
+        "city": "VAIL",
+        "latitude": "+32.002669",
+        "longitude": "-110.705269"
+    },
+    {
+        "county": "PINAL",
+        "city": "APACHE JUNCTION",
+        "latitude": "+32.983653",
+        "longitude": "-111.326045"
+    },
+    {
+        "county": "PINAL",
+        "city": "ARIZONA CITY",
+        "latitude": "+32.745169",
+        "longitude": "-111.603327"
+    },
+    {
+        "county": "PINAL",
+        "city": "BAPCHULE",
+        "latitude": "+33.225652",
+        "longitude": "-111.476001"
+    },
+    {
+        "county": "PINAL",
+        "city": "CASA GRANDE",
+        "latitude": "+32.815123",
+        "longitude": "-111.705441"
+    },
+    {
+        "county": "PINAL",
+        "city": "COOLIDGE",
+        "latitude": "+32.904485",
+        "longitude": "-111.247908"
+    },
+    {
+        "county": "PINAL",
+        "city": "ELOY",
+        "latitude": "+32.914889",
+        "longitude": "-111.261161"
+    },
+    {
+        "county": "PINAL",
+        "city": "FLORENCE",
+        "latitude": "+32.983653",
+        "longitude": "-111.326045"
+    },
+    {
+        "county": "PINAL",
+        "city": "KEARNY",
+        "latitude": "+33.145984",
+        "longitude": "-111.064109"
+    },
+    {
+        "county": "PINAL",
+        "city": "MAMMOTH",
+        "latitude": "+32.703898",
+        "longitude": "-110.695920"
+    },
+    {
+        "county": "PINAL",
+        "city": "MARICOPA",
+        "latitude": "+32.957645",
+        "longitude": "-112.053351"
+    },
+    {
+        "county": "PINAL",
+        "city": "ORACLE",
+        "latitude": "+32.642130",
+        "longitude": "-110.850082"
+    },
+    {
+        "county": "PINAL",
+        "city": "PICACHO",
+        "latitude": "+32.689594",
+        "longitude": "-111.531036"
+    },
+    {
+        "county": "PINAL",
+        "city": "RED ROCK",
+        "latitude": "+32.579972",
+        "longitude": "-111.340953"
+    },
+    {
+        "county": "PINAL",
+        "city": "SACATON",
+        "latitude": "+33.141592",
+        "longitude": "-111.714232"
+    },
+    {
+        "county": "PINAL",
+        "city": "SAN MANUEL",
+        "latitude": "+32.620892",
+        "longitude": "-110.599242"
+    },
+    {
+        "county": "PINAL",
+        "city": "STANFIELD",
+        "latitude": "+32.895764",
+        "longitude": "-111.957245"
+    },
+    {
+        "county": "PINAL",
+        "city": "SUPERIOR",
+        "latitude": "+33.180583",
+        "longitude": "-111.130022"
+    },
+    {
+        "county": "PINAL",
+        "city": "VALLEY FARMS",
+        "latitude": "+33.013502",
+        "longitude": "-111.429790"
+    },
+    {
+        "county": "SANTA CRUZ",
+        "city": "AMADO",
+        "latitude": "+31.672252",
+        "longitude": "-111.098620"
+    },
+    {
+        "county": "SANTA CRUZ",
+        "city": "ELGIN",
+        "latitude": "+31.609653",
+        "longitude": "-110.563551"
+    },
+    {
+        "county": "SANTA CRUZ",
+        "city": "NOGALES",
+        "latitude": "+31.531998",
+        "longitude": "-110.909305"
+    },
+    {
+        "county": "SANTA CRUZ",
+        "city": "PATAGONIA",
+        "latitude": "+31.523845",
+        "longitude": "-110.675964"
+    },
+    {
+        "county": "SANTA CRUZ",
+        "city": "RIO RICO",
+        "latitude": "+31.508436",
+        "longitude": "-111.075695"
+    },
+    {
+        "county": "SANTA CRUZ",
+        "city": "SONOITA",
+        "latitude": "+31.673105",
+        "longitude": "-110.618814"
+    },
+    {
+        "county": "SANTA CRUZ",
+        "city": "TUBAC",
+        "latitude": "+31.593758",
+        "longitude": "-111.066245"
+    },
+    {
+        "county": "SANTA CRUZ",
+        "city": "TUMACACORI",
+        "latitude": "+31.616167",
+        "longitude": "-111.051279"
+    },
+    {
+        "county": "YAVAPAI",
+        "city": "ASH FORK",
+        "latitude": "+34.970209",
+        "longitude": "-112.263974"
+    },
+    {
+        "county": "YAVAPAI",
+        "city": "BAGDAD",
+        "latitude": "+34.583624",
+        "longitude": "-113.164742"
+    },
+    {
+        "county": "YAVAPAI",
+        "city": "BLACK CANYON CITY",
+        "latitude": "+34.075451",
+        "longitude": "-112.134005"
+    },
+    {
+        "county": "YAVAPAI",
+        "city": "CAMP VERDE",
+        "latitude": "+34.569687",
+        "longitude": "-111.809798"
+    },
+    {
+        "county": "YAVAPAI",
+        "city": "CHINO VALLEY",
+        "latitude": "+34.755208",
+        "longitude": "-112.171623"
+    },
+    {
+        "county": "YAVAPAI",
+        "city": "CLARKDALE",
+        "latitude": "+34.659484",
+        "longitude": "-112.132220"
+    },
+    {
+        "county": "YAVAPAI",
+        "city": "CONGRESS",
+        "latitude": "+34.170305",
+        "longitude": "-112.787686"
+    },
+    {
+        "county": "YAVAPAI",
+        "city": "CORNVILLE",
+        "latitude": "+34.735388",
+        "longitude": "-111.927746"
+    },
+    {
+        "county": "YAVAPAI",
+        "city": "COTTONWOOD",
+        "latitude": "+34.643596",
+        "longitude": "-112.043547"
+    },
+    {
+        "county": "YAVAPAI",
+        "city": "CROWN KING",
+        "latitude": "+34.706724",
+        "longitude": "-112.397730"
+    },
+    {
+        "county": "YAVAPAI",
+        "city": "DEWEY",
+        "latitude": "+34.556520",
+        "longitude": "-112.284396"
+    },
+    {
+        "county": "YAVAPAI",
+        "city": "HUMBOLDT",
+        "latitude": "+34.518883",
+        "longitude": "-112.252340"
+    },
+    {
+        "county": "YAVAPAI",
+        "city": "IRON SPRINGS",
+        "latitude": "+34.706724",
+        "longitude": "-112.397730"
+    },
+    {
+        "county": "YAVAPAI",
+        "city": "JEROME",
+        "latitude": "+34.748589",
+        "longitude": "-112.108626"
+    },
+    {
+        "county": "YAVAPAI",
+        "city": "KIRKLAND",
+        "latitude": "+34.443950",
+        "longitude": "-112.657865"
+    },
+    {
+        "county": "YAVAPAI",
+        "city": "LAKE MONTEZUMA",
+        "latitude": "+34.641736",
+        "longitude": "-111.787154"
+    },
+    {
+        "county": "YAVAPAI",
+        "city": "MAYER",
+        "latitude": "+34.414534",
+        "longitude": "-112.163493"
+    },
+    {
+        "county": "YAVAPAI",
+        "city": "PAULDEN",
+        "latitude": "+34.805120",
+        "longitude": "-112.537368"
+    },
+    {
+        "county": "YAVAPAI",
+        "city": "PRESCOTT",
+        "latitude": "+34.706724",
+        "longitude": "-112.397730"
+    },
+    {
+        "county": "YAVAPAI",
+        "city": "PRESCOTT VALLEY",
+        "latitude": "+34.627778",
+        "longitude": "-112.262805"
+    },
+    {
+        "county": "YAVAPAI",
+        "city": "RIMROCK",
+        "latitude": "+34.641610",
+        "longitude": "-111.796517"
+    },
+    {
+        "county": "YAVAPAI",
+        "city": "SEDONA",
+        "latitude": "+34.776648",
+        "longitude": "-111.767880"
+    },
+    {
+        "county": "YAVAPAI",
+        "city": "SELIGMAN",
+        "latitude": "+35.331088",
+        "longitude": "-112.875402"
+    },
+    {
+        "county": "YAVAPAI",
+        "city": "SKULL VALLEY",
+        "latitude": "+34.706724",
+        "longitude": "-112.397730"
+    },
+    {
+        "county": "YAVAPAI",
+        "city": "YARNELL",
+        "latitude": "+34.250781",
+        "longitude": "-112.756652"
+    },
+    {
+        "county": "YUMA",
+        "city": "DATELAND",
+        "latitude": "+32.825705",
+        "longitude": "-113.525199"
+    },
+    {
+        "county": "YUMA",
+        "city": "GADSDEN",
+        "latitude": "+32.530155",
+        "longitude": "-114.774342"
+    },
+    {
+        "county": "YUMA",
+        "city": "ROLL",
+        "latitude": "+32.752609",
+        "longitude": "-113.798728"
+    },
+    {
+        "county": "YUMA",
+        "city": "SAN LUIS",
+        "latitude": "+32.540068",
+        "longitude": "-114.754999"
+    },
+    {
+        "county": "YUMA",
+        "city": "SOMERTON",
+        "latitude": "+32.612408",
+        "longitude": "-114.606214"
+    },
+    {
+        "county": "YUMA",
+        "city": "TACNA",
+        "latitude": "+32.693448",
+        "longitude": "-113.976313"
+    },
+    {
+        "county": "YUMA",
+        "city": "WELLTON",
+        "latitude": "+32.693461",
+        "longitude": "-114.156058"
+    },
+    {
+        "county": "YUMA",
+        "city": "YUMA",
+        "latitude": "+32.751632",
+        "longitude": "-114.074901"
+    }
+]

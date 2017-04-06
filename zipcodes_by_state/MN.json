@@ -1,0 +1,7254 @@
+[
+    {
+        "county": "AITKIN",
+        "city": "AITKIN",
+        "zipcode": 56431,
+        "latitude": "+46.563605",
+        "longitude": "-093.430495"
+    },
+    {
+        "county": "AITKIN",
+        "city": "HILL CITY",
+        "zipcode": 55748,
+        "latitude": "+46.671645",
+        "longitude": "-093.432392"
+    },
+    {
+        "county": "AITKIN",
+        "city": "JACOBSON",
+        "zipcode": 55752,
+        "latitude": "+46.592204",
+        "longitude": "-093.433078"
+    },
+    {
+        "county": "AITKIN",
+        "city": "MC GRATH",
+        "zipcode": 56350,
+        "latitude": "+46.195728",
+        "longitude": "-093.377414"
+    },
+    {
+        "county": "AITKIN",
+        "city": "MCGREGOR",
+        "zipcode": 55760,
+        "latitude": "+46.607188",
+        "longitude": "-093.307560"
+    },
+    {
+        "county": "AITKIN",
+        "city": "PALISADE",
+        "zipcode": 56469,
+        "latitude": "+46.712878",
+        "longitude": "-093.489808"
+    },
+    {
+        "county": "AITKIN",
+        "city": "SWATARA",
+        "zipcode": 55785,
+        "latitude": "+46.696774",
+        "longitude": "-093.645502"
+    },
+    {
+        "county": "AITKIN",
+        "city": "TAMARACK",
+        "zipcode": 55787,
+        "latitude": "+46.630318",
+        "longitude": "-093.213416"
+    },
+    {
+        "county": "ANOKA",
+        "city": "ANDOVER",
+        "zipcode": 55304,
+        "latitude": "+45.237661",
+        "longitude": "-093.272428"
+    },
+    {
+        "county": "ANOKA",
+        "city": "ANOKA",
+        "zipcode": 55303,
+        "latitude": "+45.282482",
+        "longitude": "-093.418574"
+    },
+    {
+        "county": "ANOKA",
+        "city": "BETHEL",
+        "zipcode": 55005,
+        "latitude": "+45.388716",
+        "longitude": "-093.231538"
+    },
+    {
+        "county": "ANOKA",
+        "city": "CEDAR",
+        "zipcode": 55011,
+        "latitude": "+45.341448",
+        "longitude": "-093.235026"
+    },
+    {
+        "county": "ANOKA",
+        "city": "CIRCLE PINES",
+        "zipcode": 55014,
+        "latitude": "+45.185565",
+        "longitude": "-093.129272"
+    },
+    {
+        "county": "ANOKA",
+        "city": "MINNEAPOLIS",
+        "zipcode": 55421,
+        "latitude": "+45.052315",
+        "longitude": "-093.254075"
+    },
+    {
+        "county": "ANOKA",
+        "city": "MINNEAPOLIS",
+        "zipcode": 55432,
+        "latitude": "+45.094965",
+        "longitude": "-093.239570"
+    },
+    {
+        "county": "ANOKA",
+        "city": "MINNEAPOLIS",
+        "zipcode": 55433,
+        "latitude": "+45.164263",
+        "longitude": "-093.319278"
+    },
+    {
+        "county": "ANOKA",
+        "city": "MINNEAPOLIS",
+        "zipcode": 55434,
+        "latitude": "+45.170399",
+        "longitude": "-093.226925"
+    },
+    {
+        "county": "ANOKA",
+        "city": "MINNEAPOLIS",
+        "zipcode": 55448,
+        "latitude": "+45.174056",
+        "longitude": "-093.313274"
+    },
+    {
+        "county": "ANOKA",
+        "city": "MINNEAPOLIS",
+        "zipcode": 55449,
+        "latitude": "+45.169739",
+        "longitude": "-093.188924"
+    },
+    {
+        "county": "ANOKA",
+        "city": "SAINT FRANCIS",
+        "zipcode": 55070,
+        "latitude": "+45.393554",
+        "longitude": "-093.357614"
+    },
+    {
+        "county": "BECKER",
+        "city": "AUDUBON",
+        "zipcode": 56511,
+        "latitude": "+46.850852",
+        "longitude": "-095.995824"
+    },
+    {
+        "county": "BECKER",
+        "city": "CALLAWAY",
+        "zipcode": 56521,
+        "latitude": "+46.979328",
+        "longitude": "-095.912192"
+    },
+    {
+        "county": "BECKER",
+        "city": "DETROIT LAKES",
+        "zipcode": 56501,
+        "latitude": "+46.834262",
+        "longitude": "-095.746871"
+    },
+    {
+        "county": "BECKER",
+        "city": "DETROIT LAKES",
+        "zipcode": 56502,
+        "latitude": "+46.933961",
+        "longitude": "-095.678375"
+    },
+    {
+        "county": "BECKER",
+        "city": "FRAZEE",
+        "zipcode": 56544,
+        "latitude": "+46.803165",
+        "longitude": "-095.579405"
+    },
+    {
+        "county": "BECKER",
+        "city": "LAKE PARK",
+        "zipcode": 56554,
+        "latitude": "+46.891231",
+        "longitude": "-096.102425"
+    },
+    {
+        "county": "BECKER",
+        "city": "OGEMA",
+        "zipcode": 56569,
+        "latitude": "+47.109140",
+        "longitude": "-095.782254"
+    },
+    {
+        "county": "BECKER",
+        "city": "OSAGE",
+        "zipcode": 56570,
+        "latitude": "+46.923974",
+        "longitude": "-095.362298"
+    },
+    {
+        "county": "BECKER",
+        "city": "PONSFORD",
+        "zipcode": 56575,
+        "latitude": "+47.061724",
+        "longitude": "-095.429915"
+    },
+    {
+        "county": "BECKER",
+        "city": "RICHWOOD",
+        "zipcode": 56577,
+        "latitude": "+46.933961",
+        "longitude": "-095.678375"
+    },
+    {
+        "county": "BECKER",
+        "city": "ROCHERT",
+        "zipcode": 56578,
+        "latitude": "+46.886152",
+        "longitude": "-095.724599"
+    },
+    {
+        "county": "BECKER",
+        "city": "WHITE EARTH",
+        "zipcode": 56591,
+        "latitude": "+46.933961",
+        "longitude": "-095.678375"
+    },
+    {
+        "county": "BECKER",
+        "city": "WOLF LAKE",
+        "zipcode": 56593,
+        "latitude": "+46.821648",
+        "longitude": "-095.391968"
+    },
+    {
+        "county": "BELTRAMI",
+        "city": "BEMIDJI",
+        "zipcode": 56601,
+        "latitude": "+47.571964",
+        "longitude": "-094.801272"
+    },
+    {
+        "county": "BELTRAMI",
+        "city": "BEMIDJI",
+        "zipcode": 56619,
+        "latitude": "+47.625699",
+        "longitude": "-094.822154"
+    },
+    {
+        "county": "BELTRAMI",
+        "city": "BLACKDUCK",
+        "zipcode": 56630,
+        "latitude": "+47.804493",
+        "longitude": "-094.575871"
+    },
+    {
+        "county": "BELTRAMI",
+        "city": "HINES",
+        "zipcode": 56647,
+        "latitude": "+47.974989",
+        "longitude": "-095.008708"
+    },
+    {
+        "county": "BELTRAMI",
+        "city": "KELLIHER",
+        "zipcode": 56650,
+        "latitude": "+47.940789",
+        "longitude": "-094.450010"
+    },
+    {
+        "county": "BELTRAMI",
+        "city": "PENNINGTON",
+        "zipcode": 56663,
+        "latitude": "+47.448274",
+        "longitude": "-094.471485"
+    },
+    {
+        "county": "BELTRAMI",
+        "city": "PONEMAH",
+        "zipcode": 56666,
+        "latitude": "+47.974989",
+        "longitude": "-095.008708"
+    },
+    {
+        "county": "BELTRAMI",
+        "city": "PUPOSKY",
+        "zipcode": 56667,
+        "latitude": "+47.974989",
+        "longitude": "-095.008708"
+    },
+    {
+        "county": "BELTRAMI",
+        "city": "REDBY",
+        "zipcode": 56670,
+        "latitude": "+47.974989",
+        "longitude": "-095.008708"
+    },
+    {
+        "county": "BELTRAMI",
+        "city": "REDLAKE",
+        "zipcode": 56671,
+        "latitude": "+47.974989",
+        "longitude": "-095.008708"
+    },
+    {
+        "county": "BELTRAMI",
+        "city": "SOLWAY",
+        "zipcode": 56678,
+        "latitude": "+47.974989",
+        "longitude": "-095.008708"
+    },
+    {
+        "county": "BELTRAMI",
+        "city": "TENSTRIKE",
+        "zipcode": 56683,
+        "latitude": "+47.974989",
+        "longitude": "-095.008708"
+    },
+    {
+        "county": "BELTRAMI",
+        "city": "WASKISH",
+        "zipcode": 56685,
+        "latitude": "+47.974989",
+        "longitude": "-095.008708"
+    },
+    {
+        "county": "BELTRAMI",
+        "city": "WILTON",
+        "zipcode": 56687,
+        "latitude": "+47.974989",
+        "longitude": "-095.008708"
+    },
+    {
+        "county": "BENTON",
+        "city": "FOLEY",
+        "zipcode": 56329,
+        "latitude": "+45.691931",
+        "longitude": "-093.914797"
+    },
+    {
+        "county": "BENTON",
+        "city": "GILMAN",
+        "zipcode": 56333,
+        "latitude": "+45.691714",
+        "longitude": "-094.056290"
+    },
+    {
+        "county": "BENTON",
+        "city": "OAK PARK",
+        "zipcode": 56357,
+        "latitude": "+45.702225",
+        "longitude": "-093.816445"
+    },
+    {
+        "county": "BENTON",
+        "city": "RICE",
+        "zipcode": 56367,
+        "latitude": "+45.745866",
+        "longitude": "-094.124878"
+    },
+    {
+        "county": "BENTON",
+        "city": "SAUK RAPIDS",
+        "zipcode": 56379,
+        "latitude": "+45.654829",
+        "longitude": "-094.073533"
+    },
+    {
+        "county": "BIG STONE",
+        "city": "BARRY",
+        "zipcode": 56210,
+        "latitude": "+45.559291",
+        "longitude": "-096.558886"
+    },
+    {
+        "county": "BIG STONE",
+        "city": "BEARDSLEY",
+        "zipcode": 56211,
+        "latitude": "+45.381402",
+        "longitude": "-096.469532"
+    },
+    {
+        "county": "BIG STONE",
+        "city": "CLINTON",
+        "zipcode": 56225,
+        "latitude": "+45.461092",
+        "longitude": "-096.431538"
+    },
+    {
+        "county": "BIG STONE",
+        "city": "CORRELL",
+        "zipcode": 56227,
+        "latitude": "+45.381402",
+        "longitude": "-096.469532"
+    },
+    {
+        "county": "BIG STONE",
+        "city": "GRACEVILLE",
+        "zipcode": 56240,
+        "latitude": "+45.521519",
+        "longitude": "-096.440429"
+    },
+    {
+        "county": "BIG STONE",
+        "city": "ODESSA",
+        "zipcode": 56276,
+        "latitude": "+45.381402",
+        "longitude": "-096.469532"
+    },
+    {
+        "county": "BIG STONE",
+        "city": "ORTONVILLE",
+        "zipcode": 56278,
+        "latitude": "+45.376691",
+        "longitude": "-096.516214"
+    },
+    {
+        "county": "BLUE EARTH",
+        "city": "AMBOY",
+        "zipcode": 56010,
+        "latitude": "+43.886884",
+        "longitude": "-094.158390"
+    },
+    {
+        "county": "BLUE EARTH",
+        "city": "EAGLE LAKE",
+        "zipcode": 56024,
+        "latitude": "+44.163231",
+        "longitude": "-093.882127"
+    },
+    {
+        "county": "BLUE EARTH",
+        "city": "GARDEN CITY",
+        "zipcode": 56034,
+        "latitude": "+44.052118",
+        "longitude": "-094.165036"
+    },
+    {
+        "county": "BLUE EARTH",
+        "city": "GOOD THUNDER",
+        "zipcode": 56037,
+        "latitude": "+44.029182",
+        "longitude": "-094.112395"
+    },
+    {
+        "county": "BLUE EARTH",
+        "city": "LAKE CRYSTAL",
+        "zipcode": 56055,
+        "latitude": "+44.147701",
+        "longitude": "-094.212574"
+    },
+    {
+        "county": "BLUE EARTH",
+        "city": "MADISON LAKE",
+        "zipcode": 56063,
+        "latitude": "+44.083910",
+        "longitude": "-093.862052"
+    },
+    {
+        "county": "BLUE EARTH",
+        "city": "MANKATO",
+        "zipcode": 56001,
+        "latitude": "+44.061451",
+        "longitude": "-094.003112"
+    },
+    {
+        "county": "BLUE EARTH",
+        "city": "MANKATO",
+        "zipcode": 56002,
+        "latitude": "+44.056047",
+        "longitude": "-094.069828"
+    },
+    {
+        "county": "BLUE EARTH",
+        "city": "MANKATO",
+        "zipcode": 56006,
+        "latitude": "+44.056047",
+        "longitude": "-094.069828"
+    },
+    {
+        "county": "BLUE EARTH",
+        "city": "MAPLETON",
+        "zipcode": 56065,
+        "latitude": "+43.925112",
+        "longitude": "-093.952056"
+    },
+    {
+        "county": "BLUE EARTH",
+        "city": "PEMBERTON",
+        "zipcode": 56078,
+        "latitude": "+44.007674",
+        "longitude": "-093.783274"
+    },
+    {
+        "county": "BLUE EARTH",
+        "city": "SAINT CLAIR",
+        "zipcode": 56080,
+        "latitude": "+44.081669",
+        "longitude": "-093.857123"
+    },
+    {
+        "county": "BLUE EARTH",
+        "city": "VERNON CENTER",
+        "zipcode": 56090,
+        "latitude": "+43.925892",
+        "longitude": "-094.233683"
+    },
+    {
+        "county": "BROWN",
+        "city": "COMFREY",
+        "zipcode": 56019,
+        "latitude": "+44.111351",
+        "longitude": "-094.907833"
+    },
+    {
+        "county": "BROWN",
+        "city": "ESSIG",
+        "zipcode": 56030,
+        "latitude": "+44.325833",
+        "longitude": "-094.605226"
+    },
+    {
+        "county": "BROWN",
+        "city": "HANSKA",
+        "zipcode": 56041,
+        "latitude": "+44.133457",
+        "longitude": "-094.499485"
+    },
+    {
+        "county": "BROWN",
+        "city": "NEW ULM",
+        "zipcode": 56073,
+        "latitude": "+44.259924",
+        "longitude": "-094.511407"
+    },
+    {
+        "county": "BROWN",
+        "city": "SEARLES",
+        "zipcode": 56084,
+        "latitude": "+44.302893",
+        "longitude": "-094.738827"
+    },
+    {
+        "county": "BROWN",
+        "city": "SLEEPY EYE",
+        "zipcode": 56085,
+        "latitude": "+44.317309",
+        "longitude": "-094.777163"
+    },
+    {
+        "county": "BROWN",
+        "city": "SPRINGFIELD",
+        "zipcode": 56087,
+        "latitude": "+44.253427",
+        "longitude": "-094.903534"
+    },
+    {
+        "county": "CARLTON",
+        "city": "BARNUM",
+        "zipcode": 55707,
+        "latitude": "+46.556833",
+        "longitude": "-092.720097"
+    },
+    {
+        "county": "CARLTON",
+        "city": "CARLTON",
+        "zipcode": 55718,
+        "latitude": "+46.622795",
+        "longitude": "-092.675569"
+    },
+    {
+        "county": "CARLTON",
+        "city": "CLOQUET",
+        "zipcode": 55720,
+        "latitude": "+46.592512",
+        "longitude": "-092.549564"
+    },
+    {
+        "county": "CARLTON",
+        "city": "CROMWELL",
+        "zipcode": 55726,
+        "latitude": "+46.654061",
+        "longitude": "-092.836499"
+    },
+    {
+        "county": "CARLTON",
+        "city": "ESKO",
+        "zipcode": 55733,
+        "latitude": "+46.712582",
+        "longitude": "-092.364896"
+    },
+    {
+        "county": "CARLTON",
+        "city": "HOLYOKE",
+        "zipcode": 55749,
+        "latitude": "+46.482697",
+        "longitude": "-092.410931"
+    },
+    {
+        "county": "CARLTON",
+        "city": "KETTLE RIVER",
+        "zipcode": 55757,
+        "latitude": "+46.520490",
+        "longitude": "-092.908622"
+    },
+    {
+        "county": "CARLTON",
+        "city": "MOOSE LAKE",
+        "zipcode": 55767,
+        "latitude": "+46.552827",
+        "longitude": "-092.756405"
+    },
+    {
+        "county": "CARLTON",
+        "city": "SAWYER",
+        "zipcode": 55780,
+        "latitude": "+46.701794",
+        "longitude": "-092.639079"
+    },
+    {
+        "county": "CARLTON",
+        "city": "WRENSHALL",
+        "zipcode": 55797,
+        "latitude": "+46.565172",
+        "longitude": "-092.657895"
+    },
+    {
+        "county": "CARLTON",
+        "city": "WRIGHT",
+        "zipcode": 55798,
+        "latitude": "+46.614151",
+        "longitude": "-092.735406"
+    },
+    {
+        "county": "CARVER",
+        "city": "CARVER",
+        "zipcode": 55315,
+        "latitude": "+44.723162",
+        "longitude": "-093.701637"
+    },
+    {
+        "county": "CARVER",
+        "city": "CHANHASSEN",
+        "zipcode": 55317,
+        "latitude": "+44.853364",
+        "longitude": "-093.572584"
+    },
+    {
+        "county": "CARVER",
+        "city": "CHASKA",
+        "zipcode": 55318,
+        "latitude": "+44.810062",
+        "longitude": "-093.653336"
+    },
+    {
+        "county": "CARVER",
+        "city": "COLOGNE",
+        "zipcode": 55322,
+        "latitude": "+44.768262",
+        "longitude": "-093.787041"
+    },
+    {
+        "county": "CARVER",
+        "city": "HAMBURG",
+        "zipcode": 55339,
+        "latitude": "+44.785812",
+        "longitude": "-093.837873"
+    },
+    {
+        "county": "CARVER",
+        "city": "MAYER",
+        "zipcode": 55360,
+        "latitude": "+44.905962",
+        "longitude": "-093.913561"
+    },
+    {
+        "county": "CARVER",
+        "city": "MINNEAPOLIS",
+        "zipcode": 55473,
+        "latitude": "+44.805487",
+        "longitude": "-093.766524"
+    },
+    {
+        "county": "CARVER",
+        "city": "MONTICELLO",
+        "zipcode": 55561,
+        "latitude": "+44.805487",
+        "longitude": "-093.766524"
+    },
+    {
+        "county": "CARVER",
+        "city": "MONTICELLO",
+        "zipcode": 55563,
+        "latitude": "+44.805487",
+        "longitude": "-093.766524"
+    },
+    {
+        "county": "CARVER",
+        "city": "NEW GERMANY",
+        "zipcode": 55367,
+        "latitude": "+44.899612",
+        "longitude": "-093.970832"
+    },
+    {
+        "county": "CARVER",
+        "city": "NORWOOD",
+        "zipcode": 55368,
+        "latitude": "+44.738862",
+        "longitude": "-093.899950"
+    },
+    {
+        "county": "CARVER",
+        "city": "NORWOOD",
+        "zipcode": 55383,
+        "latitude": "+44.805487",
+        "longitude": "-093.766524"
+    },
+    {
+        "county": "CARVER",
+        "city": "NORWOOD",
+        "zipcode": 55554,
+        "latitude": "+44.805487",
+        "longitude": "-093.766524"
+    },
+    {
+        "county": "CARVER",
+        "city": "NORWOOD",
+        "zipcode": 55583,
+        "latitude": "+44.805487",
+        "longitude": "-093.766524"
+    },
+    {
+        "county": "CARVER",
+        "city": "VICTORIA",
+        "zipcode": 55386,
+        "latitude": "+44.846645",
+        "longitude": "-093.661737"
+    },
+    {
+        "county": "CARVER",
+        "city": "WACONIA",
+        "zipcode": 55387,
+        "latitude": "+44.844847",
+        "longitude": "-093.746148"
+    },
+    {
+        "county": "CARVER",
+        "city": "WATERTOWN",
+        "zipcode": 55388,
+        "latitude": "+44.924416",
+        "longitude": "-093.853894"
+    },
+    {
+        "county": "CARVER",
+        "city": "YOUNG AMERICA",
+        "zipcode": 55394,
+        "latitude": "+44.805487",
+        "longitude": "-093.766524"
+    },
+    {
+        "county": "CARVER",
+        "city": "YOUNG AMERICA",
+        "zipcode": 55397,
+        "latitude": "+44.800912",
+        "longitude": "-093.919675"
+    },
+    {
+        "county": "CARVER",
+        "city": "YOUNG AMERICA",
+        "zipcode": 55399,
+        "latitude": "+44.805487",
+        "longitude": "-093.766524"
+    },
+    {
+        "county": "CARVER",
+        "city": "YOUNG AMERICA",
+        "zipcode": 55550,
+        "latitude": "+44.805487",
+        "longitude": "-093.766524"
+    },
+    {
+        "county": "CARVER",
+        "city": "YOUNG AMERICA",
+        "zipcode": 55551,
+        "latitude": "+44.805487",
+        "longitude": "-093.766524"
+    },
+    {
+        "county": "CARVER",
+        "city": "YOUNG AMERICA",
+        "zipcode": 55552,
+        "latitude": "+44.805487",
+        "longitude": "-093.766524"
+    },
+    {
+        "county": "CARVER",
+        "city": "YOUNG AMERICA",
+        "zipcode": 55553,
+        "latitude": "+44.805487",
+        "longitude": "-093.766524"
+    },
+    {
+        "county": "CARVER",
+        "city": "YOUNG AMERICA",
+        "zipcode": 55555,
+        "latitude": "+44.805487",
+        "longitude": "-093.766524"
+    },
+    {
+        "county": "CARVER",
+        "city": "YOUNG AMERICA",
+        "zipcode": 55556,
+        "latitude": "+44.805487",
+        "longitude": "-093.766524"
+    },
+    {
+        "county": "CARVER",
+        "city": "YOUNG AMERICA",
+        "zipcode": 55557,
+        "latitude": "+44.805487",
+        "longitude": "-093.766524"
+    },
+    {
+        "county": "CARVER",
+        "city": "YOUNG AMERICA",
+        "zipcode": 55558,
+        "latitude": "+44.805487",
+        "longitude": "-093.766524"
+    },
+    {
+        "county": "CARVER",
+        "city": "YOUNG AMERICA",
+        "zipcode": 55559,
+        "latitude": "+44.805487",
+        "longitude": "-093.766524"
+    },
+    {
+        "county": "CARVER",
+        "city": "YOUNG AMERICA",
+        "zipcode": 55560,
+        "latitude": "+44.805487",
+        "longitude": "-093.766524"
+    },
+    {
+        "county": "CARVER",
+        "city": "YOUNG AMERICA",
+        "zipcode": 55562,
+        "latitude": "+44.805487",
+        "longitude": "-093.766524"
+    },
+    {
+        "county": "CARVER",
+        "city": "YOUNG AMERICA",
+        "zipcode": 55564,
+        "latitude": "+44.805487",
+        "longitude": "-093.766524"
+    },
+    {
+        "county": "CARVER",
+        "city": "YOUNG AMERICA",
+        "zipcode": 55566,
+        "latitude": "+44.805487",
+        "longitude": "-093.766524"
+    },
+    {
+        "county": "CARVER",
+        "city": "YOUNG AMERICA",
+        "zipcode": 55567,
+        "latitude": "+44.805487",
+        "longitude": "-093.766524"
+    },
+    {
+        "county": "CARVER",
+        "city": "YOUNG AMERICA",
+        "zipcode": 55568,
+        "latitude": "+44.805487",
+        "longitude": "-093.766524"
+    },
+    {
+        "county": "CARVER",
+        "city": "YOUNG AMERICA",
+        "zipcode": 55594,
+        "latitude": "+44.805487",
+        "longitude": "-093.766524"
+    },
+    {
+        "county": "CASS",
+        "city": "AH GWAH CHING",
+        "zipcode": 56430,
+        "latitude": "+46.862332",
+        "longitude": "-094.641872"
+    },
+    {
+        "county": "CASS",
+        "city": "BACKUS",
+        "zipcode": 56435,
+        "latitude": "+46.803348",
+        "longitude": "-094.521914"
+    },
+    {
+        "county": "CASS",
+        "city": "BENA",
+        "zipcode": 56626,
+        "latitude": "+47.370372",
+        "longitude": "-094.251376"
+    },
+    {
+        "county": "CASS",
+        "city": "CASS LAKE",
+        "zipcode": 56633,
+        "latitude": "+47.327719",
+        "longitude": "-094.476853"
+    },
+    {
+        "county": "CASS",
+        "city": "FEDERAL DAM",
+        "zipcode": 56641,
+        "latitude": "+47.206552",
+        "longitude": "-094.263384"
+    },
+    {
+        "county": "CASS",
+        "city": "HACKENSACK",
+        "zipcode": 56452,
+        "latitude": "+46.939139",
+        "longitude": "-094.450641"
+    },
+    {
+        "county": "CASS",
+        "city": "LONGVILLE",
+        "zipcode": 56655,
+        "latitude": "+46.994097",
+        "longitude": "-094.243551"
+    },
+    {
+        "county": "CASS",
+        "city": "OUTING",
+        "zipcode": 56662,
+        "latitude": "+46.879043",
+        "longitude": "-093.918172"
+    },
+    {
+        "county": "CASS",
+        "city": "PILLAGER",
+        "zipcode": 56473,
+        "latitude": "+46.693034",
+        "longitude": "-094.464381"
+    },
+    {
+        "county": "CASS",
+        "city": "PINE RIVER",
+        "zipcode": 56474,
+        "latitude": "+46.712158",
+        "longitude": "-094.251126"
+    },
+    {
+        "county": "CASS",
+        "city": "REMER",
+        "zipcode": 56672,
+        "latitude": "+47.095793",
+        "longitude": "-094.021032"
+    },
+    {
+        "county": "CASS",
+        "city": "WALKER",
+        "zipcode": 56484,
+        "latitude": "+47.067057",
+        "longitude": "-094.489824"
+    },
+    {
+        "county": "CHIPPEWA",
+        "city": "CLARA CITY",
+        "zipcode": 56222,
+        "latitude": "+44.992549",
+        "longitude": "-095.360420"
+    },
+    {
+        "county": "CHIPPEWA",
+        "city": "MAYNARD",
+        "zipcode": 56260,
+        "latitude": "+44.999613",
+        "longitude": "-095.573816"
+    },
+    {
+        "county": "CHIPPEWA",
+        "city": "MILAN",
+        "zipcode": 56262,
+        "latitude": "+45.108407",
+        "longitude": "-095.817699"
+    },
+    {
+        "county": "CHIPPEWA",
+        "city": "MONTEVIDEO",
+        "zipcode": 56265,
+        "latitude": "+45.014054",
+        "longitude": "-095.601718"
+    },
+    {
+        "county": "CHIPPEWA",
+        "city": "WATSON",
+        "zipcode": 56295,
+        "latitude": "+45.019892",
+        "longitude": "-095.630814"
+    },
+    {
+        "county": "CHISAGO",
+        "city": "ALMELUND",
+        "zipcode": 55002,
+        "latitude": "+45.513447",
+        "longitude": "-092.894239"
+    },
+    {
+        "county": "CHISAGO",
+        "city": "CENTER CITY",
+        "zipcode": 55012,
+        "latitude": "+45.448211",
+        "longitude": "-092.789369"
+    },
+    {
+        "county": "CHISAGO",
+        "city": "CHISAGO CITY",
+        "zipcode": 55013,
+        "latitude": "+45.362621",
+        "longitude": "-092.902261"
+    },
+    {
+        "county": "CHISAGO",
+        "city": "HARRIS",
+        "zipcode": 55032,
+        "latitude": "+45.593629",
+        "longitude": "-092.998865"
+    },
+    {
+        "county": "CHISAGO",
+        "city": "LINDSTROM",
+        "zipcode": 55045,
+        "latitude": "+45.404477",
+        "longitude": "-092.823088"
+    },
+    {
+        "county": "CHISAGO",
+        "city": "NORTH BRANCH",
+        "zipcode": 55056,
+        "latitude": "+45.556522",
+        "longitude": "-092.885433"
+    },
+    {
+        "county": "CHISAGO",
+        "city": "RUSH CITY",
+        "zipcode": 55069,
+        "latitude": "+45.679870",
+        "longitude": "-092.978158"
+    },
+    {
+        "county": "CHISAGO",
+        "city": "SHAFER",
+        "zipcode": 55074,
+        "latitude": "+45.382835",
+        "longitude": "-092.726135"
+    },
+    {
+        "county": "CHISAGO",
+        "city": "STACY",
+        "zipcode": 55078,
+        "latitude": "+45.513447",
+        "longitude": "-092.894239"
+    },
+    {
+        "county": "CHISAGO",
+        "city": "STACY",
+        "zipcode": 55079,
+        "latitude": "+45.405278",
+        "longitude": "-092.969118"
+    },
+    {
+        "county": "CHISAGO",
+        "city": "TAYLORS FALLS",
+        "zipcode": 55084,
+        "latitude": "+45.457557",
+        "longitude": "-092.733042"
+    },
+    {
+        "county": "CHISAGO",
+        "city": "WYOMING",
+        "zipcode": 55092,
+        "latitude": "+45.336417",
+        "longitude": "-092.967517"
+    },
+    {
+        "county": "CLAY",
+        "city": "BAKER",
+        "zipcode": 56513,
+        "latitude": "+46.890034",
+        "longitude": "-096.506156"
+    },
+    {
+        "county": "CLAY",
+        "city": "BARNESVILLE",
+        "zipcode": 56514,
+        "latitude": "+46.649467",
+        "longitude": "-096.391637"
+    },
+    {
+        "county": "CLAY",
+        "city": "COMSTOCK",
+        "zipcode": 56525,
+        "latitude": "+46.890034",
+        "longitude": "-096.506156"
+    },
+    {
+        "county": "CLAY",
+        "city": "DILWORTH",
+        "zipcode": 56529,
+        "latitude": "+46.877143",
+        "longitude": "-096.709806"
+    },
+    {
+        "county": "CLAY",
+        "city": "FELTON",
+        "zipcode": 56536,
+        "latitude": "+47.077246",
+        "longitude": "-096.503987"
+    },
+    {
+        "county": "CLAY",
+        "city": "GEORGETOWN",
+        "zipcode": 56546,
+        "latitude": "+46.890034",
+        "longitude": "-096.506156"
+    },
+    {
+        "county": "CLAY",
+        "city": "GLYNDON",
+        "zipcode": 56547,
+        "latitude": "+46.870695",
+        "longitude": "-096.576425"
+    },
+    {
+        "county": "CLAY",
+        "city": "HAWLEY",
+        "zipcode": 56549,
+        "latitude": "+46.977738",
+        "longitude": "-096.409155"
+    },
+    {
+        "county": "CLAY",
+        "city": "HITTERDAL",
+        "zipcode": 56552,
+        "latitude": "+46.972026",
+        "longitude": "-096.255890"
+    },
+    {
+        "county": "CLAY",
+        "city": "MOORHEAD",
+        "zipcode": 56560,
+        "latitude": "+46.803546",
+        "longitude": "-096.557389"
+    },
+    {
+        "county": "CLAY",
+        "city": "MOORHEAD",
+        "zipcode": 56561,
+        "latitude": "+46.890034",
+        "longitude": "-096.506156"
+    },
+    {
+        "county": "CLAY",
+        "city": "MOORHEAD",
+        "zipcode": 56562,
+        "latitude": "+46.890034",
+        "longitude": "-096.506156"
+    },
+    {
+        "county": "CLAY",
+        "city": "MOORHEAD",
+        "zipcode": 56563,
+        "latitude": "+46.890034",
+        "longitude": "-096.506156"
+    },
+    {
+        "county": "CLAY",
+        "city": "SABIN",
+        "zipcode": 56580,
+        "latitude": "+46.779487",
+        "longitude": "-096.651185"
+    },
+    {
+        "county": "CLAY",
+        "city": "ULEN",
+        "zipcode": 56585,
+        "latitude": "+47.066300",
+        "longitude": "-096.258706"
+    },
+    {
+        "county": "CLEARWATER",
+        "city": "BAGLEY",
+        "zipcode": 56621,
+        "latitude": "+47.531644",
+        "longitude": "-095.377949"
+    },
+    {
+        "county": "CLEARWATER",
+        "city": "CLEARBROOK",
+        "zipcode": 56634,
+        "latitude": "+47.610498",
+        "longitude": "-095.421104"
+    },
+    {
+        "county": "CLEARWATER",
+        "city": "GONVICK",
+        "zipcode": 56644,
+        "latitude": "+47.715406",
+        "longitude": "-095.470782"
+    },
+    {
+        "county": "CLEARWATER",
+        "city": "LEONARD",
+        "zipcode": 56652,
+        "latitude": "+47.585873",
+        "longitude": "-095.375974"
+    },
+    {
+        "county": "CLEARWATER",
+        "city": "SHEVLIN",
+        "zipcode": 56676,
+        "latitude": "+47.585873",
+        "longitude": "-095.375974"
+    },
+    {
+        "county": "COOK",
+        "city": "GRAND MARAIS",
+        "zipcode": 55604,
+        "latitude": "+47.872285",
+        "longitude": "-090.422940"
+    },
+    {
+        "county": "COOK",
+        "city": "GRAND PORTAGE",
+        "zipcode": 55605,
+        "latitude": "+47.923022",
+        "longitude": "-089.851983"
+    },
+    {
+        "county": "COOK",
+        "city": "HOVLAND",
+        "zipcode": 55606,
+        "latitude": "+47.851669",
+        "longitude": "-090.001214"
+    },
+    {
+        "county": "COOK",
+        "city": "LUTSEN",
+        "zipcode": 55612,
+        "latitude": "+47.705900",
+        "longitude": "-090.682372"
+    },
+    {
+        "county": "COOK",
+        "city": "SCHROEDER",
+        "zipcode": 55613,
+        "latitude": "+47.518552",
+        "longitude": "-090.949997"
+    },
+    {
+        "county": "COOK",
+        "city": "TOFTE",
+        "zipcode": 55615,
+        "latitude": "+47.648636",
+        "longitude": "-090.801861"
+    },
+    {
+        "county": "COTTONWOOD",
+        "city": "BINGHAM LAKE",
+        "zipcode": 56118,
+        "latitude": "+43.895565",
+        "longitude": "-095.048996"
+    },
+    {
+        "county": "COTTONWOOD",
+        "city": "JEFFERS",
+        "zipcode": 56145,
+        "latitude": "+44.055769",
+        "longitude": "-095.195219"
+    },
+    {
+        "county": "COTTONWOOD",
+        "city": "MOUNTAIN LAKE",
+        "zipcode": 56159,
+        "latitude": "+43.939276",
+        "longitude": "-094.924319"
+    },
+    {
+        "county": "COTTONWOOD",
+        "city": "STORDEN",
+        "zipcode": 56174,
+        "latitude": "+44.039624",
+        "longitude": "-095.319366"
+    },
+    {
+        "county": "COTTONWOOD",
+        "city": "WESTBROOK",
+        "zipcode": 56183,
+        "latitude": "+44.007813",
+        "longitude": "-095.196562"
+    },
+    {
+        "county": "COTTONWOOD",
+        "city": "WINDOM",
+        "zipcode": 56101,
+        "latitude": "+43.900192",
+        "longitude": "-095.046828"
+    },
+    {
+        "county": "CROW WING",
+        "city": "BAXTER",
+        "zipcode": 56425,
+        "latitude": "+46.373474",
+        "longitude": "-094.196884"
+    },
+    {
+        "county": "CROW WING",
+        "city": "BRAINERD",
+        "zipcode": 56401,
+        "latitude": "+46.350195",
+        "longitude": "-094.099983"
+    },
+    {
+        "county": "CROW WING",
+        "city": "CROSBY",
+        "zipcode": 56441,
+        "latitude": "+46.537059",
+        "longitude": "-093.928197"
+    },
+    {
+        "county": "CROW WING",
+        "city": "CROSSLAKE",
+        "zipcode": 56442,
+        "latitude": "+46.677340",
+        "longitude": "-094.112783"
+    },
+    {
+        "county": "CROW WING",
+        "city": "DEERWOOD",
+        "zipcode": 56444,
+        "latitude": "+46.429194",
+        "longitude": "-093.878493"
+    },
+    {
+        "county": "CROW WING",
+        "city": "EMILY",
+        "zipcode": 56447,
+        "latitude": "+46.697119",
+        "longitude": "-094.117266"
+    },
+    {
+        "county": "CROW WING",
+        "city": "FIFTY LAKES",
+        "zipcode": 56448,
+        "latitude": "+46.727867",
+        "longitude": "-094.040303"
+    },
+    {
+        "county": "CROW WING",
+        "city": "FORT RIPLEY",
+        "zipcode": 56449,
+        "latitude": "+46.200293",
+        "longitude": "-094.245167"
+    },
+    {
+        "county": "CROW WING",
+        "city": "GARRISON",
+        "zipcode": 56450,
+        "latitude": "+46.312962",
+        "longitude": "-093.866016"
+    },
+    {
+        "county": "CROW WING",
+        "city": "IRONTON",
+        "zipcode": 56455,
+        "latitude": "+46.477792",
+        "longitude": "-093.978854"
+    },
+    {
+        "county": "CROW WING",
+        "city": "JENKINS",
+        "zipcode": 56456,
+        "latitude": "+46.480723",
+        "longitude": "-094.085870"
+    },
+    {
+        "county": "CROW WING",
+        "city": "LAKE HUBERT",
+        "zipcode": 56459,
+        "latitude": "+46.498749",
+        "longitude": "-094.251926"
+    },
+    {
+        "county": "CROW WING",
+        "city": "MERRIFIELD",
+        "zipcode": 56465,
+        "latitude": "+46.539308",
+        "longitude": "-094.134385"
+    },
+    {
+        "county": "CROW WING",
+        "city": "NISSWA",
+        "zipcode": 56468,
+        "latitude": "+46.401244",
+        "longitude": "-094.237094"
+    },
+    {
+        "county": "CROW WING",
+        "city": "PEQUOT LAKES",
+        "zipcode": 56472,
+        "latitude": "+46.616147",
+        "longitude": "-094.235561"
+    },
+    {
+        "county": "DAKOTA",
+        "city": "BURNSVILLE",
+        "zipcode": 55306,
+        "latitude": "+44.762208",
+        "longitude": "-093.221535"
+    },
+    {
+        "county": "DAKOTA",
+        "city": "BURNSVILLE",
+        "zipcode": 55337,
+        "latitude": "+44.771547",
+        "longitude": "-093.226258"
+    },
+    {
+        "county": "DAKOTA",
+        "city": "CASTLE ROCK",
+        "zipcode": 55010,
+        "latitude": "+44.547215",
+        "longitude": "-093.153115"
+    },
+    {
+        "county": "DAKOTA",
+        "city": "FARMINGTON",
+        "zipcode": 55024,
+        "latitude": "+44.640515",
+        "longitude": "-093.141960"
+    },
+    {
+        "county": "DAKOTA",
+        "city": "HAMPTON",
+        "zipcode": 55031,
+        "latitude": "+44.608467",
+        "longitude": "-092.955479"
+    },
+    {
+        "county": "DAKOTA",
+        "city": "HASTINGS",
+        "zipcode": 55033,
+        "latitude": "+44.737166",
+        "longitude": "-093.032909"
+    },
+    {
+        "county": "DAKOTA",
+        "city": "INVER GROVE HEIGHTS",
+        "zipcode": 55076,
+        "latitude": "+44.828816",
+        "longitude": "-093.039064"
+    },
+    {
+        "county": "DAKOTA",
+        "city": "INVER GROVE HEIGHTS",
+        "zipcode": 55077,
+        "latitude": "+44.828265",
+        "longitude": "-093.093969"
+    },
+    {
+        "county": "DAKOTA",
+        "city": "LAKEVILLE",
+        "zipcode": 55044,
+        "latitude": "+44.633421",
+        "longitude": "-093.258120"
+    },
+    {
+        "county": "DAKOTA",
+        "city": "MENDOTA",
+        "zipcode": 55150,
+        "latitude": "+44.886554",
+        "longitude": "-093.161258"
+    },
+    {
+        "county": "DAKOTA",
+        "city": "RANDOLPH",
+        "zipcode": 55065,
+        "latitude": "+44.545066",
+        "longitude": "-093.024960"
+    },
+    {
+        "county": "DAKOTA",
+        "city": "ROSEMOUNT",
+        "zipcode": 55068,
+        "latitude": "+44.661216",
+        "longitude": "-093.076163"
+    },
+    {
+        "county": "DAKOTA",
+        "city": "SAINT PAUL",
+        "zipcode": 55118,
+        "latitude": "+44.856615",
+        "longitude": "-093.113028"
+    },
+    {
+        "county": "DAKOTA",
+        "city": "SAINT PAUL",
+        "zipcode": 55120,
+        "latitude": "+44.870365",
+        "longitude": "-093.143369"
+    },
+    {
+        "county": "DAKOTA",
+        "city": "SAINT PAUL",
+        "zipcode": 55121,
+        "latitude": "+44.822093",
+        "longitude": "-093.159080"
+    },
+    {
+        "county": "DAKOTA",
+        "city": "SAINT PAUL",
+        "zipcode": 55122,
+        "latitude": "+44.786018",
+        "longitude": "-093.220205"
+    },
+    {
+        "county": "DAKOTA",
+        "city": "SAINT PAUL",
+        "zipcode": 55123,
+        "latitude": "+44.805989",
+        "longitude": "-093.140878"
+    },
+    {
+        "county": "DAKOTA",
+        "city": "SAINT PAUL",
+        "zipcode": 55124,
+        "latitude": "+44.749701",
+        "longitude": "-093.202881"
+    },
+    {
+        "county": "DAKOTA",
+        "city": "SOUTH SAINT PAUL",
+        "zipcode": 55075,
+        "latitude": "+44.890315",
+        "longitude": "-093.049879"
+    },
+    {
+        "county": "DAKOTA",
+        "city": "VERMILLION",
+        "zipcode": 55085,
+        "latitude": "+44.674799",
+        "longitude": "-092.968309"
+    },
+    {
+        "county": "DODGE",
+        "city": "CLAREMONT",
+        "zipcode": 55924,
+        "latitude": "+44.046168",
+        "longitude": "-092.975313"
+    },
+    {
+        "county": "DODGE",
+        "city": "DODGE CENTER",
+        "zipcode": 55927,
+        "latitude": "+44.045362",
+        "longitude": "-092.910808"
+    },
+    {
+        "county": "DODGE",
+        "city": "HAYFIELD",
+        "zipcode": 55940,
+        "latitude": "+43.896909",
+        "longitude": "-092.797679"
+    },
+    {
+        "county": "DODGE",
+        "city": "KASSON",
+        "zipcode": 55944,
+        "latitude": "+44.017216",
+        "longitude": "-092.790593"
+    },
+    {
+        "county": "DODGE",
+        "city": "MANTORVILLE",
+        "zipcode": 55955,
+        "latitude": "+44.065741",
+        "longitude": "-092.760046"
+    },
+    {
+        "county": "DODGE",
+        "city": "WEST CONCORD",
+        "zipcode": 55985,
+        "latitude": "+44.148244",
+        "longitude": "-092.903452"
+    },
+    {
+        "county": "DOUGLAS",
+        "city": "ALEXANDRIA",
+        "zipcode": 56308,
+        "latitude": "+45.902017",
+        "longitude": "-095.420589"
+    },
+    {
+        "county": "DOUGLAS",
+        "city": "BRANDON",
+        "zipcode": 56315,
+        "latitude": "+45.966435",
+        "longitude": "-095.516619"
+    },
+    {
+        "county": "DOUGLAS",
+        "city": "CARLOS",
+        "zipcode": 56319,
+        "latitude": "+45.991208",
+        "longitude": "-095.371207"
+    },
+    {
+        "county": "DOUGLAS",
+        "city": "EVANSVILLE",
+        "zipcode": 56326,
+        "latitude": "+45.984659",
+        "longitude": "-095.670545"
+    },
+    {
+        "county": "DOUGLAS",
+        "city": "GARFIELD",
+        "zipcode": 56332,
+        "latitude": "+45.984672",
+        "longitude": "-095.506622"
+    },
+    {
+        "county": "DOUGLAS",
+        "city": "HOLMES CITY",
+        "zipcode": 56341,
+        "latitude": "+45.830998",
+        "longitude": "-095.541618"
+    },
+    {
+        "county": "DOUGLAS",
+        "city": "KENSINGTON",
+        "zipcode": 56343,
+        "latitude": "+45.811895",
+        "longitude": "-095.665241"
+    },
+    {
+        "county": "DOUGLAS",
+        "city": "MILTONA",
+        "zipcode": 56354,
+        "latitude": "+46.061870",
+        "longitude": "-095.295146"
+    },
+    {
+        "county": "DOUGLAS",
+        "city": "NELSON",
+        "zipcode": 56355,
+        "latitude": "+45.935551",
+        "longitude": "-095.239750"
+    },
+    {
+        "county": "DOUGLAS",
+        "city": "OSAKIS",
+        "zipcode": 56360,
+        "latitude": "+45.871169",
+        "longitude": "-095.237474"
+    },
+    {
+        "county": "FARIBAULT",
+        "city": "BLUE EARTH",
+        "zipcode": 56013,
+        "latitude": "+43.650300",
+        "longitude": "-093.977974"
+    },
+    {
+        "county": "FARIBAULT",
+        "city": "BRICELYN",
+        "zipcode": 56014,
+        "latitude": "+43.669878",
+        "longitude": "-093.826733"
+    },
+    {
+        "county": "FARIBAULT",
+        "city": "DELAVAN",
+        "zipcode": 56023,
+        "latitude": "+43.768062",
+        "longitude": "-094.007655"
+    },
+    {
+        "county": "FARIBAULT",
+        "city": "EASTON",
+        "zipcode": 56025,
+        "latitude": "+43.760823",
+        "longitude": "-093.897589"
+    },
+    {
+        "county": "FARIBAULT",
+        "city": "ELMORE",
+        "zipcode": 56027,
+        "latitude": "+43.575712",
+        "longitude": "-093.969840"
+    },
+    {
+        "county": "FARIBAULT",
+        "city": "FROST",
+        "zipcode": 56033,
+        "latitude": "+43.564879",
+        "longitude": "-093.908248"
+    },
+    {
+        "county": "FARIBAULT",
+        "city": "HUNTLEY",
+        "zipcode": 56047,
+        "latitude": "+43.738397",
+        "longitude": "-094.228897"
+    },
+    {
+        "county": "FARIBAULT",
+        "city": "KIESTER",
+        "zipcode": 56051,
+        "latitude": "+43.550446",
+        "longitude": "-093.708504"
+    },
+    {
+        "county": "FARIBAULT",
+        "city": "MINNESOTA LAKE",
+        "zipcode": 56068,
+        "latitude": "+43.811561",
+        "longitude": "-093.817817"
+    },
+    {
+        "county": "FARIBAULT",
+        "city": "WELLS",
+        "zipcode": 56097,
+        "latitude": "+43.702814",
+        "longitude": "-093.912041"
+    },
+    {
+        "county": "FARIBAULT",
+        "city": "WINNEBAGO",
+        "zipcode": 56098,
+        "latitude": "+43.673848",
+        "longitude": "-093.948241"
+    },
+    {
+        "county": "FILLMORE",
+        "city": "CANTON",
+        "zipcode": 55922,
+        "latitude": "+43.527479",
+        "longitude": "-091.852970"
+    },
+    {
+        "county": "FILLMORE",
+        "city": "CHATFIELD",
+        "zipcode": 55923,
+        "latitude": "+43.758684",
+        "longitude": "-092.139962"
+    },
+    {
+        "county": "FILLMORE",
+        "city": "FOUNTAIN",
+        "zipcode": 55935,
+        "latitude": "+43.651181",
+        "longitude": "-092.075216"
+    },
+    {
+        "county": "FILLMORE",
+        "city": "HARMONY",
+        "zipcode": 55939,
+        "latitude": "+43.534993",
+        "longitude": "-092.069594"
+    },
+    {
+        "county": "FILLMORE",
+        "city": "LANESBORO",
+        "zipcode": 55949,
+        "latitude": "+43.721194",
+        "longitude": "-091.977384"
+    },
+    {
+        "county": "FILLMORE",
+        "city": "MABEL",
+        "zipcode": 55954,
+        "latitude": "+43.521277",
+        "longitude": "-091.768082"
+    },
+    {
+        "county": "FILLMORE",
+        "city": "OSTRANDER",
+        "zipcode": 55961,
+        "latitude": "+43.714209",
+        "longitude": "-092.087863"
+    },
+    {
+        "county": "FILLMORE",
+        "city": "PETERSON",
+        "zipcode": 55962,
+        "latitude": "+43.747262",
+        "longitude": "-092.048539"
+    },
+    {
+        "county": "FILLMORE",
+        "city": "PRESTON",
+        "zipcode": 55965,
+        "latitude": "+43.706377",
+        "longitude": "-092.094590"
+    },
+    {
+        "county": "FILLMORE",
+        "city": "RUSHFORD",
+        "zipcode": 55971,
+        "latitude": "+43.809873",
+        "longitude": "-091.793376"
+    },
+    {
+        "county": "FILLMORE",
+        "city": "SPRING VALLEY",
+        "zipcode": 55975,
+        "latitude": "+43.689711",
+        "longitude": "-092.334603"
+    },
+    {
+        "county": "FILLMORE",
+        "city": "WYKOFF",
+        "zipcode": 55990,
+        "latitude": "+43.704566",
+        "longitude": "-092.237117"
+    },
+    {
+        "county": "FREEBORN",
+        "city": "ALBERT LEA",
+        "zipcode": 56007,
+        "latitude": "+43.686288",
+        "longitude": "-093.389838"
+    },
+    {
+        "county": "FREEBORN",
+        "city": "ALDEN",
+        "zipcode": 56009,
+        "latitude": "+43.733525",
+        "longitude": "-093.532143"
+    },
+    {
+        "county": "FREEBORN",
+        "city": "CLARKS GROVE",
+        "zipcode": 56016,
+        "latitude": "+43.761669",
+        "longitude": "-093.326712"
+    },
+    {
+        "county": "FREEBORN",
+        "city": "CONGER",
+        "zipcode": 56020,
+        "latitude": "+43.621050",
+        "longitude": "-093.548214"
+    },
+    {
+        "county": "FREEBORN",
+        "city": "EMMONS",
+        "zipcode": 56029,
+        "latitude": "+43.652544",
+        "longitude": "-093.403429"
+    },
+    {
+        "county": "FREEBORN",
+        "city": "FREEBORN",
+        "zipcode": 56032,
+        "latitude": "+43.783807",
+        "longitude": "-093.525396"
+    },
+    {
+        "county": "FREEBORN",
+        "city": "GENEVA",
+        "zipcode": 56035,
+        "latitude": "+43.673904",
+        "longitude": "-093.348869"
+    },
+    {
+        "county": "FREEBORN",
+        "city": "GLENVILLE",
+        "zipcode": 56036,
+        "latitude": "+43.664991",
+        "longitude": "-093.361730"
+    },
+    {
+        "county": "FREEBORN",
+        "city": "HARTLAND",
+        "zipcode": 56042,
+        "latitude": "+43.803384",
+        "longitude": "-093.485456"
+    },
+    {
+        "county": "FREEBORN",
+        "city": "HAYWARD",
+        "zipcode": 56043,
+        "latitude": "+43.646968",
+        "longitude": "-093.244932"
+    },
+    {
+        "county": "FREEBORN",
+        "city": "HOLLANDALE",
+        "zipcode": 56045,
+        "latitude": "+43.759484",
+        "longitude": "-093.204246"
+    },
+    {
+        "county": "FREEBORN",
+        "city": "MANCHESTER",
+        "zipcode": 56064,
+        "latitude": "+43.763839",
+        "longitude": "-093.468959"
+    },
+    {
+        "county": "FREEBORN",
+        "city": "OAKLAND",
+        "zipcode": 56076,
+        "latitude": "+43.673904",
+        "longitude": "-093.348869"
+    },
+    {
+        "county": "FREEBORN",
+        "city": "TWIN LAKES",
+        "zipcode": 56089,
+        "latitude": "+43.559269",
+        "longitude": "-093.420578"
+    },
+    {
+        "county": "GOODHUE",
+        "city": "CANNON FALLS",
+        "zipcode": 55009,
+        "latitude": "+44.483189",
+        "longitude": "-092.885609"
+    },
+    {
+        "county": "GOODHUE",
+        "city": "DENNISON",
+        "zipcode": 55018,
+        "latitude": "+44.426537",
+        "longitude": "-092.955359"
+    },
+    {
+        "county": "GOODHUE",
+        "city": "FRONTENAC",
+        "zipcode": 55026,
+        "latitude": "+44.520038",
+        "longitude": "-092.358158"
+    },
+    {
+        "county": "GOODHUE",
+        "city": "GOODHUE",
+        "zipcode": 55027,
+        "latitude": "+44.427157",
+        "longitude": "-092.620355"
+    },
+    {
+        "county": "GOODHUE",
+        "city": "KENYON",
+        "zipcode": 55946,
+        "latitude": "+44.294333",
+        "longitude": "-092.905937"
+    },
+    {
+        "county": "GOODHUE",
+        "city": "PINE ISLAND",
+        "zipcode": 55963,
+        "latitude": "+44.261029",
+        "longitude": "-092.710905"
+    },
+    {
+        "county": "GOODHUE",
+        "city": "RED WING",
+        "zipcode": 55066,
+        "latitude": "+44.521909",
+        "longitude": "-092.537774"
+    },
+    {
+        "county": "GOODHUE",
+        "city": "WANAMINGO",
+        "zipcode": 55983,
+        "latitude": "+44.272099",
+        "longitude": "-092.812034"
+    },
+    {
+        "county": "GOODHUE",
+        "city": "WELCH",
+        "zipcode": 55089,
+        "latitude": "+44.575372",
+        "longitude": "-092.704731"
+    },
+    {
+        "county": "GOODHUE",
+        "city": "ZUMBROTA",
+        "zipcode": 55992,
+        "latitude": "+44.287597",
+        "longitude": "-092.693235"
+    },
+    {
+        "county": "GRANT",
+        "city": "ASHBY",
+        "zipcode": 56309,
+        "latitude": "+46.091710",
+        "longitude": "-095.816743"
+    },
+    {
+        "county": "GRANT",
+        "city": "BARRETT",
+        "zipcode": 56311,
+        "latitude": "+45.902775",
+        "longitude": "-095.850250"
+    },
+    {
+        "county": "GRANT",
+        "city": "ELBOW LAKE",
+        "zipcode": 56531,
+        "latitude": "+45.997662",
+        "longitude": "-095.963007"
+    },
+    {
+        "county": "GRANT",
+        "city": "HERMAN",
+        "zipcode": 56248,
+        "latitude": "+45.838396",
+        "longitude": "-096.141993"
+    },
+    {
+        "county": "GRANT",
+        "city": "HOFFMAN",
+        "zipcode": 56339,
+        "latitude": "+45.836077",
+        "longitude": "-095.791353"
+    },
+    {
+        "county": "GRANT",
+        "city": "NORCROSS",
+        "zipcode": 56274,
+        "latitude": "+45.934055",
+        "longitude": "-096.012359"
+    },
+    {
+        "county": "GRANT",
+        "city": "WENDELL",
+        "zipcode": 56590,
+        "latitude": "+45.934055",
+        "longitude": "-096.012359"
+    },
+    {
+        "county": "HENNEPIN",
+        "city": "CHAMPLIN",
+        "zipcode": 55316,
+        "latitude": "+45.176914",
+        "longitude": "-093.397481"
+    },
+    {
+        "county": "HENNEPIN",
+        "city": "CRYSTAL BAY",
+        "zipcode": 55323,
+        "latitude": "+45.015914",
+        "longitude": "-093.471880"
+    },
+    {
+        "county": "HENNEPIN",
+        "city": "DAYTON",
+        "zipcode": 55327,
+        "latitude": "+45.201514",
+        "longitude": "-093.482833"
+    },
+    {
+        "county": "HENNEPIN",
+        "city": "EDEN PRAIRIE",
+        "zipcode": 55344,
+        "latitude": "+44.850563",
+        "longitude": "-093.440429"
+    },
+    {
+        "county": "HENNEPIN",
+        "city": "EDEN PRAIRIE",
+        "zipcode": 55346,
+        "latitude": "+44.875463",
+        "longitude": "-093.478080"
+    },
+    {
+        "county": "HENNEPIN",
+        "city": "EDEN PRAIRIE",
+        "zipcode": 55347,
+        "latitude": "+44.841713",
+        "longitude": "-093.459829"
+    },
+    {
+        "county": "HENNEPIN",
+        "city": "EXCELSIOR",
+        "zipcode": 55331,
+        "latitude": "+44.912712",
+        "longitude": "-093.623186"
+    },
+    {
+        "county": "HENNEPIN",
+        "city": "HAMEL",
+        "zipcode": 55340,
+        "latitude": "+45.073663",
+        "longitude": "-093.568735"
+    },
+    {
+        "county": "HENNEPIN",
+        "city": "HOPKINS",
+        "zipcode": 55305,
+        "latitude": "+44.952763",
+        "longitude": "-093.437230"
+    },
+    {
+        "county": "HENNEPIN",
+        "city": "HOPKINS",
+        "zipcode": 55343,
+        "latitude": "+44.913969",
+        "longitude": "-093.448130"
+    },
+    {
+        "county": "HENNEPIN",
+        "city": "HOWARD LAKE",
+        "zipcode": 55575,
+        "latitude": "+45.015914",
+        "longitude": "-093.471880"
+    },
+    {
+        "county": "HENNEPIN",
+        "city": "LONG LAKE",
+        "zipcode": 55356,
+        "latitude": "+44.995129",
+        "longitude": "-093.593836"
+    },
+    {
+        "county": "HENNEPIN",
+        "city": "LORETTO",
+        "zipcode": 55357,
+        "latitude": "+45.100098",
+        "longitude": "-093.657256"
+    },
+    {
+        "county": "HENNEPIN",
+        "city": "LORETTO",
+        "zipcode": 55595,
+        "latitude": "+45.015914",
+        "longitude": "-093.471880"
+    },
+    {
+        "county": "HENNEPIN",
+        "city": "LORETTO",
+        "zipcode": 55596,
+        "latitude": "+45.015914",
+        "longitude": "-093.471880"
+    },
+    {
+        "county": "HENNEPIN",
+        "city": "LORETTO",
+        "zipcode": 55597,
+        "latitude": "+45.015914",
+        "longitude": "-093.471880"
+    },
+    {
+        "county": "HENNEPIN",
+        "city": "LORETTO",
+        "zipcode": 55598,
+        "latitude": "+45.015914",
+        "longitude": "-093.471880"
+    },
+    {
+        "county": "HENNEPIN",
+        "city": "LORETTO",
+        "zipcode": 55599,
+        "latitude": "+45.015914",
+        "longitude": "-093.471880"
+    },
+    {
+        "county": "HENNEPIN",
+        "city": "MAPLE PLAIN",
+        "zipcode": 55348,
+        "latitude": "+44.848263",
+        "longitude": "-093.398727"
+    },
+    {
+        "county": "HENNEPIN",
+        "city": "MAPLE PLAIN",
+        "zipcode": 55359,
+        "latitude": "+44.983312",
+        "longitude": "-093.689162"
+    },
+    {
+        "county": "HENNEPIN",
+        "city": "MAPLE PLAIN",
+        "zipcode": 55570,
+        "latitude": "+45.015914",
+        "longitude": "-093.471880"
+    },
+    {
+        "county": "HENNEPIN",
+        "city": "MAPLE PLAIN",
+        "zipcode": 55571,
+        "latitude": "+45.015914",
+        "longitude": "-093.471880"
+    },
+    {
+        "county": "HENNEPIN",
+        "city": "MAPLE PLAIN",
+        "zipcode": 55572,
+        "latitude": "+45.015914",
+        "longitude": "-093.471880"
+    },
+    {
+        "county": "HENNEPIN",
+        "city": "MAPLE PLAIN",
+        "zipcode": 55574,
+        "latitude": "+45.015914",
+        "longitude": "-093.471880"
+    },
+    {
+        "county": "HENNEPIN",
+        "city": "MAPLE PLAIN",
+        "zipcode": 55576,
+        "latitude": "+45.015914",
+        "longitude": "-093.471880"
+    },
+    {
+        "county": "HENNEPIN",
+        "city": "MAPLE PLAIN",
+        "zipcode": 55577,
+        "latitude": "+45.015914",
+        "longitude": "-093.471880"
+    },
+    {
+        "county": "HENNEPIN",
+        "city": "MAPLE PLAIN",
+        "zipcode": 55578,
+        "latitude": "+45.015914",
+        "longitude": "-093.471880"
+    },
+    {
+        "county": "HENNEPIN",
+        "city": "MAPLE PLAIN",
+        "zipcode": 55579,
+        "latitude": "+45.015914",
+        "longitude": "-093.471880"
+    },
+    {
+        "county": "HENNEPIN",
+        "city": "MAPLE PLAIN",
+        "zipcode": 55593,
+        "latitude": "+45.015914",
+        "longitude": "-093.471880"
+    },
+    {
+        "county": "HENNEPIN",
+        "city": "MINNEAPOLIS",
+        "zipcode": 55401,
+        "latitude": "+44.979265",
+        "longitude": "-093.273024"
+    },
+    {
+        "county": "HENNEPIN",
+        "city": "MINNEAPOLIS",
+        "zipcode": 55402,
+        "latitude": "+44.975915",
+        "longitude": "-093.271825"
+    },
+    {
+        "county": "HENNEPIN",
+        "city": "MINNEAPOLIS",
+        "zipcode": 55403,
+        "latitude": "+44.972615",
+        "longitude": "-093.287275"
+    },
+    {
+        "county": "HENNEPIN",
+        "city": "MINNEAPOLIS",
+        "zipcode": 55404,
+        "latitude": "+44.948614",
+        "longitude": "-093.329926"
+    },
+    {
+        "county": "HENNEPIN",
+        "city": "MINNEAPOLIS",
+        "zipcode": 55405,
+        "latitude": "+44.970114",
+        "longitude": "-093.300275"
+    },
+    {
+        "county": "HENNEPIN",
+        "city": "MINNEAPOLIS",
+        "zipcode": 55406,
+        "latitude": "+44.976015",
+        "longitude": "-093.278975"
+    },
+    {
+        "county": "HENNEPIN",
+        "city": "MINNEAPOLIS",
+        "zipcode": 55407,
+        "latitude": "+44.935465",
+        "longitude": "-093.254023"
+    },
+    {
+        "county": "HENNEPIN",
+        "city": "MINNEAPOLIS",
+        "zipcode": 55408,
+        "latitude": "+44.947515",
+        "longitude": "-093.288975"
+    },
+    {
+        "county": "HENNEPIN",
+        "city": "MINNEAPOLIS",
+        "zipcode": 55409,
+        "latitude": "+44.925014",
+        "longitude": "-093.289224"
+    },
+    {
+        "county": "HENNEPIN",
+        "city": "MINNEAPOLIS",
+        "zipcode": 55410,
+        "latitude": "+44.912364",
+        "longitude": "-093.318825"
+    },
+    {
+        "county": "HENNEPIN",
+        "city": "MINNEAPOLIS",
+        "zipcode": 55411,
+        "latitude": "+44.999514",
+        "longitude": "-093.297393"
+    },
+    {
+        "county": "HENNEPIN",
+        "city": "MINNEAPOLIS",
+        "zipcode": 55412,
+        "latitude": "+45.025115",
+        "longitude": "-093.298876"
+    },
+    {
+        "county": "HENNEPIN",
+        "city": "MINNEAPOLIS",
+        "zipcode": 55413,
+        "latitude": "+44.994365",
+        "longitude": "-093.240774"
+    },
+    {
+        "county": "HENNEPIN",
+        "city": "MINNEAPOLIS",
+        "zipcode": 55414,
+        "latitude": "+44.974515",
+        "longitude": "-093.234173"
+    },
+    {
+        "county": "HENNEPIN",
+        "city": "MINNEAPOLIS",
+        "zipcode": 55415,
+        "latitude": "+44.974215",
+        "longitude": "-093.258474"
+    },
+    {
+        "county": "HENNEPIN",
+        "city": "MINNEAPOLIS",
+        "zipcode": 55416,
+        "latitude": "+44.949714",
+        "longitude": "-093.337326"
+    },
+    {
+        "county": "HENNEPIN",
+        "city": "MINNEAPOLIS",
+        "zipcode": 55417,
+        "latitude": "+44.962965",
+        "longitude": "-093.253624"
+    },
+    {
+        "county": "HENNEPIN",
+        "city": "MINNEAPOLIS",
+        "zipcode": 55418,
+        "latitude": "+45.017765",
+        "longitude": "-093.244524"
+    },
+    {
+        "county": "HENNEPIN",
+        "city": "MINNEAPOLIS",
+        "zipcode": 55419,
+        "latitude": "+44.890914",
+        "longitude": "-093.282724"
+    },
+    {
+        "county": "HENNEPIN",
+        "city": "MINNEAPOLIS",
+        "zipcode": 55420,
+        "latitude": "+44.835164",
+        "longitude": "-093.255222"
+    },
+    {
+        "county": "HENNEPIN",
+        "city": "MINNEAPOLIS",
+        "zipcode": 55422,
+        "latitude": "+45.009601",
+        "longitude": "-093.342428"
+    },
+    {
+        "county": "HENNEPIN",
+        "city": "MINNEAPOLIS",
+        "zipcode": 55423,
+        "latitude": "+44.875614",
+        "longitude": "-093.255272"
+    },
+    {
+        "county": "HENNEPIN",
+        "city": "MINNEAPOLIS",
+        "zipcode": 55424,
+        "latitude": "+44.905164",
+        "longitude": "-093.340326"
+    },
+    {
+        "county": "HENNEPIN",
+        "city": "MINNEAPOLIS",
+        "zipcode": 55425,
+        "latitude": "+44.842664",
+        "longitude": "-093.236286"
+    },
+    {
+        "county": "HENNEPIN",
+        "city": "MINNEAPOLIS",
+        "zipcode": 55426,
+        "latitude": "+44.955014",
+        "longitude": "-093.382928"
+    },
+    {
+        "county": "HENNEPIN",
+        "city": "MINNEAPOLIS",
+        "zipcode": 55427,
+        "latitude": "+44.999964",
+        "longitude": "-093.390979"
+    },
+    {
+        "county": "HENNEPIN",
+        "city": "MINNEAPOLIS",
+        "zipcode": 55428,
+        "latitude": "+44.981413",
+        "longitude": "-093.372979"
+    },
+    {
+        "county": "HENNEPIN",
+        "city": "MINNEAPOLIS",
+        "zipcode": 55429,
+        "latitude": "+44.975664",
+        "longitude": "-093.336926"
+    },
+    {
+        "county": "HENNEPIN",
+        "city": "MINNEAPOLIS",
+        "zipcode": 55430,
+        "latitude": "+45.063923",
+        "longitude": "-093.302227"
+    },
+    {
+        "county": "HENNEPIN",
+        "city": "MINNEAPOLIS",
+        "zipcode": 55431,
+        "latitude": "+44.828764",
+        "longitude": "-093.311823"
+    },
+    {
+        "county": "HENNEPIN",
+        "city": "MINNEAPOLIS",
+        "zipcode": 55435,
+        "latitude": "+44.932864",
+        "longitude": "-093.367327"
+    },
+    {
+        "county": "HENNEPIN",
+        "city": "MINNEAPOLIS",
+        "zipcode": 55436,
+        "latitude": "+44.901163",
+        "longitude": "-093.422670"
+    },
+    {
+        "county": "HENNEPIN",
+        "city": "MINNEAPOLIS",
+        "zipcode": 55437,
+        "latitude": "+44.826064",
+        "longitude": "-093.353791"
+    },
+    {
+        "county": "HENNEPIN",
+        "city": "MINNEAPOLIS",
+        "zipcode": 55438,
+        "latitude": "+44.826613",
+        "longitude": "-093.375027"
+    },
+    {
+        "county": "HENNEPIN",
+        "city": "MINNEAPOLIS",
+        "zipcode": 55439,
+        "latitude": "+44.874414",
+        "longitude": "-093.375277"
+    },
+    {
+        "county": "HENNEPIN",
+        "city": "MINNEAPOLIS",
+        "zipcode": 55440,
+        "latitude": "+45.015914",
+        "longitude": "-093.471880"
+    },
+    {
+        "county": "HENNEPIN",
+        "city": "MINNEAPOLIS",
+        "zipcode": 55441,
+        "latitude": "+45.005804",
+        "longitude": "-093.419323"
+    },
+    {
+        "county": "HENNEPIN",
+        "city": "MINNEAPOLIS",
+        "zipcode": 55442,
+        "latitude": "+45.046740",
+        "longitude": "-093.431047"
+    },
+    {
+        "county": "HENNEPIN",
+        "city": "MINNEAPOLIS",
+        "zipcode": 55443,
+        "latitude": "+45.119364",
+        "longitude": "-093.343120"
+    },
+    {
+        "county": "HENNEPIN",
+        "city": "MINNEAPOLIS",
+        "zipcode": 55444,
+        "latitude": "+45.117765",
+        "longitude": "-093.305378"
+    },
+    {
+        "county": "HENNEPIN",
+        "city": "MINNEAPOLIS",
+        "zipcode": 55445,
+        "latitude": "+45.123064",
+        "longitude": "-093.352439"
+    },
+    {
+        "county": "HENNEPIN",
+        "city": "MINNEAPOLIS",
+        "zipcode": 55446,
+        "latitude": "+45.040013",
+        "longitude": "-093.486482"
+    },
+    {
+        "county": "HENNEPIN",
+        "city": "MINNEAPOLIS",
+        "zipcode": 55447,
+        "latitude": "+45.003335",
+        "longitude": "-093.487482"
+    },
+    {
+        "county": "HENNEPIN",
+        "city": "MINNEAPOLIS",
+        "zipcode": 55450,
+        "latitude": "+44.881113",
+        "longitude": "-093.220658"
+    },
+    {
+        "county": "HENNEPIN",
+        "city": "MINNEAPOLIS",
+        "zipcode": 55454,
+        "latitude": "+44.980859",
+        "longitude": "-093.252524"
+    },
+    {
+        "county": "HENNEPIN",
+        "city": "MINNEAPOLIS",
+        "zipcode": 55455,
+        "latitude": "+45.038364",
+        "longitude": "-093.298376"
+    },
+    {
+        "county": "HENNEPIN",
+        "city": "MINNEAPOLIS",
+        "zipcode": 55458,
+        "latitude": "+45.015914",
+        "longitude": "-093.471880"
+    },
+    {
+        "county": "HENNEPIN",
+        "city": "MINNEAPOLIS",
+        "zipcode": 55459,
+        "latitude": "+45.015914",
+        "longitude": "-093.471880"
+    },
+    {
+        "county": "HENNEPIN",
+        "city": "MINNEAPOLIS",
+        "zipcode": 55460,
+        "latitude": "+45.015914",
+        "longitude": "-093.471880"
+    },
+    {
+        "county": "HENNEPIN",
+        "city": "MINNEAPOLIS",
+        "zipcode": 55468,
+        "latitude": "+45.015914",
+        "longitude": "-093.471880"
+    },
+    {
+        "county": "HENNEPIN",
+        "city": "MINNEAPOLIS",
+        "zipcode": 55470,
+        "latitude": "+45.015914",
+        "longitude": "-093.471880"
+    },
+    {
+        "county": "HENNEPIN",
+        "city": "MINNEAPOLIS",
+        "zipcode": 55472,
+        "latitude": "+45.015914",
+        "longitude": "-093.471880"
+    },
+    {
+        "county": "HENNEPIN",
+        "city": "MINNEAPOLIS",
+        "zipcode": 55474,
+        "latitude": "+45.015914",
+        "longitude": "-093.471880"
+    },
+    {
+        "county": "HENNEPIN",
+        "city": "MINNEAPOLIS",
+        "zipcode": 55478,
+        "latitude": "+45.015914",
+        "longitude": "-093.471880"
+    },
+    {
+        "county": "HENNEPIN",
+        "city": "MINNEAPOLIS",
+        "zipcode": 55479,
+        "latitude": "+45.015914",
+        "longitude": "-093.471880"
+    },
+    {
+        "county": "HENNEPIN",
+        "city": "MINNEAPOLIS",
+        "zipcode": 55480,
+        "latitude": "+45.015914",
+        "longitude": "-093.471880"
+    },
+    {
+        "county": "HENNEPIN",
+        "city": "MINNEAPOLIS",
+        "zipcode": 55483,
+        "latitude": "+45.015914",
+        "longitude": "-093.471880"
+    },
+    {
+        "county": "HENNEPIN",
+        "city": "MINNEAPOLIS",
+        "zipcode": 55484,
+        "latitude": "+45.015914",
+        "longitude": "-093.471880"
+    },
+    {
+        "county": "HENNEPIN",
+        "city": "MINNEAPOLIS",
+        "zipcode": 55485,
+        "latitude": "+45.015914",
+        "longitude": "-093.471880"
+    },
+    {
+        "county": "HENNEPIN",
+        "city": "MINNEAPOLIS",
+        "zipcode": 55486,
+        "latitude": "+45.015914",
+        "longitude": "-093.471880"
+    },
+    {
+        "county": "HENNEPIN",
+        "city": "MINNEAPOLIS",
+        "zipcode": 55487,
+        "latitude": "+45.015914",
+        "longitude": "-093.471880"
+    },
+    {
+        "county": "HENNEPIN",
+        "city": "MINNEAPOLIS",
+        "zipcode": 55488,
+        "latitude": "+45.015914",
+        "longitude": "-093.471880"
+    },
+    {
+        "county": "HENNEPIN",
+        "city": "MINNETONKA",
+        "zipcode": 55345,
+        "latitude": "+44.916963",
+        "longitude": "-093.481749"
+    },
+    {
+        "county": "HENNEPIN",
+        "city": "MINNETONKA BEACH",
+        "zipcode": 55361,
+        "latitude": "+44.940212",
+        "longitude": "-093.592735"
+    },
+    {
+        "county": "HENNEPIN",
+        "city": "MOUND",
+        "zipcode": 55364,
+        "latitude": "+44.935062",
+        "longitude": "-093.662938"
+    },
+    {
+        "county": "HENNEPIN",
+        "city": "NAVARRE",
+        "zipcode": 55392,
+        "latitude": "+45.015914",
+        "longitude": "-093.471880"
+    },
+    {
+        "county": "HENNEPIN",
+        "city": "OSSEO",
+        "zipcode": 55311,
+        "latitude": "+45.124263",
+        "longitude": "-093.499583"
+    },
+    {
+        "county": "HENNEPIN",
+        "city": "OSSEO",
+        "zipcode": 55369,
+        "latitude": "+45.128414",
+        "longitude": "-093.458932"
+    },
+    {
+        "county": "HENNEPIN",
+        "city": "OSSEO",
+        "zipcode": 55569,
+        "latitude": "+45.015914",
+        "longitude": "-093.471880"
+    },
+    {
+        "county": "HENNEPIN",
+        "city": "ROGERS",
+        "zipcode": 55374,
+        "latitude": "+45.168896",
+        "longitude": "-093.574586"
+    },
+    {
+        "county": "HENNEPIN",
+        "city": "SAINT BONIFACIUS",
+        "zipcode": 55375,
+        "latitude": "+44.904062",
+        "longitude": "-093.749040"
+    },
+    {
+        "county": "HENNEPIN",
+        "city": "SAINT PAUL",
+        "zipcode": 55111,
+        "latitude": "+44.882838",
+        "longitude": "-093.200671"
+    },
+    {
+        "county": "HENNEPIN",
+        "city": "SPRING PARK",
+        "zipcode": 55384,
+        "latitude": "+44.936862",
+        "longitude": "-093.630286"
+    },
+    {
+        "county": "HENNEPIN",
+        "city": "WAYZATA",
+        "zipcode": 55391,
+        "latitude": "+44.984663",
+        "longitude": "-093.542233"
+    },
+    {
+        "county": "HENNEPIN",
+        "city": "YOUNG AMERICA",
+        "zipcode": 55573,
+        "latitude": "+45.015914",
+        "longitude": "-093.471880"
+    },
+    {
+        "county": "HOUSTON",
+        "city": "BROWNSVILLE",
+        "zipcode": 55919,
+        "latitude": "+43.648232",
+        "longitude": "-091.410977"
+    },
+    {
+        "county": "HOUSTON",
+        "city": "CALEDONIA",
+        "zipcode": 55921,
+        "latitude": "+43.635474",
+        "longitude": "-091.458938"
+    },
+    {
+        "county": "HOUSTON",
+        "city": "EITZEN",
+        "zipcode": 55931,
+        "latitude": "+43.508371",
+        "longitude": "-091.463204"
+    },
+    {
+        "county": "HOUSTON",
+        "city": "HOKAH",
+        "zipcode": 55941,
+        "latitude": "+43.759533",
+        "longitude": "-091.398755"
+    },
+    {
+        "county": "HOUSTON",
+        "city": "HOUSTON",
+        "zipcode": 55943,
+        "latitude": "+43.781431",
+        "longitude": "-091.571198"
+    },
+    {
+        "county": "HOUSTON",
+        "city": "LA CRESCENT",
+        "zipcode": 55947,
+        "latitude": "+43.770564",
+        "longitude": "-091.352968"
+    },
+    {
+        "county": "HOUSTON",
+        "city": "SPRING GROVE",
+        "zipcode": 55974,
+        "latitude": "+43.571029",
+        "longitude": "-091.635822"
+    },
+    {
+        "county": "HUBBARD",
+        "city": "AKELEY",
+        "zipcode": 56433,
+        "latitude": "+46.987609",
+        "longitude": "-094.726405"
+    },
+    {
+        "county": "HUBBARD",
+        "city": "BENEDICT",
+        "zipcode": 56436,
+        "latitude": "+47.108153",
+        "longitude": "-094.921064"
+    },
+    {
+        "county": "HUBBARD",
+        "city": "LAKE GEORGE",
+        "zipcode": 56458,
+        "latitude": "+47.108153",
+        "longitude": "-094.921064"
+    },
+    {
+        "county": "HUBBARD",
+        "city": "LAPORTE",
+        "zipcode": 56461,
+        "latitude": "+47.108153",
+        "longitude": "-094.921064"
+    },
+    {
+        "county": "HUBBARD",
+        "city": "NEVIS",
+        "zipcode": 56467,
+        "latitude": "+46.943360",
+        "longitude": "-094.844112"
+    },
+    {
+        "county": "HUBBARD",
+        "city": "PARK RAPIDS",
+        "zipcode": 56470,
+        "latitude": "+46.984699",
+        "longitude": "-095.099350"
+    },
+    {
+        "county": "ISANTI",
+        "city": "BRAHAM",
+        "zipcode": 55006,
+        "latitude": "+45.691460",
+        "longitude": "-093.278348"
+    },
+    {
+        "county": "ISANTI",
+        "city": "CAMBRIDGE",
+        "zipcode": 55008,
+        "latitude": "+45.602457",
+        "longitude": "-093.263457"
+    },
+    {
+        "county": "ISANTI",
+        "city": "DALBO",
+        "zipcode": 55017,
+        "latitude": "+45.660954",
+        "longitude": "-093.430806"
+    },
+    {
+        "county": "ISANTI",
+        "city": "GRANDY",
+        "zipcode": 55029,
+        "latitude": "+45.642235",
+        "longitude": "-093.201107"
+    },
+    {
+        "county": "ISANTI",
+        "city": "ISANTI",
+        "zipcode": 55040,
+        "latitude": "+45.565289",
+        "longitude": "-093.287101"
+    },
+    {
+        "county": "ISANTI",
+        "city": "STANCHFIELD",
+        "zipcode": 55080,
+        "latitude": "+45.651313",
+        "longitude": "-093.275622"
+    },
+    {
+        "county": "ITASCA",
+        "city": "BIGFORK",
+        "zipcode": 56628,
+        "latitude": "+47.710353",
+        "longitude": "-093.612694"
+    },
+    {
+        "county": "ITASCA",
+        "city": "BOVEY",
+        "zipcode": 55709,
+        "latitude": "+47.347269",
+        "longitude": "-093.388826"
+    },
+    {
+        "county": "ITASCA",
+        "city": "BOWSTRING",
+        "zipcode": 56631,
+        "latitude": "+47.087782",
+        "longitude": "-093.921429"
+    },
+    {
+        "county": "ITASCA",
+        "city": "CALUMET",
+        "zipcode": 55716,
+        "latitude": "+47.322883",
+        "longitude": "-093.276267"
+    },
+    {
+        "county": "ITASCA",
+        "city": "COHASSET",
+        "zipcode": 55721,
+        "latitude": "+47.238241",
+        "longitude": "-093.516501"
+    },
+    {
+        "county": "ITASCA",
+        "city": "COLERAINE",
+        "zipcode": 55722,
+        "latitude": "+47.377503",
+        "longitude": "-093.385597"
+    },
+    {
+        "county": "ITASCA",
+        "city": "DEER RIVER",
+        "zipcode": 56636,
+        "latitude": "+47.468430",
+        "longitude": "-093.810949"
+    },
+    {
+        "county": "ITASCA",
+        "city": "EFFIE",
+        "zipcode": 56639,
+        "latitude": "+47.852226",
+        "longitude": "-093.524252"
+    },
+    {
+        "county": "ITASCA",
+        "city": "GOODLAND",
+        "zipcode": 55742,
+        "latitude": "+47.167838",
+        "longitude": "-093.132367"
+    },
+    {
+        "county": "ITASCA",
+        "city": "GRAND RAPIDS",
+        "zipcode": 55730,
+        "latitude": "+47.087782",
+        "longitude": "-093.921429"
+    },
+    {
+        "county": "ITASCA",
+        "city": "GRAND RAPIDS",
+        "zipcode": 55744,
+        "latitude": "+47.232889",
+        "longitude": "-093.393555"
+    },
+    {
+        "county": "ITASCA",
+        "city": "GRAND RAPIDS",
+        "zipcode": 55745,
+        "latitude": "+47.087782",
+        "longitude": "-093.921429"
+    },
+    {
+        "county": "ITASCA",
+        "city": "KEEWATIN",
+        "zipcode": 55753,
+        "latitude": "+47.398025",
+        "longitude": "-093.078443"
+    },
+    {
+        "county": "ITASCA",
+        "city": "MARBLE",
+        "zipcode": 55764,
+        "latitude": "+47.321916",
+        "longitude": "-093.293880"
+    },
+    {
+        "county": "ITASCA",
+        "city": "MARCELL",
+        "zipcode": 56657,
+        "latitude": "+47.548518",
+        "longitude": "-093.623560"
+    },
+    {
+        "county": "ITASCA",
+        "city": "MAX",
+        "zipcode": 56659,
+        "latitude": "+47.661759",
+        "longitude": "-094.015607"
+    },
+    {
+        "county": "ITASCA",
+        "city": "NASHWAUK",
+        "zipcode": 55769,
+        "latitude": "+47.441216",
+        "longitude": "-093.243688"
+    },
+    {
+        "county": "ITASCA",
+        "city": "PENGILLY",
+        "zipcode": 55775,
+        "latitude": "+47.287391",
+        "longitude": "-093.212906"
+    },
+    {
+        "county": "ITASCA",
+        "city": "SPRING LAKE",
+        "zipcode": 56680,
+        "latitude": "+47.635946",
+        "longitude": "-093.922032"
+    },
+    {
+        "county": "ITASCA",
+        "city": "SQUAW LAKE",
+        "zipcode": 56681,
+        "latitude": "+47.624415",
+        "longitude": "-094.187735"
+    },
+    {
+        "county": "ITASCA",
+        "city": "SWAN RIVER",
+        "zipcode": 55784,
+        "latitude": "+47.067170",
+        "longitude": "-093.190708"
+    },
+    {
+        "county": "ITASCA",
+        "city": "TACONITE",
+        "zipcode": 55786,
+        "latitude": "+47.316395",
+        "longitude": "-093.342118"
+    },
+    {
+        "county": "ITASCA",
+        "city": "TALMOON",
+        "zipcode": 56637,
+        "latitude": "+47.615375",
+        "longitude": "-093.837811"
+    },
+    {
+        "county": "ITASCA",
+        "city": "WARBA",
+        "zipcode": 55793,
+        "latitude": "+47.241169",
+        "longitude": "-093.228104"
+    },
+    {
+        "county": "ITASCA",
+        "city": "WIRT",
+        "zipcode": 56688,
+        "latitude": "+47.746177",
+        "longitude": "-093.962961"
+    },
+    {
+        "county": "JACKSON",
+        "city": "ALPHA",
+        "zipcode": 56111,
+        "latitude": "+43.674174",
+        "longitude": "-095.154494"
+    },
+    {
+        "county": "JACKSON",
+        "city": "HERON LAKE",
+        "zipcode": 56137,
+        "latitude": "+43.795977",
+        "longitude": "-095.320571"
+    },
+    {
+        "county": "JACKSON",
+        "city": "JACKSON",
+        "zipcode": 56143,
+        "latitude": "+43.650174",
+        "longitude": "-095.021954"
+    },
+    {
+        "county": "JACKSON",
+        "city": "LAKEFIELD",
+        "zipcode": 56150,
+        "latitude": "+43.678125",
+        "longitude": "-095.171548"
+    },
+    {
+        "county": "JACKSON",
+        "city": "OKABENA",
+        "zipcode": 56161,
+        "latitude": "+43.738986",
+        "longitude": "-095.316815"
+    },
+    {
+        "county": "KANABEC",
+        "city": "MORA",
+        "zipcode": 55051,
+        "latitude": "+45.918782",
+        "longitude": "-093.297792"
+    },
+    {
+        "county": "KANABEC",
+        "city": "OGILVIE",
+        "zipcode": 56358,
+        "latitude": "+45.833199",
+        "longitude": "-093.402621"
+    },
+    {
+        "county": "KANDIYOHI",
+        "city": "ATWATER",
+        "zipcode": 56209,
+        "latitude": "+45.109205",
+        "longitude": "-094.968572"
+    },
+    {
+        "county": "KANDIYOHI",
+        "city": "BLOMKEST",
+        "zipcode": 56216,
+        "latitude": "+44.950076",
+        "longitude": "-095.058849"
+    },
+    {
+        "county": "KANDIYOHI",
+        "city": "HAWICK",
+        "zipcode": 56246,
+        "latitude": "+45.337630",
+        "longitude": "-094.856110"
+    },
+    {
+        "county": "KANDIYOHI",
+        "city": "KANDIYOHI",
+        "zipcode": 56251,
+        "latitude": "+45.142577",
+        "longitude": "-094.918264"
+    },
+    {
+        "county": "KANDIYOHI",
+        "city": "LAKE LILLIAN",
+        "zipcode": 56253,
+        "latitude": "+45.011036",
+        "longitude": "-094.900783"
+    },
+    {
+        "county": "KANDIYOHI",
+        "city": "NEW LONDON",
+        "zipcode": 56273,
+        "latitude": "+45.167597",
+        "longitude": "-095.049378"
+    },
+    {
+        "county": "KANDIYOHI",
+        "city": "PENNOCK",
+        "zipcode": 56279,
+        "latitude": "+45.219496",
+        "longitude": "-095.141233"
+    },
+    {
+        "county": "KANDIYOHI",
+        "city": "PRINSBURG",
+        "zipcode": 56281,
+        "latitude": "+45.029662",
+        "longitude": "-095.000152"
+    },
+    {
+        "county": "KANDIYOHI",
+        "city": "RAYMOND",
+        "zipcode": 56282,
+        "latitude": "+45.094173",
+        "longitude": "-095.111335"
+    },
+    {
+        "county": "KANDIYOHI",
+        "city": "SPICER",
+        "zipcode": 56288,
+        "latitude": "+45.164862",
+        "longitude": "-095.020124"
+    },
+    {
+        "county": "KANDIYOHI",
+        "city": "SUNBURG",
+        "zipcode": 56289,
+        "latitude": "+45.258882",
+        "longitude": "-095.141945"
+    },
+    {
+        "county": "KANDIYOHI",
+        "city": "WILLMAR",
+        "zipcode": 56201,
+        "latitude": "+45.147104",
+        "longitude": "-094.977723"
+    },
+    {
+        "county": "KITTSON",
+        "city": "DONALDSON",
+        "zipcode": 56720,
+        "latitude": "+48.771938",
+        "longitude": "-096.812921"
+    },
+    {
+        "county": "KITTSON",
+        "city": "HALLOCK",
+        "zipcode": 56728,
+        "latitude": "+48.774787",
+        "longitude": "-096.942022"
+    },
+    {
+        "county": "KITTSON",
+        "city": "HALMA",
+        "zipcode": 56729,
+        "latitude": "+48.771938",
+        "longitude": "-096.812921"
+    },
+    {
+        "county": "KITTSON",
+        "city": "HUMBOLDT",
+        "zipcode": 56731,
+        "latitude": "+48.771938",
+        "longitude": "-096.812921"
+    },
+    {
+        "county": "KITTSON",
+        "city": "KARLSTAD",
+        "zipcode": 56732,
+        "latitude": "+48.565003",
+        "longitude": "-096.532660"
+    },
+    {
+        "county": "KITTSON",
+        "city": "KENNEDY",
+        "zipcode": 56733,
+        "latitude": "+48.643714",
+        "longitude": "-096.914605"
+    },
+    {
+        "county": "KITTSON",
+        "city": "LAKE BRONSON",
+        "zipcode": 56734,
+        "latitude": "+48.771938",
+        "longitude": "-096.812921"
+    },
+    {
+        "county": "KITTSON",
+        "city": "LANCASTER",
+        "zipcode": 56735,
+        "latitude": "+48.771938",
+        "longitude": "-096.812921"
+    },
+    {
+        "county": "KITTSON",
+        "city": "NOYES",
+        "zipcode": 56740,
+        "latitude": "+48.771938",
+        "longitude": "-096.812921"
+    },
+    {
+        "county": "KITTSON",
+        "city": "SAINT VINCENT",
+        "zipcode": 56755,
+        "latitude": "+48.871994",
+        "longitude": "-097.092442"
+    },
+    {
+        "county": "KOOCHICHING",
+        "city": "BIG FALLS",
+        "zipcode": 56627,
+        "latitude": "+48.091615",
+        "longitude": "-093.816060"
+    },
+    {
+        "county": "KOOCHICHING",
+        "city": "BIRCHDALE",
+        "zipcode": 56629,
+        "latitude": "+48.642546",
+        "longitude": "-094.063580"
+    },
+    {
+        "county": "KOOCHICHING",
+        "city": "INTERNATIONAL FALLS",
+        "zipcode": 56649,
+        "latitude": "+48.232494",
+        "longitude": "-093.640382"
+    },
+    {
+        "county": "KOOCHICHING",
+        "city": "LITTLEFORK",
+        "zipcode": 56653,
+        "latitude": "+48.357144",
+        "longitude": "-093.612836"
+    },
+    {
+        "county": "KOOCHICHING",
+        "city": "LOMAN",
+        "zipcode": 56654,
+        "latitude": "+48.538803",
+        "longitude": "-093.840769"
+    },
+    {
+        "county": "KOOCHICHING",
+        "city": "MARGIE",
+        "zipcode": 56658,
+        "latitude": "+48.278880",
+        "longitude": "-093.755536"
+    },
+    {
+        "county": "KOOCHICHING",
+        "city": "MIZPAH",
+        "zipcode": 56660,
+        "latitude": "+47.933964",
+        "longitude": "-094.236930"
+    },
+    {
+        "county": "KOOCHICHING",
+        "city": "NORTHOME",
+        "zipcode": 56661,
+        "latitude": "+47.919215",
+        "longitude": "-094.097415"
+    },
+    {
+        "county": "KOOCHICHING",
+        "city": "RANIER",
+        "zipcode": 56668,
+        "latitude": "+48.603143",
+        "longitude": "-093.297710"
+    },
+    {
+        "county": "KOOCHICHING",
+        "city": "RAY",
+        "zipcode": 56669,
+        "latitude": "+48.394721",
+        "longitude": "-093.310667"
+    },
+    {
+        "county": "KOOCHICHING",
+        "city": "SOUTH INTERNATIONAL FALLS",
+        "zipcode": 56679,
+        "latitude": "+48.278880",
+        "longitude": "-093.755536"
+    },
+    {
+        "county": "LAC QUI PARLE",
+        "city": "BELLINGHAM",
+        "zipcode": 56212,
+        "latitude": "+45.053253",
+        "longitude": "-096.095554"
+    },
+    {
+        "county": "LAC QUI PARLE",
+        "city": "BOYD",
+        "zipcode": 56218,
+        "latitude": "+45.053253",
+        "longitude": "-096.095554"
+    },
+    {
+        "county": "LAC QUI PARLE",
+        "city": "DAWSON",
+        "zipcode": 56232,
+        "latitude": "+44.929289",
+        "longitude": "-096.056499"
+    },
+    {
+        "county": "LAC QUI PARLE",
+        "city": "MADISON",
+        "zipcode": 56256,
+        "latitude": "+45.038164",
+        "longitude": "-096.311044"
+    },
+    {
+        "county": "LAC QUI PARLE",
+        "city": "MARIETTA",
+        "zipcode": 56257,
+        "latitude": "+45.067384",
+        "longitude": "-096.440184"
+    },
+    {
+        "county": "LAKE",
+        "city": "BEAVER BAY",
+        "zipcode": 55601,
+        "latitude": "+47.256021",
+        "longitude": "-091.356586"
+    },
+    {
+        "county": "LAKE",
+        "city": "FINLAND",
+        "zipcode": 55603,
+        "latitude": "+47.497114",
+        "longitude": "-091.320571"
+    },
+    {
+        "county": "LAKE",
+        "city": "ISABELLA",
+        "zipcode": 55607,
+        "latitude": "+47.660406",
+        "longitude": "-091.498861"
+    },
+    {
+        "county": "LAKE",
+        "city": "KNIFE RIVER",
+        "zipcode": 55609,
+        "latitude": "+46.953880",
+        "longitude": "-091.777997"
+    },
+    {
+        "county": "LAKE",
+        "city": "SILVER BAY",
+        "zipcode": 55614,
+        "latitude": "+47.358488",
+        "longitude": "-091.220483"
+    },
+    {
+        "county": "LAKE",
+        "city": "TWO HARBORS",
+        "zipcode": 55616,
+        "latitude": "+47.134891",
+        "longitude": "-091.545363"
+    },
+    {
+        "county": "LAKE OF THE WOODS",
+        "city": "ANGLE INLET",
+        "zipcode": 56711,
+        "latitude": "+48.875164",
+        "longitude": "-094.885668"
+    },
+    {
+        "county": "LAKE OF THE WOODS",
+        "city": "BAUDETTE",
+        "zipcode": 56623,
+        "latitude": "+48.750473",
+        "longitude": "-094.846260"
+    },
+    {
+        "county": "LAKE OF THE WOODS",
+        "city": "OAK ISLAND",
+        "zipcode": 56741,
+        "latitude": "+48.875164",
+        "longitude": "-094.885668"
+    },
+    {
+        "county": "LAKE OF THE WOODS",
+        "city": "WILLIAMS",
+        "zipcode": 56686,
+        "latitude": "+48.820843",
+        "longitude": "-094.933138"
+    },
+    {
+        "county": "LE SUEUR",
+        "city": "CLEVELAND",
+        "zipcode": 56017,
+        "latitude": "+44.298188",
+        "longitude": "-093.817622"
+    },
+    {
+        "county": "LE SUEUR",
+        "city": "ELYSIAN",
+        "zipcode": 56028,
+        "latitude": "+44.199317",
+        "longitude": "-093.681980"
+    },
+    {
+        "county": "LE SUEUR",
+        "city": "KASOTA",
+        "zipcode": 56050,
+        "latitude": "+44.273281",
+        "longitude": "-093.931119"
+    },
+    {
+        "county": "LE SUEUR",
+        "city": "KILKENNY",
+        "zipcode": 56052,
+        "latitude": "+44.313417",
+        "longitude": "-093.574653"
+    },
+    {
+        "county": "LE SUEUR",
+        "city": "LE CENTER",
+        "zipcode": 56057,
+        "latitude": "+44.360047",
+        "longitude": "-093.781405"
+    },
+    {
+        "county": "LE SUEUR",
+        "city": "LE SUEUR",
+        "zipcode": 56058,
+        "latitude": "+44.390864",
+        "longitude": "-093.903348"
+    },
+    {
+        "county": "LE SUEUR",
+        "city": "MONTGOMERY",
+        "zipcode": 56069,
+        "latitude": "+44.349609",
+        "longitude": "-093.580277"
+    },
+    {
+        "county": "LE SUEUR",
+        "city": "NEW PRAGUE",
+        "zipcode": 56071,
+        "latitude": "+44.536713",
+        "longitude": "-093.555980"
+    },
+    {
+        "county": "LE SUEUR",
+        "city": "WATERVILLE",
+        "zipcode": 56096,
+        "latitude": "+44.324235",
+        "longitude": "-093.569726"
+    },
+    {
+        "county": "LINCOLN",
+        "city": "ARCO",
+        "zipcode": 56113,
+        "latitude": "+44.382668",
+        "longitude": "-096.184200"
+    },
+    {
+        "county": "LINCOLN",
+        "city": "HENDRICKS",
+        "zipcode": 56136,
+        "latitude": "+44.460984",
+        "longitude": "-096.337710"
+    },
+    {
+        "county": "LINCOLN",
+        "city": "IVANHOE",
+        "zipcode": 56142,
+        "latitude": "+44.460411",
+        "longitude": "-096.246374"
+    },
+    {
+        "county": "LINCOLN",
+        "city": "LAKE BENTON",
+        "zipcode": 56149,
+        "latitude": "+44.294793",
+        "longitude": "-096.270936"
+    },
+    {
+        "county": "LINCOLN",
+        "city": "TYLER",
+        "zipcode": 56178,
+        "latitude": "+44.275371",
+        "longitude": "-096.141967"
+    },
+    {
+        "county": "LYON",
+        "city": "BALATON",
+        "zipcode": 56115,
+        "latitude": "+44.261464",
+        "longitude": "-095.889647"
+    },
+    {
+        "county": "LYON",
+        "city": "COTTONWOOD",
+        "zipcode": 56229,
+        "latitude": "+44.569560",
+        "longitude": "-095.744921"
+    },
+    {
+        "county": "LYON",
+        "city": "GARVIN",
+        "zipcode": 56132,
+        "latitude": "+44.305584",
+        "longitude": "-095.861770"
+    },
+    {
+        "county": "LYON",
+        "city": "GHENT",
+        "zipcode": 56239,
+        "latitude": "+44.485432",
+        "longitude": "-095.907811"
+    },
+    {
+        "county": "LYON",
+        "city": "LYND",
+        "zipcode": 56157,
+        "latitude": "+44.399913",
+        "longitude": "-095.937984"
+    },
+    {
+        "county": "LYON",
+        "city": "MARSHALL",
+        "zipcode": 56258,
+        "latitude": "+44.460429",
+        "longitude": "-095.785872"
+    },
+    {
+        "county": "LYON",
+        "city": "MINNEOTA",
+        "zipcode": 56264,
+        "latitude": "+44.523070",
+        "longitude": "-095.954362"
+    },
+    {
+        "county": "LYON",
+        "city": "RUSSELL",
+        "zipcode": 56169,
+        "latitude": "+44.335085",
+        "longitude": "-095.978040"
+    },
+    {
+        "county": "LYON",
+        "city": "TAUNTON",
+        "zipcode": 56291,
+        "latitude": "+44.580923",
+        "longitude": "-095.883387"
+    },
+    {
+        "county": "LYON",
+        "city": "TRACY",
+        "zipcode": 56175,
+        "latitude": "+44.290092",
+        "longitude": "-095.773754"
+    },
+    {
+        "county": "MAHNOMEN",
+        "city": "BEJOU",
+        "zipcode": 56516,
+        "latitude": "+47.325198",
+        "longitude": "-095.809180"
+    },
+    {
+        "county": "MAHNOMEN",
+        "city": "MAHNOMEN",
+        "zipcode": 56557,
+        "latitude": "+47.287889",
+        "longitude": "-095.939586"
+    },
+    {
+        "county": "MAHNOMEN",
+        "city": "NAYTAHWAUSH",
+        "zipcode": 56566,
+        "latitude": "+47.325198",
+        "longitude": "-095.809180"
+    },
+    {
+        "county": "MAHNOMEN",
+        "city": "WAUBUN",
+        "zipcode": 56589,
+        "latitude": "+47.184343",
+        "longitude": "-095.939849"
+    },
+    {
+        "county": "MARSHALL",
+        "city": "ALVARADO",
+        "zipcode": 56710,
+        "latitude": "+48.191085",
+        "longitude": "-096.998433"
+    },
+    {
+        "county": "MARSHALL",
+        "city": "ARGYLE",
+        "zipcode": 56713,
+        "latitude": "+48.331455",
+        "longitude": "-096.816197"
+    },
+    {
+        "county": "MARSHALL",
+        "city": "GATZKE",
+        "zipcode": 56724,
+        "latitude": "+48.358371",
+        "longitude": "-096.378062"
+    },
+    {
+        "county": "MARSHALL",
+        "city": "GRYGLA",
+        "zipcode": 56727,
+        "latitude": "+48.358371",
+        "longitude": "-096.378062"
+    },
+    {
+        "county": "MARSHALL",
+        "city": "MIDDLE RIVER",
+        "zipcode": 56737,
+        "latitude": "+48.438104",
+        "longitude": "-096.513779"
+    },
+    {
+        "county": "MARSHALL",
+        "city": "NEWFOLDEN",
+        "zipcode": 56738,
+        "latitude": "+48.358371",
+        "longitude": "-096.378062"
+    },
+    {
+        "county": "MARSHALL",
+        "city": "OSLO",
+        "zipcode": 56744,
+        "latitude": "+48.199410",
+        "longitude": "-097.130755"
+    },
+    {
+        "county": "MARSHALL",
+        "city": "STEPHEN",
+        "zipcode": 56757,
+        "latitude": "+48.477158",
+        "longitude": "-096.867548"
+    },
+    {
+        "county": "MARSHALL",
+        "city": "STRANDQUIST",
+        "zipcode": 56758,
+        "latitude": "+48.358371",
+        "longitude": "-096.378062"
+    },
+    {
+        "county": "MARSHALL",
+        "city": "VIKING",
+        "zipcode": 56760,
+        "latitude": "+48.358371",
+        "longitude": "-096.378062"
+    },
+    {
+        "county": "MARSHALL",
+        "city": "WARREN",
+        "zipcode": 56762,
+        "latitude": "+48.261376",
+        "longitude": "-096.772583"
+    },
+    {
+        "county": "MARTIN",
+        "city": "CEYLON",
+        "zipcode": 56121,
+        "latitude": "+43.584995",
+        "longitude": "-094.606517"
+    },
+    {
+        "county": "MARTIN",
+        "city": "DUNNELL",
+        "zipcode": 56127,
+        "latitude": "+43.674184",
+        "longitude": "-094.550932"
+    },
+    {
+        "county": "MARTIN",
+        "city": "FAIRMONT",
+        "zipcode": 56031,
+        "latitude": "+43.674049",
+        "longitude": "-094.510780"
+    },
+    {
+        "county": "MARTIN",
+        "city": "GRANADA",
+        "zipcode": 56039,
+        "latitude": "+43.659429",
+        "longitude": "-094.440978"
+    },
+    {
+        "county": "MARTIN",
+        "city": "NORTHROP",
+        "zipcode": 56075,
+        "latitude": "+43.735278",
+        "longitude": "-094.435705"
+    },
+    {
+        "county": "MARTIN",
+        "city": "ORMSBY",
+        "zipcode": 56162,
+        "latitude": "+43.826503",
+        "longitude": "-094.663493"
+    },
+    {
+        "county": "MARTIN",
+        "city": "SHERBURN",
+        "zipcode": 56171,
+        "latitude": "+43.667369",
+        "longitude": "-094.759431"
+    },
+    {
+        "county": "MARTIN",
+        "city": "TRIMONT",
+        "zipcode": 56176,
+        "latitude": "+43.783229",
+        "longitude": "-094.713525"
+    },
+    {
+        "county": "MARTIN",
+        "city": "TRUMAN",
+        "zipcode": 56088,
+        "latitude": "+43.789856",
+        "longitude": "-094.430809"
+    },
+    {
+        "county": "MARTIN",
+        "city": "WELCOME",
+        "zipcode": 56181,
+        "latitude": "+43.667270",
+        "longitude": "-094.673433"
+    },
+    {
+        "county": "MCLEOD",
+        "city": "BROWNTON",
+        "zipcode": 55312,
+        "latitude": "+44.758102",
+        "longitude": "-094.251718"
+    },
+    {
+        "county": "MCLEOD",
+        "city": "GLENCOE",
+        "zipcode": 55336,
+        "latitude": "+44.770238",
+        "longitude": "-094.195685"
+    },
+    {
+        "county": "MCLEOD",
+        "city": "HUTCHINSON",
+        "zipcode": 55350,
+        "latitude": "+44.875565",
+        "longitude": "-094.266332"
+    },
+    {
+        "county": "MCLEOD",
+        "city": "LESTER PRAIRIE",
+        "zipcode": 55354,
+        "latitude": "+44.880454",
+        "longitude": "-094.100616"
+    },
+    {
+        "county": "MCLEOD",
+        "city": "PLATO",
+        "zipcode": 55370,
+        "latitude": "+44.839939",
+        "longitude": "-094.050518"
+    },
+    {
+        "county": "MCLEOD",
+        "city": "SILVER LAKE",
+        "zipcode": 55381,
+        "latitude": "+44.921134",
+        "longitude": "-094.195425"
+    },
+    {
+        "county": "MCLEOD",
+        "city": "STEWART",
+        "zipcode": 55385,
+        "latitude": "+44.766671",
+        "longitude": "-094.344376"
+    },
+    {
+        "county": "MCLEOD",
+        "city": "WINSTED",
+        "zipcode": 55395,
+        "latitude": "+44.946121",
+        "longitude": "-094.075720"
+    },
+    {
+        "county": "MEEKER",
+        "city": "COSMOS",
+        "zipcode": 56228,
+        "latitude": "+45.022087",
+        "longitude": "-094.660884"
+    },
+    {
+        "county": "MEEKER",
+        "city": "DARWIN",
+        "zipcode": 55324,
+        "latitude": "+45.070558",
+        "longitude": "-094.420292"
+    },
+    {
+        "county": "MEEKER",
+        "city": "DASSEL",
+        "zipcode": 55325,
+        "latitude": "+45.102011",
+        "longitude": "-094.368691"
+    },
+    {
+        "county": "MEEKER",
+        "city": "EDEN VALLEY",
+        "zipcode": 55329,
+        "latitude": "+45.282592",
+        "longitude": "-094.524712"
+    },
+    {
+        "county": "MEEKER",
+        "city": "GROVE CITY",
+        "zipcode": 56243,
+        "latitude": "+45.146898",
+        "longitude": "-094.674112"
+    },
+    {
+        "county": "MEEKER",
+        "city": "LITCHFIELD",
+        "zipcode": 55355,
+        "latitude": "+45.122737",
+        "longitude": "-094.529861"
+    },
+    {
+        "county": "MEEKER",
+        "city": "WATKINS",
+        "zipcode": 55389,
+        "latitude": "+45.268619",
+        "longitude": "-094.444561"
+    },
+    {
+        "county": "MILLE LACS",
+        "city": "BOCK",
+        "zipcode": 56313,
+        "latitude": "+45.784462",
+        "longitude": "-093.552152"
+    },
+    {
+        "county": "MILLE LACS",
+        "city": "FORESTON",
+        "zipcode": 56330,
+        "latitude": "+45.735675",
+        "longitude": "-093.647135"
+    },
+    {
+        "county": "MILLE LACS",
+        "city": "ISLE",
+        "zipcode": 56342,
+        "latitude": "+45.973268",
+        "longitude": "-093.536504"
+    },
+    {
+        "county": "MILLE LACS",
+        "city": "MILACA",
+        "zipcode": 56353,
+        "latitude": "+45.903210",
+        "longitude": "-093.620355"
+    },
+    {
+        "county": "MILLE LACS",
+        "city": "ONAMIA",
+        "zipcode": 56359,
+        "latitude": "+45.943108",
+        "longitude": "-093.663152"
+    },
+    {
+        "county": "MILLE LACS",
+        "city": "PEASE",
+        "zipcode": 56363,
+        "latitude": "+45.697362",
+        "longitude": "-093.646503"
+    },
+    {
+        "county": "MILLE LACS",
+        "city": "PRINCETON",
+        "zipcode": 55371,
+        "latitude": "+45.740703",
+        "longitude": "-093.636630"
+    },
+    {
+        "county": "MILLE LACS",
+        "city": "WAHKON",
+        "zipcode": 56386,
+        "latitude": "+45.989733",
+        "longitude": "-093.620235"
+    },
+    {
+        "county": "MORRISON",
+        "city": "BOWLUS",
+        "zipcode": 56314,
+        "latitude": "+45.868809",
+        "longitude": "-094.422896"
+    },
+    {
+        "county": "MORRISON",
+        "city": "BUCKMAN",
+        "zipcode": 56317,
+        "latitude": "+46.061307",
+        "longitude": "-094.208731"
+    },
+    {
+        "county": "MORRISON",
+        "city": "CUSHING",
+        "zipcode": 56443,
+        "latitude": "+46.205759",
+        "longitude": "-094.561294"
+    },
+    {
+        "county": "MORRISON",
+        "city": "FLENSBURG",
+        "zipcode": 56328,
+        "latitude": "+45.953341",
+        "longitude": "-094.546845"
+    },
+    {
+        "county": "MORRISON",
+        "city": "HILLMAN",
+        "zipcode": 56338,
+        "latitude": "+45.990074",
+        "longitude": "-093.888513"
+    },
+    {
+        "county": "MORRISON",
+        "city": "LASTRUP",
+        "zipcode": 56344,
+        "latitude": "+46.061307",
+        "longitude": "-094.208731"
+    },
+    {
+        "county": "MORRISON",
+        "city": "LITTLE FALLS",
+        "zipcode": 56345,
+        "latitude": "+45.980055",
+        "longitude": "-094.245867"
+    },
+    {
+        "county": "MORRISON",
+        "city": "MOTLEY",
+        "zipcode": 56466,
+        "latitude": "+46.288105",
+        "longitude": "-094.563773"
+    },
+    {
+        "county": "MORRISON",
+        "city": "PIERZ",
+        "zipcode": 56364,
+        "latitude": "+45.994539",
+        "longitude": "-094.123384"
+    },
+    {
+        "county": "MORRISON",
+        "city": "RANDALL",
+        "zipcode": 56475,
+        "latitude": "+46.105236",
+        "longitude": "-094.531738"
+    },
+    {
+        "county": "MORRISON",
+        "city": "ROYALTON",
+        "zipcode": 56373,
+        "latitude": "+45.871308",
+        "longitude": "-094.161377"
+    },
+    {
+        "county": "MORRISON",
+        "city": "SWANVILLE",
+        "zipcode": 56382,
+        "latitude": "+45.904382",
+        "longitude": "-094.540074"
+    },
+    {
+        "county": "MORRISON",
+        "city": "UPSALA",
+        "zipcode": 56384,
+        "latitude": "+45.804875",
+        "longitude": "-094.565187"
+    },
+    {
+        "county": "MOWER",
+        "city": "ADAMS",
+        "zipcode": 55909,
+        "latitude": "+43.565168",
+        "longitude": "-092.743890"
+    },
+    {
+        "county": "MOWER",
+        "city": "AUSTIN",
+        "zipcode": 55912,
+        "latitude": "+43.699305",
+        "longitude": "-092.976818"
+    },
+    {
+        "county": "MOWER",
+        "city": "BROWNSDALE",
+        "zipcode": 55918,
+        "latitude": "+43.746834",
+        "longitude": "-092.866996"
+    },
+    {
+        "county": "MOWER",
+        "city": "DEXTER",
+        "zipcode": 55926,
+        "latitude": "+43.616293",
+        "longitude": "-092.786355"
+    },
+    {
+        "county": "MOWER",
+        "city": "ELKTON",
+        "zipcode": 55933,
+        "latitude": "+43.664334",
+        "longitude": "-092.682753"
+    },
+    {
+        "county": "MOWER",
+        "city": "GRAND MEADOW",
+        "zipcode": 55936,
+        "latitude": "+43.668417",
+        "longitude": "-092.544587"
+    },
+    {
+        "county": "MOWER",
+        "city": "LANSING",
+        "zipcode": 55950,
+        "latitude": "+43.762936",
+        "longitude": "-092.965279"
+    },
+    {
+        "county": "MOWER",
+        "city": "LE ROY",
+        "zipcode": 55951,
+        "latitude": "+43.546515",
+        "longitude": "-092.532554"
+    },
+    {
+        "county": "MOWER",
+        "city": "LYLE",
+        "zipcode": 55953,
+        "latitude": "+43.506952",
+        "longitude": "-092.942939"
+    },
+    {
+        "county": "MOWER",
+        "city": "RACINE",
+        "zipcode": 55967,
+        "latitude": "+43.784072",
+        "longitude": "-092.483567"
+    },
+    {
+        "county": "MOWER",
+        "city": "ROSE CREEK",
+        "zipcode": 55970,
+        "latitude": "+43.669317",
+        "longitude": "-092.830439"
+    },
+    {
+        "county": "MOWER",
+        "city": "SARGEANT",
+        "zipcode": 55973,
+        "latitude": "+43.804657",
+        "longitude": "-092.802913"
+    },
+    {
+        "county": "MOWER",
+        "city": "TAOPI",
+        "zipcode": 55977,
+        "latitude": "+43.557786",
+        "longitude": "-092.660555"
+    },
+    {
+        "county": "MOWER",
+        "city": "WALTHAM",
+        "zipcode": 55982,
+        "latitude": "+43.694738",
+        "longitude": "-092.796930"
+    },
+    {
+        "county": "MURRAY",
+        "city": "AVOCA",
+        "zipcode": 56114,
+        "latitude": "+43.960084",
+        "longitude": "-095.603170"
+    },
+    {
+        "county": "MURRAY",
+        "city": "CHANDLER",
+        "zipcode": 56122,
+        "latitude": "+43.921990",
+        "longitude": "-095.819970"
+    },
+    {
+        "county": "MURRAY",
+        "city": "CURRIE",
+        "zipcode": 56123,
+        "latitude": "+44.048028",
+        "longitude": "-095.704397"
+    },
+    {
+        "county": "MURRAY",
+        "city": "DOVRAY",
+        "zipcode": 56125,
+        "latitude": "+44.053323",
+        "longitude": "-095.549899"
+    },
+    {
+        "county": "MURRAY",
+        "city": "FULDA",
+        "zipcode": 56131,
+        "latitude": "+43.905962",
+        "longitude": "-095.593288"
+    },
+    {
+        "county": "MURRAY",
+        "city": "IONA",
+        "zipcode": 56141,
+        "latitude": "+43.891474",
+        "longitude": "-095.784003"
+    },
+    {
+        "county": "MURRAY",
+        "city": "LAKE WILSON",
+        "zipcode": 56151,
+        "latitude": "+44.006920",
+        "longitude": "-095.825082"
+    },
+    {
+        "county": "MURRAY",
+        "city": "SLAYTON",
+        "zipcode": 56172,
+        "latitude": "+43.993479",
+        "longitude": "-095.763493"
+    },
+    {
+        "county": "NICOLLET",
+        "city": "COURTLAND",
+        "zipcode": 56021,
+        "latitude": "+44.265888",
+        "longitude": "-094.272911"
+    },
+    {
+        "county": "NICOLLET",
+        "city": "LAFAYETTE",
+        "zipcode": 56054,
+        "latitude": "+44.361224",
+        "longitude": "-094.293887"
+    },
+    {
+        "county": "NICOLLET",
+        "city": "MANKATO",
+        "zipcode": 56003,
+        "latitude": "+44.217193",
+        "longitude": "-094.094192"
+    },
+    {
+        "county": "NICOLLET",
+        "city": "NICOLLET",
+        "zipcode": 56074,
+        "latitude": "+44.273214",
+        "longitude": "-094.188233"
+    },
+    {
+        "county": "NICOLLET",
+        "city": "SAINT PETER",
+        "zipcode": 56082,
+        "latitude": "+44.337793",
+        "longitude": "-094.070153"
+    },
+    {
+        "county": "NOBLES",
+        "city": "ADRIAN",
+        "zipcode": 56110,
+        "latitude": "+43.620754",
+        "longitude": "-095.953225"
+    },
+    {
+        "county": "NOBLES",
+        "city": "BIGELOW",
+        "zipcode": 56117,
+        "latitude": "+43.540643",
+        "longitude": "-095.687951"
+    },
+    {
+        "county": "NOBLES",
+        "city": "BREWSTER",
+        "zipcode": 56119,
+        "latitude": "+43.732427",
+        "longitude": "-095.512519"
+    },
+    {
+        "county": "NOBLES",
+        "city": "ELLSWORTH",
+        "zipcode": 56129,
+        "latitude": "+43.536342",
+        "longitude": "-095.983538"
+    },
+    {
+        "county": "NOBLES",
+        "city": "LEOTA",
+        "zipcode": 56153,
+        "latitude": "+43.840423",
+        "longitude": "-096.012811"
+    },
+    {
+        "county": "NOBLES",
+        "city": "LISMORE",
+        "zipcode": 56155,
+        "latitude": "+43.682995",
+        "longitude": "-095.942501"
+    },
+    {
+        "county": "NOBLES",
+        "city": "READING",
+        "zipcode": 56165,
+        "latitude": "+43.732304",
+        "longitude": "-095.703514"
+    },
+    {
+        "county": "NOBLES",
+        "city": "ROUND LAKE",
+        "zipcode": 56167,
+        "latitude": "+43.631841",
+        "longitude": "-095.640477"
+    },
+    {
+        "county": "NOBLES",
+        "city": "RUSHMORE",
+        "zipcode": 56168,
+        "latitude": "+43.623088",
+        "longitude": "-095.803869"
+    },
+    {
+        "county": "NOBLES",
+        "city": "WILMONT",
+        "zipcode": 56185,
+        "latitude": "+43.790084",
+        "longitude": "-095.826712"
+    },
+    {
+        "county": "NOBLES",
+        "city": "WORTHINGTON",
+        "zipcode": 56187,
+        "latitude": "+43.645207",
+        "longitude": "-095.735375"
+    },
+    {
+        "county": "NORMAN",
+        "city": "ADA",
+        "zipcode": 56510,
+        "latitude": "+47.325283",
+        "longitude": "-096.597259"
+    },
+    {
+        "county": "NORMAN",
+        "city": "BORUP",
+        "zipcode": 56519,
+        "latitude": "+47.201971",
+        "longitude": "-096.500374"
+    },
+    {
+        "county": "NORMAN",
+        "city": "FLOM",
+        "zipcode": 56541,
+        "latitude": "+47.325074",
+        "longitude": "-096.469194"
+    },
+    {
+        "county": "NORMAN",
+        "city": "GARY",
+        "zipcode": 56545,
+        "latitude": "+47.372863",
+        "longitude": "-096.264276"
+    },
+    {
+        "county": "NORMAN",
+        "city": "HALSTAD",
+        "zipcode": 56548,
+        "latitude": "+47.350668",
+        "longitude": "-096.823680"
+    },
+    {
+        "county": "NORMAN",
+        "city": "HENDRUM",
+        "zipcode": 56550,
+        "latitude": "+47.263731",
+        "longitude": "-096.811279"
+    },
+    {
+        "county": "NORMAN",
+        "city": "PERLEY",
+        "zipcode": 56574,
+        "latitude": "+47.177615",
+        "longitude": "-096.804613"
+    },
+    {
+        "county": "NORMAN",
+        "city": "SHELLY",
+        "zipcode": 56581,
+        "latitude": "+47.320042",
+        "longitude": "-096.544410"
+    },
+    {
+        "county": "NORMAN",
+        "city": "TWIN VALLEY",
+        "zipcode": 56584,
+        "latitude": "+47.271463",
+        "longitude": "-096.182441"
+    },
+    {
+        "county": "OLMSTED",
+        "city": "BYRON",
+        "zipcode": 55920,
+        "latitude": "+43.988227",
+        "longitude": "-092.599372"
+    },
+    {
+        "county": "OLMSTED",
+        "city": "DOVER",
+        "zipcode": 55929,
+        "latitude": "+43.989637",
+        "longitude": "-092.138889"
+    },
+    {
+        "county": "OLMSTED",
+        "city": "EYOTA",
+        "zipcode": 55934,
+        "latitude": "+44.009932",
+        "longitude": "-092.264837"
+    },
+    {
+        "county": "OLMSTED",
+        "city": "ORONOCO",
+        "zipcode": 55960,
+        "latitude": "+44.084556",
+        "longitude": "-092.373869"
+    },
+    {
+        "county": "OLMSTED",
+        "city": "ROCHESTER",
+        "zipcode": 55901,
+        "latitude": "+44.075285",
+        "longitude": "-092.516916"
+    },
+    {
+        "county": "OLMSTED",
+        "city": "ROCHESTER",
+        "zipcode": 55902,
+        "latitude": "+43.972494",
+        "longitude": "-092.389901"
+    },
+    {
+        "county": "OLMSTED",
+        "city": "ROCHESTER",
+        "zipcode": 55903,
+        "latitude": "+43.996613",
+        "longitude": "-092.540929"
+    },
+    {
+        "county": "OLMSTED",
+        "city": "ROCHESTER",
+        "zipcode": 55904,
+        "latitude": "+43.986220",
+        "longitude": "-092.302649"
+    },
+    {
+        "county": "OLMSTED",
+        "city": "ROCHESTER",
+        "zipcode": 55905,
+        "latitude": "+44.022513",
+        "longitude": "-092.466826"
+    },
+    {
+        "county": "OLMSTED",
+        "city": "ROCHESTER",
+        "zipcode": 55906,
+        "latitude": "+44.107815",
+        "longitude": "-092.405294"
+    },
+    {
+        "county": "OLMSTED",
+        "city": "STEWARTVILLE",
+        "zipcode": 55976,
+        "latitude": "+43.884346",
+        "longitude": "-092.503744"
+    },
+    {
+        "county": "OTTER TAIL",
+        "city": "BATTLE LAKE",
+        "zipcode": 56515,
+        "latitude": "+46.294519",
+        "longitude": "-095.707485"
+    },
+    {
+        "county": "OTTER TAIL",
+        "city": "BLUFFTON",
+        "zipcode": 56518,
+        "latitude": "+46.412413",
+        "longitude": "-095.713452"
+    },
+    {
+        "county": "OTTER TAIL",
+        "city": "CLITHERALL",
+        "zipcode": 56524,
+        "latitude": "+46.275667",
+        "longitude": "-095.630788"
+    },
+    {
+        "county": "OTTER TAIL",
+        "city": "DALTON",
+        "zipcode": 56324,
+        "latitude": "+46.172907",
+        "longitude": "-095.918542"
+    },
+    {
+        "county": "OTTER TAIL",
+        "city": "DEER CREEK",
+        "zipcode": 56527,
+        "latitude": "+46.392933",
+        "longitude": "-095.318951"
+    },
+    {
+        "county": "OTTER TAIL",
+        "city": "DENT",
+        "zipcode": 56528,
+        "latitude": "+46.571010",
+        "longitude": "-095.728629"
+    },
+    {
+        "county": "OTTER TAIL",
+        "city": "ELIZABETH",
+        "zipcode": 56533,
+        "latitude": "+46.380324",
+        "longitude": "-096.132614"
+    },
+    {
+        "county": "OTTER TAIL",
+        "city": "ERHARD",
+        "zipcode": 56534,
+        "latitude": "+46.483858",
+        "longitude": "-096.097914"
+    },
+    {
+        "county": "OTTER TAIL",
+        "city": "FERGUS FALLS",
+        "zipcode": 56537,
+        "latitude": "+46.319400",
+        "longitude": "-095.657003"
+    },
+    {
+        "county": "OTTER TAIL",
+        "city": "FERGUS FALLS",
+        "zipcode": 56538,
+        "latitude": "+46.412413",
+        "longitude": "-095.713452"
+    },
+    {
+        "county": "OTTER TAIL",
+        "city": "HENNING",
+        "zipcode": 56551,
+        "latitude": "+46.293243",
+        "longitude": "-095.483624"
+    },
+    {
+        "county": "OTTER TAIL",
+        "city": "NEW YORK MILLS",
+        "zipcode": 56567,
+        "latitude": "+46.491294",
+        "longitude": "-095.366068"
+    },
+    {
+        "county": "OTTER TAIL",
+        "city": "OTTERTAIL",
+        "zipcode": 56571,
+        "latitude": "+46.465546",
+        "longitude": "-095.564365"
+    },
+    {
+        "county": "OTTER TAIL",
+        "city": "PARKERS PRAIRIE",
+        "zipcode": 56361,
+        "latitude": "+46.150334",
+        "longitude": "-095.350438"
+    },
+    {
+        "county": "OTTER TAIL",
+        "city": "PELICAN RAPIDS",
+        "zipcode": 56572,
+        "latitude": "+46.611549",
+        "longitude": "-096.059669"
+    },
+    {
+        "county": "OTTER TAIL",
+        "city": "PERHAM",
+        "zipcode": 56573,
+        "latitude": "+46.597093",
+        "longitude": "-095.822634"
+    },
+    {
+        "county": "OTTER TAIL",
+        "city": "RICHVILLE",
+        "zipcode": 56576,
+        "latitude": "+46.443365",
+        "longitude": "-095.792367"
+    },
+    {
+        "county": "OTTER TAIL",
+        "city": "UNDERWOOD",
+        "zipcode": 56586,
+        "latitude": "+46.285081",
+        "longitude": "-095.874117"
+    },
+    {
+        "county": "OTTER TAIL",
+        "city": "VERGAS",
+        "zipcode": 56587,
+        "latitude": "+46.457968",
+        "longitude": "-095.919355"
+    },
+    {
+        "county": "OTTER TAIL",
+        "city": "VINING",
+        "zipcode": 56588,
+        "latitude": "+46.412413",
+        "longitude": "-095.713452"
+    },
+    {
+        "county": "PENNINGTON",
+        "city": "GOODRIDGE",
+        "zipcode": 56725,
+        "latitude": "+48.144158",
+        "longitude": "-095.804345"
+    },
+    {
+        "county": "PENNINGTON",
+        "city": "SAINT HILAIRE",
+        "zipcode": 56754,
+        "latitude": "+48.014969",
+        "longitude": "-096.213472"
+    },
+    {
+        "county": "PENNINGTON",
+        "city": "THIEF RIVER FALLS",
+        "zipcode": 56701,
+        "latitude": "+48.076333",
+        "longitude": "-096.149002"
+    },
+    {
+        "county": "PINE",
+        "city": "ASKOV",
+        "zipcode": 55704,
+        "latitude": "+46.215511",
+        "longitude": "-092.759076"
+    },
+    {
+        "county": "PINE",
+        "city": "BROOK PARK",
+        "zipcode": 55007,
+        "latitude": "+45.947444",
+        "longitude": "-093.073628"
+    },
+    {
+        "county": "PINE",
+        "city": "BRUNO",
+        "zipcode": 55712,
+        "latitude": "+46.226300",
+        "longitude": "-092.705581"
+    },
+    {
+        "county": "PINE",
+        "city": "FINLAYSON",
+        "zipcode": 55735,
+        "latitude": "+46.237920",
+        "longitude": "-092.950358"
+    },
+    {
+        "county": "PINE",
+        "city": "GRASSTON",
+        "zipcode": 55030,
+        "latitude": "+45.856598",
+        "longitude": "-093.081255"
+    },
+    {
+        "county": "PINE",
+        "city": "HENRIETTE",
+        "zipcode": 55036,
+        "latitude": "+45.854335",
+        "longitude": "-093.124235"
+    },
+    {
+        "county": "PINE",
+        "city": "HINCKLEY",
+        "zipcode": 55037,
+        "latitude": "+46.014689",
+        "longitude": "-092.938103"
+    },
+    {
+        "county": "PINE",
+        "city": "KERRICK",
+        "zipcode": 55756,
+        "latitude": "+46.331356",
+        "longitude": "-092.662237"
+    },
+    {
+        "county": "PINE",
+        "city": "PINE CITY",
+        "zipcode": 55063,
+        "latitude": "+45.949599",
+        "longitude": "-092.892997"
+    },
+    {
+        "county": "PINE",
+        "city": "ROCK CREEK",
+        "zipcode": 55067,
+        "latitude": "+46.074687",
+        "longitude": "-092.718004"
+    },
+    {
+        "county": "PINE",
+        "city": "SANDSTONE",
+        "zipcode": 55072,
+        "latitude": "+46.132453",
+        "longitude": "-092.588959"
+    },
+    {
+        "county": "PINE",
+        "city": "STURGEON LAKE",
+        "zipcode": 55783,
+        "latitude": "+46.367039",
+        "longitude": "-092.824278"
+    },
+    {
+        "county": "PINE",
+        "city": "WILLOW RIVER",
+        "zipcode": 55795,
+        "latitude": "+46.310484",
+        "longitude": "-092.863863"
+    },
+    {
+        "county": "PIPESTONE",
+        "city": "EDGERTON",
+        "zipcode": 56128,
+        "latitude": "+43.930332",
+        "longitude": "-096.149676"
+    },
+    {
+        "county": "PIPESTONE",
+        "city": "HOLLAND",
+        "zipcode": 56139,
+        "latitude": "+44.092390",
+        "longitude": "-096.188124"
+    },
+    {
+        "county": "PIPESTONE",
+        "city": "IHLEN",
+        "zipcode": 56140,
+        "latitude": "+43.895464",
+        "longitude": "-096.364032"
+    },
+    {
+        "county": "PIPESTONE",
+        "city": "JASPER",
+        "zipcode": 56144,
+        "latitude": "+43.879857",
+        "longitude": "-096.342955"
+    },
+    {
+        "county": "PIPESTONE",
+        "city": "PIPESTONE",
+        "zipcode": 56164,
+        "latitude": "+43.989267",
+        "longitude": "-096.265153"
+    },
+    {
+        "county": "PIPESTONE",
+        "city": "RUTHTON",
+        "zipcode": 56170,
+        "latitude": "+44.153916",
+        "longitude": "-096.275913"
+    },
+    {
+        "county": "PIPESTONE",
+        "city": "TROSKY",
+        "zipcode": 56177,
+        "latitude": "+43.889477",
+        "longitude": "-096.260066"
+    },
+    {
+        "county": "PIPESTONE",
+        "city": "WOODSTOCK",
+        "zipcode": 56186,
+        "latitude": "+44.009283",
+        "longitude": "-096.099250"
+    },
+    {
+        "county": "POLK",
+        "city": "ANGUS",
+        "zipcode": 56712,
+        "latitude": "+47.836367",
+        "longitude": "-096.350400"
+    },
+    {
+        "county": "POLK",
+        "city": "BELTRAMI",
+        "zipcode": 56517,
+        "latitude": "+47.801705",
+        "longitude": "-096.433680"
+    },
+    {
+        "county": "POLK",
+        "city": "CLIMAX",
+        "zipcode": 56523,
+        "latitude": "+47.683698",
+        "longitude": "-096.871540"
+    },
+    {
+        "county": "POLK",
+        "city": "CROOKSTON",
+        "zipcode": 56716,
+        "latitude": "+47.705082",
+        "longitude": "-096.412000"
+    },
+    {
+        "county": "POLK",
+        "city": "EAST GRAND FORKS",
+        "zipcode": 56721,
+        "latitude": "+47.874048",
+        "longitude": "-096.924085"
+    },
+    {
+        "county": "POLK",
+        "city": "ERSKINE",
+        "zipcode": 56535,
+        "latitude": "+47.665688",
+        "longitude": "-095.998070"
+    },
+    {
+        "county": "POLK",
+        "city": "EUCLID",
+        "zipcode": 56722,
+        "latitude": "+47.836367",
+        "longitude": "-096.350400"
+    },
+    {
+        "county": "POLK",
+        "city": "FERTILE",
+        "zipcode": 56540,
+        "latitude": "+47.534788",
+        "longitude": "-096.285663"
+    },
+    {
+        "county": "POLK",
+        "city": "FISHER",
+        "zipcode": 56723,
+        "latitude": "+47.799949",
+        "longitude": "-096.798532"
+    },
+    {
+        "county": "POLK",
+        "city": "FOSSTON",
+        "zipcode": 56542,
+        "latitude": "+47.597727",
+        "longitude": "-096.270444"
+    },
+    {
+        "county": "POLK",
+        "city": "GULLY",
+        "zipcode": 56646,
+        "latitude": "+47.836367",
+        "longitude": "-096.350400"
+    },
+    {
+        "county": "POLK",
+        "city": "LENGBY",
+        "zipcode": 56651,
+        "latitude": "+47.836367",
+        "longitude": "-096.350400"
+    },
+    {
+        "county": "POLK",
+        "city": "MCINTOSH",
+        "zipcode": 56556,
+        "latitude": "+47.637117",
+        "longitude": "-095.884768"
+    },
+    {
+        "county": "POLK",
+        "city": "MENTOR",
+        "zipcode": 56736,
+        "latitude": "+47.681728",
+        "longitude": "-096.154311"
+    },
+    {
+        "county": "POLK",
+        "city": "NIELSVILLE",
+        "zipcode": 56568,
+        "latitude": "+47.836367",
+        "longitude": "-096.350400"
+    },
+    {
+        "county": "POLK",
+        "city": "TRAIL",
+        "zipcode": 56684,
+        "latitude": "+47.836367",
+        "longitude": "-096.350400"
+    },
+    {
+        "county": "POLK",
+        "city": "WINGER",
+        "zipcode": 56592,
+        "latitude": "+47.631462",
+        "longitude": "-095.889453"
+    },
+    {
+        "county": "POPE",
+        "city": "CYRUS",
+        "zipcode": 56323,
+        "latitude": "+45.641425",
+        "longitude": "-095.709642"
+    },
+    {
+        "county": "POPE",
+        "city": "FARWELL",
+        "zipcode": 56327,
+        "latitude": "+45.728746",
+        "longitude": "-095.623944"
+    },
+    {
+        "county": "POPE",
+        "city": "GLENWOOD",
+        "zipcode": 56334,
+        "latitude": "+45.589131",
+        "longitude": "-095.357347"
+    },
+    {
+        "county": "POPE",
+        "city": "LOWRY",
+        "zipcode": 56349,
+        "latitude": "+45.715846",
+        "longitude": "-095.540402"
+    },
+    {
+        "county": "POPE",
+        "city": "STARBUCK",
+        "zipcode": 56381,
+        "latitude": "+45.572758",
+        "longitude": "-095.573436"
+    },
+    {
+        "county": "POPE",
+        "city": "VILLARD",
+        "zipcode": 56385,
+        "latitude": "+45.719299",
+        "longitude": "-095.225097"
+    },
+    {
+        "county": "RAMSEY",
+        "city": "SAINT PAUL",
+        "zipcode": 55101,
+        "latitude": "+44.967965",
+        "longitude": "-093.092168"
+    },
+    {
+        "county": "RAMSEY",
+        "city": "SAINT PAUL",
+        "zipcode": 55102,
+        "latitude": "+44.932929",
+        "longitude": "-093.118968"
+    },
+    {
+        "county": "RAMSEY",
+        "city": "SAINT PAUL",
+        "zipcode": 55103,
+        "latitude": "+44.967215",
+        "longitude": "-093.125319"
+    },
+    {
+        "county": "RAMSEY",
+        "city": "SAINT PAUL",
+        "zipcode": 55104,
+        "latitude": "+44.955615",
+        "longitude": "-093.167020"
+    },
+    {
+        "county": "RAMSEY",
+        "city": "SAINT PAUL",
+        "zipcode": 55105,
+        "latitude": "+44.934515",
+        "longitude": "-093.160970"
+    },
+    {
+        "county": "RAMSEY",
+        "city": "SAINT PAUL",
+        "zipcode": 55106,
+        "latitude": "+44.957065",
+        "longitude": "-093.041616"
+    },
+    {
+        "county": "RAMSEY",
+        "city": "SAINT PAUL",
+        "zipcode": 55107,
+        "latitude": "+44.932465",
+        "longitude": "-093.087967"
+    },
+    {
+        "county": "RAMSEY",
+        "city": "SAINT PAUL",
+        "zipcode": 55108,
+        "latitude": "+44.980614",
+        "longitude": "-093.177122"
+    },
+    {
+        "county": "RAMSEY",
+        "city": "SAINT PAUL",
+        "zipcode": 55109,
+        "latitude": "+45.013234",
+        "longitude": "-093.029667"
+    },
+    {
+        "county": "RAMSEY",
+        "city": "SAINT PAUL",
+        "zipcode": 55110,
+        "latitude": "+45.079965",
+        "longitude": "-093.022317"
+    },
+    {
+        "county": "RAMSEY",
+        "city": "SAINT PAUL",
+        "zipcode": 55112,
+        "latitude": "+45.078815",
+        "longitude": "-093.187223"
+    },
+    {
+        "county": "RAMSEY",
+        "city": "SAINT PAUL",
+        "zipcode": 55113,
+        "latitude": "+45.013895",
+        "longitude": "-093.157071"
+    },
+    {
+        "county": "RAMSEY",
+        "city": "SAINT PAUL",
+        "zipcode": 55114,
+        "latitude": "+44.964115",
+        "longitude": "-093.194872"
+    },
+    {
+        "county": "RAMSEY",
+        "city": "SAINT PAUL",
+        "zipcode": 55116,
+        "latitude": "+44.911215",
+        "longitude": "-093.165356"
+    },
+    {
+        "county": "RAMSEY",
+        "city": "SAINT PAUL",
+        "zipcode": 55117,
+        "latitude": "+45.002115",
+        "longitude": "-093.106269"
+    },
+    {
+        "county": "RAMSEY",
+        "city": "SAINT PAUL",
+        "zipcode": 55119,
+        "latitude": "+44.941415",
+        "longitude": "-093.010714"
+    },
+    {
+        "county": "RAMSEY",
+        "city": "SAINT PAUL",
+        "zipcode": 55126,
+        "latitude": "+45.073561",
+        "longitude": "-093.138022"
+    },
+    {
+        "county": "RAMSEY",
+        "city": "SAINT PAUL",
+        "zipcode": 55127,
+        "latitude": "+45.080265",
+        "longitude": "-093.087520"
+    },
+    {
+        "county": "RAMSEY",
+        "city": "SAINT PAUL",
+        "zipcode": 55133,
+        "latitude": "+45.005902",
+        "longitude": "-093.105869"
+    },
+    {
+        "county": "RAMSEY",
+        "city": "SAINT PAUL",
+        "zipcode": 55144,
+        "latitude": "+45.005902",
+        "longitude": "-093.105869"
+    },
+    {
+        "county": "RAMSEY",
+        "city": "SAINT PAUL",
+        "zipcode": 55145,
+        "latitude": "+45.005902",
+        "longitude": "-093.105869"
+    },
+    {
+        "county": "RAMSEY",
+        "city": "SAINT PAUL",
+        "zipcode": 55146,
+        "latitude": "+44.942656",
+        "longitude": "-093.082793"
+    },
+    {
+        "county": "RAMSEY",
+        "city": "SAINT PAUL",
+        "zipcode": 55155,
+        "latitude": "+44.952165",
+        "longitude": "-093.095518"
+    },
+    {
+        "county": "RAMSEY",
+        "city": "SAINT PAUL",
+        "zipcode": 55161,
+        "latitude": "+45.005902",
+        "longitude": "-093.105869"
+    },
+    {
+        "county": "RAMSEY",
+        "city": "SAINT PAUL",
+        "zipcode": 55164,
+        "latitude": "+44.990915",
+        "longitude": "-093.106593"
+    },
+    {
+        "county": "RAMSEY",
+        "city": "SAINT PAUL",
+        "zipcode": 55165,
+        "latitude": "+45.005902",
+        "longitude": "-093.105869"
+    },
+    {
+        "county": "RAMSEY",
+        "city": "SAINT PAUL",
+        "zipcode": 55166,
+        "latitude": "+45.005902",
+        "longitude": "-093.105869"
+    },
+    {
+        "county": "RAMSEY",
+        "city": "SAINT PAUL",
+        "zipcode": 55168,
+        "latitude": "+45.005902",
+        "longitude": "-093.105869"
+    },
+    {
+        "county": "RAMSEY",
+        "city": "SAINT PAUL",
+        "zipcode": 55169,
+        "latitude": "+45.005902",
+        "longitude": "-093.105869"
+    },
+    {
+        "county": "RAMSEY",
+        "city": "SAINT PAUL",
+        "zipcode": 55170,
+        "latitude": "+45.005902",
+        "longitude": "-093.105869"
+    },
+    {
+        "county": "RAMSEY",
+        "city": "SAINT PAUL",
+        "zipcode": 55171,
+        "latitude": "+45.005902",
+        "longitude": "-093.105869"
+    },
+    {
+        "county": "RAMSEY",
+        "city": "SAINT PAUL",
+        "zipcode": 55172,
+        "latitude": "+45.005902",
+        "longitude": "-093.105869"
+    },
+    {
+        "county": "RAMSEY",
+        "city": "SAINT PAUL",
+        "zipcode": 55175,
+        "latitude": "+45.005902",
+        "longitude": "-093.105869"
+    },
+    {
+        "county": "RAMSEY",
+        "city": "SAINT PAUL",
+        "zipcode": 55177,
+        "latitude": "+45.005902",
+        "longitude": "-093.105869"
+    },
+    {
+        "county": "RAMSEY",
+        "city": "SAINT PAUL",
+        "zipcode": 55182,
+        "latitude": "+45.005902",
+        "longitude": "-093.105869"
+    },
+    {
+        "county": "RAMSEY",
+        "city": "SAINT PAUL",
+        "zipcode": 55187,
+        "latitude": "+45.005902",
+        "longitude": "-093.105869"
+    },
+    {
+        "county": "RAMSEY",
+        "city": "SAINT PAUL",
+        "zipcode": 55188,
+        "latitude": "+45.005902",
+        "longitude": "-093.105869"
+    },
+    {
+        "county": "RAMSEY",
+        "city": "SAINT PAUL",
+        "zipcode": 55190,
+        "latitude": "+45.005902",
+        "longitude": "-093.105869"
+    },
+    {
+        "county": "RAMSEY",
+        "city": "SAINT PAUL",
+        "zipcode": 55191,
+        "latitude": "+45.005902",
+        "longitude": "-093.105869"
+    },
+    {
+        "county": "RED LAKE",
+        "city": "BROOKS",
+        "zipcode": 56715,
+        "latitude": "+47.814152",
+        "longitude": "-096.005263"
+    },
+    {
+        "county": "RED LAKE",
+        "city": "OKLEE",
+        "zipcode": 56742,
+        "latitude": "+47.838345",
+        "longitude": "-095.853261"
+    },
+    {
+        "county": "RED LAKE",
+        "city": "PLUMMER",
+        "zipcode": 56748,
+        "latitude": "+47.862170",
+        "longitude": "-096.095883"
+    },
+    {
+        "county": "RED LAKE",
+        "city": "RED LAKE FALLS",
+        "zipcode": 56750,
+        "latitude": "+47.885347",
+        "longitude": "-096.270368"
+    },
+    {
+        "county": "REDWOOD",
+        "city": "BELVIEW",
+        "zipcode": 56214,
+        "latitude": "+44.553001",
+        "longitude": "-095.324839"
+    },
+    {
+        "county": "REDWOOD",
+        "city": "CLEMENTS",
+        "zipcode": 56224,
+        "latitude": "+44.418189",
+        "longitude": "-095.261177"
+    },
+    {
+        "county": "REDWOOD",
+        "city": "LAMBERTON",
+        "zipcode": 56152,
+        "latitude": "+44.282497",
+        "longitude": "-095.269338"
+    },
+    {
+        "county": "REDWOOD",
+        "city": "LUCAN",
+        "zipcode": 56255,
+        "latitude": "+44.472194",
+        "longitude": "-095.409783"
+    },
+    {
+        "county": "REDWOOD",
+        "city": "MILROY",
+        "zipcode": 56263,
+        "latitude": "+44.417632",
+        "longitude": "-095.531336"
+    },
+    {
+        "county": "REDWOOD",
+        "city": "MORGAN",
+        "zipcode": 56266,
+        "latitude": "+44.404589",
+        "longitude": "-094.976823"
+    },
+    {
+        "county": "REDWOOD",
+        "city": "REDWOOD FALLS",
+        "zipcode": 56283,
+        "latitude": "+44.521759",
+        "longitude": "-095.200255"
+    },
+    {
+        "county": "REDWOOD",
+        "city": "REVERE",
+        "zipcode": 56166,
+        "latitude": "+44.239130",
+        "longitude": "-095.355744"
+    },
+    {
+        "county": "REDWOOD",
+        "city": "SANBORN",
+        "zipcode": 56083,
+        "latitude": "+44.282403",
+        "longitude": "-095.167551"
+    },
+    {
+        "county": "REDWOOD",
+        "city": "SEAFORTH",
+        "zipcode": 56287,
+        "latitude": "+44.461267",
+        "longitude": "-095.328167"
+    },
+    {
+        "county": "REDWOOD",
+        "city": "VESTA",
+        "zipcode": 56292,
+        "latitude": "+44.492318",
+        "longitude": "-095.447604"
+    },
+    {
+        "county": "REDWOOD",
+        "city": "WABASSO",
+        "zipcode": 56293,
+        "latitude": "+44.420734",
+        "longitude": "-095.248847"
+    },
+    {
+        "county": "REDWOOD",
+        "city": "WALNUT GROVE",
+        "zipcode": 56180,
+        "latitude": "+44.283007",
+        "longitude": "-095.481890"
+    },
+    {
+        "county": "REDWOOD",
+        "city": "WANDA",
+        "zipcode": 56294,
+        "latitude": "+44.329780",
+        "longitude": "-095.211785"
+    },
+    {
+        "county": "RENVILLE",
+        "city": "BIRD ISLAND",
+        "zipcode": 55310,
+        "latitude": "+44.753182",
+        "longitude": "-094.848215"
+    },
+    {
+        "county": "RENVILLE",
+        "city": "BUFFALO LAKE",
+        "zipcode": 55314,
+        "latitude": "+44.710310",
+        "longitude": "-094.752767"
+    },
+    {
+        "county": "RENVILLE",
+        "city": "DANUBE",
+        "zipcode": 56230,
+        "latitude": "+44.760070",
+        "longitude": "-095.097540"
+    },
+    {
+        "county": "RENVILLE",
+        "city": "FAIRFAX",
+        "zipcode": 55332,
+        "latitude": "+44.595338",
+        "longitude": "-094.726284"
+    },
+    {
+        "county": "RENVILLE",
+        "city": "FRANKLIN",
+        "zipcode": 55333,
+        "latitude": "+44.564953",
+        "longitude": "-094.891273"
+    },
+    {
+        "county": "RENVILLE",
+        "city": "HECTOR",
+        "zipcode": 55342,
+        "latitude": "+44.709760",
+        "longitude": "-094.756704"
+    },
+    {
+        "county": "RENVILLE",
+        "city": "MORTON",
+        "zipcode": 56270,
+        "latitude": "+44.586097",
+        "longitude": "-094.970660"
+    },
+    {
+        "county": "RENVILLE",
+        "city": "OLIVIA",
+        "zipcode": 56277,
+        "latitude": "+44.760343",
+        "longitude": "-095.032641"
+    },
+    {
+        "county": "RENVILLE",
+        "city": "RENVILLE",
+        "zipcode": 56284,
+        "latitude": "+44.760675",
+        "longitude": "-095.240065"
+    },
+    {
+        "county": "RENVILLE",
+        "city": "SACRED HEART",
+        "zipcode": 56285,
+        "latitude": "+44.779761",
+        "longitude": "-095.370482"
+    },
+    {
+        "county": "RICE",
+        "city": "DUNDAS",
+        "zipcode": 55019,
+        "latitude": "+44.398613",
+        "longitude": "-093.194444"
+    },
+    {
+        "county": "RICE",
+        "city": "FARIBAULT",
+        "zipcode": 55021,
+        "latitude": "+44.362870",
+        "longitude": "-093.267456"
+    },
+    {
+        "county": "RICE",
+        "city": "LONSDALE",
+        "zipcode": 55046,
+        "latitude": "+44.447704",
+        "longitude": "-093.425156"
+    },
+    {
+        "county": "RICE",
+        "city": "MORRISTOWN",
+        "zipcode": 55052,
+        "latitude": "+44.328365",
+        "longitude": "-093.342652"
+    },
+    {
+        "county": "RICE",
+        "city": "NERSTRAND",
+        "zipcode": 55053,
+        "latitude": "+44.327380",
+        "longitude": "-093.242155"
+    },
+    {
+        "county": "RICE",
+        "city": "NORTHFIELD",
+        "zipcode": 55057,
+        "latitude": "+44.376816",
+        "longitude": "-093.241838"
+    },
+    {
+        "county": "RICE",
+        "city": "WARSAW",
+        "zipcode": 55087,
+        "latitude": "+44.239946",
+        "longitude": "-093.397354"
+    },
+    {
+        "county": "RICE",
+        "city": "WEBSTER",
+        "zipcode": 55088,
+        "latitude": "+44.500341",
+        "longitude": "-093.382574"
+    },
+    {
+        "county": "ROCK",
+        "city": "BEAVER CREEK",
+        "zipcode": 56116,
+        "latitude": "+43.612344",
+        "longitude": "-096.364663"
+    },
+    {
+        "county": "ROCK",
+        "city": "HARDWICK",
+        "zipcode": 56134,
+        "latitude": "+43.810378",
+        "longitude": "-096.218283"
+    },
+    {
+        "county": "ROCK",
+        "city": "HILLS",
+        "zipcode": 56138,
+        "latitude": "+43.525185",
+        "longitude": "-096.358365"
+    },
+    {
+        "county": "ROCK",
+        "city": "KANARANZI",
+        "zipcode": 56146,
+        "latitude": "+43.674883",
+        "longitude": "-096.252794"
+    },
+    {
+        "county": "ROCK",
+        "city": "KENNETH",
+        "zipcode": 56147,
+        "latitude": "+43.674883",
+        "longitude": "-096.252794"
+    },
+    {
+        "county": "ROCK",
+        "city": "LUVERNE",
+        "zipcode": 56156,
+        "latitude": "+43.698546",
+        "longitude": "-096.163242"
+    },
+    {
+        "county": "ROCK",
+        "city": "MAGNOLIA",
+        "zipcode": 56158,
+        "latitude": "+43.644047",
+        "longitude": "-096.076950"
+    },
+    {
+        "county": "ROCK",
+        "city": "STEEN",
+        "zipcode": 56173,
+        "latitude": "+43.674883",
+        "longitude": "-096.252794"
+    },
+    {
+        "county": "ROSEAU",
+        "city": "BADGER",
+        "zipcode": 56714,
+        "latitude": "+48.774428",
+        "longitude": "-096.020334"
+    },
+    {
+        "county": "ROSEAU",
+        "city": "GREENBUSH",
+        "zipcode": 56726,
+        "latitude": "+48.834783",
+        "longitude": "-096.286287"
+    },
+    {
+        "county": "ROSEAU",
+        "city": "ROOSEVELT",
+        "zipcode": 56673,
+        "latitude": "+48.769244",
+        "longitude": "-095.747559"
+    },
+    {
+        "county": "ROSEAU",
+        "city": "ROSEAU",
+        "zipcode": 56751,
+        "latitude": "+48.704839",
+        "longitude": "-095.750383"
+    },
+    {
+        "county": "ROSEAU",
+        "city": "SALOL",
+        "zipcode": 56756,
+        "latitude": "+48.769244",
+        "longitude": "-095.747559"
+    },
+    {
+        "county": "ROSEAU",
+        "city": "STRATHCONA",
+        "zipcode": 56759,
+        "latitude": "+48.749138",
+        "longitude": "-096.062783"
+    },
+    {
+        "county": "ROSEAU",
+        "city": "SWIFT",
+        "zipcode": 56682,
+        "latitude": "+48.769244",
+        "longitude": "-095.747559"
+    },
+    {
+        "county": "ROSEAU",
+        "city": "WANNASKA",
+        "zipcode": 56761,
+        "latitude": "+48.769244",
+        "longitude": "-095.747559"
+    },
+    {
+        "county": "ROSEAU",
+        "city": "WARROAD",
+        "zipcode": 56763,
+        "latitude": "+48.900663",
+        "longitude": "-095.250324"
+    },
+    {
+        "county": "SAINT LOUIS",
+        "city": "ADOLPH",
+        "zipcode": 55701,
+        "latitude": "+47.640367",
+        "longitude": "-092.442797"
+    },
+    {
+        "county": "SAINT LOUIS",
+        "city": "ALBORN",
+        "zipcode": 55702,
+        "latitude": "+47.014861",
+        "longitude": "-092.612312"
+    },
+    {
+        "county": "SAINT LOUIS",
+        "city": "ANGORA",
+        "zipcode": 55703,
+        "latitude": "+47.753747",
+        "longitude": "-092.756769"
+    },
+    {
+        "county": "SAINT LOUIS",
+        "city": "AURORA",
+        "zipcode": 55705,
+        "latitude": "+47.634557",
+        "longitude": "-092.071317"
+    },
+    {
+        "county": "SAINT LOUIS",
+        "city": "BABBITT",
+        "zipcode": 55706,
+        "latitude": "+47.742305",
+        "longitude": "-091.953532"
+    },
+    {
+        "county": "SAINT LOUIS",
+        "city": "BIWABIK",
+        "zipcode": 55708,
+        "latitude": "+47.532826",
+        "longitude": "-092.340774"
+    },
+    {
+        "county": "SAINT LOUIS",
+        "city": "BRIMSON",
+        "zipcode": 55602,
+        "latitude": "+47.256933",
+        "longitude": "-092.004270"
+    },
+    {
+        "county": "SAINT LOUIS",
+        "city": "BRITT",
+        "zipcode": 55710,
+        "latitude": "+47.645047",
+        "longitude": "-092.651923"
+    },
+    {
+        "county": "SAINT LOUIS",
+        "city": "BROOKSTON",
+        "zipcode": 55711,
+        "latitude": "+46.837747",
+        "longitude": "-092.680451"
+    },
+    {
+        "county": "SAINT LOUIS",
+        "city": "BUHL",
+        "zipcode": 55713,
+        "latitude": "+47.493197",
+        "longitude": "-092.764262"
+    },
+    {
+        "county": "SAINT LOUIS",
+        "city": "CANYON",
+        "zipcode": 55717,
+        "latitude": "+47.068600",
+        "longitude": "-092.442794"
+    },
+    {
+        "county": "SAINT LOUIS",
+        "city": "CHISHOLM",
+        "zipcode": 55719,
+        "latitude": "+47.563308",
+        "longitude": "-092.443251"
+    },
+    {
+        "county": "SAINT LOUIS",
+        "city": "COOK",
+        "zipcode": 55723,
+        "latitude": "+47.877563",
+        "longitude": "-092.768568"
+    },
+    {
+        "county": "SAINT LOUIS",
+        "city": "COTTON",
+        "zipcode": 55724,
+        "latitude": "+47.152067",
+        "longitude": "-092.435223"
+    },
+    {
+        "county": "SAINT LOUIS",
+        "city": "CRANE LAKE",
+        "zipcode": 55725,
+        "latitude": "+48.241245",
+        "longitude": "-092.525385"
+    },
+    {
+        "county": "SAINT LOUIS",
+        "city": "DULUTH",
+        "zipcode": 55801,
+        "latitude": "+47.005566",
+        "longitude": "-092.001934"
+    },
+    {
+        "county": "SAINT LOUIS",
+        "city": "DULUTH",
+        "zipcode": 55802,
+        "latitude": "+46.904912",
+        "longitude": "-092.039109"
+    },
+    {
+        "county": "SAINT LOUIS",
+        "city": "DULUTH",
+        "zipcode": 55803,
+        "latitude": "+47.217311",
+        "longitude": "-092.118400"
+    },
+    {
+        "county": "SAINT LOUIS",
+        "city": "DULUTH",
+        "zipcode": 55804,
+        "latitude": "+46.886239",
+        "longitude": "-092.005488"
+    },
+    {
+        "county": "SAINT LOUIS",
+        "city": "DULUTH",
+        "zipcode": 55805,
+        "latitude": "+46.800389",
+        "longitude": "-092.094589"
+    },
+    {
+        "county": "SAINT LOUIS",
+        "city": "DULUTH",
+        "zipcode": 55806,
+        "latitude": "+46.774939",
+        "longitude": "-092.133189"
+    },
+    {
+        "county": "SAINT LOUIS",
+        "city": "DULUTH",
+        "zipcode": 55807,
+        "latitude": "+46.735978",
+        "longitude": "-092.177640"
+    },
+    {
+        "county": "SAINT LOUIS",
+        "city": "DULUTH",
+        "zipcode": 55808,
+        "latitude": "+46.683891",
+        "longitude": "-092.242241"
+    },
+    {
+        "county": "SAINT LOUIS",
+        "city": "DULUTH",
+        "zipcode": 55810,
+        "latitude": "+46.760620",
+        "longitude": "-092.266038"
+    },
+    {
+        "county": "SAINT LOUIS",
+        "city": "DULUTH",
+        "zipcode": 55811,
+        "latitude": "+46.814712",
+        "longitude": "-092.199825"
+    },
+    {
+        "county": "SAINT LOUIS",
+        "city": "DULUTH",
+        "zipcode": 55812,
+        "latitude": "+46.810788",
+        "longitude": "-092.072288"
+    },
+    {
+        "county": "SAINT LOUIS",
+        "city": "DULUTH",
+        "zipcode": 55814,
+        "latitude": "+47.640367",
+        "longitude": "-092.442797"
+    },
+    {
+        "county": "SAINT LOUIS",
+        "city": "DULUTH",
+        "zipcode": 55815,
+        "latitude": "+47.640367",
+        "longitude": "-092.442797"
+    },
+    {
+        "county": "SAINT LOUIS",
+        "city": "DULUTH",
+        "zipcode": 55816,
+        "latitude": "+47.640367",
+        "longitude": "-092.442797"
+    },
+    {
+        "county": "SAINT LOUIS",
+        "city": "ELY",
+        "zipcode": 55731,
+        "latitude": "+47.918943",
+        "longitude": "-092.020778"
+    },
+    {
+        "county": "SAINT LOUIS",
+        "city": "EMBARRASS",
+        "zipcode": 55732,
+        "latitude": "+47.662641",
+        "longitude": "-092.228145"
+    },
+    {
+        "county": "SAINT LOUIS",
+        "city": "EVELETH",
+        "zipcode": 55734,
+        "latitude": "+47.386893",
+        "longitude": "-092.452058"
+    },
+    {
+        "county": "SAINT LOUIS",
+        "city": "FLOODWOOD",
+        "zipcode": 55736,
+        "latitude": "+46.937895",
+        "longitude": "-092.837735"
+    },
+    {
+        "county": "SAINT LOUIS",
+        "city": "FORBES",
+        "zipcode": 55738,
+        "latitude": "+47.273191",
+        "longitude": "-092.675563"
+    },
+    {
+        "county": "SAINT LOUIS",
+        "city": "GILBERT",
+        "zipcode": 55741,
+        "latitude": "+47.447686",
+        "longitude": "-092.366335"
+    },
+    {
+        "county": "SAINT LOUIS",
+        "city": "HIBBING",
+        "zipcode": 55746,
+        "latitude": "+47.413263",
+        "longitude": "-092.876210"
+    },
+    {
+        "county": "SAINT LOUIS",
+        "city": "HIBBING",
+        "zipcode": 55747,
+        "latitude": "+47.640367",
+        "longitude": "-092.442797"
+    },
+    {
+        "county": "SAINT LOUIS",
+        "city": "HOYT LAKES",
+        "zipcode": 55750,
+        "latitude": "+47.507262",
+        "longitude": "-092.112844"
+    },
+    {
+        "county": "SAINT LOUIS",
+        "city": "IRON",
+        "zipcode": 55751,
+        "latitude": "+47.420472",
+        "longitude": "-092.681078"
+    },
+    {
+        "county": "SAINT LOUIS",
+        "city": "KINNEY",
+        "zipcode": 55758,
+        "latitude": "+47.512132",
+        "longitude": "-092.740216"
+    },
+    {
+        "county": "SAINT LOUIS",
+        "city": "MAKINEN",
+        "zipcode": 55763,
+        "latitude": "+47.264753",
+        "longitude": "-092.181209"
+    },
+    {
+        "county": "SAINT LOUIS",
+        "city": "MEADOWLANDS",
+        "zipcode": 55765,
+        "latitude": "+47.116076",
+        "longitude": "-092.803506"
+    },
+    {
+        "county": "SAINT LOUIS",
+        "city": "MELRUDE",
+        "zipcode": 55766,
+        "latitude": "+47.249626",
+        "longitude": "-092.412343"
+    },
+    {
+        "county": "SAINT LOUIS",
+        "city": "MOUNTAIN IRON",
+        "zipcode": 55768,
+        "latitude": "+47.454993",
+        "longitude": "-092.686192"
+    },
+    {
+        "county": "SAINT LOUIS",
+        "city": "NETT LAKE",
+        "zipcode": 55772,
+        "latitude": "+48.081686",
+        "longitude": "-093.083438"
+    },
+    {
+        "county": "SAINT LOUIS",
+        "city": "ORR",
+        "zipcode": 55771,
+        "latitude": "+47.742195",
+        "longitude": "-092.757902"
+    },
+    {
+        "county": "SAINT LOUIS",
+        "city": "SAGINAW",
+        "zipcode": 55779,
+        "latitude": "+46.910179",
+        "longitude": "-092.448123"
+    },
+    {
+        "county": "SAINT LOUIS",
+        "city": "SIDE LAKE",
+        "zipcode": 55781,
+        "latitude": "+47.551459",
+        "longitude": "-092.994885"
+    },
+    {
+        "county": "SAINT LOUIS",
+        "city": "SOUDAN",
+        "zipcode": 55782,
+        "latitude": "+47.821007",
+        "longitude": "-092.246359"
+    },
+    {
+        "county": "SAINT LOUIS",
+        "city": "TOWER",
+        "zipcode": 55790,
+        "latitude": "+47.787247",
+        "longitude": "-092.338233"
+    },
+    {
+        "county": "SAINT LOUIS",
+        "city": "TWIG",
+        "zipcode": 55791,
+        "latitude": "+47.640367",
+        "longitude": "-092.442797"
+    },
+    {
+        "county": "SAINT LOUIS",
+        "city": "VIRGINIA",
+        "zipcode": 55777,
+        "latitude": "+47.640367",
+        "longitude": "-092.442797"
+    },
+    {
+        "county": "SAINT LOUIS",
+        "city": "VIRGINIA",
+        "zipcode": 55792,
+        "latitude": "+47.646075",
+        "longitude": "-092.499975"
+    },
+    {
+        "county": "SAINT LOUIS",
+        "city": "WINTON",
+        "zipcode": 55796,
+        "latitude": "+47.720643",
+        "longitude": "-092.266525"
+    },
+    {
+        "county": "SCOTT",
+        "city": "BELLE PLAINE",
+        "zipcode": 56011,
+        "latitude": "+44.608912",
+        "longitude": "-093.757888"
+    },
+    {
+        "county": "SCOTT",
+        "city": "ELKO",
+        "zipcode": 55020,
+        "latitude": "+44.588963",
+        "longitude": "-093.369473"
+    },
+    {
+        "county": "SCOTT",
+        "city": "JORDAN",
+        "zipcode": 55352,
+        "latitude": "+44.658362",
+        "longitude": "-093.601183"
+    },
+    {
+        "county": "SCOTT",
+        "city": "NEW MARKET",
+        "zipcode": 55054,
+        "latitude": "+44.571056",
+        "longitude": "-093.354267"
+    },
+    {
+        "county": "SCOTT",
+        "city": "PRIOR LAKE",
+        "zipcode": 55372,
+        "latitude": "+44.682763",
+        "longitude": "-093.464428"
+    },
+    {
+        "county": "SCOTT",
+        "city": "SAVAGE",
+        "zipcode": 55378,
+        "latitude": "+44.751113",
+        "longitude": "-093.367975"
+    },
+    {
+        "county": "SCOTT",
+        "city": "SHAKOPEE",
+        "zipcode": 55379,
+        "latitude": "+44.731113",
+        "longitude": "-093.474144"
+    },
+    {
+        "county": "SHERBURNE",
+        "city": "BECKER",
+        "zipcode": 55308,
+        "latitude": "+45.451864",
+        "longitude": "-093.842187"
+    },
+    {
+        "county": "SHERBURNE",
+        "city": "BIG LAKE",
+        "zipcode": 55309,
+        "latitude": "+45.367294",
+        "longitude": "-093.686916"
+    },
+    {
+        "county": "SHERBURNE",
+        "city": "CLEAR LAKE",
+        "zipcode": 55319,
+        "latitude": "+45.466197",
+        "longitude": "-093.952504"
+    },
+    {
+        "county": "SHERBURNE",
+        "city": "ELK RIVER",
+        "zipcode": 55330,
+        "latitude": "+45.403289",
+        "longitude": "-093.644522"
+    },
+    {
+        "county": "SHERBURNE",
+        "city": "SANTIAGO",
+        "zipcode": 55377,
+        "latitude": "+45.540181",
+        "longitude": "-093.815434"
+    },
+    {
+        "county": "SHERBURNE",
+        "city": "ZIMMERMAN",
+        "zipcode": 55398,
+        "latitude": "+45.467503",
+        "longitude": "-093.602475"
+    },
+    {
+        "county": "SIBLEY",
+        "city": "ARLINGTON",
+        "zipcode": 55307,
+        "latitude": "+44.597449",
+        "longitude": "-094.105481"
+    },
+    {
+        "county": "SIBLEY",
+        "city": "GAYLORD",
+        "zipcode": 55334,
+        "latitude": "+44.572583",
+        "longitude": "-094.191699"
+    },
+    {
+        "county": "SIBLEY",
+        "city": "GIBBON",
+        "zipcode": 55335,
+        "latitude": "+44.550170",
+        "longitude": "-094.543258"
+    },
+    {
+        "county": "SIBLEY",
+        "city": "GREEN ISLE",
+        "zipcode": 55338,
+        "latitude": "+44.635750",
+        "longitude": "-094.057781"
+    },
+    {
+        "county": "SIBLEY",
+        "city": "HENDERSON",
+        "zipcode": 56044,
+        "latitude": "+44.564912",
+        "longitude": "-093.962668"
+    },
+    {
+        "county": "SIBLEY",
+        "city": "NEW AUBURN",
+        "zipcode": 55366,
+        "latitude": "+44.673454",
+        "longitude": "-094.229311"
+    },
+    {
+        "county": "SIBLEY",
+        "city": "WINTHROP",
+        "zipcode": 55396,
+        "latitude": "+44.550833",
+        "longitude": "-094.347525"
+    },
+    {
+        "county": "STEARNS",
+        "city": "ALBANY",
+        "zipcode": 56307,
+        "latitude": "+45.614724",
+        "longitude": "-094.494229"
+    },
+    {
+        "county": "STEARNS",
+        "city": "AVON",
+        "zipcode": 56310,
+        "latitude": "+45.599386",
+        "longitude": "-094.436477"
+    },
+    {
+        "county": "STEARNS",
+        "city": "BELGRADE",
+        "zipcode": 56312,
+        "latitude": "+45.509715",
+        "longitude": "-094.963049"
+    },
+    {
+        "county": "STEARNS",
+        "city": "BROOTEN",
+        "zipcode": 56316,
+        "latitude": "+45.513441",
+        "longitude": "-095.056661"
+    },
+    {
+        "county": "STEARNS",
+        "city": "COLD SPRING",
+        "zipcode": 56320,
+        "latitude": "+45.470708",
+        "longitude": "-094.661654"
+    },
+    {
+        "county": "STEARNS",
+        "city": "COLLEGEVILLE",
+        "zipcode": 56321,
+        "latitude": "+45.578278",
+        "longitude": "-094.419941"
+    },
+    {
+        "county": "STEARNS",
+        "city": "ELROSA",
+        "zipcode": 56325,
+        "latitude": "+45.563556",
+        "longitude": "-094.946428"
+    },
+    {
+        "county": "STEARNS",
+        "city": "FREEPORT",
+        "zipcode": 56331,
+        "latitude": "+45.643851",
+        "longitude": "-094.660815"
+    },
+    {
+        "county": "STEARNS",
+        "city": "GREENWALD",
+        "zipcode": 56335,
+        "latitude": "+45.597122",
+        "longitude": "-094.851494"
+    },
+    {
+        "county": "STEARNS",
+        "city": "HOLDINGFORD",
+        "zipcode": 56340,
+        "latitude": "+45.623632",
+        "longitude": "-094.419140"
+    },
+    {
+        "county": "STEARNS",
+        "city": "KIMBALL",
+        "zipcode": 55353,
+        "latitude": "+45.362610",
+        "longitude": "-094.309928"
+    },
+    {
+        "county": "STEARNS",
+        "city": "MELROSE",
+        "zipcode": 56352,
+        "latitude": "+45.614071",
+        "longitude": "-094.634556"
+    },
+    {
+        "county": "STEARNS",
+        "city": "NEW MUNICH",
+        "zipcode": 56356,
+        "latitude": "+45.629740",
+        "longitude": "-094.751937"
+    },
+    {
+        "county": "STEARNS",
+        "city": "PAYNESVILLE",
+        "zipcode": 56362,
+        "latitude": "+45.506403",
+        "longitude": "-094.734316"
+    },
+    {
+        "county": "STEARNS",
+        "city": "RICHMOND",
+        "zipcode": 56368,
+        "latitude": "+45.460536",
+        "longitude": "-094.536053"
+    },
+    {
+        "county": "STEARNS",
+        "city": "ROCKVILLE",
+        "zipcode": 56369,
+        "latitude": "+45.468679",
+        "longitude": "-094.340582"
+    },
+    {
+        "county": "STEARNS",
+        "city": "ROSCOE",
+        "zipcode": 56371,
+        "latitude": "+45.426781",
+        "longitude": "-094.633502"
+    },
+    {
+        "county": "STEARNS",
+        "city": "SAINT CLOUD",
+        "zipcode": 56301,
+        "latitude": "+45.519196",
+        "longitude": "-094.330619"
+    },
+    {
+        "county": "STEARNS",
+        "city": "SAINT CLOUD",
+        "zipcode": 56302,
+        "latitude": "+45.493430",
+        "longitude": "-094.643922"
+    },
+    {
+        "county": "STEARNS",
+        "city": "SAINT CLOUD",
+        "zipcode": 56303,
+        "latitude": "+45.627994",
+        "longitude": "-094.223023"
+    },
+    {
+        "county": "STEARNS",
+        "city": "SAINT CLOUD",
+        "zipcode": 56304,
+        "latitude": "+45.544864",
+        "longitude": "-094.440969"
+    },
+    {
+        "county": "STEARNS",
+        "city": "SAINT CLOUD",
+        "zipcode": 56372,
+        "latitude": "+45.528860",
+        "longitude": "-094.593338"
+    },
+    {
+        "county": "STEARNS",
+        "city": "SAINT CLOUD",
+        "zipcode": 56393,
+        "latitude": "+45.528860",
+        "longitude": "-094.593338"
+    },
+    {
+        "county": "STEARNS",
+        "city": "SAINT CLOUD",
+        "zipcode": 56395,
+        "latitude": "+45.528860",
+        "longitude": "-094.593338"
+    },
+    {
+        "county": "STEARNS",
+        "city": "SAINT CLOUD",
+        "zipcode": 56396,
+        "latitude": "+45.528860",
+        "longitude": "-094.593338"
+    },
+    {
+        "county": "STEARNS",
+        "city": "SAINT CLOUD",
+        "zipcode": 56397,
+        "latitude": "+45.528860",
+        "longitude": "-094.593338"
+    },
+    {
+        "county": "STEARNS",
+        "city": "SAINT CLOUD",
+        "zipcode": 56398,
+        "latitude": "+45.528860",
+        "longitude": "-094.593338"
+    },
+    {
+        "county": "STEARNS",
+        "city": "SAINT CLOUD",
+        "zipcode": 56399,
+        "latitude": "+45.528860",
+        "longitude": "-094.593338"
+    },
+    {
+        "county": "STEARNS",
+        "city": "SAINT JOSEPH",
+        "zipcode": 56374,
+        "latitude": "+45.614235",
+        "longitude": "-094.350962"
+    },
+    {
+        "county": "STEARNS",
+        "city": "SAINT MARTIN",
+        "zipcode": 56376,
+        "latitude": "+45.489612",
+        "longitude": "-094.718248"
+    },
+    {
+        "county": "STEARNS",
+        "city": "SAINT STEPHEN",
+        "zipcode": 56375,
+        "latitude": "+45.587011",
+        "longitude": "-094.380968"
+    },
+    {
+        "county": "STEARNS",
+        "city": "SARTELL",
+        "zipcode": 56377,
+        "latitude": "+45.573808",
+        "longitude": "-094.355049"
+    },
+    {
+        "county": "STEARNS",
+        "city": "SAUK CENTRE",
+        "zipcode": 56378,
+        "latitude": "+45.638568",
+        "longitude": "-094.974275"
+    },
+    {
+        "county": "STEARNS",
+        "city": "WAITE PARK",
+        "zipcode": 56387,
+        "latitude": "+45.510622",
+        "longitude": "-094.667422"
+    },
+    {
+        "county": "STEARNS",
+        "city": "WAITE PARK",
+        "zipcode": 56388,
+        "latitude": "",
+        "longitude": ""
+    },
+    {
+        "county": "STEELE",
+        "city": "BLOOMING PRAIRIE",
+        "zipcode": 55917,
+        "latitude": "+44.011627",
+        "longitude": "-093.144007"
+    },
+    {
+        "county": "STEELE",
+        "city": "ELLENDALE",
+        "zipcode": 56026,
+        "latitude": "+43.927861",
+        "longitude": "-093.286367"
+    },
+    {
+        "county": "STEELE",
+        "city": "HOPE",
+        "zipcode": 56046,
+        "latitude": "+43.955103",
+        "longitude": "-093.274017"
+    },
+    {
+        "county": "STEELE",
+        "city": "MEDFORD",
+        "zipcode": 55049,
+        "latitude": "+44.160283",
+        "longitude": "-093.246471"
+    },
+    {
+        "county": "STEELE",
+        "city": "OWATONNA",
+        "zipcode": 55060,
+        "latitude": "+44.047613",
+        "longitude": "-093.223724"
+    },
+    {
+        "county": "STEVENS",
+        "city": "ALBERTA",
+        "zipcode": 56207,
+        "latitude": "+45.585961",
+        "longitude": "-096.000761"
+    },
+    {
+        "county": "STEVENS",
+        "city": "CHOKIO",
+        "zipcode": 56221,
+        "latitude": "+45.573876",
+        "longitude": "-096.172979"
+    },
+    {
+        "county": "STEVENS",
+        "city": "DONNELLY",
+        "zipcode": 56235,
+        "latitude": "+45.690959",
+        "longitude": "-096.010121"
+    },
+    {
+        "county": "STEVENS",
+        "city": "HANCOCK",
+        "zipcode": 56244,
+        "latitude": "+45.497402",
+        "longitude": "-095.794260"
+    },
+    {
+        "county": "STEVENS",
+        "city": "MORRIS",
+        "zipcode": 56267,
+        "latitude": "+45.595739",
+        "longitude": "-095.923233"
+    },
+    {
+        "county": "SWIFT",
+        "city": "APPLETON",
+        "zipcode": 56208,
+        "latitude": "+45.282008",
+        "longitude": "-095.957570"
+    },
+    {
+        "county": "SWIFT",
+        "city": "BENSON",
+        "zipcode": 56215,
+        "latitude": "+45.281669",
+        "longitude": "-095.672102"
+    },
+    {
+        "county": "SWIFT",
+        "city": "CLONTARF",
+        "zipcode": 56226,
+        "latitude": "+45.305865",
+        "longitude": "-095.838919"
+    },
+    {
+        "county": "SWIFT",
+        "city": "DANVERS",
+        "zipcode": 56231,
+        "latitude": "+45.281751",
+        "longitude": "-095.721936"
+    },
+    {
+        "county": "SWIFT",
+        "city": "HOLLOWAY",
+        "zipcode": 56249,
+        "latitude": "+45.291840",
+        "longitude": "-095.624619"
+    },
+    {
+        "county": "SWIFT",
+        "city": "KERKHOVEN",
+        "zipcode": 56252,
+        "latitude": "+45.231737",
+        "longitude": "-095.317927"
+    },
+    {
+        "county": "SWIFT",
+        "city": "MURDOCK",
+        "zipcode": 56271,
+        "latitude": "+45.281997",
+        "longitude": "-095.512817"
+    },
+    {
+        "county": "TODD",
+        "city": "BERTHA",
+        "zipcode": 56437,
+        "latitude": "+46.268233",
+        "longitude": "-095.060770"
+    },
+    {
+        "county": "TODD",
+        "city": "BROWERVILLE",
+        "zipcode": 56438,
+        "latitude": "+46.063955",
+        "longitude": "-094.867727"
+    },
+    {
+        "county": "TODD",
+        "city": "BURTRUM",
+        "zipcode": 56318,
+        "latitude": "+45.865750",
+        "longitude": "-094.685781"
+    },
+    {
+        "county": "TODD",
+        "city": "CLARISSA",
+        "zipcode": 56440,
+        "latitude": "+46.128416",
+        "longitude": "-094.950401"
+    },
+    {
+        "county": "TODD",
+        "city": "EAGLE BEND",
+        "zipcode": 56446,
+        "latitude": "+46.149778",
+        "longitude": "-094.999490"
+    },
+    {
+        "county": "TODD",
+        "city": "GREY EAGLE",
+        "zipcode": 56336,
+        "latitude": "+45.827791",
+        "longitude": "-094.777570"
+    },
+    {
+        "county": "TODD",
+        "city": "HEWITT",
+        "zipcode": 56453,
+        "latitude": "+46.330157",
+        "longitude": "-094.945126"
+    },
+    {
+        "county": "TODD",
+        "city": "LONG PRAIRIE",
+        "zipcode": 56347,
+        "latitude": "+45.904136",
+        "longitude": "-094.815114"
+    },
+    {
+        "county": "TODD",
+        "city": "STAPLES",
+        "zipcode": 56479,
+        "latitude": "+46.250882",
+        "longitude": "-094.934361"
+    },
+    {
+        "county": "TODD",
+        "city": "WEST UNION",
+        "zipcode": 56389,
+        "latitude": "+45.799542",
+        "longitude": "-095.082130"
+    },
+    {
+        "county": "TRAVERSE",
+        "city": "BROWNS VALLEY",
+        "zipcode": 56219,
+        "latitude": "+45.594320",
+        "longitude": "-096.834959"
+    },
+    {
+        "county": "TRAVERSE",
+        "city": "DUMONT",
+        "zipcode": 56236,
+        "latitude": "+45.718556",
+        "longitude": "-096.422981"
+    },
+    {
+        "county": "TRAVERSE",
+        "city": "TINTAH",
+        "zipcode": 56583,
+        "latitude": "+46.007415",
+        "longitude": "-096.359342"
+    },
+    {
+        "county": "TRAVERSE",
+        "city": "WHEATON",
+        "zipcode": 56296,
+        "latitude": "+45.703481",
+        "longitude": "-096.633211"
+    },
+    {
+        "county": "WABASHA",
+        "city": "ELGIN",
+        "zipcode": 55932,
+        "latitude": "+44.123683",
+        "longitude": "-092.252177"
+    },
+    {
+        "county": "WABASHA",
+        "city": "KELLOGG",
+        "zipcode": 55945,
+        "latitude": "+44.273871",
+        "longitude": "-092.109479"
+    },
+    {
+        "county": "WABASHA",
+        "city": "LAKE CITY",
+        "zipcode": 55041,
+        "latitude": "+44.421753",
+        "longitude": "-092.232221"
+    },
+    {
+        "county": "WABASHA",
+        "city": "MAZEPPA",
+        "zipcode": 55956,
+        "latitude": "+44.241752",
+        "longitude": "-092.513947"
+    },
+    {
+        "county": "WABASHA",
+        "city": "MILLVILLE",
+        "zipcode": 55957,
+        "latitude": "+44.234483",
+        "longitude": "-092.336216"
+    },
+    {
+        "county": "WABASHA",
+        "city": "PLAINVIEW",
+        "zipcode": 55964,
+        "latitude": "+44.151210",
+        "longitude": "-092.202044"
+    },
+    {
+        "county": "WABASHA",
+        "city": "READS LANDING",
+        "zipcode": 55968,
+        "latitude": "+44.340826",
+        "longitude": "-092.282467"
+    },
+    {
+        "county": "WABASHA",
+        "city": "WABASHA",
+        "zipcode": 55981,
+        "latitude": "+44.357900",
+        "longitude": "-092.087925"
+    },
+    {
+        "county": "WABASHA",
+        "city": "ZUMBRO FALLS",
+        "zipcode": 55991,
+        "latitude": "+44.242705",
+        "longitude": "-092.425643"
+    },
+    {
+        "county": "WADENA",
+        "city": "ALDRICH",
+        "zipcode": 56434,
+        "latitude": "+46.379683",
+        "longitude": "-094.936381"
+    },
+    {
+        "county": "WADENA",
+        "city": "MENAHGA",
+        "zipcode": 56464,
+        "latitude": "+46.730538",
+        "longitude": "-094.975221"
+    },
+    {
+        "county": "WADENA",
+        "city": "NIMROD",
+        "zipcode": 56478,
+        "latitude": "+46.605266",
+        "longitude": "-094.900729"
+    },
+    {
+        "county": "WADENA",
+        "city": "SEBEKA",
+        "zipcode": 56477,
+        "latitude": "+46.652292",
+        "longitude": "-094.974942"
+    },
+    {
+        "county": "WADENA",
+        "city": "VERNDALE",
+        "zipcode": 56481,
+        "latitude": "+46.506528",
+        "longitude": "-094.967564"
+    },
+    {
+        "county": "WADENA",
+        "city": "WADENA",
+        "zipcode": 56482,
+        "latitude": "+46.564002",
+        "longitude": "-095.082796"
+    },
+    {
+        "county": "WASECA",
+        "city": "JANESVILLE",
+        "zipcode": 56048,
+        "latitude": "+44.051012",
+        "longitude": "-093.587350"
+    },
+    {
+        "county": "WASECA",
+        "city": "NEW RICHLAND",
+        "zipcode": 56072,
+        "latitude": "+43.981294",
+        "longitude": "-093.561426"
+    },
+    {
+        "county": "WASECA",
+        "city": "WALDORF",
+        "zipcode": 56091,
+        "latitude": "+43.907326",
+        "longitude": "-093.682513"
+    },
+    {
+        "county": "WASECA",
+        "city": "WASECA",
+        "zipcode": 56093,
+        "latitude": "+44.065547",
+        "longitude": "-093.550495"
+    },
+    {
+        "county": "WASHINGTON",
+        "city": "AFTON",
+        "zipcode": 55001,
+        "latitude": "+44.907170",
+        "longitude": "-092.816193"
+    },
+    {
+        "county": "WASHINGTON",
+        "city": "BAYPORT",
+        "zipcode": 55003,
+        "latitude": "+45.013918",
+        "longitude": "-092.781055"
+    },
+    {
+        "county": "WASHINGTON",
+        "city": "COTTAGE GROVE",
+        "zipcode": 55016,
+        "latitude": "+44.818216",
+        "longitude": "-092.928610"
+    },
+    {
+        "county": "WASHINGTON",
+        "city": "FOREST LAKE",
+        "zipcode": 55025,
+        "latitude": "+45.246466",
+        "longitude": "-092.949266"
+    },
+    {
+        "county": "WASHINGTON",
+        "city": "HUGO",
+        "zipcode": 55038,
+        "latitude": "+45.182366",
+        "longitude": "-092.945218"
+    },
+    {
+        "county": "WASHINGTON",
+        "city": "LAKE ELMO",
+        "zipcode": 55042,
+        "latitude": "+44.992866",
+        "longitude": "-092.898177"
+    },
+    {
+        "county": "WASHINGTON",
+        "city": "LAKELAND",
+        "zipcode": 55043,
+        "latitude": "+44.940859",
+        "longitude": "-092.789447"
+    },
+    {
+        "county": "WASHINGTON",
+        "city": "MARINE ON SAINT CROIX",
+        "zipcode": 55047,
+        "latitude": "+45.198774",
+        "longitude": "-092.825767"
+    },
+    {
+        "county": "WASHINGTON",
+        "city": "NEWPORT",
+        "zipcode": 55055,
+        "latitude": "+44.872395",
+        "longitude": "-092.993263"
+    },
+    {
+        "county": "WASHINGTON",
+        "city": "SAINT PAUL",
+        "zipcode": 55115,
+        "latitude": "+45.070951",
+        "longitude": "-092.939113"
+    },
+    {
+        "county": "WASHINGTON",
+        "city": "SAINT PAUL",
+        "zipcode": 55125,
+        "latitude": "+44.919716",
+        "longitude": "-092.943876"
+    },
+    {
+        "county": "WASHINGTON",
+        "city": "SAINT PAUL",
+        "zipcode": 55128,
+        "latitude": "+44.991316",
+        "longitude": "-092.948738"
+    },
+    {
+        "county": "WASHINGTON",
+        "city": "SAINT PAUL",
+        "zipcode": 55129,
+        "latitude": "+44.898516",
+        "longitude": "-092.923010"
+    },
+    {
+        "county": "WASHINGTON",
+        "city": "SAINT PAUL PARK",
+        "zipcode": 55071,
+        "latitude": "+44.822826",
+        "longitude": "-092.989204"
+    },
+    {
+        "county": "WASHINGTON",
+        "city": "SCANDIA",
+        "zipcode": 55073,
+        "latitude": "+45.253166",
+        "longitude": "-092.837344"
+    },
+    {
+        "county": "WASHINGTON",
+        "city": "STILLWATER",
+        "zipcode": 55082,
+        "latitude": "+45.061416",
+        "longitude": "-092.847360"
+    },
+    {
+        "county": "WASHINGTON",
+        "city": "STILLWATER",
+        "zipcode": 55083,
+        "latitude": "+45.021016",
+        "longitude": "-092.983726"
+    },
+    {
+        "county": "WASHINGTON",
+        "city": "WILLERNIE",
+        "zipcode": 55090,
+        "latitude": "+45.053466",
+        "longitude": "-092.957034"
+    },
+    {
+        "county": "WATONWAN",
+        "city": "BUTTERFIELD",
+        "zipcode": 56120,
+        "latitude": "+44.002201",
+        "longitude": "-094.814932"
+    },
+    {
+        "county": "WATONWAN",
+        "city": "DARFUR",
+        "zipcode": 56022,
+        "latitude": "+44.054830",
+        "longitude": "-094.790185"
+    },
+    {
+        "county": "WATONWAN",
+        "city": "LA SALLE",
+        "zipcode": 56056,
+        "latitude": "+43.978335",
+        "longitude": "-094.614361"
+    },
+    {
+        "county": "WATONWAN",
+        "city": "LEWISVILLE",
+        "zipcode": 56060,
+        "latitude": "+43.923423",
+        "longitude": "-094.434135"
+    },
+    {
+        "county": "WATONWAN",
+        "city": "MADELIA",
+        "zipcode": 56062,
+        "latitude": "+44.050715",
+        "longitude": "-094.415480"
+    },
+    {
+        "county": "WATONWAN",
+        "city": "ODIN",
+        "zipcode": 56160,
+        "latitude": "+43.867848",
+        "longitude": "-094.742716"
+    },
+    {
+        "county": "WATONWAN",
+        "city": "SAINT JAMES",
+        "zipcode": 56081,
+        "latitude": "+43.982851",
+        "longitude": "-094.604116"
+    },
+    {
+        "county": "WILKIN",
+        "city": "BRECKENRIDGE",
+        "zipcode": 56520,
+        "latitude": "+46.191367",
+        "longitude": "-096.500224"
+    },
+    {
+        "county": "WILKIN",
+        "city": "CAMPBELL",
+        "zipcode": 56522,
+        "latitude": "+46.140224",
+        "longitude": "-096.443327"
+    },
+    {
+        "county": "WILKIN",
+        "city": "FOXHOME",
+        "zipcode": 56543,
+        "latitude": "+46.326166",
+        "longitude": "-096.528032"
+    },
+    {
+        "county": "WILKIN",
+        "city": "KENT",
+        "zipcode": 56553,
+        "latitude": "+46.326166",
+        "longitude": "-096.528032"
+    },
+    {
+        "county": "WILKIN",
+        "city": "NASHUA",
+        "zipcode": 56565,
+        "latitude": "+46.326166",
+        "longitude": "-096.528032"
+    },
+    {
+        "county": "WILKIN",
+        "city": "ROTHSAY",
+        "zipcode": 56579,
+        "latitude": "+46.529553",
+        "longitude": "-096.349085"
+    },
+    {
+        "county": "WILKIN",
+        "city": "WOLVERTON",
+        "zipcode": 56594,
+        "latitude": "+46.326166",
+        "longitude": "-096.528032"
+    },
+    {
+        "county": "WINONA",
+        "city": "ALTURA",
+        "zipcode": 55910,
+        "latitude": "+44.085616",
+        "longitude": "-091.946134"
+    },
+    {
+        "county": "WINONA",
+        "city": "DAKOTA",
+        "zipcode": 55925,
+        "latitude": "+43.935613",
+        "longitude": "-091.606021"
+    },
+    {
+        "county": "WINONA",
+        "city": "HOMER",
+        "zipcode": 55942,
+        "latitude": "+44.019989",
+        "longitude": "-091.681870"
+    },
+    {
+        "county": "WINONA",
+        "city": "LEWISTON",
+        "zipcode": 55952,
+        "latitude": "+43.944412",
+        "longitude": "-091.880535"
+    },
+    {
+        "county": "WINONA",
+        "city": "MINNESOTA CITY",
+        "zipcode": 55959,
+        "latitude": "+44.081907",
+        "longitude": "-091.735080"
+    },
+    {
+        "county": "WINONA",
+        "city": "ROLLINGSTONE",
+        "zipcode": 55969,
+        "latitude": "+44.099266",
+        "longitude": "-091.819882"
+    },
+    {
+        "county": "WINONA",
+        "city": "SAINT CHARLES",
+        "zipcode": 55972,
+        "latitude": "+43.960809",
+        "longitude": "-091.922346"
+    },
+    {
+        "county": "WINONA",
+        "city": "STOCKTON",
+        "zipcode": 55988,
+        "latitude": "+44.025217",
+        "longitude": "-091.770781"
+    },
+    {
+        "county": "WINONA",
+        "city": "UTICA",
+        "zipcode": 55979,
+        "latitude": "+43.920980",
+        "longitude": "-091.969704"
+    },
+    {
+        "county": "WINONA",
+        "city": "WINONA",
+        "zipcode": 55987,
+        "latitude": "+44.029975",
+        "longitude": "-091.700889"
+    },
+    {
+        "county": "WRIGHT",
+        "city": "ALBERTVILLE",
+        "zipcode": 55301,
+        "latitude": "+45.258673",
+        "longitude": "-093.664342"
+    },
+    {
+        "county": "WRIGHT",
+        "city": "ANNANDALE",
+        "zipcode": 55302,
+        "latitude": "+45.218652",
+        "longitude": "-094.105948"
+    },
+    {
+        "county": "WRIGHT",
+        "city": "BUFFALO",
+        "zipcode": 55313,
+        "latitude": "+45.180732",
+        "longitude": "-093.927556"
+    },
+    {
+        "county": "WRIGHT",
+        "city": "CLEARWATER",
+        "zipcode": 55320,
+        "latitude": "+45.226627",
+        "longitude": "-093.924410"
+    },
+    {
+        "county": "WRIGHT",
+        "city": "COKATO",
+        "zipcode": 55321,
+        "latitude": "+45.086044",
+        "longitude": "-094.185096"
+    },
+    {
+        "county": "WRIGHT",
+        "city": "DELANO",
+        "zipcode": 55328,
+        "latitude": "+45.041472",
+        "longitude": "-093.977920"
+    },
+    {
+        "county": "WRIGHT",
+        "city": "HANOVER",
+        "zipcode": 55341,
+        "latitude": "+45.160196",
+        "longitude": "-093.673418"
+    },
+    {
+        "county": "WRIGHT",
+        "city": "HOWARD LAKE",
+        "zipcode": 55349,
+        "latitude": "+45.101679",
+        "longitude": "-094.047497"
+    },
+    {
+        "county": "WRIGHT",
+        "city": "MAPLE LAKE",
+        "zipcode": 55358,
+        "latitude": "+45.214072",
+        "longitude": "-094.060149"
+    },
+    {
+        "county": "WRIGHT",
+        "city": "MAPLE PLAIN",
+        "zipcode": 55393,
+        "latitude": "+45.200875",
+        "longitude": "-093.888099"
+    },
+    {
+        "county": "WRIGHT",
+        "city": "MAPLE PLAIN",
+        "zipcode": 55592,
+        "latitude": "+45.200875",
+        "longitude": "-093.888099"
+    },
+    {
+        "county": "WRIGHT",
+        "city": "MONTICELLO",
+        "zipcode": 55362,
+        "latitude": "+45.249636",
+        "longitude": "-093.851533"
+    },
+    {
+        "county": "WRIGHT",
+        "city": "MONTICELLO",
+        "zipcode": 55365,
+        "latitude": "+45.200875",
+        "longitude": "-093.888099"
+    },
+    {
+        "county": "WRIGHT",
+        "city": "MONTICELLO",
+        "zipcode": 55565,
+        "latitude": "+45.200875",
+        "longitude": "-093.888099"
+    },
+    {
+        "county": "WRIGHT",
+        "city": "MONTICELLO",
+        "zipcode": 55580,
+        "latitude": "+45.200875",
+        "longitude": "-093.888099"
+    },
+    {
+        "county": "WRIGHT",
+        "city": "MONTICELLO",
+        "zipcode": 55581,
+        "latitude": "+45.200875",
+        "longitude": "-093.888099"
+    },
+    {
+        "county": "WRIGHT",
+        "city": "MONTICELLO",
+        "zipcode": 55582,
+        "latitude": "+45.200875",
+        "longitude": "-093.888099"
+    },
+    {
+        "county": "WRIGHT",
+        "city": "MONTICELLO",
+        "zipcode": 55584,
+        "latitude": "+45.200875",
+        "longitude": "-093.888099"
+    },
+    {
+        "county": "WRIGHT",
+        "city": "MONTICELLO",
+        "zipcode": 55585,
+        "latitude": "+45.200875",
+        "longitude": "-093.888099"
+    },
+    {
+        "county": "WRIGHT",
+        "city": "MONTICELLO",
+        "zipcode": 55586,
+        "latitude": "+45.200875",
+        "longitude": "-093.888099"
+    },
+    {
+        "county": "WRIGHT",
+        "city": "MONTICELLO",
+        "zipcode": 55587,
+        "latitude": "+45.200875",
+        "longitude": "-093.888099"
+    },
+    {
+        "county": "WRIGHT",
+        "city": "MONTICELLO",
+        "zipcode": 55588,
+        "latitude": "+44.989512",
+        "longitude": "-093.880245"
+    },
+    {
+        "county": "WRIGHT",
+        "city": "MONTICELLO",
+        "zipcode": 55589,
+        "latitude": "+45.200875",
+        "longitude": "-093.888099"
+    },
+    {
+        "county": "WRIGHT",
+        "city": "MONTICELLO",
+        "zipcode": 55590,
+        "latitude": "+45.200875",
+        "longitude": "-093.888099"
+    },
+    {
+        "county": "WRIGHT",
+        "city": "MONTICELLO",
+        "zipcode": 55591,
+        "latitude": "+45.200875",
+        "longitude": "-093.888099"
+    },
+    {
+        "county": "WRIGHT",
+        "city": "MONTROSE",
+        "zipcode": 55363,
+        "latitude": "+45.048202",
+        "longitude": "-094.056543"
+    },
+    {
+        "county": "WRIGHT",
+        "city": "ROCKFORD",
+        "zipcode": 55373,
+        "latitude": "+45.155019",
+        "longitude": "-093.865168"
+    },
+    {
+        "county": "WRIGHT",
+        "city": "SAINT MICHAEL",
+        "zipcode": 55376,
+        "latitude": "+45.168260",
+        "longitude": "-093.893628"
+    },
+    {
+        "county": "WRIGHT",
+        "city": "SILVER CREEK",
+        "zipcode": 55380,
+        "latitude": "+45.315823",
+        "longitude": "-093.979766"
+    },
+    {
+        "county": "WRIGHT",
+        "city": "SOUTH HAVEN",
+        "zipcode": 55382,
+        "latitude": "+45.265248",
+        "longitude": "-094.165984"
+    },
+    {
+        "county": "WRIGHT",
+        "city": "WAVERLY",
+        "zipcode": 55390,
+        "latitude": "+45.060676",
+        "longitude": "-093.974555"
+    },
+    {
+        "county": "YELLOW MEDICINE",
+        "city": "CANBY",
+        "zipcode": 56220,
+        "latitude": "+44.775235",
+        "longitude": "-095.916433"
+    },
+    {
+        "county": "YELLOW MEDICINE",
+        "city": "CLARKFIELD",
+        "zipcode": 56223,
+        "latitude": "+44.790853",
+        "longitude": "-095.806933"
+    },
+    {
+        "county": "YELLOW MEDICINE",
+        "city": "ECHO",
+        "zipcode": 56237,
+        "latitude": "+44.617739",
+        "longitude": "-095.411535"
+    },
+    {
+        "county": "YELLOW MEDICINE",
+        "city": "GRANITE FALLS",
+        "zipcode": 56241,
+        "latitude": "+44.780794",
+        "longitude": "-095.670577"
+    },
+    {
+        "county": "YELLOW MEDICINE",
+        "city": "HANLEY FALLS",
+        "zipcode": 56245,
+        "latitude": "+44.692039",
+        "longitude": "-095.620580"
+    },
+    {
+        "county": "YELLOW MEDICINE",
+        "city": "PORTER",
+        "zipcode": 56280,
+        "latitude": "+44.674215",
+        "longitude": "-096.112040"
+    },
+    {
+        "county": "YELLOW MEDICINE",
+        "city": "WOOD LAKE",
+        "zipcode": 56297,
+        "latitude": "+44.667478",
+        "longitude": "-095.576938"
+    }
+]

@@ -1,0 +1,344 @@
+[
+    {
+        "county": "KENT",
+        "city": "CAMDEN WYOMING",
+        "latitude": "+39.086921",
+        "longitude": "-075.612286"
+    },
+    {
+        "county": "KENT",
+        "city": "CHESWOLD",
+        "latitude": "+39.218448",
+        "longitude": "-075.584848"
+    },
+    {
+        "county": "KENT",
+        "city": "CLAYTON",
+        "latitude": "+39.246071",
+        "longitude": "-075.688873"
+    },
+    {
+        "county": "KENT",
+        "city": "DOVER",
+        "latitude": "",
+        "longitude": ""
+    },
+    {
+        "county": "KENT",
+        "city": "DOVER AFB",
+        "latitude": "+39.108680",
+        "longitude": "-075.448023"
+    },
+    {
+        "county": "KENT",
+        "city": "FELTON",
+        "latitude": "+39.033438",
+        "longitude": "-075.609891"
+    },
+    {
+        "county": "KENT",
+        "city": "FREDERICA",
+        "latitude": "+39.023141",
+        "longitude": "-075.481910"
+    },
+    {
+        "county": "KENT",
+        "city": "HARRINGTON",
+        "latitude": "+38.912195",
+        "longitude": "-075.611322"
+    },
+    {
+        "county": "KENT",
+        "city": "HARTLY",
+        "latitude": "+39.163430",
+        "longitude": "-075.679733"
+    },
+    {
+        "county": "KENT",
+        "city": "HOUSTON",
+        "latitude": "+38.894017",
+        "longitude": "-075.520078"
+    },
+    {
+        "county": "KENT",
+        "city": "KENTON",
+        "latitude": "+39.225604",
+        "longitude": "-075.664153"
+    },
+    {
+        "county": "KENT",
+        "city": "LITTLE CREEK",
+        "latitude": "+39.166323",
+        "longitude": "-075.448289"
+    },
+    {
+        "county": "KENT",
+        "city": "MAGNOLIA",
+        "latitude": "+38.971647",
+        "longitude": "-075.591714"
+    },
+    {
+        "county": "KENT",
+        "city": "MARYDEL",
+        "latitude": "+39.140254",
+        "longitude": "-075.667898"
+    },
+    {
+        "county": "KENT",
+        "city": "SMYRNA",
+        "latitude": "+39.194026",
+        "longitude": "-075.565131"
+    },
+    {
+        "county": "KENT",
+        "city": "VIOLA",
+        "latitude": "+38.971038",
+        "longitude": "-075.577158"
+    },
+    {
+        "county": "KENT",
+        "city": "WOODSIDE",
+        "latitude": "+39.072390",
+        "longitude": "-075.571073"
+    },
+    {
+        "county": "NEW CASTLE",
+        "city": "BEAR",
+        "latitude": "+39.594736",
+        "longitude": "-075.693903"
+    },
+    {
+        "county": "NEW CASTLE",
+        "city": "CLAYMONT",
+        "latitude": "+39.803790",
+        "longitude": "-075.458140"
+    },
+    {
+        "county": "NEW CASTLE",
+        "city": "DELAWARE CITY",
+        "latitude": "+39.594256",
+        "longitude": "-075.608081"
+    },
+    {
+        "county": "NEW CASTLE",
+        "city": "HOCKESSIN",
+        "latitude": "+39.635202",
+        "longitude": "-075.680897"
+    },
+    {
+        "county": "NEW CASTLE",
+        "city": "KIRKWOOD",
+        "latitude": "+39.577567",
+        "longitude": "-075.690069"
+    },
+    {
+        "county": "NEW CASTLE",
+        "city": "MIDDLETOWN",
+        "latitude": "+39.485721",
+        "longitude": "-075.677535"
+    },
+    {
+        "county": "NEW CASTLE",
+        "city": "MONTCHANIN",
+        "latitude": "+39.757783",
+        "longitude": "-075.639143"
+    },
+    {
+        "county": "NEW CASTLE",
+        "city": "NEW CASTLE",
+        "latitude": "+39.564499",
+        "longitude": "-075.597047"
+    },
+    {
+        "county": "NEW CASTLE",
+        "city": "NEWARK",
+        "latitude": "+39.564499",
+        "longitude": "-075.597047"
+    },
+    {
+        "county": "NEW CASTLE",
+        "city": "ODESSA",
+        "latitude": "+39.512510",
+        "longitude": "-075.627281"
+    },
+    {
+        "county": "NEW CASTLE",
+        "city": "PORT PENN",
+        "latitude": "+39.512902",
+        "longitude": "-075.585180"
+    },
+    {
+        "county": "NEW CASTLE",
+        "city": "ROCKLAND",
+        "latitude": "+39.793864",
+        "longitude": "-075.573750"
+    },
+    {
+        "county": "NEW CASTLE",
+        "city": "SAINT GEORGES",
+        "latitude": "+39.555459",
+        "longitude": "-075.650462"
+    },
+    {
+        "county": "NEW CASTLE",
+        "city": "TOWNSEND",
+        "latitude": "+39.430666",
+        "longitude": "-075.646408"
+    },
+    {
+        "county": "NEW CASTLE",
+        "city": "WILMINGTON",
+        "latitude": "+39.734792",
+        "longitude": "-075.624617"
+    },
+    {
+        "county": "NEW CASTLE",
+        "city": "WINTERTHUR",
+        "latitude": "+39.794396",
+        "longitude": "-075.597598"
+    },
+    {
+        "county": "NEW CASTLE",
+        "city": "YORKLYN",
+        "latitude": "+39.797126",
+        "longitude": "-075.660413"
+    },
+    {
+        "county": "SUSSEX",
+        "city": "BETHANY BEACH",
+        "latitude": "+38.555533",
+        "longitude": "-075.186955"
+    },
+    {
+        "county": "SUSSEX",
+        "city": "BETHEL",
+        "latitude": "+38.569091",
+        "longitude": "-075.624087"
+    },
+    {
+        "county": "SUSSEX",
+        "city": "BRIDGEVILLE",
+        "latitude": "+38.660295",
+        "longitude": "-075.330023"
+    },
+    {
+        "county": "SUSSEX",
+        "city": "DAGSBORO",
+        "latitude": "+38.621403",
+        "longitude": "-075.181502"
+    },
+    {
+        "county": "SUSSEX",
+        "city": "DELMAR",
+        "latitude": "+38.631744",
+        "longitude": "-075.324585"
+    },
+    {
+        "county": "SUSSEX",
+        "city": "ELLENDALE",
+        "latitude": "+38.652805",
+        "longitude": "-075.275018"
+    },
+    {
+        "county": "SUSSEX",
+        "city": "FENWICK ISLAND",
+        "latitude": "+38.486485",
+        "longitude": "-075.058874"
+    },
+    {
+        "county": "SUSSEX",
+        "city": "FRANKFORD",
+        "latitude": "+38.551440",
+        "longitude": "-075.157634"
+    },
+    {
+        "county": "SUSSEX",
+        "city": "GEORGETOWN",
+        "latitude": "+38.632891",
+        "longitude": "-075.334263"
+    },
+    {
+        "county": "SUSSEX",
+        "city": "GREENWOOD",
+        "latitude": "+38.824580",
+        "longitude": "-075.588771"
+    },
+    {
+        "county": "SUSSEX",
+        "city": "HARBESON",
+        "latitude": "+38.691547",
+        "longitude": "-075.225025"
+    },
+    {
+        "county": "SUSSEX",
+        "city": "LAUREL",
+        "latitude": "+38.663322",
+        "longitude": "-075.378729"
+    },
+    {
+        "county": "SUSSEX",
+        "city": "LEWES",
+        "latitude": "+38.655360",
+        "longitude": "-075.325612"
+    },
+    {
+        "county": "SUSSEX",
+        "city": "LINCOLN",
+        "latitude": "+38.848792",
+        "longitude": "-075.410870"
+    },
+    {
+        "county": "SUSSEX",
+        "city": "MILFORD",
+        "latitude": "+38.727120",
+        "longitude": "-075.322829"
+    },
+    {
+        "county": "SUSSEX",
+        "city": "MILLSBORO",
+        "latitude": "+38.659458",
+        "longitude": "-075.246410"
+    },
+    {
+        "county": "SUSSEX",
+        "city": "MILLVILLE",
+        "latitude": "+38.700518",
+        "longitude": "-075.242294"
+    },
+    {
+        "county": "SUSSEX",
+        "city": "MILTON",
+        "latitude": "+38.692714",
+        "longitude": "-075.322223"
+    },
+    {
+        "county": "SUSSEX",
+        "city": "NASSAU",
+        "latitude": "+38.725562",
+        "longitude": "-075.353387"
+    },
+    {
+        "county": "SUSSEX",
+        "city": "OCEAN VIEW",
+        "latitude": "+38.621587",
+        "longitude": "-075.104645"
+    },
+    {
+        "county": "SUSSEX",
+        "city": "REHOBOTH BEACH",
+        "latitude": "+38.629763",
+        "longitude": "-075.319975"
+    },
+    {
+        "county": "SUSSEX",
+        "city": "SEAFORD",
+        "latitude": "+38.659891",
+        "longitude": "-075.380454"
+    },
+    {
+        "county": "SUSSEX",
+        "city": "SELBYVILLE",
+        "latitude": "+38.550784",
+        "longitude": "-075.330307"
+    }
+]

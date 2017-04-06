@@ -1,0 +1,1885 @@
+[
+    {
+        "county": "ALEUTIANS EAST",
+        "city": "AKUTAN",
+        "zipcode": 99553,
+        "latitude": "+55.430594",
+        "longitude": "-162.558130"
+    },
+    {
+        "county": "ALEUTIANS EAST",
+        "city": "COLD BAY",
+        "zipcode": 99571,
+        "latitude": "+55.650875",
+        "longitude": "-160.654522"
+    },
+    {
+        "county": "ALEUTIANS EAST",
+        "city": "FALSE PASS",
+        "zipcode": 99583,
+        "latitude": "+55.430594",
+        "longitude": "-162.558130"
+    },
+    {
+        "county": "ALEUTIANS EAST",
+        "city": "KING COVE",
+        "zipcode": 99612,
+        "latitude": "+55.430594",
+        "longitude": "-162.558130"
+    },
+    {
+        "county": "ALEUTIANS EAST",
+        "city": "SAND POINT",
+        "zipcode": 99661,
+        "latitude": "+55.350356",
+        "longitude": "-160.485506"
+    },
+    {
+        "county": "ALEUTIANS WEST",
+        "city": "ADAK",
+        "zipcode": 99546,
+        "latitude": "+54.240180",
+        "longitude": "-176.787412"
+    },
+    {
+        "county": "ALEUTIANS WEST",
+        "city": "ATKA",
+        "zipcode": 99547,
+        "latitude": "+54.240180",
+        "longitude": "-176.787412"
+    },
+    {
+        "county": "ALEUTIANS WEST",
+        "city": "DUTCH HARBOR",
+        "zipcode": 99692,
+        "latitude": "+53.865295",
+        "longitude": "-166.525333"
+    },
+    {
+        "county": "ALEUTIANS WEST",
+        "city": "NIKOLSKI",
+        "zipcode": 99638,
+        "latitude": "+54.240180",
+        "longitude": "-176.787412"
+    },
+    {
+        "county": "ALEUTIANS WEST",
+        "city": "SAINT GEORGE ISLAND",
+        "zipcode": 99591,
+        "latitude": "+54.240180",
+        "longitude": "-176.787412"
+    },
+    {
+        "county": "ALEUTIANS WEST",
+        "city": "SAINT PAUL ISLAND",
+        "zipcode": 99660,
+        "latitude": "+54.240180",
+        "longitude": "-176.787412"
+    },
+    {
+        "county": "ALEUTIANS WEST",
+        "city": "UNALASKA",
+        "zipcode": 99685,
+        "latitude": "+53.855130",
+        "longitude": "-166.518069"
+    },
+    {
+        "county": "ANCHORAGE",
+        "city": "ANCHORAGE",
+        "zipcode": 99501,
+        "latitude": "+61.287624",
+        "longitude": "-149.486981"
+    },
+    {
+        "county": "ANCHORAGE",
+        "city": "ANCHORAGE",
+        "zipcode": 99502,
+        "latitude": "+61.166069",
+        "longitude": "-149.960008"
+    },
+    {
+        "county": "ANCHORAGE",
+        "city": "ANCHORAGE",
+        "zipcode": 99503,
+        "latitude": "+61.188411",
+        "longitude": "-149.893867"
+    },
+    {
+        "county": "ANCHORAGE",
+        "city": "ANCHORAGE",
+        "zipcode": 99504,
+        "latitude": "+61.205284",
+        "longitude": "-149.771928"
+    },
+    {
+        "county": "ANCHORAGE",
+        "city": "ANCHORAGE",
+        "zipcode": 99507,
+        "latitude": "+61.151903",
+        "longitude": "-149.776157"
+    },
+    {
+        "county": "ANCHORAGE",
+        "city": "ANCHORAGE",
+        "zipcode": 99508,
+        "latitude": "+61.205076",
+        "longitude": "-149.823203"
+    },
+    {
+        "county": "ANCHORAGE",
+        "city": "ANCHORAGE",
+        "zipcode": 99509,
+        "latitude": "+61.108864",
+        "longitude": "-149.440311"
+    },
+    {
+        "county": "ANCHORAGE",
+        "city": "ANCHORAGE",
+        "zipcode": 99510,
+        "latitude": "+61.144568",
+        "longitude": "-149.878418"
+    },
+    {
+        "county": "ANCHORAGE",
+        "city": "ANCHORAGE",
+        "zipcode": 99511,
+        "latitude": "+61.068324",
+        "longitude": "-149.800476"
+    },
+    {
+        "county": "ANCHORAGE",
+        "city": "ANCHORAGE",
+        "zipcode": 99512,
+        "latitude": "+61.203954",
+        "longitude": "-149.808426"
+    },
+    {
+        "county": "ANCHORAGE",
+        "city": "ANCHORAGE",
+        "zipcode": 99513,
+        "latitude": "+61.214877",
+        "longitude": "-149.886174"
+    },
+    {
+        "county": "ANCHORAGE",
+        "city": "ANCHORAGE",
+        "zipcode": 99514,
+        "latitude": "+61.108864",
+        "longitude": "-149.440311"
+    },
+    {
+        "county": "ANCHORAGE",
+        "city": "ANCHORAGE",
+        "zipcode": 99515,
+        "latitude": "+61.115754",
+        "longitude": "-149.912019"
+    },
+    {
+        "county": "ANCHORAGE",
+        "city": "ANCHORAGE",
+        "zipcode": 99516,
+        "latitude": "+61.091201",
+        "longitude": "-149.762371"
+    },
+    {
+        "county": "ANCHORAGE",
+        "city": "ANCHORAGE",
+        "zipcode": 99517,
+        "latitude": "+61.189494",
+        "longitude": "-149.938090"
+    },
+    {
+        "county": "ANCHORAGE",
+        "city": "ANCHORAGE",
+        "zipcode": 99518,
+        "latitude": "+61.157813",
+        "longitude": "-149.894338"
+    },
+    {
+        "county": "ANCHORAGE",
+        "city": "ANCHORAGE",
+        "zipcode": 99519,
+        "latitude": "+61.108864",
+        "longitude": "-149.440311"
+    },
+    {
+        "county": "ANCHORAGE",
+        "city": "ANCHORAGE",
+        "zipcode": 99520,
+        "latitude": "+61.108864",
+        "longitude": "-149.440311"
+    },
+    {
+        "county": "ANCHORAGE",
+        "city": "ANCHORAGE",
+        "zipcode": 99521,
+        "latitude": "+61.108864",
+        "longitude": "-149.440311"
+    },
+    {
+        "county": "ANCHORAGE",
+        "city": "ANCHORAGE",
+        "zipcode": 99522,
+        "latitude": "+61.108864",
+        "longitude": "-149.440311"
+    },
+    {
+        "county": "ANCHORAGE",
+        "city": "ANCHORAGE",
+        "zipcode": 99523,
+        "latitude": "+61.108864",
+        "longitude": "-149.440311"
+    },
+    {
+        "county": "ANCHORAGE",
+        "city": "ANCHORAGE",
+        "zipcode": 99524,
+        "latitude": "+61.108864",
+        "longitude": "-149.440311"
+    },
+    {
+        "county": "ANCHORAGE",
+        "city": "ANCHORAGE",
+        "zipcode": 99599,
+        "latitude": "+61.187188",
+        "longitude": "-149.880393"
+    },
+    {
+        "county": "ANCHORAGE",
+        "city": "ANCHORAGE",
+        "zipcode": 99695,
+        "latitude": "+61.108864",
+        "longitude": "-149.440311"
+    },
+    {
+        "county": "ANCHORAGE",
+        "city": "CHUGIAK",
+        "zipcode": 99567,
+        "latitude": "+61.393834",
+        "longitude": "-149.424631"
+    },
+    {
+        "county": "ANCHORAGE",
+        "city": "EAGLE RIVER",
+        "zipcode": 99577,
+        "latitude": "+61.303131",
+        "longitude": "-149.424518"
+    },
+    {
+        "county": "ANCHORAGE",
+        "city": "ELMENDORF AFB",
+        "zipcode": 99506,
+        "latitude": "+61.257409",
+        "longitude": "-149.804165"
+    },
+    {
+        "county": "ANCHORAGE",
+        "city": "FORT RICHARDSON",
+        "zipcode": 99505,
+        "latitude": "+61.259092",
+        "longitude": "-149.690318"
+    },
+    {
+        "county": "ANCHORAGE",
+        "city": "GIRDWOOD",
+        "zipcode": 99587,
+        "latitude": "+60.957674",
+        "longitude": "-149.140623"
+    },
+    {
+        "county": "ANCHORAGE",
+        "city": "INDIAN",
+        "zipcode": 99540,
+        "latitude": "+61.108864",
+        "longitude": "-149.440311"
+    },
+    {
+        "county": "BETHEL",
+        "city": "AKIACHAK",
+        "zipcode": 99551,
+        "latitude": "+60.314735",
+        "longitude": "-163.118947"
+    },
+    {
+        "county": "BETHEL",
+        "city": "AKIAK",
+        "zipcode": 99552,
+        "latitude": "+60.314735",
+        "longitude": "-163.118947"
+    },
+    {
+        "county": "BETHEL",
+        "city": "ANIAK",
+        "zipcode": 99557,
+        "latitude": "+60.314735",
+        "longitude": "-163.118947"
+    },
+    {
+        "county": "BETHEL",
+        "city": "BETHEL",
+        "zipcode": 99559,
+        "latitude": "+60.129979",
+        "longitude": "-162.173906"
+    },
+    {
+        "county": "BETHEL",
+        "city": "CHEFORNAK",
+        "zipcode": 99561,
+        "latitude": "+60.314735",
+        "longitude": "-163.118947"
+    },
+    {
+        "county": "BETHEL",
+        "city": "CROOKED CREEK",
+        "zipcode": 99575,
+        "latitude": "+60.314735",
+        "longitude": "-163.118947"
+    },
+    {
+        "county": "BETHEL",
+        "city": "EEK",
+        "zipcode": 99578,
+        "latitude": "+60.314735",
+        "longitude": "-163.118947"
+    },
+    {
+        "county": "BETHEL",
+        "city": "GOODNEWS BAY",
+        "zipcode": 99589,
+        "latitude": "+60.314735",
+        "longitude": "-163.118947"
+    },
+    {
+        "county": "BETHEL",
+        "city": "KALSKAG",
+        "zipcode": 99607,
+        "latitude": "+60.314735",
+        "longitude": "-163.118947"
+    },
+    {
+        "county": "BETHEL",
+        "city": "KASIGLUK",
+        "zipcode": 99609,
+        "latitude": "+60.314735",
+        "longitude": "-163.118947"
+    },
+    {
+        "county": "BETHEL",
+        "city": "KIPNUK",
+        "zipcode": 99614,
+        "latitude": "+60.314735",
+        "longitude": "-163.118947"
+    },
+    {
+        "county": "BETHEL",
+        "city": "KWETHLUK",
+        "zipcode": 99621,
+        "latitude": "+60.314735",
+        "longitude": "-163.118947"
+    },
+    {
+        "county": "BETHEL",
+        "city": "KWIGILLINGOK",
+        "zipcode": 99622,
+        "latitude": "+60.314735",
+        "longitude": "-163.118947"
+    },
+    {
+        "county": "BETHEL",
+        "city": "LOWER KALSKAG",
+        "zipcode": 99626,
+        "latitude": "+60.314735",
+        "longitude": "-163.118947"
+    },
+    {
+        "county": "BETHEL",
+        "city": "MEKORYUK",
+        "zipcode": 99630,
+        "latitude": "+60.314735",
+        "longitude": "-163.118947"
+    },
+    {
+        "county": "BETHEL",
+        "city": "NAPAKIAK",
+        "zipcode": 99634,
+        "latitude": "+60.314735",
+        "longitude": "-163.118947"
+    },
+    {
+        "county": "BETHEL",
+        "city": "NIGHTMUTE",
+        "zipcode": 99690,
+        "latitude": "+60.314735",
+        "longitude": "-163.118947"
+    },
+    {
+        "county": "BETHEL",
+        "city": "NUNAPITCHUK",
+        "zipcode": 99641,
+        "latitude": "+60.314735",
+        "longitude": "-163.118947"
+    },
+    {
+        "county": "BETHEL",
+        "city": "PLATINUM",
+        "zipcode": 99651,
+        "latitude": "+60.314735",
+        "longitude": "-163.118947"
+    },
+    {
+        "county": "BETHEL",
+        "city": "QUINHAGAK",
+        "zipcode": 99655,
+        "latitude": "+60.314735",
+        "longitude": "-163.118947"
+    },
+    {
+        "county": "BETHEL",
+        "city": "RED DEVIL",
+        "zipcode": 99656,
+        "latitude": "+60.314735",
+        "longitude": "-163.118947"
+    },
+    {
+        "county": "BETHEL",
+        "city": "SLEETMUTE",
+        "zipcode": 99668,
+        "latitude": "+60.314735",
+        "longitude": "-163.118947"
+    },
+    {
+        "county": "BETHEL",
+        "city": "TOKSOOK BAY",
+        "zipcode": 99637,
+        "latitude": "+60.314735",
+        "longitude": "-163.118947"
+    },
+    {
+        "county": "BETHEL",
+        "city": "TULUKSAK",
+        "zipcode": 99679,
+        "latitude": "+60.314735",
+        "longitude": "-163.118947"
+    },
+    {
+        "county": "BETHEL",
+        "city": "TUNTUTULIAK",
+        "zipcode": 99680,
+        "latitude": "+60.314735",
+        "longitude": "-163.118947"
+    },
+    {
+        "county": "BETHEL",
+        "city": "TUNUNAK",
+        "zipcode": 99681,
+        "latitude": "+60.314735",
+        "longitude": "-163.118947"
+    },
+    {
+        "county": "BRISTOL BAY",
+        "city": "NAKNEK",
+        "zipcode": 99633,
+        "latitude": "+58.655425",
+        "longitude": "-156.788199"
+    },
+    {
+        "county": "BRISTOL BAY",
+        "city": "SOUTH NAKNEK",
+        "zipcode": 99670,
+        "latitude": "+58.745599",
+        "longitude": "-157.159459"
+    },
+    {
+        "county": "DENALI",
+        "city": "ANDERSON",
+        "zipcode": 99744,
+        "latitude": "+63.543571",
+        "longitude": "-149.986676"
+    },
+    {
+        "county": "DENALI",
+        "city": "CANTWELL",
+        "zipcode": 99729,
+        "latitude": "+63.543571",
+        "longitude": "-149.986676"
+    },
+    {
+        "county": "DENALI",
+        "city": "CLEAR",
+        "zipcode": 99704,
+        "latitude": "+63.543571",
+        "longitude": "-149.986676"
+    },
+    {
+        "county": "DENALI",
+        "city": "DENALI NATIONAL PARK",
+        "zipcode": 99755,
+        "latitude": "+63.543571",
+        "longitude": "-149.986676"
+    },
+    {
+        "county": "DENALI",
+        "city": "HEALY",
+        "zipcode": 99743,
+        "latitude": "+63.543571",
+        "longitude": "-149.986676"
+    },
+    {
+        "county": "DILLINGHAM",
+        "city": "ALEKNAGIK",
+        "zipcode": 99555,
+        "latitude": "+58.962101",
+        "longitude": "-163.118947"
+    },
+    {
+        "county": "DILLINGHAM",
+        "city": "CLARKS POINT",
+        "zipcode": 99569,
+        "latitude": "+58.962101",
+        "longitude": "-163.118947"
+    },
+    {
+        "county": "DILLINGHAM",
+        "city": "DILLINGHAM",
+        "zipcode": 99576,
+        "latitude": "+59.040181",
+        "longitude": "-158.523138"
+    },
+    {
+        "county": "DILLINGHAM",
+        "city": "EKWOK",
+        "zipcode": 99580,
+        "latitude": "+58.962101",
+        "longitude": "-163.118947"
+    },
+    {
+        "county": "DILLINGHAM",
+        "city": "MANOKOTAK",
+        "zipcode": 99628,
+        "latitude": "+58.962101",
+        "longitude": "-163.118947"
+    },
+    {
+        "county": "DILLINGHAM",
+        "city": "NEW STUYAHOK",
+        "zipcode": 99636,
+        "latitude": "+58.962101",
+        "longitude": "-163.118947"
+    },
+    {
+        "county": "DILLINGHAM",
+        "city": "TOGIAK",
+        "zipcode": 99678,
+        "latitude": "+58.962101",
+        "longitude": "-163.118947"
+    },
+    {
+        "county": "FAIRBANKS NORTH STAR",
+        "city": "EIELSON AFB",
+        "zipcode": 99702,
+        "latitude": "+64.790803",
+        "longitude": "-147.463336"
+    },
+    {
+        "county": "FAIRBANKS NORTH STAR",
+        "city": "ESTER",
+        "zipcode": 99725,
+        "latitude": "+64.870974",
+        "longitude": "-148.094930"
+    },
+    {
+        "county": "FAIRBANKS NORTH STAR",
+        "city": "FAIRBANKS",
+        "zipcode": 99701,
+        "latitude": "+64.644047",
+        "longitude": "-147.522052"
+    },
+    {
+        "county": "FAIRBANKS NORTH STAR",
+        "city": "FAIRBANKS",
+        "zipcode": 99706,
+        "latitude": "+64.852055",
+        "longitude": "-147.937747"
+    },
+    {
+        "county": "FAIRBANKS NORTH STAR",
+        "city": "FAIRBANKS",
+        "zipcode": 99707,
+        "latitude": "+64.699839",
+        "longitude": "-147.405134"
+    },
+    {
+        "county": "FAIRBANKS NORTH STAR",
+        "city": "FAIRBANKS",
+        "zipcode": 99708,
+        "latitude": "+64.947462",
+        "longitude": "-147.856443"
+    },
+    {
+        "county": "FAIRBANKS NORTH STAR",
+        "city": "FAIRBANKS",
+        "zipcode": 99709,
+        "latitude": "+64.860126",
+        "longitude": "-147.999791"
+    },
+    {
+        "county": "FAIRBANKS NORTH STAR",
+        "city": "FAIRBANKS",
+        "zipcode": 99710,
+        "latitude": "+64.948648",
+        "longitude": "-147.535549"
+    },
+    {
+        "county": "FAIRBANKS NORTH STAR",
+        "city": "FAIRBANKS",
+        "zipcode": 99711,
+        "latitude": "+64.826445",
+        "longitude": "-147.388840"
+    },
+    {
+        "county": "FAIRBANKS NORTH STAR",
+        "city": "FAIRBANKS",
+        "zipcode": 99712,
+        "latitude": "+65.036453",
+        "longitude": "-147.156588"
+    },
+    {
+        "county": "FAIRBANKS NORTH STAR",
+        "city": "FAIRBANKS",
+        "zipcode": 99775,
+        "latitude": "+64.859078",
+        "longitude": "-147.826709"
+    },
+    {
+        "county": "FAIRBANKS NORTH STAR",
+        "city": "FAIRBANKS",
+        "zipcode": 99790,
+        "latitude": "+64.856055",
+        "longitude": "-146.275980"
+    },
+    {
+        "county": "FAIRBANKS NORTH STAR",
+        "city": "FORT WAINWRIGHT",
+        "zipcode": 99703,
+        "latitude": "+64.832821",
+        "longitude": "-147.644180"
+    },
+    {
+        "county": "FAIRBANKS NORTH STAR",
+        "city": "NORTH POLE",
+        "zipcode": 99705,
+        "latitude": "+64.780765",
+        "longitude": "-147.207748"
+    },
+    {
+        "county": "FAIRBANKS NORTH STAR",
+        "city": "SALCHA",
+        "zipcode": 99714,
+        "latitude": "+64.489102",
+        "longitude": "-146.924788"
+    },
+    {
+        "county": "FAIRBANKS NORTH STAR",
+        "city": "TWO RIVERS",
+        "zipcode": 99716,
+        "latitude": "+64.874591",
+        "longitude": "-146.898195"
+    },
+    {
+        "county": "HAINES",
+        "city": "HAINES",
+        "zipcode": 99827,
+        "latitude": "+59.312688",
+        "longitude": "-135.681153"
+    },
+    {
+        "county": "JUNEAU",
+        "city": "AUKE BAY",
+        "zipcode": 99821,
+        "latitude": "+58.449413",
+        "longitude": "-134.700348"
+    },
+    {
+        "county": "JUNEAU",
+        "city": "DOUGLAS",
+        "zipcode": 99824,
+        "latitude": "+58.276308",
+        "longitude": "-134.397642"
+    },
+    {
+        "county": "JUNEAU",
+        "city": "JUNEAU",
+        "zipcode": 99801,
+        "latitude": "+58.373561",
+        "longitude": "-134.523946"
+    },
+    {
+        "county": "JUNEAU",
+        "city": "JUNEAU",
+        "zipcode": 99802,
+        "latitude": "+58.405657",
+        "longitude": "-134.589690"
+    },
+    {
+        "county": "JUNEAU",
+        "city": "JUNEAU",
+        "zipcode": 99803,
+        "latitude": "+58.377074",
+        "longitude": "-134.617383"
+    },
+    {
+        "county": "JUNEAU",
+        "city": "JUNEAU",
+        "zipcode": 99811,
+        "latitude": "+58.383480",
+        "longitude": "-134.197786"
+    },
+    {
+        "county": "JUNEAU",
+        "city": "JUNEAU",
+        "zipcode": 99850,
+        "latitude": "+58.383480",
+        "longitude": "-134.197786"
+    },
+    {
+        "county": "KENAI PENINSULA",
+        "city": "ANCHOR POINT",
+        "zipcode": 99556,
+        "latitude": "+59.837116",
+        "longitude": "-151.707810"
+    },
+    {
+        "county": "KENAI PENINSULA",
+        "city": "CLAM GULCH",
+        "zipcode": 99568,
+        "latitude": "+60.187496",
+        "longitude": "-151.442983"
+    },
+    {
+        "county": "KENAI PENINSULA",
+        "city": "COOPER LANDING",
+        "zipcode": 99572,
+        "latitude": "+60.491478",
+        "longitude": "-149.770159"
+    },
+    {
+        "county": "KENAI PENINSULA",
+        "city": "HOMER",
+        "zipcode": 99603,
+        "latitude": "+60.056453",
+        "longitude": "-151.362422"
+    },
+    {
+        "county": "KENAI PENINSULA",
+        "city": "HOPE",
+        "zipcode": 99605,
+        "latitude": "+60.036583",
+        "longitude": "-151.655567"
+    },
+    {
+        "county": "KENAI PENINSULA",
+        "city": "KASILOF",
+        "zipcode": 99610,
+        "latitude": "+60.352575",
+        "longitude": "-151.116301"
+    },
+    {
+        "county": "KENAI PENINSULA",
+        "city": "KENAI",
+        "zipcode": 99611,
+        "latitude": "+60.422041",
+        "longitude": "-150.407958"
+    },
+    {
+        "county": "KENAI PENINSULA",
+        "city": "MOOSE PASS",
+        "zipcode": 99631,
+        "latitude": "+60.036583",
+        "longitude": "-151.655567"
+    },
+    {
+        "county": "KENAI PENINSULA",
+        "city": "NIKISKI",
+        "zipcode": 99635,
+        "latitude": "+60.700696",
+        "longitude": "-151.276633"
+    },
+    {
+        "county": "KENAI PENINSULA",
+        "city": "NINILCHIK",
+        "zipcode": 99639,
+        "latitude": "+60.049140",
+        "longitude": "-151.517286"
+    },
+    {
+        "county": "KENAI PENINSULA",
+        "city": "SELDOVIA",
+        "zipcode": 99663,
+        "latitude": "+59.449486",
+        "longitude": "-151.700915"
+    },
+    {
+        "county": "KENAI PENINSULA",
+        "city": "SEWARD",
+        "zipcode": 99664,
+        "latitude": "+60.252810",
+        "longitude": "-149.402123"
+    },
+    {
+        "county": "KENAI PENINSULA",
+        "city": "SOLDOTNA",
+        "zipcode": 99669,
+        "latitude": "+60.110034",
+        "longitude": "-151.247935"
+    },
+    {
+        "county": "KENAI PENINSULA",
+        "city": "STERLING",
+        "zipcode": 99672,
+        "latitude": "+60.513614",
+        "longitude": "-150.853238"
+    },
+    {
+        "county": "KENAI PENINSULA",
+        "city": "TYONEK",
+        "zipcode": 99682,
+        "latitude": "+60.036583",
+        "longitude": "-151.655567"
+    },
+    {
+        "county": "KETCHIKAN GATEWAY",
+        "city": "KETCHIKAN",
+        "zipcode": 99901,
+        "latitude": "+55.400674",
+        "longitude": "-131.674090"
+    },
+    {
+        "county": "KETCHIKAN GATEWAY",
+        "city": "KETCHIKAN",
+        "zipcode": 99950,
+        "latitude": "+55.542007",
+        "longitude": "-131.432682"
+    },
+    {
+        "county": "KETCHIKAN GATEWAY",
+        "city": "WARD COVE",
+        "zipcode": 99928,
+        "latitude": "+55.395359",
+        "longitude": "-131.675370"
+    },
+    {
+        "county": "KODIAK ISLAND",
+        "city": "KARLUK",
+        "zipcode": 99608,
+        "latitude": "+58.268704",
+        "longitude": "-155.797078"
+    },
+    {
+        "county": "KODIAK ISLAND",
+        "city": "KODIAK",
+        "zipcode": 99615,
+        "latitude": "+57.762816",
+        "longitude": "-152.472876"
+    },
+    {
+        "county": "KODIAK ISLAND",
+        "city": "KODIAK",
+        "zipcode": 99619,
+        "latitude": "+58.268704",
+        "longitude": "-155.797078"
+    },
+    {
+        "county": "KODIAK ISLAND",
+        "city": "KODIAK",
+        "zipcode": 99697,
+        "latitude": "+58.268704",
+        "longitude": "-155.797078"
+    },
+    {
+        "county": "KODIAK ISLAND",
+        "city": "LARSEN BAY",
+        "zipcode": 99624,
+        "latitude": "+58.268704",
+        "longitude": "-155.797078"
+    },
+    {
+        "county": "KODIAK ISLAND",
+        "city": "OLD HARBOR",
+        "zipcode": 99643,
+        "latitude": "+58.268704",
+        "longitude": "-155.797078"
+    },
+    {
+        "county": "KODIAK ISLAND",
+        "city": "OUZINKIE",
+        "zipcode": 99644,
+        "latitude": "+58.268704",
+        "longitude": "-155.797078"
+    },
+    {
+        "county": "KODIAK ISLAND",
+        "city": "PORT LIONS",
+        "zipcode": 99550,
+        "latitude": "+57.701171",
+        "longitude": "-153.505567"
+    },
+    {
+        "county": "LAKE AND PENINSULA",
+        "city": "CHIGNIK",
+        "zipcode": 99564,
+        "latitude": "+58.268704",
+        "longitude": "-156.648418"
+    },
+    {
+        "county": "LAKE AND PENINSULA",
+        "city": "CHIGNIK LAGOON",
+        "zipcode": 99565,
+        "latitude": "+58.268704",
+        "longitude": "-156.648418"
+    },
+    {
+        "county": "LAKE AND PENINSULA",
+        "city": "CHIGNIK LAKE",
+        "zipcode": 99548,
+        "latitude": "+58.268704",
+        "longitude": "-156.648418"
+    },
+    {
+        "county": "LAKE AND PENINSULA",
+        "city": "EGEGIK",
+        "zipcode": 99579,
+        "latitude": "+58.268704",
+        "longitude": "-156.648418"
+    },
+    {
+        "county": "LAKE AND PENINSULA",
+        "city": "ILIAMNA",
+        "zipcode": 99606,
+        "latitude": "+59.752463",
+        "longitude": "-154.823629"
+    },
+    {
+        "county": "LAKE AND PENINSULA",
+        "city": "KING SALMON",
+        "zipcode": 99613,
+        "latitude": "+58.745599",
+        "longitude": "-157.159459"
+    },
+    {
+        "county": "LAKE AND PENINSULA",
+        "city": "LEVELOCK",
+        "zipcode": 99625,
+        "latitude": "+58.268704",
+        "longitude": "-156.648418"
+    },
+    {
+        "county": "LAKE AND PENINSULA",
+        "city": "NONDALTON",
+        "zipcode": 99640,
+        "latitude": "+58.268704",
+        "longitude": "-156.648418"
+    },
+    {
+        "county": "LAKE AND PENINSULA",
+        "city": "PEDRO BAY",
+        "zipcode": 99647,
+        "latitude": "+58.268704",
+        "longitude": "-156.648418"
+    },
+    {
+        "county": "LAKE AND PENINSULA",
+        "city": "PERRYVILLE",
+        "zipcode": 99648,
+        "latitude": "+58.268704",
+        "longitude": "-156.648418"
+    },
+    {
+        "county": "LAKE AND PENINSULA",
+        "city": "PILOT POINT",
+        "zipcode": 99649,
+        "latitude": "+57.528787",
+        "longitude": "-157.485781"
+    },
+    {
+        "county": "LAKE AND PENINSULA",
+        "city": "PORT ALSWORTH",
+        "zipcode": 99653,
+        "latitude": "+58.268704",
+        "longitude": "-156.648418"
+    },
+    {
+        "county": "LAKE AND PENINSULA",
+        "city": "PORT HEIDEN",
+        "zipcode": 99549,
+        "latitude": "+58.268704",
+        "longitude": "-156.648418"
+    },
+    {
+        "county": "MATANUSKA SUSITNA",
+        "city": "BIG LAKE",
+        "zipcode": 99652,
+        "latitude": "+61.523043",
+        "longitude": "-149.728806"
+    },
+    {
+        "county": "MATANUSKA SUSITNA",
+        "city": "HOUSTON",
+        "zipcode": 99694,
+        "latitude": "+62.280436",
+        "longitude": "-149.715167"
+    },
+    {
+        "county": "MATANUSKA SUSITNA",
+        "city": "PALMER",
+        "zipcode": 99645,
+        "latitude": "+62.257284",
+        "longitude": "-149.633916"
+    },
+    {
+        "county": "MATANUSKA SUSITNA",
+        "city": "SKWENTNA",
+        "zipcode": 99667,
+        "latitude": "+62.280436",
+        "longitude": "-149.715167"
+    },
+    {
+        "county": "MATANUSKA SUSITNA",
+        "city": "SUTTON",
+        "zipcode": 99674,
+        "latitude": "+61.732741",
+        "longitude": "-148.783687"
+    },
+    {
+        "county": "MATANUSKA SUSITNA",
+        "city": "TALKEETNA",
+        "zipcode": 99676,
+        "latitude": "+62.280436",
+        "longitude": "-149.715167"
+    },
+    {
+        "county": "MATANUSKA SUSITNA",
+        "city": "TRAPPER CREEK",
+        "zipcode": 99683,
+        "latitude": "+61.720499",
+        "longitude": "-150.009239"
+    },
+    {
+        "county": "MATANUSKA SUSITNA",
+        "city": "WASILLA",
+        "zipcode": 99654,
+        "latitude": "+61.581305",
+        "longitude": "-149.374335"
+    },
+    {
+        "county": "MATANUSKA SUSITNA",
+        "city": "WASILLA",
+        "zipcode": 99687,
+        "latitude": "+61.531298",
+        "longitude": "-149.478398"
+    },
+    {
+        "county": "MATANUSKA SUSITNA",
+        "city": "WILLOW",
+        "zipcode": 99688,
+        "latitude": "+61.896608",
+        "longitude": "-150.003758"
+    },
+    {
+        "county": "NOME",
+        "city": "BREVIG MISSION",
+        "zipcode": 99785,
+        "latitude": "+64.755604",
+        "longitude": "-165.672344"
+    },
+    {
+        "county": "NOME",
+        "city": "ELIM",
+        "zipcode": 99739,
+        "latitude": "+64.755604",
+        "longitude": "-165.672344"
+    },
+    {
+        "county": "NOME",
+        "city": "GAMBELL",
+        "zipcode": 99742,
+        "latitude": "+64.755604",
+        "longitude": "-165.672344"
+    },
+    {
+        "county": "NOME",
+        "city": "KOYUK",
+        "zipcode": 99753,
+        "latitude": "+64.755604",
+        "longitude": "-165.672344"
+    },
+    {
+        "county": "NOME",
+        "city": "NOME",
+        "zipcode": 99762,
+        "latitude": "+63.888671",
+        "longitude": "-163.800760"
+    },
+    {
+        "county": "NOME",
+        "city": "SAINT MICHAEL",
+        "zipcode": 99659,
+        "latitude": "+64.755604",
+        "longitude": "-165.672344"
+    },
+    {
+        "county": "NOME",
+        "city": "SAVOONGA",
+        "zipcode": 99769,
+        "latitude": "+64.755604",
+        "longitude": "-165.672344"
+    },
+    {
+        "county": "NOME",
+        "city": "SHAKTOOLIK",
+        "zipcode": 99771,
+        "latitude": "+64.755604",
+        "longitude": "-165.672344"
+    },
+    {
+        "county": "NOME",
+        "city": "SHISHMAREF",
+        "zipcode": 99772,
+        "latitude": "+64.755604",
+        "longitude": "-165.672344"
+    },
+    {
+        "county": "NOME",
+        "city": "STEBBINS",
+        "zipcode": 99671,
+        "latitude": "+64.755604",
+        "longitude": "-165.672344"
+    },
+    {
+        "county": "NOME",
+        "city": "TELLER",
+        "zipcode": 99778,
+        "latitude": "+64.755604",
+        "longitude": "-165.672344"
+    },
+    {
+        "county": "NOME",
+        "city": "UNALAKLEET",
+        "zipcode": 99684,
+        "latitude": "+64.755604",
+        "longitude": "-165.672344"
+    },
+    {
+        "county": "NOME",
+        "city": "WALES",
+        "zipcode": 99783,
+        "latitude": "+64.755604",
+        "longitude": "-165.672344"
+    },
+    {
+        "county": "NOME",
+        "city": "WHITE MOUNTAIN",
+        "zipcode": 99784,
+        "latitude": "+64.755604",
+        "longitude": "-165.672344"
+    },
+    {
+        "county": "NORTH SLOPE",
+        "city": "ANAKTUVUK PASS",
+        "zipcode": 99721,
+        "latitude": "+66.693255",
+        "longitude": "-153.993988"
+    },
+    {
+        "county": "NORTH SLOPE",
+        "city": "ATQASUK",
+        "zipcode": 99791,
+        "latitude": "+70.494693",
+        "longitude": "-157.441073"
+    },
+    {
+        "county": "NORTH SLOPE",
+        "city": "BARROW",
+        "zipcode": 99723,
+        "latitude": "+70.220472",
+        "longitude": "-150.238942"
+    },
+    {
+        "county": "NORTH SLOPE",
+        "city": "KAKTOVIK",
+        "zipcode": 99747,
+        "latitude": "+66.693255",
+        "longitude": "-153.993988"
+    },
+    {
+        "county": "NORTH SLOPE",
+        "city": "NUIQSUT",
+        "zipcode": 99789,
+        "latitude": "+66.693255",
+        "longitude": "-153.993988"
+    },
+    {
+        "county": "NORTH SLOPE",
+        "city": "POINT HOPE",
+        "zipcode": 99766,
+        "latitude": "+66.693255",
+        "longitude": "-153.993988"
+    },
+    {
+        "county": "NORTH SLOPE",
+        "city": "POINT LAY",
+        "zipcode": 99759,
+        "latitude": "+68.887048",
+        "longitude": "-164.249713"
+    },
+    {
+        "county": "NORTH SLOPE",
+        "city": "PRUDHOE BAY",
+        "zipcode": 99734,
+        "latitude": "+66.693255",
+        "longitude": "-153.993988"
+    },
+    {
+        "county": "NORTH SLOPE",
+        "city": "WAINWRIGHT",
+        "zipcode": 99782,
+        "latitude": "+66.693255",
+        "longitude": "-153.993988"
+    },
+    {
+        "county": "NORTHWEST ARCTIC",
+        "city": "AMBLER",
+        "zipcode": 99786,
+        "latitude": "+66.868442",
+        "longitude": "-159.843924"
+    },
+    {
+        "county": "NORTHWEST ARCTIC",
+        "city": "BUCKLAND",
+        "zipcode": 99727,
+        "latitude": "+66.868442",
+        "longitude": "-159.843924"
+    },
+    {
+        "county": "NORTHWEST ARCTIC",
+        "city": "DEERING",
+        "zipcode": 99736,
+        "latitude": "+66.868442",
+        "longitude": "-159.843924"
+    },
+    {
+        "county": "NORTHWEST ARCTIC",
+        "city": "KIANA",
+        "zipcode": 99749,
+        "latitude": "+66.868442",
+        "longitude": "-159.843924"
+    },
+    {
+        "county": "NORTHWEST ARCTIC",
+        "city": "KIVALINA",
+        "zipcode": 99750,
+        "latitude": "+66.868442",
+        "longitude": "-159.843924"
+    },
+    {
+        "county": "NORTHWEST ARCTIC",
+        "city": "KOBUK",
+        "zipcode": 99751,
+        "latitude": "+66.868442",
+        "longitude": "-159.843924"
+    },
+    {
+        "county": "NORTHWEST ARCTIC",
+        "city": "KOTZEBUE",
+        "zipcode": 99752,
+        "latitude": "+66.865256",
+        "longitude": "-161.780844"
+    },
+    {
+        "county": "NORTHWEST ARCTIC",
+        "city": "NOATAK",
+        "zipcode": 99761,
+        "latitude": "+66.868442",
+        "longitude": "-159.843924"
+    },
+    {
+        "county": "NORTHWEST ARCTIC",
+        "city": "NOORVIK",
+        "zipcode": 99763,
+        "latitude": "+66.868442",
+        "longitude": "-159.843924"
+    },
+    {
+        "county": "NORTHWEST ARCTIC",
+        "city": "SELAWIK",
+        "zipcode": 99770,
+        "latitude": "+66.868442",
+        "longitude": "-159.843924"
+    },
+    {
+        "county": "NORTHWEST ARCTIC",
+        "city": "SHUNGNAK",
+        "zipcode": 99773,
+        "latitude": "+66.868442",
+        "longitude": "-159.843924"
+    },
+    {
+        "county": "PRINCE WALES KETCHIKAN",
+        "city": "COFFMAN COVE",
+        "zipcode": 99918,
+        "latitude": "+55.517921",
+        "longitude": "-132.003244"
+    },
+    {
+        "county": "PRINCE WALES KETCHIKAN",
+        "city": "CRAIG",
+        "zipcode": 99921,
+        "latitude": "+55.513301",
+        "longitude": "-133.117022"
+    },
+    {
+        "county": "PRINCE WALES KETCHIKAN",
+        "city": "HYDABURG",
+        "zipcode": 99922,
+        "latitude": "+55.208706",
+        "longitude": "-132.825903"
+    },
+    {
+        "county": "PRINCE WALES KETCHIKAN",
+        "city": "HYDER",
+        "zipcode": 99923,
+        "latitude": "+55.517921",
+        "longitude": "-132.003244"
+    },
+    {
+        "county": "PRINCE WALES KETCHIKAN",
+        "city": "KLAWOCK",
+        "zipcode": 99925,
+        "latitude": "+55.554393",
+        "longitude": "-133.090680"
+    },
+    {
+        "county": "PRINCE WALES KETCHIKAN",
+        "city": "METLAKATLA",
+        "zipcode": 99926,
+        "latitude": "+55.094325",
+        "longitude": "-131.566827"
+    },
+    {
+        "county": "PRINCE WALES KETCHIKAN",
+        "city": "MEYERS CHUCK",
+        "zipcode": 99903,
+        "latitude": "+55.517921",
+        "longitude": "-132.003244"
+    },
+    {
+        "county": "PRINCE WALES KETCHIKAN",
+        "city": "POINT BAKER",
+        "zipcode": 99927,
+        "latitude": "+55.517921",
+        "longitude": "-132.003244"
+    },
+    {
+        "county": "PRINCE WALES KETCHIKAN",
+        "city": "THORNE BAY",
+        "zipcode": 99919,
+        "latitude": "+55.126774",
+        "longitude": "-131.580407"
+    },
+    {
+        "county": "SITKA",
+        "city": "SITKA",
+        "zipcode": 99835,
+        "latitude": "+57.080818",
+        "longitude": "-135.318348"
+    },
+    {
+        "county": "SKAGWAY HOONAH ANGOON",
+        "city": "ANGOON",
+        "zipcode": 99820,
+        "latitude": "+57.500525",
+        "longitude": "-134.585954"
+    },
+    {
+        "county": "SKAGWAY HOONAH ANGOON",
+        "city": "ELFIN COVE",
+        "zipcode": 99825,
+        "latitude": "+58.331798",
+        "longitude": "-135.181256"
+    },
+    {
+        "county": "SKAGWAY HOONAH ANGOON",
+        "city": "GUSTAVUS",
+        "zipcode": 99826,
+        "latitude": "+58.331798",
+        "longitude": "-135.181256"
+    },
+    {
+        "county": "SKAGWAY HOONAH ANGOON",
+        "city": "HOONAH",
+        "zipcode": 99829,
+        "latitude": "+58.097655",
+        "longitude": "-135.431561"
+    },
+    {
+        "county": "SKAGWAY HOONAH ANGOON",
+        "city": "PELICAN",
+        "zipcode": 99832,
+        "latitude": "+58.331798",
+        "longitude": "-135.181256"
+    },
+    {
+        "county": "SKAGWAY HOONAH ANGOON",
+        "city": "SKAGWAY",
+        "zipcode": 99840,
+        "latitude": "+59.456753",
+        "longitude": "-135.314852"
+    },
+    {
+        "county": "SKAGWAY HOONAH ANGOON",
+        "city": "TENAKEE SPRINGS",
+        "zipcode": 99841,
+        "latitude": "+57.798249",
+        "longitude": "-135.285061"
+    },
+    {
+        "county": "SOUTHEAST FAIRBANKS",
+        "city": "CHICKEN",
+        "zipcode": 99732,
+        "latitude": "+63.870552",
+        "longitude": "-144.002648"
+    },
+    {
+        "county": "SOUTHEAST FAIRBANKS",
+        "city": "DELTA JUNCTION",
+        "zipcode": 99737,
+        "latitude": "+63.107461",
+        "longitude": "-143.422478"
+    },
+    {
+        "county": "SOUTHEAST FAIRBANKS",
+        "city": "EAGLE",
+        "zipcode": 99738,
+        "latitude": "+63.870552",
+        "longitude": "-144.002648"
+    },
+    {
+        "county": "SOUTHEAST FAIRBANKS",
+        "city": "NORTHWAY",
+        "zipcode": 99764,
+        "latitude": "+63.870552",
+        "longitude": "-144.002648"
+    },
+    {
+        "county": "SOUTHEAST FAIRBANKS",
+        "city": "TANACROSS",
+        "zipcode": 99776,
+        "latitude": "+63.870552",
+        "longitude": "-144.002648"
+    },
+    {
+        "county": "SOUTHEAST FAIRBANKS",
+        "city": "TETLIN",
+        "zipcode": 99779,
+        "latitude": "+63.870552",
+        "longitude": "-144.002648"
+    },
+    {
+        "county": "SOUTHEAST FAIRBANKS",
+        "city": "TOK",
+        "zipcode": 99780,
+        "latitude": "+63.870552",
+        "longitude": "-144.002648"
+    },
+    {
+        "county": "VALDEZ CORDOVA",
+        "city": "CHITINA",
+        "zipcode": 99566,
+        "latitude": "+61.470966",
+        "longitude": "-144.991027"
+    },
+    {
+        "county": "VALDEZ CORDOVA",
+        "city": "COPPER CENTER",
+        "zipcode": 99573,
+        "latitude": "+61.470966",
+        "longitude": "-144.991027"
+    },
+    {
+        "county": "VALDEZ CORDOVA",
+        "city": "CORDOVA",
+        "zipcode": 99574,
+        "latitude": "+60.536166",
+        "longitude": "-145.753350"
+    },
+    {
+        "county": "VALDEZ CORDOVA",
+        "city": "GAKONA",
+        "zipcode": 99586,
+        "latitude": "+61.470966",
+        "longitude": "-144.991027"
+    },
+    {
+        "county": "VALDEZ CORDOVA",
+        "city": "GLENNALLEN",
+        "zipcode": 99588,
+        "latitude": "+61.470966",
+        "longitude": "-144.991027"
+    },
+    {
+        "county": "VALDEZ CORDOVA",
+        "city": "TATITLEK",
+        "zipcode": 99677,
+        "latitude": "+61.470966",
+        "longitude": "-144.991027"
+    },
+    {
+        "county": "VALDEZ CORDOVA",
+        "city": "VALDEZ",
+        "zipcode": 99686,
+        "latitude": "+61.685570",
+        "longitude": "-145.775152"
+    },
+    {
+        "county": "VALDEZ CORDOVA",
+        "city": "WHITTIER",
+        "zipcode": 99693,
+        "latitude": "+61.470966",
+        "longitude": "-144.991027"
+    },
+    {
+        "county": "WADE HAMPTON",
+        "city": "ALAKANUK",
+        "zipcode": 99554,
+        "latitude": "+62.117231",
+        "longitude": "-163.237636"
+    },
+    {
+        "county": "WADE HAMPTON",
+        "city": "CHEVAK",
+        "zipcode": 99563,
+        "latitude": "+62.117231",
+        "longitude": "-163.237636"
+    },
+    {
+        "county": "WADE HAMPTON",
+        "city": "EMMONAK",
+        "zipcode": 99581,
+        "latitude": "+62.117231",
+        "longitude": "-163.237636"
+    },
+    {
+        "county": "WADE HAMPTON",
+        "city": "HOOPER BAY",
+        "zipcode": 99604,
+        "latitude": "+62.117231",
+        "longitude": "-163.237636"
+    },
+    {
+        "county": "WADE HAMPTON",
+        "city": "KOTLIK",
+        "zipcode": 99620,
+        "latitude": "+62.117231",
+        "longitude": "-163.237636"
+    },
+    {
+        "county": "WADE HAMPTON",
+        "city": "MARSHALL",
+        "zipcode": 99585,
+        "latitude": "+62.117231",
+        "longitude": "-163.237636"
+    },
+    {
+        "county": "WADE HAMPTON",
+        "city": "MOUNTAIN VILLAGE",
+        "zipcode": 99632,
+        "latitude": "+62.332461",
+        "longitude": "-164.287228"
+    },
+    {
+        "county": "WADE HAMPTON",
+        "city": "NUNAM IQUA",
+        "zipcode": 99666,
+        "latitude": "+62.117231",
+        "longitude": "-163.237636"
+    },
+    {
+        "county": "WADE HAMPTON",
+        "city": "PILOT STATION",
+        "zipcode": 99650,
+        "latitude": "+62.117231",
+        "longitude": "-163.237636"
+    },
+    {
+        "county": "WADE HAMPTON",
+        "city": "RUSSIAN MISSION",
+        "zipcode": 99657,
+        "latitude": "+62.117231",
+        "longitude": "-163.237636"
+    },
+    {
+        "county": "WADE HAMPTON",
+        "city": "SAINT MARYS",
+        "zipcode": 99658,
+        "latitude": "+62.117231",
+        "longitude": "-163.237636"
+    },
+    {
+        "county": "WADE HAMPTON",
+        "city": "SCAMMON BAY",
+        "zipcode": 99662,
+        "latitude": "+62.117231",
+        "longitude": "-163.237636"
+    },
+    {
+        "county": "WRANGELL PETERSBURG",
+        "city": "KAKE",
+        "zipcode": 99830,
+        "latitude": "+56.973554",
+        "longitude": "-133.935996"
+    },
+    {
+        "county": "WRANGELL PETERSBURG",
+        "city": "PETERSBURG",
+        "zipcode": 99833,
+        "latitude": "+56.767056",
+        "longitude": "-132.931950"
+    },
+    {
+        "county": "WRANGELL PETERSBURG",
+        "city": "PORT ALEXANDER",
+        "zipcode": 99836,
+        "latitude": "+56.535950",
+        "longitude": "-132.827948"
+    },
+    {
+        "county": "WRANGELL PETERSBURG",
+        "city": "WRANGELL",
+        "zipcode": 99929,
+        "latitude": "+56.449893",
+        "longitude": "-132.364407"
+    },
+    {
+        "county": "YAKUTAT",
+        "city": "YAKUTAT",
+        "zipcode": 99689,
+        "latitude": "+58.331798",
+        "longitude": "-135.181256"
+    },
+    {
+        "county": "YUKON KOYUKUK",
+        "city": "ALLAKAKET",
+        "zipcode": 99720,
+        "latitude": "+65.226375",
+        "longitude": "-151.025085"
+    },
+    {
+        "county": "YUKON KOYUKUK",
+        "city": "ANVIK",
+        "zipcode": 99558,
+        "latitude": "+65.226375",
+        "longitude": "-151.025085"
+    },
+    {
+        "county": "YUKON KOYUKUK",
+        "city": "ARCTIC VILLAGE",
+        "zipcode": 99722,
+        "latitude": "+65.226375",
+        "longitude": "-151.025085"
+    },
+    {
+        "county": "YUKON KOYUKUK",
+        "city": "BEAVER",
+        "zipcode": 99724,
+        "latitude": "+66.929746",
+        "longitude": "-149.193010"
+    },
+    {
+        "county": "YUKON KOYUKUK",
+        "city": "BETTLES FIELD",
+        "zipcode": 99726,
+        "latitude": "+65.226375",
+        "longitude": "-151.025085"
+    },
+    {
+        "county": "YUKON KOYUKUK",
+        "city": "CENTRAL",
+        "zipcode": 99730,
+        "latitude": "+65.226375",
+        "longitude": "-151.025085"
+    },
+    {
+        "county": "YUKON KOYUKUK",
+        "city": "CHALKYITSIK",
+        "zipcode": 99788,
+        "latitude": "+65.226375",
+        "longitude": "-151.025085"
+    },
+    {
+        "county": "YUKON KOYUKUK",
+        "city": "CIRCLE",
+        "zipcode": 99733,
+        "latitude": "+65.226375",
+        "longitude": "-151.025085"
+    },
+    {
+        "county": "YUKON KOYUKUK",
+        "city": "FLAT",
+        "zipcode": 99584,
+        "latitude": "+65.226375",
+        "longitude": "-151.025085"
+    },
+    {
+        "county": "YUKON KOYUKUK",
+        "city": "FORT YUKON",
+        "zipcode": 99740,
+        "latitude": "+65.226375",
+        "longitude": "-151.025085"
+    },
+    {
+        "county": "YUKON KOYUKUK",
+        "city": "GALENA",
+        "zipcode": 99741,
+        "latitude": "+65.226375",
+        "longitude": "-151.025085"
+    },
+    {
+        "county": "YUKON KOYUKUK",
+        "city": "GRAYLING",
+        "zipcode": 99590,
+        "latitude": "+65.226375",
+        "longitude": "-151.025085"
+    },
+    {
+        "county": "YUKON KOYUKUK",
+        "city": "HOLY CROSS",
+        "zipcode": 99602,
+        "latitude": "+65.226375",
+        "longitude": "-151.025085"
+    },
+    {
+        "county": "YUKON KOYUKUK",
+        "city": "HUGHES",
+        "zipcode": 99745,
+        "latitude": "+65.226375",
+        "longitude": "-151.025085"
+    },
+    {
+        "county": "YUKON KOYUKUK",
+        "city": "HUSLIA",
+        "zipcode": 99746,
+        "latitude": "+65.226375",
+        "longitude": "-151.025085"
+    },
+    {
+        "county": "YUKON KOYUKUK",
+        "city": "KALTAG",
+        "zipcode": 99748,
+        "latitude": "+65.226375",
+        "longitude": "-151.025085"
+    },
+    {
+        "county": "YUKON KOYUKUK",
+        "city": "KOYUKUK",
+        "zipcode": 99754,
+        "latitude": "+65.226375",
+        "longitude": "-151.025085"
+    },
+    {
+        "county": "YUKON KOYUKUK",
+        "city": "LAKE MINCHUMINA",
+        "zipcode": 99757,
+        "latitude": "+65.226375",
+        "longitude": "-151.025085"
+    },
+    {
+        "county": "YUKON KOYUKUK",
+        "city": "MANLEY HOT SPRINGS",
+        "zipcode": 99756,
+        "latitude": "+65.226375",
+        "longitude": "-151.025085"
+    },
+    {
+        "county": "YUKON KOYUKUK",
+        "city": "MC GRATH",
+        "zipcode": 99627,
+        "latitude": "+62.945716",
+        "longitude": "-155.571200"
+    },
+    {
+        "county": "YUKON KOYUKUK",
+        "city": "MINTO",
+        "zipcode": 99758,
+        "latitude": "+65.226375",
+        "longitude": "-151.025085"
+    },
+    {
+        "county": "YUKON KOYUKUK",
+        "city": "NENANA",
+        "zipcode": 99760,
+        "latitude": "+64.117464",
+        "longitude": "-153.451125"
+    },
+    {
+        "county": "YUKON KOYUKUK",
+        "city": "NIKOLAI",
+        "zipcode": 99691,
+        "latitude": "+65.226375",
+        "longitude": "-151.025085"
+    },
+    {
+        "county": "YUKON KOYUKUK",
+        "city": "NULATO",
+        "zipcode": 99765,
+        "latitude": "+65.226375",
+        "longitude": "-151.025085"
+    },
+    {
+        "county": "YUKON KOYUKUK",
+        "city": "RAMPART",
+        "zipcode": 99767,
+        "latitude": "+65.509038",
+        "longitude": "-150.161868"
+    },
+    {
+        "county": "YUKON KOYUKUK",
+        "city": "RUBY",
+        "zipcode": 99768,
+        "latitude": "+65.226375",
+        "longitude": "-151.025085"
+    },
+    {
+        "county": "YUKON KOYUKUK",
+        "city": "SHAGELUK",
+        "zipcode": 99665,
+        "latitude": "+65.226375",
+        "longitude": "-151.025085"
+    },
+    {
+        "county": "YUKON KOYUKUK",
+        "city": "STEVENS VILLAGE",
+        "zipcode": 99774,
+        "latitude": "+65.226375",
+        "longitude": "-151.025085"
+    },
+    {
+        "county": "YUKON KOYUKUK",
+        "city": "TAKOTNA",
+        "zipcode": 99675,
+        "latitude": "+65.226375",
+        "longitude": "-151.025085"
+    },
+    {
+        "county": "YUKON KOYUKUK",
+        "city": "TANANA",
+        "zipcode": 99777,
+        "latitude": "+65.226375",
+        "longitude": "-151.025085"
+    },
+    {
+        "county": "YUKON KOYUKUK",
+        "city": "VENETIE",
+        "zipcode": 99781,
+        "latitude": "+65.226375",
+        "longitude": "-151.025085"
+    }
+]

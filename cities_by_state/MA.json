@@ -1,0 +1,3056 @@
+[
+    {
+        "county": "BARNSTABLE",
+        "city": "BARNSTABLE",
+        "latitude": "+41.697313",
+        "longitude": "-070.301394"
+    },
+    {
+        "county": "BARNSTABLE",
+        "city": "BREWSTER",
+        "latitude": "+41.852997",
+        "longitude": "-070.044462"
+    },
+    {
+        "county": "BARNSTABLE",
+        "city": "BUZZARDS BAY",
+        "latitude": "+41.653080",
+        "longitude": "-070.553727"
+    },
+    {
+        "county": "BARNSTABLE",
+        "city": "CATAUMET",
+        "latitude": "+41.669373",
+        "longitude": "-070.623370"
+    },
+    {
+        "county": "BARNSTABLE",
+        "city": "CENTERVILLE",
+        "latitude": "+41.799312",
+        "longitude": "-070.308662"
+    },
+    {
+        "county": "BARNSTABLE",
+        "city": "CHATHAM",
+        "latitude": "+41.859559",
+        "longitude": "-070.046800"
+    },
+    {
+        "county": "BARNSTABLE",
+        "city": "COTUIT",
+        "latitude": "+41.624341",
+        "longitude": "-070.436380"
+    },
+    {
+        "county": "BARNSTABLE",
+        "city": "CUMMAQUID",
+        "latitude": "+41.701438",
+        "longitude": "-070.277212"
+    },
+    {
+        "county": "BARNSTABLE",
+        "city": "DENNIS",
+        "latitude": "+41.725716",
+        "longitude": "-070.089142"
+    },
+    {
+        "county": "BARNSTABLE",
+        "city": "DENNIS PORT",
+        "latitude": "+41.750745",
+        "longitude": "-070.071836"
+    },
+    {
+        "county": "BARNSTABLE",
+        "city": "EAST DENNIS",
+        "latitude": "+41.734713",
+        "longitude": "-070.204670"
+    },
+    {
+        "county": "BARNSTABLE",
+        "city": "EAST FALMOUTH",
+        "latitude": "+41.662506",
+        "longitude": "-070.562843"
+    },
+    {
+        "county": "BARNSTABLE",
+        "city": "EAST ORLEANS",
+        "latitude": "+41.784308",
+        "longitude": "-069.962034"
+    },
+    {
+        "county": "BARNSTABLE",
+        "city": "EAST SANDWICH",
+        "latitude": "+41.728320",
+        "longitude": "-070.439975"
+    },
+    {
+        "county": "BARNSTABLE",
+        "city": "EASTHAM",
+        "latitude": "+41.850612",
+        "longitude": "-070.020648"
+    },
+    {
+        "county": "BARNSTABLE",
+        "city": "FALMOUTH",
+        "latitude": "+41.799312",
+        "longitude": "-070.308662"
+    },
+    {
+        "county": "BARNSTABLE",
+        "city": "FORESTDALE",
+        "latitude": "+41.790031",
+        "longitude": "-070.268632"
+    },
+    {
+        "county": "BARNSTABLE",
+        "city": "HARWICH",
+        "latitude": "+41.835582",
+        "longitude": "-070.043359"
+    },
+    {
+        "county": "BARNSTABLE",
+        "city": "HARWICH PORT",
+        "latitude": "+41.845717",
+        "longitude": "-070.053544"
+    },
+    {
+        "county": "BARNSTABLE",
+        "city": "HYANNIS",
+        "latitude": "+41.829813",
+        "longitude": "-070.138834"
+    },
+    {
+        "county": "BARNSTABLE",
+        "city": "HYANNIS PORT",
+        "latitude": "+41.635004",
+        "longitude": "-070.306336"
+    },
+    {
+        "county": "BARNSTABLE",
+        "city": "MARSTONS MILLS",
+        "latitude": "+41.813034",
+        "longitude": "-070.246666"
+    },
+    {
+        "county": "BARNSTABLE",
+        "city": "MASHPEE",
+        "latitude": "+41.788337",
+        "longitude": "-070.253543"
+    },
+    {
+        "county": "BARNSTABLE",
+        "city": "MONUMENT BEACH",
+        "latitude": "+41.673360",
+        "longitude": "-070.608047"
+    },
+    {
+        "county": "BARNSTABLE",
+        "city": "NORTH CHATHAM",
+        "latitude": "+41.734970",
+        "longitude": "-070.029065"
+    },
+    {
+        "county": "BARNSTABLE",
+        "city": "NORTH EASTHAM",
+        "latitude": "+41.824264",
+        "longitude": "-069.981760"
+    },
+    {
+        "county": "BARNSTABLE",
+        "city": "NORTH FALMOUTH",
+        "latitude": "+41.652967",
+        "longitude": "-070.375475"
+    },
+    {
+        "county": "BARNSTABLE",
+        "city": "NORTH TRURO",
+        "latitude": "+41.931061",
+        "longitude": "-070.283584"
+    },
+    {
+        "county": "BARNSTABLE",
+        "city": "ORLEANS",
+        "latitude": "+41.852933",
+        "longitude": "-070.015390"
+    },
+    {
+        "county": "BARNSTABLE",
+        "city": "OSTERVILLE",
+        "latitude": "+41.810178",
+        "longitude": "-070.191269"
+    },
+    {
+        "county": "BARNSTABLE",
+        "city": "POCASSET",
+        "latitude": "+41.694771",
+        "longitude": "-070.622769"
+    },
+    {
+        "county": "BARNSTABLE",
+        "city": "PROVINCETOWN",
+        "latitude": "+41.888775",
+        "longitude": "-070.091057"
+    },
+    {
+        "county": "BARNSTABLE",
+        "city": "SAGAMORE",
+        "latitude": "+41.770254",
+        "longitude": "-070.533664"
+    },
+    {
+        "county": "BARNSTABLE",
+        "city": "SAGAMORE BEACH",
+        "latitude": "+41.793263",
+        "longitude": "-070.519584"
+    },
+    {
+        "county": "BARNSTABLE",
+        "city": "SANDWICH",
+        "latitude": "+41.711291",
+        "longitude": "-070.477482"
+    },
+    {
+        "county": "BARNSTABLE",
+        "city": "SILVER BEACH",
+        "latitude": "+41.799312",
+        "longitude": "-070.308662"
+    },
+    {
+        "county": "BARNSTABLE",
+        "city": "SOUTH CHATHAM",
+        "latitude": "+41.848932",
+        "longitude": "-070.030194"
+    },
+    {
+        "county": "BARNSTABLE",
+        "city": "SOUTH DENNIS",
+        "latitude": "+41.800380",
+        "longitude": "-070.089244"
+    },
+    {
+        "county": "BARNSTABLE",
+        "city": "SOUTH HARWICH",
+        "latitude": "+41.686205",
+        "longitude": "-070.032858"
+    },
+    {
+        "county": "BARNSTABLE",
+        "city": "SOUTH ORLEANS",
+        "latitude": "+41.756694",
+        "longitude": "-069.984123"
+    },
+    {
+        "county": "BARNSTABLE",
+        "city": "SOUTH WELLFLEET",
+        "latitude": "+41.800531",
+        "longitude": "-070.076776"
+    },
+    {
+        "county": "BARNSTABLE",
+        "city": "SOUTH YARMOUTH",
+        "latitude": "+41.824120",
+        "longitude": "-070.084259"
+    },
+    {
+        "county": "BARNSTABLE",
+        "city": "TRURO",
+        "latitude": "+41.987377",
+        "longitude": "-070.047163"
+    },
+    {
+        "county": "BARNSTABLE",
+        "city": "WELLFLEET",
+        "latitude": "+41.821307",
+        "longitude": "-070.022806"
+    },
+    {
+        "county": "BARNSTABLE",
+        "city": "WEST BARNSTABLE",
+        "latitude": "+41.790550",
+        "longitude": "-070.201719"
+    },
+    {
+        "county": "BARNSTABLE",
+        "city": "WEST CHATHAM",
+        "latitude": "+41.698721",
+        "longitude": "-070.004937"
+    },
+    {
+        "county": "BARNSTABLE",
+        "city": "WEST DENNIS",
+        "latitude": "+41.710855",
+        "longitude": "-070.072195"
+    },
+    {
+        "county": "BARNSTABLE",
+        "city": "WEST FALMOUTH",
+        "latitude": "+41.603946",
+        "longitude": "-070.638189"
+    },
+    {
+        "county": "BARNSTABLE",
+        "city": "WEST HARWICH",
+        "latitude": "+41.846719",
+        "longitude": "-070.038282"
+    },
+    {
+        "county": "BARNSTABLE",
+        "city": "WEST HYANNISPORT",
+        "latitude": "+41.635635",
+        "longitude": "-070.323307"
+    },
+    {
+        "county": "BARNSTABLE",
+        "city": "WEST YARMOUTH",
+        "latitude": "+41.776105",
+        "longitude": "-070.150512"
+    },
+    {
+        "county": "BARNSTABLE",
+        "city": "WOODS HOLE",
+        "latitude": "+41.593809",
+        "longitude": "-070.646442"
+    },
+    {
+        "county": "BARNSTABLE",
+        "city": "YARMOUTH PORT",
+        "latitude": "+41.716271",
+        "longitude": "-070.135884"
+    },
+    {
+        "county": "BERKSHIRE",
+        "city": "ADAMS",
+        "latitude": "+42.385595",
+        "longitude": "-073.172166"
+    },
+    {
+        "county": "BERKSHIRE",
+        "city": "ASHLEY FALLS",
+        "latitude": "+42.185969",
+        "longitude": "-073.318695"
+    },
+    {
+        "county": "BERKSHIRE",
+        "city": "BECKET",
+        "latitude": "+42.341800",
+        "longitude": "-073.103468"
+    },
+    {
+        "county": "BERKSHIRE",
+        "city": "BERKSHIRE",
+        "latitude": "+42.392900",
+        "longitude": "-073.228483"
+    },
+    {
+        "county": "BERKSHIRE",
+        "city": "CHESHIRE",
+        "latitude": "+42.482125",
+        "longitude": "-073.127483"
+    },
+    {
+        "county": "BERKSHIRE",
+        "city": "DALTON",
+        "latitude": "+42.516145",
+        "longitude": "-073.092852"
+    },
+    {
+        "county": "BERKSHIRE",
+        "city": "DRURY",
+        "latitude": "+42.642666",
+        "longitude": "-072.986231"
+    },
+    {
+        "county": "BERKSHIRE",
+        "city": "EAST OTIS",
+        "latitude": "+42.190904",
+        "longitude": "-073.051661"
+    },
+    {
+        "county": "BERKSHIRE",
+        "city": "GLENDALE",
+        "latitude": "+42.279292",
+        "longitude": "-073.343545"
+    },
+    {
+        "county": "BERKSHIRE",
+        "city": "GREAT BARRINGTON",
+        "latitude": "+42.299392",
+        "longitude": "-073.266650"
+    },
+    {
+        "county": "BERKSHIRE",
+        "city": "HINSDALE",
+        "latitude": "+42.292370",
+        "longitude": "-073.221640"
+    },
+    {
+        "county": "BERKSHIRE",
+        "city": "HOUSATONIC",
+        "latitude": "+42.291299",
+        "longitude": "-073.358798"
+    },
+    {
+        "county": "BERKSHIRE",
+        "city": "LANESBORO",
+        "latitude": "+42.487569",
+        "longitude": "-073.235048"
+    },
+    {
+        "county": "BERKSHIRE",
+        "city": "LEE",
+        "latitude": "+42.369856",
+        "longitude": "-073.267465"
+    },
+    {
+        "county": "BERKSHIRE",
+        "city": "LENOX",
+        "latitude": "+42.459202",
+        "longitude": "-073.219858"
+    },
+    {
+        "county": "BERKSHIRE",
+        "city": "LENOX DALE",
+        "latitude": "+42.338594",
+        "longitude": "-073.250891"
+    },
+    {
+        "county": "BERKSHIRE",
+        "city": "MILL RIVER",
+        "latitude": "+42.122827",
+        "longitude": "-073.253983"
+    },
+    {
+        "county": "BERKSHIRE",
+        "city": "MONTEREY",
+        "latitude": "+42.186690",
+        "longitude": "-073.206498"
+    },
+    {
+        "county": "BERKSHIRE",
+        "city": "NORTH ADAMS",
+        "latitude": "+42.426974",
+        "longitude": "-073.186320"
+    },
+    {
+        "county": "BERKSHIRE",
+        "city": "NORTH EGREMONT",
+        "latitude": "+42.198648",
+        "longitude": "-073.446234"
+    },
+    {
+        "county": "BERKSHIRE",
+        "city": "OTIS",
+        "latitude": "+42.213156",
+        "longitude": "-073.090434"
+    },
+    {
+        "county": "BERKSHIRE",
+        "city": "PITTSFIELD",
+        "latitude": "+42.392900",
+        "longitude": "-073.228483"
+    },
+    {
+        "county": "BERKSHIRE",
+        "city": "RICHMOND",
+        "latitude": "+42.233105",
+        "longitude": "-073.238358"
+    },
+    {
+        "county": "BERKSHIRE",
+        "city": "SANDISFIELD",
+        "latitude": "+42.148975",
+        "longitude": "-073.148610"
+    },
+    {
+        "county": "BERKSHIRE",
+        "city": "SAVOY",
+        "latitude": "+42.367341",
+        "longitude": "-073.128528"
+    },
+    {
+        "county": "BERKSHIRE",
+        "city": "SHEFFIELD",
+        "latitude": "+42.314564",
+        "longitude": "-073.267694"
+    },
+    {
+        "county": "BERKSHIRE",
+        "city": "SOUTH EGREMONT",
+        "latitude": "+42.128075",
+        "longitude": "-073.360890"
+    },
+    {
+        "county": "BERKSHIRE",
+        "city": "SOUTH LEE",
+        "latitude": "+42.286586",
+        "longitude": "-073.313274"
+    },
+    {
+        "county": "BERKSHIRE",
+        "city": "SOUTHFIELD",
+        "latitude": "+42.198712",
+        "longitude": "-073.278543"
+    },
+    {
+        "county": "BERKSHIRE",
+        "city": "STOCKBRIDGE",
+        "latitude": "+42.392900",
+        "longitude": "-073.228483"
+    },
+    {
+        "county": "BERKSHIRE",
+        "city": "TYRINGHAM",
+        "latitude": "+42.220001",
+        "longitude": "-073.197865"
+    },
+    {
+        "county": "BERKSHIRE",
+        "city": "WEST STOCKBRIDGE",
+        "latitude": "+42.360482",
+        "longitude": "-073.265354"
+    },
+    {
+        "county": "BERKSHIRE",
+        "city": "WILLIAMSTOWN",
+        "latitude": "+42.642075",
+        "longitude": "-073.257699"
+    },
+    {
+        "county": "BERKSHIRE",
+        "city": "WINDSOR",
+        "latitude": "+42.443726",
+        "longitude": "-073.116127"
+    },
+    {
+        "county": "BRISTOL",
+        "city": "ACUSHNET",
+        "latitude": "+41.711894",
+        "longitude": "-070.908286"
+    },
+    {
+        "county": "BRISTOL",
+        "city": "ASSONET",
+        "latitude": "+41.782993",
+        "longitude": "-071.017328"
+    },
+    {
+        "county": "BRISTOL",
+        "city": "ATTLEBORO",
+        "latitude": "+41.938976",
+        "longitude": "-071.302297"
+    },
+    {
+        "county": "BRISTOL",
+        "city": "ATTLEBORO FALLS",
+        "latitude": "+41.972584",
+        "longitude": "-071.308229"
+    },
+    {
+        "county": "BRISTOL",
+        "city": "BERKLEY",
+        "latitude": "+41.828249",
+        "longitude": "-071.064135"
+    },
+    {
+        "county": "BRISTOL",
+        "city": "CHARTLEY",
+        "latitude": "+41.756214",
+        "longitude": "-071.067062"
+    },
+    {
+        "county": "BRISTOL",
+        "city": "DARTMOUTH",
+        "latitude": "+41.756214",
+        "longitude": "-071.067062"
+    },
+    {
+        "county": "BRISTOL",
+        "city": "DIGHTON",
+        "latitude": "+41.817659",
+        "longitude": "-071.151787"
+    },
+    {
+        "county": "BRISTOL",
+        "city": "EAST FREETOWN",
+        "latitude": "+41.747358",
+        "longitude": "-070.978947"
+    },
+    {
+        "county": "BRISTOL",
+        "city": "EAST MANSFIELD",
+        "latitude": "+41.998799",
+        "longitude": "-071.200894"
+    },
+    {
+        "county": "BRISTOL",
+        "city": "EAST TAUNTON",
+        "latitude": "+41.871407",
+        "longitude": "-071.013148"
+    },
+    {
+        "county": "BRISTOL",
+        "city": "EASTON",
+        "latitude": "+42.023528",
+        "longitude": "-071.132397"
+    },
+    {
+        "county": "BRISTOL",
+        "city": "FAIRHAVEN",
+        "latitude": "+41.631672",
+        "longitude": "-070.870045"
+    },
+    {
+        "county": "BRISTOL",
+        "city": "FALL RIVER",
+        "latitude": "+41.684202",
+        "longitude": "-071.175139"
+    },
+    {
+        "county": "BRISTOL",
+        "city": "MANSFIELD",
+        "latitude": "+42.013182",
+        "longitude": "-071.218373"
+    },
+    {
+        "county": "BRISTOL",
+        "city": "NEW BEDFORD",
+        "latitude": "+41.665704",
+        "longitude": "-070.943021"
+    },
+    {
+        "county": "BRISTOL",
+        "city": "NORTH ATTLEBORO",
+        "latitude": "+41.756214",
+        "longitude": "-071.067062"
+    },
+    {
+        "county": "BRISTOL",
+        "city": "NORTH DARTMOUTH",
+        "latitude": "+41.639261",
+        "longitude": "-071.007578"
+    },
+    {
+        "county": "BRISTOL",
+        "city": "NORTH DIGHTON",
+        "latitude": "+41.847791",
+        "longitude": "-071.155797"
+    },
+    {
+        "county": "BRISTOL",
+        "city": "NORTH EASTON",
+        "latitude": "+42.064499",
+        "longitude": "-071.087091"
+    },
+    {
+        "county": "BRISTOL",
+        "city": "NORTON",
+        "latitude": "+41.959149",
+        "longitude": "-071.180393"
+    },
+    {
+        "county": "BRISTOL",
+        "city": "RAYNHAM",
+        "latitude": "+41.936700",
+        "longitude": "-071.048941"
+    },
+    {
+        "county": "BRISTOL",
+        "city": "RAYNHAM CENTER",
+        "latitude": "+41.756214",
+        "longitude": "-071.067062"
+    },
+    {
+        "county": "BRISTOL",
+        "city": "REHOBOTH",
+        "latitude": "+41.852989",
+        "longitude": "-071.243061"
+    },
+    {
+        "county": "BRISTOL",
+        "city": "SEEKONK",
+        "latitude": "+41.840103",
+        "longitude": "-071.318995"
+    },
+    {
+        "county": "BRISTOL",
+        "city": "SOMERSET",
+        "latitude": "+41.757951",
+        "longitude": "-071.153639"
+    },
+    {
+        "county": "BRISTOL",
+        "city": "SOUTH DARTMOUTH",
+        "latitude": "+41.566464",
+        "longitude": "-070.984253"
+    },
+    {
+        "county": "BRISTOL",
+        "city": "SOUTH EASTON",
+        "latitude": "+42.023199",
+        "longitude": "-071.111091"
+    },
+    {
+        "county": "BRISTOL",
+        "city": "SWANSEA",
+        "latitude": "+41.766629",
+        "longitude": "-071.234443"
+    },
+    {
+        "county": "BRISTOL",
+        "city": "TAUNTON",
+        "latitude": "+41.756214",
+        "longitude": "-071.067062"
+    },
+    {
+        "county": "BRISTOL",
+        "city": "WESTPORT",
+        "latitude": "+41.615470",
+        "longitude": "-071.079636"
+    },
+    {
+        "county": "BRISTOL",
+        "city": "WESTPORT POINT",
+        "latitude": "+41.519104",
+        "longitude": "-071.085137"
+    },
+    {
+        "county": "DUKES",
+        "city": "CHILMARK",
+        "latitude": "+41.379034",
+        "longitude": "-070.673082"
+    },
+    {
+        "county": "DUKES",
+        "city": "CUTTYHUNK",
+        "latitude": "+41.421780",
+        "longitude": "-070.931309"
+    },
+    {
+        "county": "DUKES",
+        "city": "EDGARTOWN",
+        "latitude": "+41.401176",
+        "longitude": "-070.552054"
+    },
+    {
+        "county": "DUKES",
+        "city": "MENEMSHA",
+        "latitude": "+41.379836",
+        "longitude": "-070.643092"
+    },
+    {
+        "county": "DUKES",
+        "city": "OAK BLUFFS",
+        "latitude": "+41.417376",
+        "longitude": "-070.560032"
+    },
+    {
+        "county": "DUKES",
+        "city": "VINEYARD HAVEN",
+        "latitude": "+41.415950",
+        "longitude": "-070.595235"
+    },
+    {
+        "county": "DUKES",
+        "city": "WEST CHOP",
+        "latitude": "+41.379836",
+        "longitude": "-070.643092"
+    },
+    {
+        "county": "DUKES",
+        "city": "WEST TISBURY",
+        "latitude": "+41.421250",
+        "longitude": "-070.642806"
+    },
+    {
+        "county": "ESSEX",
+        "city": "AMESBURY",
+        "latitude": "+42.853539",
+        "longitude": "-070.948211"
+    },
+    {
+        "county": "ESSEX",
+        "city": "ANDOVER",
+        "latitude": "+42.647191",
+        "longitude": "-071.184202"
+    },
+    {
+        "county": "ESSEX",
+        "city": "BEVERLY",
+        "latitude": "+42.565145",
+        "longitude": "-070.853843"
+    },
+    {
+        "county": "ESSEX",
+        "city": "BOXFORD",
+        "latitude": "+42.683256",
+        "longitude": "-071.017403"
+    },
+    {
+        "county": "ESSEX",
+        "city": "BYFIELD",
+        "latitude": "+42.763216",
+        "longitude": "-070.928120"
+    },
+    {
+        "county": "ESSEX",
+        "city": "DANVERS",
+        "latitude": "+42.577188",
+        "longitude": "-070.949245"
+    },
+    {
+        "county": "ESSEX",
+        "city": "ESSEX",
+        "latitude": "+42.627810",
+        "longitude": "-070.780576"
+    },
+    {
+        "county": "ESSEX",
+        "city": "GEORGETOWN",
+        "latitude": "+42.723770",
+        "longitude": "-070.981298"
+    },
+    {
+        "county": "ESSEX",
+        "city": "GLOUCESTER",
+        "latitude": "+42.635443",
+        "longitude": "-070.879123"
+    },
+    {
+        "county": "ESSEX",
+        "city": "GROVELAND",
+        "latitude": "+42.751074",
+        "longitude": "-071.021437"
+    },
+    {
+        "county": "ESSEX",
+        "city": "HAMILTON",
+        "latitude": "+42.635443",
+        "longitude": "-070.879123"
+    },
+    {
+        "county": "ESSEX",
+        "city": "HATHORNE",
+        "latitude": "+42.635443",
+        "longitude": "-070.879123"
+    },
+    {
+        "county": "ESSEX",
+        "city": "HAVERHILL",
+        "latitude": "+42.752844",
+        "longitude": "-071.084301"
+    },
+    {
+        "county": "ESSEX",
+        "city": "IPSWICH",
+        "latitude": "+42.685710",
+        "longitude": "-070.864132"
+    },
+    {
+        "county": "ESSEX",
+        "city": "LAWRENCE",
+        "latitude": "+42.710370",
+        "longitude": "-071.088303"
+    },
+    {
+        "county": "ESSEX",
+        "city": "LYNN",
+        "latitude": "+42.454796",
+        "longitude": "-070.974694"
+    },
+    {
+        "county": "ESSEX",
+        "city": "LYNNFIELD",
+        "latitude": "+42.533732",
+        "longitude": "-071.028775"
+    },
+    {
+        "county": "ESSEX",
+        "city": "MANCHESTER",
+        "latitude": "+42.579503",
+        "longitude": "-070.755062"
+    },
+    {
+        "county": "ESSEX",
+        "city": "MARBLEHEAD",
+        "latitude": "+42.561420",
+        "longitude": "-070.770768"
+    },
+    {
+        "county": "ESSEX",
+        "city": "MERRIMAC",
+        "latitude": "+42.802441",
+        "longitude": "-071.089600"
+    },
+    {
+        "county": "ESSEX",
+        "city": "METHUEN",
+        "latitude": "+42.731840",
+        "longitude": "-071.186915"
+    },
+    {
+        "county": "ESSEX",
+        "city": "MIDDLETON",
+        "latitude": "+42.644942",
+        "longitude": "-071.087905"
+    },
+    {
+        "county": "ESSEX",
+        "city": "NAHANT",
+        "latitude": "+42.427296",
+        "longitude": "-070.922442"
+    },
+    {
+        "county": "ESSEX",
+        "city": "NEWBURY",
+        "latitude": "+42.777524",
+        "longitude": "-070.867246"
+    },
+    {
+        "county": "ESSEX",
+        "city": "NEWBURYPORT",
+        "latitude": "+42.809650",
+        "longitude": "-070.873196"
+    },
+    {
+        "county": "ESSEX",
+        "city": "NORTH ANDOVER",
+        "latitude": "+42.672835",
+        "longitude": "-071.087689"
+    },
+    {
+        "county": "ESSEX",
+        "city": "PEABODY",
+        "latitude": "+42.635443",
+        "longitude": "-070.879123"
+    },
+    {
+        "county": "ESSEX",
+        "city": "PRIDES CROSSING",
+        "latitude": "+42.558113",
+        "longitude": "-070.825743"
+    },
+    {
+        "county": "ESSEX",
+        "city": "ROCKPORT",
+        "latitude": "+42.657866",
+        "longitude": "-070.618057"
+    },
+    {
+        "county": "ESSEX",
+        "city": "ROWLEY",
+        "latitude": "+42.716155",
+        "longitude": "-070.892754"
+    },
+    {
+        "county": "ESSEX",
+        "city": "SALEM",
+        "latitude": "+42.635443",
+        "longitude": "-070.879123"
+    },
+    {
+        "county": "ESSEX",
+        "city": "SALISBURY",
+        "latitude": "+42.851234",
+        "longitude": "-070.865667"
+    },
+    {
+        "county": "ESSEX",
+        "city": "SAUGUS",
+        "latitude": "+42.472112",
+        "longitude": "-070.997794"
+    },
+    {
+        "county": "ESSEX",
+        "city": "SOUTH HAMILTON",
+        "latitude": "+42.626664",
+        "longitude": "-070.851125"
+    },
+    {
+        "county": "ESSEX",
+        "city": "SWAMPSCOTT",
+        "latitude": "+42.513295",
+        "longitude": "-070.905893"
+    },
+    {
+        "county": "ESSEX",
+        "city": "TOPSFIELD",
+        "latitude": "+42.661793",
+        "longitude": "-070.954487"
+    },
+    {
+        "county": "ESSEX",
+        "city": "WENHAM",
+        "latitude": "+42.597691",
+        "longitude": "-070.873200"
+    },
+    {
+        "county": "ESSEX",
+        "city": "WEST BOXFORD",
+        "latitude": "+42.635443",
+        "longitude": "-070.879123"
+    },
+    {
+        "county": "ESSEX",
+        "city": "WEST NEWBURY",
+        "latitude": "+42.794140",
+        "longitude": "-070.971068"
+    },
+    {
+        "county": "FRANKLIN",
+        "city": "ASHFIELD",
+        "latitude": "+42.562391",
+        "longitude": "-072.738152"
+    },
+    {
+        "county": "FRANKLIN",
+        "city": "BERNARDSTON",
+        "latitude": "+42.627060",
+        "longitude": "-072.642888"
+    },
+    {
+        "county": "FRANKLIN",
+        "city": "BUCKLAND",
+        "latitude": "+42.573832",
+        "longitude": "-072.769487"
+    },
+    {
+        "county": "FRANKLIN",
+        "city": "CHARLEMONT",
+        "latitude": "+42.594252",
+        "longitude": "-072.665507"
+    },
+    {
+        "county": "FRANKLIN",
+        "city": "COLRAIN",
+        "latitude": "+42.681539",
+        "longitude": "-072.822986"
+    },
+    {
+        "county": "FRANKLIN",
+        "city": "CONWAY",
+        "latitude": "+42.590824",
+        "longitude": "-072.709760"
+    },
+    {
+        "county": "FRANKLIN",
+        "city": "DEERFIELD",
+        "latitude": "+42.547230",
+        "longitude": "-072.607679"
+    },
+    {
+        "county": "FRANKLIN",
+        "city": "ERVING",
+        "latitude": "+42.627072",
+        "longitude": "-072.553654"
+    },
+    {
+        "county": "FRANKLIN",
+        "city": "GREENFIELD",
+        "latitude": "+42.522178",
+        "longitude": "-072.624164"
+    },
+    {
+        "county": "FRANKLIN",
+        "city": "HEATH",
+        "latitude": "+42.618011",
+        "longitude": "-072.788896"
+    },
+    {
+        "county": "FRANKLIN",
+        "city": "LAKE PLEASANT",
+        "latitude": "+42.556558",
+        "longitude": "-072.518104"
+    },
+    {
+        "county": "FRANKLIN",
+        "city": "LEVERETT",
+        "latitude": "+42.474681",
+        "longitude": "-072.467543"
+    },
+    {
+        "county": "FRANKLIN",
+        "city": "MONROE BRIDGE",
+        "latitude": "+42.721456",
+        "longitude": "-072.976204"
+    },
+    {
+        "county": "FRANKLIN",
+        "city": "MONTAGUE",
+        "latitude": "+42.548107",
+        "longitude": "-072.486930"
+    },
+    {
+        "county": "FRANKLIN",
+        "city": "NEW SALEM",
+        "latitude": "+42.518718",
+        "longitude": "-072.534371"
+    },
+    {
+        "county": "FRANKLIN",
+        "city": "NORTHFIELD",
+        "latitude": "+42.614152",
+        "longitude": "-072.528209"
+    },
+    {
+        "county": "FRANKLIN",
+        "city": "ORANGE",
+        "latitude": "+42.578325",
+        "longitude": "-072.556589"
+    },
+    {
+        "county": "FRANKLIN",
+        "city": "ROWE",
+        "latitude": "+42.683065",
+        "longitude": "-072.715667"
+    },
+    {
+        "county": "FRANKLIN",
+        "city": "SHATTUCKVILLE",
+        "latitude": "+42.522178",
+        "longitude": "-072.624164"
+    },
+    {
+        "county": "FRANKLIN",
+        "city": "SHELBURNE FALLS",
+        "latitude": "+42.588812",
+        "longitude": "-072.758781"
+    },
+    {
+        "county": "FRANKLIN",
+        "city": "SHUTESBURY",
+        "latitude": "+42.471562",
+        "longitude": "-072.440170"
+    },
+    {
+        "county": "FRANKLIN",
+        "city": "SOUTH DEERFIELD",
+        "latitude": "+42.464522",
+        "longitude": "-072.682346"
+    },
+    {
+        "county": "FRANKLIN",
+        "city": "SUNDERLAND",
+        "latitude": "+42.565346",
+        "longitude": "-072.700940"
+    },
+    {
+        "county": "FRANKLIN",
+        "city": "TURNERS FALLS",
+        "latitude": "+42.654878",
+        "longitude": "-072.718123"
+    },
+    {
+        "county": "FRANKLIN",
+        "city": "WARWICK",
+        "latitude": "+42.667059",
+        "longitude": "-072.339655"
+    },
+    {
+        "county": "FRANKLIN",
+        "city": "WENDELL",
+        "latitude": "+42.581007",
+        "longitude": "-072.437179"
+    },
+    {
+        "county": "FRANKLIN",
+        "city": "WENDELL DEPOT",
+        "latitude": "+42.553431",
+        "longitude": "-072.392694"
+    },
+    {
+        "county": "FRANKLIN",
+        "city": "WHATELY",
+        "latitude": "+42.442673",
+        "longitude": "-072.652511"
+    },
+    {
+        "county": "HAMPDEN",
+        "city": "AGAWAM",
+        "latitude": "+42.140549",
+        "longitude": "-072.788661"
+    },
+    {
+        "county": "HAMPDEN",
+        "city": "BLANDFORD",
+        "latitude": "+42.177833",
+        "longitude": "-072.958359"
+    },
+    {
+        "county": "HAMPDEN",
+        "city": "BONDSVILLE",
+        "latitude": "+42.206092",
+        "longitude": "-072.340486"
+    },
+    {
+        "county": "HAMPDEN",
+        "city": "BRIMFIELD",
+        "latitude": "+42.108585",
+        "longitude": "-072.204480"
+    },
+    {
+        "county": "HAMPDEN",
+        "city": "CHESTER",
+        "latitude": "+42.294259",
+        "longitude": "-072.952776"
+    },
+    {
+        "county": "HAMPDEN",
+        "city": "CHICOPEE",
+        "latitude": "+42.193392",
+        "longitude": "-072.554360"
+    },
+    {
+        "county": "HAMPDEN",
+        "city": "EAST LONGMEADOW",
+        "latitude": "+42.062009",
+        "longitude": "-072.498740"
+    },
+    {
+        "county": "HAMPDEN",
+        "city": "FEEDING HILLS",
+        "latitude": "+42.189335",
+        "longitude": "-072.797740"
+    },
+    {
+        "county": "HAMPDEN",
+        "city": "GRANVILLE",
+        "latitude": "+42.112748",
+        "longitude": "-072.952003"
+    },
+    {
+        "county": "HAMPDEN",
+        "city": "HAMPDEN",
+        "latitude": "+42.067614",
+        "longitude": "-072.417507"
+    },
+    {
+        "county": "HAMPDEN",
+        "city": "HOLLAND",
+        "latitude": "+42.061063",
+        "longitude": "-072.163991"
+    },
+    {
+        "county": "HAMPDEN",
+        "city": "HOLYOKE",
+        "latitude": "+42.170731",
+        "longitude": "-072.604842"
+    },
+    {
+        "county": "HAMPDEN",
+        "city": "INDIAN ORCHARD",
+        "latitude": "+42.150593",
+        "longitude": "-072.512780"
+    },
+    {
+        "county": "HAMPDEN",
+        "city": "LONGMEADOW",
+        "latitude": "+42.170731",
+        "longitude": "-072.604842"
+    },
+    {
+        "county": "HAMPDEN",
+        "city": "LUDLOW",
+        "latitude": "+42.173276",
+        "longitude": "-072.627038"
+    },
+    {
+        "county": "HAMPDEN",
+        "city": "MONSON",
+        "latitude": "+42.095323",
+        "longitude": "-072.282063"
+    },
+    {
+        "county": "HAMPDEN",
+        "city": "PALMER",
+        "latitude": "+42.176131",
+        "longitude": "-072.314570"
+    },
+    {
+        "county": "HAMPDEN",
+        "city": "RUSSELL",
+        "latitude": "+42.177432",
+        "longitude": "-072.864558"
+    },
+    {
+        "county": "HAMPDEN",
+        "city": "SOUTHWICK",
+        "latitude": "+42.066644",
+        "longitude": "-072.541205"
+    },
+    {
+        "county": "HAMPDEN",
+        "city": "SPRINGFIELD",
+        "latitude": "+42.119943",
+        "longitude": "-072.604983"
+    },
+    {
+        "county": "HAMPDEN",
+        "city": "THORNDIKE",
+        "latitude": "+42.192892",
+        "longitude": "-072.329574"
+    },
+    {
+        "county": "HAMPDEN",
+        "city": "THREE RIVERS",
+        "latitude": "+42.179805",
+        "longitude": "-072.517813"
+    },
+    {
+        "county": "HAMPDEN",
+        "city": "WALES",
+        "latitude": "+42.061948",
+        "longitude": "-072.213598"
+    },
+    {
+        "county": "HAMPDEN",
+        "city": "WEST SPRINGFIELD",
+        "latitude": "+42.170731",
+        "longitude": "-072.604842"
+    },
+    {
+        "county": "HAMPDEN",
+        "city": "WESTFIELD",
+        "latitude": "+42.173428",
+        "longitude": "-072.847964"
+    },
+    {
+        "county": "HAMPDEN",
+        "city": "WILBRAHAM",
+        "latitude": "+42.125974",
+        "longitude": "-072.489988"
+    },
+    {
+        "county": "HAMPDEN",
+        "city": "WORONOCO",
+        "latitude": "+42.161743",
+        "longitude": "-072.845912"
+    },
+    {
+        "county": "HAMPSHIRE",
+        "city": "AMHERST",
+        "latitude": "+42.384494",
+        "longitude": "-072.513183"
+    },
+    {
+        "county": "HAMPSHIRE",
+        "city": "BELCHERTOWN",
+        "latitude": "+42.280267",
+        "longitude": "-072.402056"
+    },
+    {
+        "county": "HAMPSHIRE",
+        "city": "CHESTERFIELD",
+        "latitude": "+42.392274",
+        "longitude": "-072.825607"
+    },
+    {
+        "county": "HAMPSHIRE",
+        "city": "CUMMINGTON",
+        "latitude": "+42.428617",
+        "longitude": "-072.909841"
+    },
+    {
+        "county": "HAMPSHIRE",
+        "city": "EASTHAMPTON",
+        "latitude": "+42.368303",
+        "longitude": "-072.768839"
+    },
+    {
+        "county": "HAMPSHIRE",
+        "city": "FLORENCE",
+        "latitude": "+42.328838",
+        "longitude": "-072.845227"
+    },
+    {
+        "county": "HAMPSHIRE",
+        "city": "GOSHEN",
+        "latitude": "+42.443837",
+        "longitude": "-072.819446"
+    },
+    {
+        "county": "HAMPSHIRE",
+        "city": "GRANBY",
+        "latitude": "+42.262285",
+        "longitude": "-072.504086"
+    },
+    {
+        "county": "HAMPSHIRE",
+        "city": "HADLEY",
+        "latitude": "+42.356804",
+        "longitude": "-072.576613"
+    },
+    {
+        "county": "HAMPSHIRE",
+        "city": "HATFIELD",
+        "latitude": "+42.387269",
+        "longitude": "-072.643081"
+    },
+    {
+        "county": "HAMPSHIRE",
+        "city": "HAYDENVILLE",
+        "latitude": "+42.356410",
+        "longitude": "-072.682127"
+    },
+    {
+        "county": "HAMPSHIRE",
+        "city": "HUNTINGTON",
+        "latitude": "+42.313427",
+        "longitude": "-072.903677"
+    },
+    {
+        "county": "HAMPSHIRE",
+        "city": "LEEDS",
+        "latitude": "+42.353838",
+        "longitude": "-072.704385"
+    },
+    {
+        "county": "HAMPSHIRE",
+        "city": "MIDDLEFIELD",
+        "latitude": "+42.356088",
+        "longitude": "-073.010448"
+    },
+    {
+        "county": "HAMPSHIRE",
+        "city": "NORTH AMHERST",
+        "latitude": "+42.369562",
+        "longitude": "-072.635990"
+    },
+    {
+        "county": "HAMPSHIRE",
+        "city": "NORTH HATFIELD",
+        "latitude": "+42.406697",
+        "longitude": "-072.633901"
+    },
+    {
+        "county": "HAMPSHIRE",
+        "city": "NORTHAMPTON",
+        "latitude": "+42.317939",
+        "longitude": "-072.640234"
+    },
+    {
+        "county": "HAMPSHIRE",
+        "city": "PLAINFIELD",
+        "latitude": "+42.448984",
+        "longitude": "-072.958397"
+    },
+    {
+        "county": "HAMPSHIRE",
+        "city": "SOUTH HADLEY",
+        "latitude": "+42.249840",
+        "longitude": "-072.581520"
+    },
+    {
+        "county": "HAMPSHIRE",
+        "city": "SOUTHAMPTON",
+        "latitude": "+42.230008",
+        "longitude": "-072.728463"
+    },
+    {
+        "county": "HAMPSHIRE",
+        "city": "WARE",
+        "latitude": "+42.377471",
+        "longitude": "-072.548549"
+    },
+    {
+        "county": "HAMPSHIRE",
+        "city": "WEST CHESTERFIELD",
+        "latitude": "+42.390303",
+        "longitude": "-072.870857"
+    },
+    {
+        "county": "HAMPSHIRE",
+        "city": "WEST HATFIELD",
+        "latitude": "+42.390583",
+        "longitude": "-072.646894"
+    },
+    {
+        "county": "HAMPSHIRE",
+        "city": "WILLIAMSBURG",
+        "latitude": "+42.413069",
+        "longitude": "-072.821653"
+    },
+    {
+        "county": "HAMPSHIRE",
+        "city": "WORTHINGTON",
+        "latitude": "+42.404940",
+        "longitude": "-072.896133"
+    },
+    {
+        "county": "MIDDLESEX",
+        "city": "ACTON",
+        "latitude": "+42.446396",
+        "longitude": "-071.459405"
+    },
+    {
+        "county": "MIDDLESEX",
+        "city": "ARLINGTON",
+        "latitude": "+42.379146",
+        "longitude": "-071.184299"
+    },
+    {
+        "county": "MIDDLESEX",
+        "city": "ARLINGTON HEIGHTS",
+        "latitude": "+42.446396",
+        "longitude": "-071.459405"
+    },
+    {
+        "county": "MIDDLESEX",
+        "city": "ASHBY",
+        "latitude": "+42.446396",
+        "longitude": "-071.459405"
+    },
+    {
+        "county": "MIDDLESEX",
+        "city": "ASHLAND",
+        "latitude": "+42.446396",
+        "longitude": "-071.459405"
+    },
+    {
+        "county": "MIDDLESEX",
+        "city": "AUBURNDALE",
+        "latitude": "+42.346696",
+        "longitude": "-071.224957"
+    },
+    {
+        "county": "MIDDLESEX",
+        "city": "AYER",
+        "latitude": "+42.446396",
+        "longitude": "-071.459405"
+    },
+    {
+        "county": "MIDDLESEX",
+        "city": "BEDFORD",
+        "latitude": "+42.446396",
+        "longitude": "-071.459405"
+    },
+    {
+        "county": "MIDDLESEX",
+        "city": "BELMONT",
+        "latitude": "+42.412795",
+        "longitude": "-071.204399"
+    },
+    {
+        "county": "MIDDLESEX",
+        "city": "BILLERICA",
+        "latitude": "+42.446396",
+        "longitude": "-071.459405"
+    },
+    {
+        "county": "MIDDLESEX",
+        "city": "BOSTON",
+        "latitude": "+42.446396",
+        "longitude": "-071.459405"
+    },
+    {
+        "county": "MIDDLESEX",
+        "city": "BOXBOROUGH",
+        "latitude": "+42.446396",
+        "longitude": "-071.459405"
+    },
+    {
+        "county": "MIDDLESEX",
+        "city": "BURLINGTON",
+        "latitude": "+42.446396",
+        "longitude": "-071.459405"
+    },
+    {
+        "county": "MIDDLESEX",
+        "city": "CAMBRIDGE",
+        "latitude": "+42.446396",
+        "longitude": "-071.459405"
+    },
+    {
+        "county": "MIDDLESEX",
+        "city": "CARLISLE",
+        "latitude": "+42.446396",
+        "longitude": "-071.459405"
+    },
+    {
+        "county": "MIDDLESEX",
+        "city": "CHELMSFORD",
+        "latitude": "+42.446396",
+        "longitude": "-071.459405"
+    },
+    {
+        "county": "MIDDLESEX",
+        "city": "CHESTNUT HILL",
+        "latitude": "+42.357564",
+        "longitude": "-071.211649"
+    },
+    {
+        "county": "MIDDLESEX",
+        "city": "CONCORD",
+        "latitude": "+42.446396",
+        "longitude": "-071.459405"
+    },
+    {
+        "county": "MIDDLESEX",
+        "city": "DRACUT",
+        "latitude": "+42.446396",
+        "longitude": "-071.459405"
+    },
+    {
+        "county": "MIDDLESEX",
+        "city": "DUNSTABLE",
+        "latitude": "+42.446396",
+        "longitude": "-071.459405"
+    },
+    {
+        "county": "MIDDLESEX",
+        "city": "EVERETT",
+        "latitude": "+42.407396",
+        "longitude": "-071.051183"
+    },
+    {
+        "county": "MIDDLESEX",
+        "city": "FRAMINGHAM",
+        "latitude": "+42.446396",
+        "longitude": "-071.459405"
+    },
+    {
+        "county": "MIDDLESEX",
+        "city": "GROTON",
+        "latitude": "+42.446396",
+        "longitude": "-071.459405"
+    },
+    {
+        "county": "MIDDLESEX",
+        "city": "HANSCOM AFB",
+        "latitude": "+42.446396",
+        "longitude": "-071.459405"
+    },
+    {
+        "county": "MIDDLESEX",
+        "city": "HOLLISTON",
+        "latitude": "+42.446396",
+        "longitude": "-071.459405"
+    },
+    {
+        "county": "MIDDLESEX",
+        "city": "HOPKINTON",
+        "latitude": "+42.446396",
+        "longitude": "-071.459405"
+    },
+    {
+        "county": "MIDDLESEX",
+        "city": "HUDSON",
+        "latitude": "+42.446396",
+        "longitude": "-071.459405"
+    },
+    {
+        "county": "MIDDLESEX",
+        "city": "LEXINGTON",
+        "latitude": "+42.442567",
+        "longitude": "-071.226453"
+    },
+    {
+        "county": "MIDDLESEX",
+        "city": "LINCOLN",
+        "latitude": "+42.446396",
+        "longitude": "-071.459405"
+    },
+    {
+        "county": "MIDDLESEX",
+        "city": "LITTLETON",
+        "latitude": "+42.446396",
+        "longitude": "-071.459405"
+    },
+    {
+        "county": "MIDDLESEX",
+        "city": "LOWELL",
+        "latitude": "+42.446396",
+        "longitude": "-071.459405"
+    },
+    {
+        "county": "MIDDLESEX",
+        "city": "MALDEN",
+        "latitude": "+42.436545",
+        "longitude": "-071.085396"
+    },
+    {
+        "county": "MIDDLESEX",
+        "city": "MARLBOROUGH",
+        "latitude": "+42.446396",
+        "longitude": "-071.459405"
+    },
+    {
+        "county": "MIDDLESEX",
+        "city": "MAYNARD",
+        "latitude": "+42.446396",
+        "longitude": "-071.459405"
+    },
+    {
+        "county": "MIDDLESEX",
+        "city": "MEDFORD",
+        "latitude": "+42.422095",
+        "longitude": "-071.109297"
+    },
+    {
+        "county": "MIDDLESEX",
+        "city": "MELROSE",
+        "latitude": "+42.446396",
+        "longitude": "-071.459405"
+    },
+    {
+        "county": "MIDDLESEX",
+        "city": "NATICK",
+        "latitude": "+42.446396",
+        "longitude": "-071.459405"
+    },
+    {
+        "county": "MIDDLESEX",
+        "city": "NEW TOWN",
+        "latitude": "+42.446396",
+        "longitude": "-071.459405"
+    },
+    {
+        "county": "MIDDLESEX",
+        "city": "NEWTON",
+        "latitude": "+42.385096",
+        "longitude": "-071.208399"
+    },
+    {
+        "county": "MIDDLESEX",
+        "city": "NEWTON CENTER",
+        "latitude": "+42.334146",
+        "longitude": "-071.183298"
+    },
+    {
+        "county": "MIDDLESEX",
+        "city": "NEWTON HIGHLANDS",
+        "latitude": "+42.361196",
+        "longitude": "-071.205349"
+    },
+    {
+        "county": "MIDDLESEX",
+        "city": "NEWTON LOWER FALLS",
+        "latitude": "+42.349496",
+        "longitude": "-071.209699"
+    },
+    {
+        "county": "MIDDLESEX",
+        "city": "NEWTON UPPER FALLS",
+        "latitude": "+42.365990",
+        "longitude": "-071.221849"
+    },
+    {
+        "county": "MIDDLESEX",
+        "city": "NEWTONVILLE",
+        "latitude": "+42.374296",
+        "longitude": "-071.182371"
+    },
+    {
+        "county": "MIDDLESEX",
+        "city": "NONANTUM",
+        "latitude": "+42.446396",
+        "longitude": "-071.459405"
+    },
+    {
+        "county": "MIDDLESEX",
+        "city": "NORTH BILLERICA",
+        "latitude": "+42.446396",
+        "longitude": "-071.459405"
+    },
+    {
+        "county": "MIDDLESEX",
+        "city": "NORTH CHELMSFORD",
+        "latitude": "+42.446396",
+        "longitude": "-071.459405"
+    },
+    {
+        "county": "MIDDLESEX",
+        "city": "NORTH READING",
+        "latitude": "+42.571633",
+        "longitude": "-071.109646"
+    },
+    {
+        "county": "MIDDLESEX",
+        "city": "NORTH WALTHAM",
+        "latitude": "",
+        "longitude": ""
+    },
+    {
+        "county": "MIDDLESEX",
+        "city": "NUTTING LAKE",
+        "latitude": "+42.446396",
+        "longitude": "-071.459405"
+    },
+    {
+        "county": "MIDDLESEX",
+        "city": "PEPPERELL",
+        "latitude": "+42.446396",
+        "longitude": "-071.459405"
+    },
+    {
+        "county": "MIDDLESEX",
+        "city": "PINEHURST",
+        "latitude": "+42.446396",
+        "longitude": "-071.459405"
+    },
+    {
+        "county": "MIDDLESEX",
+        "city": "READING",
+        "latitude": "+42.537065",
+        "longitude": "-071.107172"
+    },
+    {
+        "county": "MIDDLESEX",
+        "city": "SHERBORN",
+        "latitude": "+42.446396",
+        "longitude": "-071.459405"
+    },
+    {
+        "county": "MIDDLESEX",
+        "city": "SHIRLEY",
+        "latitude": "+42.446396",
+        "longitude": "-071.459405"
+    },
+    {
+        "county": "MIDDLESEX",
+        "city": "SOMERVILLE",
+        "latitude": "+42.391046",
+        "longitude": "-071.095146"
+    },
+    {
+        "county": "MIDDLESEX",
+        "city": "STONEHAM",
+        "latitude": "+42.474595",
+        "longitude": "-071.098146"
+    },
+    {
+        "county": "MIDDLESEX",
+        "city": "STOW",
+        "latitude": "+42.446396",
+        "longitude": "-071.459405"
+    },
+    {
+        "county": "MIDDLESEX",
+        "city": "SUDBURY",
+        "latitude": "+42.446396",
+        "longitude": "-071.459405"
+    },
+    {
+        "county": "MIDDLESEX",
+        "city": "TEWKSBURY",
+        "latitude": "+42.446396",
+        "longitude": "-071.459405"
+    },
+    {
+        "county": "MIDDLESEX",
+        "city": "TOWNSEND",
+        "latitude": "+42.446396",
+        "longitude": "-071.459405"
+    },
+    {
+        "county": "MIDDLESEX",
+        "city": "TYNGSBORO",
+        "latitude": "+42.446396",
+        "longitude": "-071.459405"
+    },
+    {
+        "county": "MIDDLESEX",
+        "city": "VILLAGE OF NAGOG WOODS",
+        "latitude": "+42.446396",
+        "longitude": "-071.459405"
+    },
+    {
+        "county": "MIDDLESEX",
+        "city": "WABAN",
+        "latitude": "+42.327146",
+        "longitude": "-071.231534"
+    },
+    {
+        "county": "MIDDLESEX",
+        "city": "WAKEFIELD",
+        "latitude": "+42.499891",
+        "longitude": "-071.068829"
+    },
+    {
+        "county": "MIDDLESEX",
+        "city": "WALTHAM",
+        "latitude": "+42.356719",
+        "longitude": "-071.250479"
+    },
+    {
+        "county": "MIDDLESEX",
+        "city": "WATERTOWN",
+        "latitude": "+42.446396",
+        "longitude": "-071.459405"
+    },
+    {
+        "county": "MIDDLESEX",
+        "city": "WAVERLEY",
+        "latitude": "+42.446396",
+        "longitude": "-071.459405"
+    },
+    {
+        "county": "MIDDLESEX",
+        "city": "WAYLAND",
+        "latitude": "+42.446396",
+        "longitude": "-071.459405"
+    },
+    {
+        "county": "MIDDLESEX",
+        "city": "WEST GROTON",
+        "latitude": "+42.446396",
+        "longitude": "-071.459405"
+    },
+    {
+        "county": "MIDDLESEX",
+        "city": "WEST MEDFORD",
+        "latitude": "+42.446396",
+        "longitude": "-071.459405"
+    },
+    {
+        "county": "MIDDLESEX",
+        "city": "WEST NEWTON",
+        "latitude": "+42.378145",
+        "longitude": "-071.213199"
+    },
+    {
+        "county": "MIDDLESEX",
+        "city": "WEST TOWNSEND",
+        "latitude": "+42.446396",
+        "longitude": "-071.459405"
+    },
+    {
+        "county": "MIDDLESEX",
+        "city": "WESTFORD",
+        "latitude": "+42.446396",
+        "longitude": "-071.459405"
+    },
+    {
+        "county": "MIDDLESEX",
+        "city": "WESTON",
+        "latitude": "+42.375925",
+        "longitude": "-071.227208"
+    },
+    {
+        "county": "MIDDLESEX",
+        "city": "WILMINGTON",
+        "latitude": "+42.561782",
+        "longitude": "-071.173888"
+    },
+    {
+        "county": "MIDDLESEX",
+        "city": "WINCHESTER",
+        "latitude": "+42.454545",
+        "longitude": "-071.148779"
+    },
+    {
+        "county": "MIDDLESEX",
+        "city": "WOBURN",
+        "latitude": "+42.446396",
+        "longitude": "-071.459405"
+    },
+    {
+        "county": "MIDDLESEX",
+        "city": "WOODVILLE",
+        "latitude": "+42.446396",
+        "longitude": "-071.459405"
+    },
+    {
+        "county": "NANTUCKET",
+        "city": "NANTUCKET",
+        "latitude": "+41.277794",
+        "longitude": "-070.046019"
+    },
+    {
+        "county": "NANTUCKET",
+        "city": "SIASCONSET",
+        "latitude": "+41.273949",
+        "longitude": "-070.015545"
+    },
+    {
+        "county": "NORFOLK",
+        "city": "AVON",
+        "latitude": "+42.126049",
+        "longitude": "-071.048216"
+    },
+    {
+        "county": "NORFOLK",
+        "city": "BABSON PARK",
+        "latitude": "+42.180048",
+        "longitude": "-071.089230"
+    },
+    {
+        "county": "NORFOLK",
+        "city": "BELLINGHAM",
+        "latitude": "+42.076501",
+        "longitude": "-071.470464"
+    },
+    {
+        "county": "NORFOLK",
+        "city": "BRAINTREE",
+        "latitude": "+42.180048",
+        "longitude": "-071.089230"
+    },
+    {
+        "county": "NORFOLK",
+        "city": "BROOKLINE",
+        "latitude": "+42.343097",
+        "longitude": "-071.123046"
+    },
+    {
+        "county": "NORFOLK",
+        "city": "BROOKLINE VILLAGE",
+        "latitude": "+42.180048",
+        "longitude": "-071.089230"
+    },
+    {
+        "county": "NORFOLK",
+        "city": "CANTON",
+        "latitude": "+42.179146",
+        "longitude": "-071.121185"
+    },
+    {
+        "county": "NORFOLK",
+        "city": "COHASSET",
+        "latitude": "+42.233938",
+        "longitude": "-070.815826"
+    },
+    {
+        "county": "NORFOLK",
+        "city": "DEDHAM",
+        "latitude": "+42.180048",
+        "longitude": "-071.089230"
+    },
+    {
+        "county": "NORFOLK",
+        "city": "DOVER",
+        "latitude": "+42.236114",
+        "longitude": "-071.283072"
+    },
+    {
+        "county": "NORFOLK",
+        "city": "EAST WALPOLE",
+        "latitude": "+42.153786",
+        "longitude": "-071.214550"
+    },
+    {
+        "county": "NORFOLK",
+        "city": "FOXBORO",
+        "latitude": "+42.062204",
+        "longitude": "-071.235774"
+    },
+    {
+        "county": "NORFOLK",
+        "city": "FRANKLIN",
+        "latitude": "+42.088680",
+        "longitude": "-071.404814"
+    },
+    {
+        "county": "NORFOLK",
+        "city": "HOLBROOK",
+        "latitude": "+42.144424",
+        "longitude": "-071.002890"
+    },
+    {
+        "county": "NORFOLK",
+        "city": "MEDFIELD",
+        "latitude": "+42.181265",
+        "longitude": "-071.309934"
+    },
+    {
+        "county": "NORFOLK",
+        "city": "MEDWAY",
+        "latitude": "+42.156282",
+        "longitude": "-071.427663"
+    },
+    {
+        "county": "NORFOLK",
+        "city": "MILLIS",
+        "latitude": "+42.165249",
+        "longitude": "-071.361260"
+    },
+    {
+        "county": "NORFOLK",
+        "city": "MILTON",
+        "latitude": "+42.240598",
+        "longitude": "-071.078494"
+    },
+    {
+        "county": "NORFOLK",
+        "city": "MILTON VILLAGE",
+        "latitude": "+42.180048",
+        "longitude": "-071.089230"
+    },
+    {
+        "county": "NORFOLK",
+        "city": "NEEDHAM",
+        "latitude": "+42.279797",
+        "longitude": "-071.250060"
+    },
+    {
+        "county": "NORFOLK",
+        "city": "NEEDHAM HEIGHTS",
+        "latitude": "+42.300147",
+        "longitude": "-071.263150"
+    },
+    {
+        "county": "NORFOLK",
+        "city": "NORFOLK",
+        "latitude": "+42.117511",
+        "longitude": "-071.331793"
+    },
+    {
+        "county": "NORFOLK",
+        "city": "NORWOOD",
+        "latitude": "+42.182798",
+        "longitude": "-071.196277"
+    },
+    {
+        "county": "NORFOLK",
+        "city": "PLAINVILLE",
+        "latitude": "+42.013553",
+        "longitude": "-071.334399"
+    },
+    {
+        "county": "NORFOLK",
+        "city": "QUINCY",
+        "latitude": "+42.180048",
+        "longitude": "-071.089230"
+    },
+    {
+        "county": "NORFOLK",
+        "city": "RANDOLPH",
+        "latitude": "+42.171467",
+        "longitude": "-071.055602"
+    },
+    {
+        "county": "NORFOLK",
+        "city": "SHARON",
+        "latitude": "+42.105288",
+        "longitude": "-071.184785"
+    },
+    {
+        "county": "NORFOLK",
+        "city": "SHELDONVILLE",
+        "latitude": "+42.180048",
+        "longitude": "-071.089230"
+    },
+    {
+        "county": "NORFOLK",
+        "city": "SOUTH WALPOLE",
+        "latitude": "+42.100399",
+        "longitude": "-071.270933"
+    },
+    {
+        "county": "NORFOLK",
+        "city": "STOUGHTON",
+        "latitude": "+42.118416",
+        "longitude": "-071.105733"
+    },
+    {
+        "county": "NORFOLK",
+        "city": "WALPOLE",
+        "latitude": "+42.148624",
+        "longitude": "-071.255533"
+    },
+    {
+        "county": "NORFOLK",
+        "city": "WELLESLEY",
+        "latitude": "+42.294546",
+        "longitude": "-071.299201"
+    },
+    {
+        "county": "NORFOLK",
+        "city": "WELLESLEY HILLS",
+        "latitude": "+42.310597",
+        "longitude": "-071.274652"
+    },
+    {
+        "county": "NORFOLK",
+        "city": "WESTWOOD",
+        "latitude": "+42.220548",
+        "longitude": "-071.199238"
+    },
+    {
+        "county": "NORFOLK",
+        "city": "WEYMOUTH",
+        "latitude": "+42.251499",
+        "longitude": "-070.944840"
+    },
+    {
+        "county": "NORFOLK",
+        "city": "WRENTHAM",
+        "latitude": "+42.054311",
+        "longitude": "-071.371169"
+    },
+    {
+        "county": "PLYMOUTH",
+        "city": "ABINGTON",
+        "latitude": "+42.117490",
+        "longitude": "-070.959888"
+    },
+    {
+        "county": "PLYMOUTH",
+        "city": "ACCORD",
+        "latitude": "+41.970474",
+        "longitude": "-070.701357"
+    },
+    {
+        "county": "PLYMOUTH",
+        "city": "BRANT ROCK",
+        "latitude": "+42.081825",
+        "longitude": "-070.643868"
+    },
+    {
+        "county": "PLYMOUTH",
+        "city": "BRIDGEWATER",
+        "latitude": "+41.987250",
+        "longitude": "-070.972786"
+    },
+    {
+        "county": "PLYMOUTH",
+        "city": "BROCKTON",
+        "latitude": "+41.970474",
+        "longitude": "-070.701357"
+    },
+    {
+        "county": "PLYMOUTH",
+        "city": "BRYANTVILLE",
+        "latitude": "+42.040708",
+        "longitude": "-070.827245"
+    },
+    {
+        "county": "PLYMOUTH",
+        "city": "CARVER",
+        "latitude": "+41.896238",
+        "longitude": "-070.759689"
+    },
+    {
+        "county": "PLYMOUTH",
+        "city": "DUXBURY",
+        "latitude": "+42.052985",
+        "longitude": "-070.710808"
+    },
+    {
+        "county": "PLYMOUTH",
+        "city": "EAST BRIDGEWATER",
+        "latitude": "+42.022850",
+        "longitude": "-070.931056"
+    },
+    {
+        "county": "PLYMOUTH",
+        "city": "EAST WAREHAM",
+        "latitude": "+41.775440",
+        "longitude": "-070.660562"
+    },
+    {
+        "county": "PLYMOUTH",
+        "city": "ELMWOOD",
+        "latitude": "+42.022225",
+        "longitude": "-070.931588"
+    },
+    {
+        "county": "PLYMOUTH",
+        "city": "GREEN HARBOR",
+        "latitude": "+42.069642",
+        "longitude": "-070.649075"
+    },
+    {
+        "county": "PLYMOUTH",
+        "city": "GREENBUSH",
+        "latitude": "+41.970474",
+        "longitude": "-070.701357"
+    },
+    {
+        "county": "PLYMOUTH",
+        "city": "HALIFAX",
+        "latitude": "+41.988351",
+        "longitude": "-070.860578"
+    },
+    {
+        "county": "PLYMOUTH",
+        "city": "HANOVER",
+        "latitude": "+42.123534",
+        "longitude": "-070.851048"
+    },
+    {
+        "county": "PLYMOUTH",
+        "city": "HANSON",
+        "latitude": "+42.055701",
+        "longitude": "-070.875936"
+    },
+    {
+        "county": "PLYMOUTH",
+        "city": "HINGHAM",
+        "latitude": "+41.970474",
+        "longitude": "-070.701357"
+    },
+    {
+        "county": "PLYMOUTH",
+        "city": "HULL",
+        "latitude": "+42.284413",
+        "longitude": "-070.873659"
+    },
+    {
+        "county": "PLYMOUTH",
+        "city": "HUMAROCK",
+        "latitude": "+42.142836",
+        "longitude": "-070.693530"
+    },
+    {
+        "county": "PLYMOUTH",
+        "city": "KINGSTON",
+        "latitude": "+41.979405",
+        "longitude": "-070.744813"
+    },
+    {
+        "county": "PLYMOUTH",
+        "city": "LAKEVILLE",
+        "latitude": "+41.843757",
+        "longitude": "-070.959981"
+    },
+    {
+        "county": "PLYMOUTH",
+        "city": "MANOMET",
+        "latitude": "+41.888198",
+        "longitude": "-070.581029"
+    },
+    {
+        "county": "PLYMOUTH",
+        "city": "MARION",
+        "latitude": "+41.736735",
+        "longitude": "-070.754015"
+    },
+    {
+        "county": "PLYMOUTH",
+        "city": "MARSHFIELD",
+        "latitude": "+42.111805",
+        "longitude": "-070.710744"
+    },
+    {
+        "county": "PLYMOUTH",
+        "city": "MARSHFIELD HILLS",
+        "latitude": "+42.151202",
+        "longitude": "-070.734146"
+    },
+    {
+        "county": "PLYMOUTH",
+        "city": "MATTAPOISETT",
+        "latitude": "+41.664976",
+        "longitude": "-070.810856"
+    },
+    {
+        "county": "PLYMOUTH",
+        "city": "MIDDLEBORO",
+        "latitude": "+41.970474",
+        "longitude": "-070.701357"
+    },
+    {
+        "county": "PLYMOUTH",
+        "city": "MINOT",
+        "latitude": "+41.970474",
+        "longitude": "-070.701357"
+    },
+    {
+        "county": "PLYMOUTH",
+        "city": "MONPONSETT",
+        "latitude": "+42.018525",
+        "longitude": "-070.847486"
+    },
+    {
+        "county": "PLYMOUTH",
+        "city": "NORTH CARVER",
+        "latitude": "+41.916918",
+        "longitude": "-070.801331"
+    },
+    {
+        "county": "PLYMOUTH",
+        "city": "NORTH MARSHFIELD",
+        "latitude": "+41.970474",
+        "longitude": "-070.701357"
+    },
+    {
+        "county": "PLYMOUTH",
+        "city": "NORTH PEMBROKE",
+        "latitude": "+41.953510",
+        "longitude": "-070.713109"
+    },
+    {
+        "county": "PLYMOUTH",
+        "city": "NORTH SCITUATE",
+        "latitude": "+41.970474",
+        "longitude": "-070.701357"
+    },
+    {
+        "county": "PLYMOUTH",
+        "city": "NORWELL",
+        "latitude": "+42.154145",
+        "longitude": "-070.823035"
+    },
+    {
+        "county": "PLYMOUTH",
+        "city": "OCEAN BLUFF",
+        "latitude": "+42.097219",
+        "longitude": "-070.651567"
+    },
+    {
+        "county": "PLYMOUTH",
+        "city": "ONSET",
+        "latitude": "+41.747560",
+        "longitude": "-070.658164"
+    },
+    {
+        "county": "PLYMOUTH",
+        "city": "PEMBROKE",
+        "latitude": "+42.065702",
+        "longitude": "-070.800778"
+    },
+    {
+        "county": "PLYMOUTH",
+        "city": "PLYMOUTH",
+        "latitude": "+41.970474",
+        "longitude": "-070.701357"
+    },
+    {
+        "county": "PLYMOUTH",
+        "city": "PLYMPTON",
+        "latitude": "+41.969140",
+        "longitude": "-070.812299"
+    },
+    {
+        "county": "PLYMOUTH",
+        "city": "ROCHESTER",
+        "latitude": "+41.751812",
+        "longitude": "-070.846041"
+    },
+    {
+        "county": "PLYMOUTH",
+        "city": "ROCKLAND",
+        "latitude": "+41.954199",
+        "longitude": "-070.885095"
+    },
+    {
+        "county": "PLYMOUTH",
+        "city": "SCITUATE",
+        "latitude": "+42.207254",
+        "longitude": "-070.770188"
+    },
+    {
+        "county": "PLYMOUTH",
+        "city": "SOUTH CARVER",
+        "latitude": "+41.850087",
+        "longitude": "-070.704431"
+    },
+    {
+        "county": "PLYMOUTH",
+        "city": "WAREHAM",
+        "latitude": "+41.760216",
+        "longitude": "-070.694662"
+    },
+    {
+        "county": "PLYMOUTH",
+        "city": "WEST BRIDGEWATER",
+        "latitude": "+42.021650",
+        "longitude": "-071.023588"
+    },
+    {
+        "county": "PLYMOUTH",
+        "city": "WEST WAREHAM",
+        "latitude": "+41.769863",
+        "longitude": "-070.749688"
+    },
+    {
+        "county": "PLYMOUTH",
+        "city": "WHITE HORSE BEACH",
+        "latitude": "+41.931602",
+        "longitude": "-070.561051"
+    },
+    {
+        "county": "PLYMOUTH",
+        "city": "WHITMAN",
+        "latitude": "+42.078500",
+        "longitude": "-070.940837"
+    },
+    {
+        "county": "SUFFOLK",
+        "city": "ALLSTON",
+        "latitude": "+42.357169",
+        "longitude": "-071.112646"
+    },
+    {
+        "county": "SUFFOLK",
+        "city": "BOSTON",
+        "latitude": "+42.338947",
+        "longitude": "-070.919635"
+    },
+    {
+        "county": "SUFFOLK",
+        "city": "BRIGHTON",
+        "latitude": "+42.349768",
+        "longitude": "-071.104888"
+    },
+    {
+        "county": "SUFFOLK",
+        "city": "CHARLESTOWN",
+        "latitude": "+42.382588",
+        "longitude": "-071.065287"
+    },
+    {
+        "county": "SUFFOLK",
+        "city": "CHELSEA",
+        "latitude": "+42.378197",
+        "longitude": "-071.038894"
+    },
+    {
+        "county": "SUFFOLK",
+        "city": "EAST BOSTON",
+        "latitude": "",
+        "longitude": ""
+    },
+    {
+        "county": "SUFFOLK",
+        "city": "HYDE PARK",
+        "latitude": "+42.254248",
+        "longitude": "-071.129321"
+    },
+    {
+        "county": "SUFFOLK",
+        "city": "JAMAICA PLAIN",
+        "latitude": "+42.309661",
+        "longitude": "-071.121097"
+    },
+    {
+        "county": "SUFFOLK",
+        "city": "MATTAPAN",
+        "latitude": "+42.301247",
+        "longitude": "-071.105195"
+    },
+    {
+        "county": "SUFFOLK",
+        "city": "READVILLE",
+        "latitude": "+42.338947",
+        "longitude": "-070.919635"
+    },
+    {
+        "county": "SUFFOLK",
+        "city": "REVERE",
+        "latitude": "+42.366303",
+        "longitude": "-071.020494"
+    },
+    {
+        "county": "SUFFOLK",
+        "city": "ROSLINDALE",
+        "latitude": "+42.284197",
+        "longitude": "-071.120896"
+    },
+    {
+        "county": "SUFFOLK",
+        "city": "WEST ROXBURY",
+        "latitude": "+42.277897",
+        "longitude": "-071.155833"
+    },
+    {
+        "county": "SUFFOLK",
+        "city": "WINTHROP",
+        "latitude": "+42.378447",
+        "longitude": "-070.981679"
+    },
+    {
+        "county": "WORCESTER",
+        "city": "ASHBURNHAM",
+        "latitude": "+42.654906",
+        "longitude": "-071.920942"
+    },
+    {
+        "county": "WORCESTER",
+        "city": "ATHOL",
+        "latitude": "+42.547302",
+        "longitude": "-072.183903"
+    },
+    {
+        "county": "WORCESTER",
+        "city": "AUBURN",
+        "latitude": "+42.184835",
+        "longitude": "-071.947184"
+    },
+    {
+        "county": "WORCESTER",
+        "city": "BALDWINVILLE",
+        "latitude": "+42.601427",
+        "longitude": "-072.083838"
+    },
+    {
+        "county": "WORCESTER",
+        "city": "BARRE",
+        "latitude": "+42.329160",
+        "longitude": "-072.139465"
+    },
+    {
+        "county": "WORCESTER",
+        "city": "BERLIN",
+        "latitude": "+42.312900",
+        "longitude": "-071.841656"
+    },
+    {
+        "county": "WORCESTER",
+        "city": "BLACKSTONE",
+        "latitude": "+42.114078",
+        "longitude": "-071.799785"
+    },
+    {
+        "county": "WORCESTER",
+        "city": "BOLTON",
+        "latitude": "+42.436043",
+        "longitude": "-071.605916"
+    },
+    {
+        "county": "WORCESTER",
+        "city": "BOYLSTON",
+        "latitude": "+42.300037",
+        "longitude": "-071.943458"
+    },
+    {
+        "county": "WORCESTER",
+        "city": "BROOKFIELD",
+        "latitude": "+42.191690",
+        "longitude": "-072.105011"
+    },
+    {
+        "county": "WORCESTER",
+        "city": "CHARLTON",
+        "latitude": "+42.132770",
+        "longitude": "-071.972627"
+    },
+    {
+        "county": "WORCESTER",
+        "city": "CHARLTON CITY",
+        "latitude": "+42.109748",
+        "longitude": "-072.079455"
+    },
+    {
+        "county": "WORCESTER",
+        "city": "CHARLTON DEPOT",
+        "latitude": "+42.364807",
+        "longitude": "-071.896868"
+    },
+    {
+        "county": "WORCESTER",
+        "city": "CHERRY VALLEY",
+        "latitude": "+42.239392",
+        "longitude": "-071.878716"
+    },
+    {
+        "county": "WORCESTER",
+        "city": "CLINTON",
+        "latitude": "+42.413972",
+        "longitude": "-071.687523"
+    },
+    {
+        "county": "WORCESTER",
+        "city": "DOUGLAS",
+        "latitude": "+42.113076",
+        "longitude": "-071.891139"
+    },
+    {
+        "county": "WORCESTER",
+        "city": "DUDLEY",
+        "latitude": "+42.059189",
+        "longitude": "-071.937037"
+    },
+    {
+        "county": "WORCESTER",
+        "city": "EAST BROOKFIELD",
+        "latitude": "+42.205311",
+        "longitude": "-072.049907"
+    },
+    {
+        "county": "WORCESTER",
+        "city": "EAST PRINCETON",
+        "latitude": "+42.364807",
+        "longitude": "-071.896868"
+    },
+    {
+        "county": "WORCESTER",
+        "city": "EAST TEMPLETON",
+        "latitude": "+42.551681",
+        "longitude": "-072.029434"
+    },
+    {
+        "county": "WORCESTER",
+        "city": "FAYVILLE",
+        "latitude": "+42.293442",
+        "longitude": "-071.502762"
+    },
+    {
+        "county": "WORCESTER",
+        "city": "FISKDALE",
+        "latitude": "+42.106405",
+        "longitude": "-072.114045"
+    },
+    {
+        "county": "WORCESTER",
+        "city": "FITCHBURG",
+        "latitude": "+42.583689",
+        "longitude": "-071.816767"
+    },
+    {
+        "county": "WORCESTER",
+        "city": "GARDNER",
+        "latitude": "+42.582529",
+        "longitude": "-072.025884"
+    },
+    {
+        "county": "WORCESTER",
+        "city": "GILBERTVILLE",
+        "latitude": "+42.352554",
+        "longitude": "-072.205724"
+    },
+    {
+        "county": "WORCESTER",
+        "city": "GRAFTON",
+        "latitude": "+42.203944",
+        "longitude": "-071.682862"
+    },
+    {
+        "county": "WORCESTER",
+        "city": "HARDWICK",
+        "latitude": "+42.347856",
+        "longitude": "-072.225251"
+    },
+    {
+        "county": "WORCESTER",
+        "city": "HARVARD",
+        "latitude": "+42.500187",
+        "longitude": "-071.575864"
+    },
+    {
+        "county": "WORCESTER",
+        "city": "HOLDEN",
+        "latitude": "+42.336791",
+        "longitude": "-071.845316"
+    },
+    {
+        "county": "WORCESTER",
+        "city": "HOPEDALE",
+        "latitude": "+42.127515",
+        "longitude": "-071.533138"
+    },
+    {
+        "county": "WORCESTER",
+        "city": "HUBBARDSTON",
+        "latitude": "+42.483895",
+        "longitude": "-072.011516"
+    },
+    {
+        "county": "WORCESTER",
+        "city": "JEFFERSON",
+        "latitude": "+42.264629",
+        "longitude": "-071.795442"
+    },
+    {
+        "county": "WORCESTER",
+        "city": "LANCASTER",
+        "latitude": "+42.427188",
+        "longitude": "-071.911770"
+    },
+    {
+        "county": "WORCESTER",
+        "city": "LEICESTER",
+        "latitude": "+42.238192",
+        "longitude": "-072.012379"
+    },
+    {
+        "county": "WORCESTER",
+        "city": "LEOMINSTER",
+        "latitude": "+42.471316",
+        "longitude": "-071.837509"
+    },
+    {
+        "county": "WORCESTER",
+        "city": "LINWOOD",
+        "latitude": "+42.364807",
+        "longitude": "-071.896868"
+    },
+    {
+        "county": "WORCESTER",
+        "city": "LUNENBURG",
+        "latitude": "+42.583322",
+        "longitude": "-071.752266"
+    },
+    {
+        "county": "WORCESTER",
+        "city": "MANCHAUG",
+        "latitude": "+42.364807",
+        "longitude": "-071.896868"
+    },
+    {
+        "county": "WORCESTER",
+        "city": "MENDON",
+        "latitude": "+42.100352",
+        "longitude": "-071.546961"
+    },
+    {
+        "county": "WORCESTER",
+        "city": "MILFORD",
+        "latitude": "+42.147087",
+        "longitude": "-071.528085"
+    },
+    {
+        "county": "WORCESTER",
+        "city": "MILLBURY",
+        "latitude": "+42.255642",
+        "longitude": "-071.819961"
+    },
+    {
+        "county": "WORCESTER",
+        "city": "MILLVILLE",
+        "latitude": "+42.124662",
+        "longitude": "-071.846943"
+    },
+    {
+        "county": "WORCESTER",
+        "city": "NEW BRAINTREE",
+        "latitude": "+42.320938",
+        "longitude": "-072.128644"
+    },
+    {
+        "county": "WORCESTER",
+        "city": "NORTH BROOKFIELD",
+        "latitude": "+42.275382",
+        "longitude": "-072.089338"
+    },
+    {
+        "county": "WORCESTER",
+        "city": "NORTH GRAFTON",
+        "latitude": "+42.407556",
+        "longitude": "-071.860402"
+    },
+    {
+        "county": "WORCESTER",
+        "city": "NORTH OXFORD",
+        "latitude": "+42.166241",
+        "longitude": "-071.891052"
+    },
+    {
+        "county": "WORCESTER",
+        "city": "NORTH UXBRIDGE",
+        "latitude": "+42.364807",
+        "longitude": "-071.896868"
+    },
+    {
+        "county": "WORCESTER",
+        "city": "NORTHBOROUGH",
+        "latitude": "+42.322118",
+        "longitude": "-071.642820"
+    },
+    {
+        "county": "WORCESTER",
+        "city": "NORTHBRIDGE",
+        "latitude": "+42.207191",
+        "longitude": "-071.856807"
+    },
+    {
+        "county": "WORCESTER",
+        "city": "OAKHAM",
+        "latitude": "+42.346144",
+        "longitude": "-072.058847"
+    },
+    {
+        "county": "WORCESTER",
+        "city": "OXFORD",
+        "latitude": "+42.109223",
+        "longitude": "-071.855444"
+    },
+    {
+        "county": "WORCESTER",
+        "city": "PAXTON",
+        "latitude": "+42.304675",
+        "longitude": "-071.892875"
+    },
+    {
+        "county": "WORCESTER",
+        "city": "PETERSHAM",
+        "latitude": "+42.459632",
+        "longitude": "-072.182962"
+    },
+    {
+        "county": "WORCESTER",
+        "city": "PRINCETON",
+        "latitude": "+42.451926",
+        "longitude": "-071.880057"
+    },
+    {
+        "county": "WORCESTER",
+        "city": "ROCHDALE",
+        "latitude": "+42.220085",
+        "longitude": "-071.914361"
+    },
+    {
+        "county": "WORCESTER",
+        "city": "ROYALSTON",
+        "latitude": "+42.672182",
+        "longitude": "-072.196376"
+    },
+    {
+        "county": "WORCESTER",
+        "city": "RUTLAND",
+        "latitude": "+42.383516",
+        "longitude": "-071.954630"
+    },
+    {
+        "county": "WORCESTER",
+        "city": "SHREWSBURY",
+        "latitude": "+42.364807",
+        "longitude": "-071.896868"
+    },
+    {
+        "county": "WORCESTER",
+        "city": "SOUTH BARRE",
+        "latitude": "+42.375998",
+        "longitude": "-072.149388"
+    },
+    {
+        "county": "WORCESTER",
+        "city": "SOUTH GRAFTON",
+        "latitude": "+42.176544",
+        "longitude": "-071.681912"
+    },
+    {
+        "county": "WORCESTER",
+        "city": "SOUTH LANCASTER",
+        "latitude": "+42.443539",
+        "longitude": "-071.686137"
+    },
+    {
+        "county": "WORCESTER",
+        "city": "SOUTHBOROUGH",
+        "latitude": "+42.296842",
+        "longitude": "-071.533229"
+    },
+    {
+        "county": "WORCESTER",
+        "city": "SOUTHBRIDGE",
+        "latitude": "+42.129251",
+        "longitude": "-072.031155"
+    },
+    {
+        "county": "WORCESTER",
+        "city": "SPENCER",
+        "latitude": "+42.254837",
+        "longitude": "-072.065612"
+    },
+    {
+        "county": "WORCESTER",
+        "city": "STERLING",
+        "latitude": "+42.366765",
+        "longitude": "-071.939375"
+    },
+    {
+        "county": "WORCESTER",
+        "city": "STILL RIVER",
+        "latitude": "+42.487056",
+        "longitude": "-071.613078"
+    },
+    {
+        "county": "WORCESTER",
+        "city": "STURBRIDGE",
+        "latitude": "+42.102730",
+        "longitude": "-072.080996"
+    },
+    {
+        "county": "WORCESTER",
+        "city": "SUTTON",
+        "latitude": "+42.126575",
+        "longitude": "-071.755193"
+    },
+    {
+        "county": "WORCESTER",
+        "city": "TEMPLETON",
+        "latitude": "+42.555059",
+        "longitude": "-072.072285"
+    },
+    {
+        "county": "WORCESTER",
+        "city": "UPTON",
+        "latitude": "+42.175591",
+        "longitude": "-071.603197"
+    },
+    {
+        "county": "WORCESTER",
+        "city": "UXBRIDGE",
+        "latitude": "+42.059736",
+        "longitude": "-071.638438"
+    },
+    {
+        "county": "WORCESTER",
+        "city": "WARREN",
+        "latitude": "+42.204027",
+        "longitude": "-072.199439"
+    },
+    {
+        "county": "WORCESTER",
+        "city": "WEBSTER",
+        "latitude": "+42.135100",
+        "longitude": "-071.994169"
+    },
+    {
+        "county": "WORCESTER",
+        "city": "WEST BOYLSTON",
+        "latitude": "+42.362783",
+        "longitude": "-071.781215"
+    },
+    {
+        "county": "WORCESTER",
+        "city": "WEST BROOKFIELD",
+        "latitude": "+42.235638",
+        "longitude": "-072.172523"
+    },
+    {
+        "county": "WORCESTER",
+        "city": "WEST MILLBURY",
+        "latitude": "+42.364807",
+        "longitude": "-071.896868"
+    },
+    {
+        "county": "WORCESTER",
+        "city": "WEST WARREN",
+        "latitude": "+42.202887",
+        "longitude": "-072.229025"
+    },
+    {
+        "county": "WORCESTER",
+        "city": "WESTBOROUGH",
+        "latitude": "+42.364807",
+        "longitude": "-071.896868"
+    },
+    {
+        "county": "WORCESTER",
+        "city": "WESTMINSTER",
+        "latitude": "+42.549489",
+        "longitude": "-071.913219"
+    },
+    {
+        "county": "WORCESTER",
+        "city": "WHEELWRIGHT",
+        "latitude": "+42.358201",
+        "longitude": "-072.140846"
+    },
+    {
+        "county": "WORCESTER",
+        "city": "WHITINSVILLE",
+        "latitude": "+42.166554",
+        "longitude": "-071.899484"
+    },
+    {
+        "county": "WORCESTER",
+        "city": "WINCHENDON",
+        "latitude": "+42.661612",
+        "longitude": "-072.047876"
+    },
+    {
+        "county": "WORCESTER",
+        "city": "WINCHENDON SPRINGS",
+        "latitude": "+42.364807",
+        "longitude": "-071.896868"
+    },
+    {
+        "county": "WORCESTER",
+        "city": "WORCESTER",
+        "latitude": "+42.364807",
+        "longitude": "-071.896868"
+    }
+]

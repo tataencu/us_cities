@@ -1,0 +1,23 @@
+[
+    {
+        "county": "NORTHERN MARIANA ISLANDS",
+        "city": "ROTA",
+        "zipcode": 96951,
+        "latitude": "+15.190135",
+        "longitude": "+145.740804"
+    },
+    {
+        "county": "NORTHERN MARIANA ISLANDS",
+        "city": "SAIPAN",
+        "zipcode": 96950,
+        "latitude": "+15.190135",
+        "longitude": "+145.740804"
+    },
+    {
+        "county": "NORTHERN MARIANA ISLANDS",
+        "city": "TINIAN",
+        "zipcode": 96952,
+        "latitude": "+15.190135",
+        "longitude": "+145.740804"
+    }
+]

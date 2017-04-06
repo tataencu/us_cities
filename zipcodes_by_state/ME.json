@@ -1,0 +1,3537 @@
+[
+    {
+        "county": "ANDROSCOGGIN",
+        "city": "AUBURN",
+        "zipcode": "04210",
+        "latitude": "+44.087422",
+        "longitude": "-070.243848"
+    },
+    {
+        "county": "ANDROSCOGGIN",
+        "city": "AUBURN",
+        "zipcode": "04211",
+        "latitude": "+44.197009",
+        "longitude": "-070.239485"
+    },
+    {
+        "county": "ANDROSCOGGIN",
+        "city": "AUBURN",
+        "zipcode": "04212",
+        "latitude": "+44.197009",
+        "longitude": "-070.239485"
+    },
+    {
+        "county": "ANDROSCOGGIN",
+        "city": "DANVILLE",
+        "zipcode": "04223",
+        "latitude": "+44.023873",
+        "longitude": "-070.285748"
+    },
+    {
+        "county": "ANDROSCOGGIN",
+        "city": "DURHAM",
+        "zipcode": "04222",
+        "latitude": "+43.968378",
+        "longitude": "-070.184618"
+    },
+    {
+        "county": "ANDROSCOGGIN",
+        "city": "EAST LIVERMORE",
+        "zipcode": "04228",
+        "latitude": "+44.197009",
+        "longitude": "-070.239485"
+    },
+    {
+        "county": "ANDROSCOGGIN",
+        "city": "EAST POLAND",
+        "zipcode": "04230",
+        "latitude": "+44.062672",
+        "longitude": "-070.327049"
+    },
+    {
+        "county": "ANDROSCOGGIN",
+        "city": "GREENE",
+        "zipcode": "04236",
+        "latitude": "+44.189655",
+        "longitude": "-070.136683"
+    },
+    {
+        "county": "ANDROSCOGGIN",
+        "city": "LEEDS",
+        "zipcode": "04263",
+        "latitude": "+44.292089",
+        "longitude": "-070.135366"
+    },
+    {
+        "county": "ANDROSCOGGIN",
+        "city": "LEWISTON",
+        "zipcode": "04240",
+        "latitude": "+44.086323",
+        "longitude": "-070.169297"
+    },
+    {
+        "county": "ANDROSCOGGIN",
+        "city": "LEWISTON",
+        "zipcode": "04241",
+        "latitude": "+44.197009",
+        "longitude": "-070.239485"
+    },
+    {
+        "county": "ANDROSCOGGIN",
+        "city": "LEWISTON",
+        "zipcode": "04243",
+        "latitude": "+44.197009",
+        "longitude": "-070.239485"
+    },
+    {
+        "county": "ANDROSCOGGIN",
+        "city": "LISBON",
+        "zipcode": "04250",
+        "latitude": "+44.033026",
+        "longitude": "-070.101247"
+    },
+    {
+        "county": "ANDROSCOGGIN",
+        "city": "LISBON FALLS",
+        "zipcode": "04252",
+        "latitude": "+44.032476",
+        "longitude": "-070.068046"
+    },
+    {
+        "county": "ANDROSCOGGIN",
+        "city": "LIVERMORE",
+        "zipcode": "04253",
+        "latitude": "+44.297416",
+        "longitude": "-070.189139"
+    },
+    {
+        "county": "ANDROSCOGGIN",
+        "city": "LIVERMORE FALLS",
+        "zipcode": "04254",
+        "latitude": "+44.242189",
+        "longitude": "-070.188508"
+    },
+    {
+        "county": "ANDROSCOGGIN",
+        "city": "MECHANIC FALLS",
+        "zipcode": "04256",
+        "latitude": "+44.079644",
+        "longitude": "-070.272624"
+    },
+    {
+        "county": "ANDROSCOGGIN",
+        "city": "MINOT",
+        "zipcode": "04258",
+        "latitude": "+44.146121",
+        "longitude": "-070.339859"
+    },
+    {
+        "county": "ANDROSCOGGIN",
+        "city": "NORTH TURNER",
+        "zipcode": "04266",
+        "latitude": "+44.357987",
+        "longitude": "-070.255783"
+    },
+    {
+        "county": "ANDROSCOGGIN",
+        "city": "POLAND",
+        "zipcode": "04274",
+        "latitude": "+44.047435",
+        "longitude": "-070.389923"
+    },
+    {
+        "county": "ANDROSCOGGIN",
+        "city": "SABATTUS",
+        "zipcode": "04280",
+        "latitude": "+44.126723",
+        "longitude": "-070.126922"
+    },
+    {
+        "county": "ANDROSCOGGIN",
+        "city": "TURNER",
+        "zipcode": "04282",
+        "latitude": "+44.265473",
+        "longitude": "-070.254155"
+    },
+    {
+        "county": "ANDROSCOGGIN",
+        "city": "TURNER CENTER",
+        "zipcode": "04283",
+        "latitude": "+44.197009",
+        "longitude": "-070.239485"
+    },
+    {
+        "county": "ANDROSCOGGIN",
+        "city": "WEST MINOT",
+        "zipcode": "04288",
+        "latitude": "+44.197009",
+        "longitude": "-070.239485"
+    },
+    {
+        "county": "ANDROSCOGGIN",
+        "city": "WEST POLAND",
+        "zipcode": "04291",
+        "latitude": "+44.040857",
+        "longitude": "-070.453006"
+    },
+    {
+        "county": "AROOSTOOK",
+        "city": "ASHLAND",
+        "zipcode": "04732",
+        "latitude": "+46.975725",
+        "longitude": "-068.398160"
+    },
+    {
+        "county": "AROOSTOOK",
+        "city": "BENEDICTA",
+        "zipcode": "04733",
+        "latitude": "+46.516166",
+        "longitude": "-068.886826"
+    },
+    {
+        "county": "AROOSTOOK",
+        "city": "BLAINE",
+        "zipcode": "04734",
+        "latitude": "+46.516166",
+        "longitude": "-068.886826"
+    },
+    {
+        "county": "AROOSTOOK",
+        "city": "BRIDGEWATER",
+        "zipcode": "04735",
+        "latitude": "+46.516166",
+        "longitude": "-068.886826"
+    },
+    {
+        "county": "AROOSTOOK",
+        "city": "CARIBOU",
+        "zipcode": "04736",
+        "latitude": "+46.871355",
+        "longitude": "-068.025442"
+    },
+    {
+        "county": "AROOSTOOK",
+        "city": "CLAYTON LAKE",
+        "zipcode": "04737",
+        "latitude": "+46.516166",
+        "longitude": "-068.886826"
+    },
+    {
+        "county": "AROOSTOOK",
+        "city": "CROUSEVILLE",
+        "zipcode": "04738",
+        "latitude": "+46.516166",
+        "longitude": "-068.886826"
+    },
+    {
+        "county": "AROOSTOOK",
+        "city": "EAGLE LAKE",
+        "zipcode": "04739",
+        "latitude": "+46.516166",
+        "longitude": "-068.886826"
+    },
+    {
+        "county": "AROOSTOOK",
+        "city": "EASTON",
+        "zipcode": "04740",
+        "latitude": "+46.611101",
+        "longitude": "-067.855820"
+    },
+    {
+        "county": "AROOSTOOK",
+        "city": "ESTCOURT STATION",
+        "zipcode": "04741",
+        "latitude": "+46.516166",
+        "longitude": "-068.886826"
+    },
+    {
+        "county": "AROOSTOOK",
+        "city": "FORT FAIRFIELD",
+        "zipcode": "04742",
+        "latitude": "+46.746453",
+        "longitude": "-067.841507"
+    },
+    {
+        "county": "AROOSTOOK",
+        "city": "FORT KENT",
+        "zipcode": "04743",
+        "latitude": "+47.056484",
+        "longitude": "-068.255868"
+    },
+    {
+        "county": "AROOSTOOK",
+        "city": "FORT KENT MILLS",
+        "zipcode": "04744",
+        "latitude": "+46.516166",
+        "longitude": "-068.886826"
+    },
+    {
+        "county": "AROOSTOOK",
+        "city": "FRENCHVILLE",
+        "zipcode": "04745",
+        "latitude": "+47.295289",
+        "longitude": "-068.391920"
+    },
+    {
+        "county": "AROOSTOOK",
+        "city": "GRAND ISLE",
+        "zipcode": "04746",
+        "latitude": "+47.004340",
+        "longitude": "-067.998581"
+    },
+    {
+        "county": "AROOSTOOK",
+        "city": "HOULTON",
+        "zipcode": "04730",
+        "latitude": "+46.121345",
+        "longitude": "-067.833009"
+    },
+    {
+        "county": "AROOSTOOK",
+        "city": "ISLAND FALLS",
+        "zipcode": "04747",
+        "latitude": "+46.011345",
+        "longitude": "-068.273154"
+    },
+    {
+        "county": "AROOSTOOK",
+        "city": "LIMESTONE",
+        "zipcode": "04750",
+        "latitude": "+46.906749",
+        "longitude": "-067.851979"
+    },
+    {
+        "county": "AROOSTOOK",
+        "city": "LIMESTONE",
+        "zipcode": "04751",
+        "latitude": "+46.892918",
+        "longitude": "-067.964300"
+    },
+    {
+        "county": "AROOSTOOK",
+        "city": "MADAWASKA",
+        "zipcode": "04756",
+        "latitude": "+46.934538",
+        "longitude": "-068.109616"
+    },
+    {
+        "county": "AROOSTOOK",
+        "city": "MAPLETON",
+        "zipcode": "04757",
+        "latitude": "+47.007842",
+        "longitude": "-068.182061"
+    },
+    {
+        "county": "AROOSTOOK",
+        "city": "MARS HILL",
+        "zipcode": "04758",
+        "latitude": "+46.551571",
+        "longitude": "-067.848170"
+    },
+    {
+        "county": "AROOSTOOK",
+        "city": "MASARDIS",
+        "zipcode": "04759",
+        "latitude": "+46.516166",
+        "longitude": "-068.886826"
+    },
+    {
+        "county": "AROOSTOOK",
+        "city": "MONTICELLO",
+        "zipcode": "04760",
+        "latitude": "+46.516166",
+        "longitude": "-068.886826"
+    },
+    {
+        "county": "AROOSTOOK",
+        "city": "NEW LIMERICK",
+        "zipcode": "04761",
+        "latitude": "+46.100442",
+        "longitude": "-068.003376"
+    },
+    {
+        "county": "AROOSTOOK",
+        "city": "NEW SWEDEN",
+        "zipcode": "04762",
+        "latitude": "+46.976619",
+        "longitude": "-068.205546"
+    },
+    {
+        "county": "AROOSTOOK",
+        "city": "OAKFIELD",
+        "zipcode": "04763",
+        "latitude": "+46.099980",
+        "longitude": "-068.144870"
+    },
+    {
+        "county": "AROOSTOOK",
+        "city": "ORIENT",
+        "zipcode": "04471",
+        "latitude": "+46.516166",
+        "longitude": "-068.886826"
+    },
+    {
+        "county": "AROOSTOOK",
+        "city": "OXBOW",
+        "zipcode": "04764",
+        "latitude": "+46.516166",
+        "longitude": "-068.886826"
+    },
+    {
+        "county": "AROOSTOOK",
+        "city": "PERHAM",
+        "zipcode": "04766",
+        "latitude": "+46.516166",
+        "longitude": "-068.886826"
+    },
+    {
+        "county": "AROOSTOOK",
+        "city": "PORTAGE",
+        "zipcode": "04768",
+        "latitude": "+46.516166",
+        "longitude": "-068.886826"
+    },
+    {
+        "county": "AROOSTOOK",
+        "city": "PRESQUE ISLE",
+        "zipcode": "04769",
+        "latitude": "+46.715072",
+        "longitude": "-068.012557"
+    },
+    {
+        "county": "AROOSTOOK",
+        "city": "QUIMBY",
+        "zipcode": "04770",
+        "latitude": "+46.516166",
+        "longitude": "-068.886826"
+    },
+    {
+        "county": "AROOSTOOK",
+        "city": "SAINT AGATHA",
+        "zipcode": "04772",
+        "latitude": "+47.263956",
+        "longitude": "-068.335025"
+    },
+    {
+        "county": "AROOSTOOK",
+        "city": "SAINT DAVID",
+        "zipcode": "04773",
+        "latitude": "+46.516166",
+        "longitude": "-068.886826"
+    },
+    {
+        "county": "AROOSTOOK",
+        "city": "SAINT FRANCIS",
+        "zipcode": "04774",
+        "latitude": "+46.516166",
+        "longitude": "-068.886826"
+    },
+    {
+        "county": "AROOSTOOK",
+        "city": "SHERIDAN",
+        "zipcode": "04775",
+        "latitude": "+46.516166",
+        "longitude": "-068.886826"
+    },
+    {
+        "county": "AROOSTOOK",
+        "city": "SHERMAN MILLS",
+        "zipcode": "04776",
+        "latitude": "+46.516166",
+        "longitude": "-068.886826"
+    },
+    {
+        "county": "AROOSTOOK",
+        "city": "SINCLAIR",
+        "zipcode": "04779",
+        "latitude": "+46.516166",
+        "longitude": "-068.886826"
+    },
+    {
+        "county": "AROOSTOOK",
+        "city": "SMYRNA MILLS",
+        "zipcode": "04780",
+        "latitude": "+46.516166",
+        "longitude": "-068.886826"
+    },
+    {
+        "county": "AROOSTOOK",
+        "city": "STOCKHOLM",
+        "zipcode": "04783",
+        "latitude": "+46.787807",
+        "longitude": "-068.155212"
+    },
+    {
+        "county": "AROOSTOOK",
+        "city": "VAN BUREN",
+        "zipcode": "04785",
+        "latitude": "+46.986075",
+        "longitude": "-068.042433"
+    },
+    {
+        "county": "AROOSTOOK",
+        "city": "WALLAGRASS",
+        "zipcode": "04781",
+        "latitude": "+46.516166",
+        "longitude": "-068.886826"
+    },
+    {
+        "county": "AROOSTOOK",
+        "city": "WASHBURN",
+        "zipcode": "04786",
+        "latitude": "+46.793032",
+        "longitude": "-068.105233"
+    },
+    {
+        "county": "AROOSTOOK",
+        "city": "WESTFIELD",
+        "zipcode": "04787",
+        "latitude": "+46.594523",
+        "longitude": "-067.930172"
+    },
+    {
+        "county": "AROOSTOOK",
+        "city": "WINTERVILLE",
+        "zipcode": "04788",
+        "latitude": "+46.516166",
+        "longitude": "-068.886826"
+    },
+    {
+        "county": "AROOSTOOK",
+        "city": "WYTOPITLOCK",
+        "zipcode": "04497",
+        "latitude": "+46.516166",
+        "longitude": "-068.886826"
+    },
+    {
+        "county": "CUMBERLAND",
+        "city": "BAILEY ISLAND",
+        "zipcode": "04003",
+        "latitude": "+43.735867",
+        "longitude": "-069.995456"
+    },
+    {
+        "county": "CUMBERLAND",
+        "city": "BRIDGTON",
+        "zipcode": "04009",
+        "latitude": "+43.939828",
+        "longitude": "-070.747431"
+    },
+    {
+        "county": "CUMBERLAND",
+        "city": "BRUNSWICK",
+        "zipcode": "04011",
+        "latitude": "+43.935634",
+        "longitude": "-070.340652"
+    },
+    {
+        "county": "CUMBERLAND",
+        "city": "BUSTINS ISLAND",
+        "zipcode": "04013",
+        "latitude": "+44.408078",
+        "longitude": "-070.470703"
+    },
+    {
+        "county": "CUMBERLAND",
+        "city": "CAPE ELIZABETH",
+        "zipcode": "04107",
+        "latitude": "+43.595512",
+        "longitude": "-070.239559"
+    },
+    {
+        "county": "CUMBERLAND",
+        "city": "CASCO",
+        "zipcode": "04015",
+        "latitude": "+43.962115",
+        "longitude": "-070.524465"
+    },
+    {
+        "county": "CUMBERLAND",
+        "city": "CHEBEAGUE ISLAND",
+        "zipcode": "04017",
+        "latitude": "+43.727806",
+        "longitude": "-070.120437"
+    },
+    {
+        "county": "CUMBERLAND",
+        "city": "CLIFF ISLAND",
+        "zipcode": "04019",
+        "latitude": "+44.408078",
+        "longitude": "-070.470703"
+    },
+    {
+        "county": "CUMBERLAND",
+        "city": "CUMBERLAND CENTER",
+        "zipcode": "04021",
+        "latitude": "+43.812676",
+        "longitude": "-070.450494"
+    },
+    {
+        "county": "CUMBERLAND",
+        "city": "CUMBERLAND FORESIDE",
+        "zipcode": "04110",
+        "latitude": "+43.759021",
+        "longitude": "-070.199307"
+    },
+    {
+        "county": "CUMBERLAND",
+        "city": "EAST BALDWIN",
+        "zipcode": "04024",
+        "latitude": "+43.844826",
+        "longitude": "-070.688656"
+    },
+    {
+        "county": "CUMBERLAND",
+        "city": "FALMOUTH",
+        "zipcode": "04105",
+        "latitude": "+43.739280",
+        "longitude": "-070.270696"
+    },
+    {
+        "county": "CUMBERLAND",
+        "city": "FREEPORT",
+        "zipcode": "04032",
+        "latitude": "+43.864477",
+        "longitude": "-070.097543"
+    },
+    {
+        "county": "CUMBERLAND",
+        "city": "FREEPORT",
+        "zipcode": "04033",
+        "latitude": "+44.408078",
+        "longitude": "-070.470703"
+    },
+    {
+        "county": "CUMBERLAND",
+        "city": "FREEPORT",
+        "zipcode": "04034",
+        "latitude": "+44.408078",
+        "longitude": "-070.470703"
+    },
+    {
+        "county": "CUMBERLAND",
+        "city": "GORHAM",
+        "zipcode": "04038",
+        "latitude": "+43.803689",
+        "longitude": "-070.355188"
+    },
+    {
+        "county": "CUMBERLAND",
+        "city": "GRAY",
+        "zipcode": "04039",
+        "latitude": "+43.878567",
+        "longitude": "-070.328889"
+    },
+    {
+        "county": "CUMBERLAND",
+        "city": "HARPSWELL",
+        "zipcode": "04079",
+        "latitude": "+43.781050",
+        "longitude": "-069.995537"
+    },
+    {
+        "county": "CUMBERLAND",
+        "city": "HARRISON",
+        "zipcode": "04040",
+        "latitude": "+43.992681",
+        "longitude": "-070.357119"
+    },
+    {
+        "county": "CUMBERLAND",
+        "city": "LONG ISLAND",
+        "zipcode": "04050",
+        "latitude": "+44.408078",
+        "longitude": "-070.470703"
+    },
+    {
+        "county": "CUMBERLAND",
+        "city": "MEREPOINT",
+        "zipcode": "04053",
+        "latitude": "+44.408078",
+        "longitude": "-070.470703"
+    },
+    {
+        "county": "CUMBERLAND",
+        "city": "NAPLES",
+        "zipcode": "04055",
+        "latitude": "+43.957208",
+        "longitude": "-070.639546"
+    },
+    {
+        "county": "CUMBERLAND",
+        "city": "NEW GLOUCESTER",
+        "zipcode": "04260",
+        "latitude": "+43.967474",
+        "longitude": "-070.299687"
+    },
+    {
+        "county": "CUMBERLAND",
+        "city": "NORTH BRIDGTON",
+        "zipcode": "04057",
+        "latitude": "+44.408078",
+        "longitude": "-070.470703"
+    },
+    {
+        "county": "CUMBERLAND",
+        "city": "NORTH YARMOUTH",
+        "zipcode": "04097",
+        "latitude": "+43.837951",
+        "longitude": "-070.200114"
+    },
+    {
+        "county": "CUMBERLAND",
+        "city": "ORRS ISLAND",
+        "zipcode": "04066",
+        "latitude": "+43.779982",
+        "longitude": "-069.975477"
+    },
+    {
+        "county": "CUMBERLAND",
+        "city": "PEAKS ISLAND",
+        "zipcode": "04108",
+        "latitude": "+43.662809",
+        "longitude": "-070.188442"
+    },
+    {
+        "county": "CUMBERLAND",
+        "city": "PORTLAND",
+        "zipcode": "04101",
+        "latitude": "+43.658784",
+        "longitude": "-070.262393"
+    },
+    {
+        "county": "CUMBERLAND",
+        "city": "PORTLAND",
+        "zipcode": "04102",
+        "latitude": "+43.742750",
+        "longitude": "-070.443380"
+    },
+    {
+        "county": "CUMBERLAND",
+        "city": "PORTLAND",
+        "zipcode": "04103",
+        "latitude": "+43.688260",
+        "longitude": "-070.289844"
+    },
+    {
+        "county": "CUMBERLAND",
+        "city": "PORTLAND",
+        "zipcode": "04104",
+        "latitude": "+43.846490",
+        "longitude": "-070.464839"
+    },
+    {
+        "county": "CUMBERLAND",
+        "city": "PORTLAND",
+        "zipcode": "04109",
+        "latitude": "+43.678339",
+        "longitude": "-070.198742"
+    },
+    {
+        "county": "CUMBERLAND",
+        "city": "PORTLAND",
+        "zipcode": "04112",
+        "latitude": "+44.408078",
+        "longitude": "-070.470703"
+    },
+    {
+        "county": "CUMBERLAND",
+        "city": "PORTLAND",
+        "zipcode": "04122",
+        "latitude": "+44.408078",
+        "longitude": "-070.470703"
+    },
+    {
+        "county": "CUMBERLAND",
+        "city": "PORTLAND",
+        "zipcode": "04123",
+        "latitude": "+44.408078",
+        "longitude": "-070.470703"
+    },
+    {
+        "county": "CUMBERLAND",
+        "city": "PORTLAND",
+        "zipcode": "04124",
+        "latitude": "+44.408078",
+        "longitude": "-070.470703"
+    },
+    {
+        "county": "CUMBERLAND",
+        "city": "POWNAL",
+        "zipcode": "04069",
+        "latitude": "+43.894983",
+        "longitude": "-070.189159"
+    },
+    {
+        "county": "CUMBERLAND",
+        "city": "RAYMOND",
+        "zipcode": "04071",
+        "latitude": "+43.906227",
+        "longitude": "-070.465928"
+    },
+    {
+        "county": "CUMBERLAND",
+        "city": "SCARBOROUGH",
+        "zipcode": "04070",
+        "latitude": "+43.576983",
+        "longitude": "-070.273642"
+    },
+    {
+        "county": "CUMBERLAND",
+        "city": "SCARBOROUGH",
+        "zipcode": "04074",
+        "latitude": "+43.724562",
+        "longitude": "-070.375162"
+    },
+    {
+        "county": "CUMBERLAND",
+        "city": "SEBAGO",
+        "zipcode": "04029",
+        "latitude": "+43.867223",
+        "longitude": "-070.547159"
+    },
+    {
+        "county": "CUMBERLAND",
+        "city": "SEBAGO LAKE",
+        "zipcode": "04075",
+        "latitude": "+43.796053",
+        "longitude": "-070.552183"
+    },
+    {
+        "county": "CUMBERLAND",
+        "city": "SOUTH CASCO",
+        "zipcode": "04077",
+        "latitude": "+43.910029",
+        "longitude": "-070.524524"
+    },
+    {
+        "county": "CUMBERLAND",
+        "city": "SOUTH FREEPORT",
+        "zipcode": "04078",
+        "latitude": "+43.820774",
+        "longitude": "-070.120781"
+    },
+    {
+        "county": "CUMBERLAND",
+        "city": "SOUTH PORTLAND",
+        "zipcode": "04106",
+        "latitude": "+43.627364",
+        "longitude": "-070.289248"
+    },
+    {
+        "county": "CUMBERLAND",
+        "city": "SOUTH PORTLAND",
+        "zipcode": "04116",
+        "latitude": "+44.408078",
+        "longitude": "-070.470703"
+    },
+    {
+        "county": "CUMBERLAND",
+        "city": "SOUTH WINDHAM",
+        "zipcode": "04082",
+        "latitude": "+44.408078",
+        "longitude": "-070.470703"
+    },
+    {
+        "county": "CUMBERLAND",
+        "city": "STANDISH",
+        "zipcode": "04084",
+        "latitude": "+43.804454",
+        "longitude": "-070.554905"
+    },
+    {
+        "county": "CUMBERLAND",
+        "city": "STEEP FALLS",
+        "zipcode": "04085",
+        "latitude": "+43.771934",
+        "longitude": "-070.639561"
+    },
+    {
+        "county": "CUMBERLAND",
+        "city": "WEST BALDWIN",
+        "zipcode": "04091",
+        "latitude": "+44.408078",
+        "longitude": "-070.470703"
+    },
+    {
+        "county": "CUMBERLAND",
+        "city": "WESTBROOK",
+        "zipcode": "04092",
+        "latitude": "+43.855116",
+        "longitude": "-070.568534"
+    },
+    {
+        "county": "CUMBERLAND",
+        "city": "WESTBROOK",
+        "zipcode": "04098",
+        "latitude": "+44.408078",
+        "longitude": "-070.470703"
+    },
+    {
+        "county": "CUMBERLAND",
+        "city": "WINDHAM",
+        "zipcode": "04062",
+        "latitude": "+43.911381",
+        "longitude": "-070.396652"
+    },
+    {
+        "county": "CUMBERLAND",
+        "city": "YARMOUTH",
+        "zipcode": "04096",
+        "latitude": "+43.798227",
+        "longitude": "-070.171979"
+    },
+    {
+        "county": "FRANKLIN",
+        "city": "DRYDEN",
+        "zipcode": "04225",
+        "latitude": "+44.602705",
+        "longitude": "-070.226510"
+    },
+    {
+        "county": "FRANKLIN",
+        "city": "EAST DIXFIELD",
+        "zipcode": "04227",
+        "latitude": "+44.579135",
+        "longitude": "-070.326337"
+    },
+    {
+        "county": "FRANKLIN",
+        "city": "EAST WILTON",
+        "zipcode": "04234",
+        "latitude": "+44.617509",
+        "longitude": "-070.182012"
+    },
+    {
+        "county": "FRANKLIN",
+        "city": "EUSTIS",
+        "zipcode": "04936",
+        "latitude": "+45.063384",
+        "longitude": "-070.381639"
+    },
+    {
+        "county": "FRANKLIN",
+        "city": "FARMINGTON",
+        "zipcode": "04938",
+        "latitude": "+44.650311",
+        "longitude": "-070.129267"
+    },
+    {
+        "county": "FRANKLIN",
+        "city": "FARMINGTON FALLS",
+        "zipcode": "04940",
+        "latitude": "+44.622563",
+        "longitude": "-070.075178"
+    },
+    {
+        "county": "FRANKLIN",
+        "city": "JAY",
+        "zipcode": "04239",
+        "latitude": "+44.541508",
+        "longitude": "-070.208556"
+    },
+    {
+        "county": "FRANKLIN",
+        "city": "KINGFIELD",
+        "zipcode": "04947",
+        "latitude": "+45.063384",
+        "longitude": "-070.381639"
+    },
+    {
+        "county": "FRANKLIN",
+        "city": "NEW SHARON",
+        "zipcode": "04955",
+        "latitude": "+44.603630",
+        "longitude": "-070.010292"
+    },
+    {
+        "county": "FRANKLIN",
+        "city": "NEW VINEYARD",
+        "zipcode": "04956",
+        "latitude": "+44.952578",
+        "longitude": "-070.183554"
+    },
+    {
+        "county": "FRANKLIN",
+        "city": "NORTH JAY",
+        "zipcode": "04262",
+        "latitude": "+45.063384",
+        "longitude": "-070.381639"
+    },
+    {
+        "county": "FRANKLIN",
+        "city": "OQUOSSOC",
+        "zipcode": "04964",
+        "latitude": "+45.063384",
+        "longitude": "-070.381639"
+    },
+    {
+        "county": "FRANKLIN",
+        "city": "PHILLIPS",
+        "zipcode": "04966",
+        "latitude": "+45.063384",
+        "longitude": "-070.381639"
+    },
+    {
+        "county": "FRANKLIN",
+        "city": "RANGELEY",
+        "zipcode": "04970",
+        "latitude": "+44.985998",
+        "longitude": "-070.660181"
+    },
+    {
+        "county": "FRANKLIN",
+        "city": "STRATTON",
+        "zipcode": "04982",
+        "latitude": "+45.063384",
+        "longitude": "-070.381639"
+    },
+    {
+        "county": "FRANKLIN",
+        "city": "STRONG",
+        "zipcode": "04983",
+        "latitude": "+44.814175",
+        "longitude": "-070.187221"
+    },
+    {
+        "county": "FRANKLIN",
+        "city": "TEMPLE",
+        "zipcode": "04984",
+        "latitude": "+44.670079",
+        "longitude": "-070.196855"
+    },
+    {
+        "county": "FRANKLIN",
+        "city": "WELD",
+        "zipcode": "04285",
+        "latitude": "+45.063384",
+        "longitude": "-070.381639"
+    },
+    {
+        "county": "FRANKLIN",
+        "city": "WEST FARMINGTON",
+        "zipcode": "04992",
+        "latitude": "+44.662822",
+        "longitude": "-070.153049"
+    },
+    {
+        "county": "FRANKLIN",
+        "city": "WILTON",
+        "zipcode": "04294",
+        "latitude": "+44.618873",
+        "longitude": "-070.245935"
+    },
+    {
+        "county": "HANCOCK",
+        "city": "AURORA",
+        "zipcode": "04408",
+        "latitude": "+44.641873",
+        "longitude": "-068.391481"
+    },
+    {
+        "county": "HANCOCK",
+        "city": "BAR HARBOR",
+        "zipcode": "04609",
+        "latitude": "+44.362323",
+        "longitude": "-068.305513"
+    },
+    {
+        "county": "HANCOCK",
+        "city": "BASS HARBOR",
+        "zipcode": "04653",
+        "latitude": "+44.641873",
+        "longitude": "-068.391481"
+    },
+    {
+        "county": "HANCOCK",
+        "city": "BERNARD",
+        "zipcode": "04612",
+        "latitude": "+44.239876",
+        "longitude": "-068.354598"
+    },
+    {
+        "county": "HANCOCK",
+        "city": "BIRCH HARBOR",
+        "zipcode": "04613",
+        "latitude": "+44.641873",
+        "longitude": "-068.391481"
+    },
+    {
+        "county": "HANCOCK",
+        "city": "BLUE HILL",
+        "zipcode": "04614",
+        "latitude": "+44.296910",
+        "longitude": "-068.623927"
+    },
+    {
+        "county": "HANCOCK",
+        "city": "BLUE HILL FALLS",
+        "zipcode": "04615",
+        "latitude": "+44.641873",
+        "longitude": "-068.391481"
+    },
+    {
+        "county": "HANCOCK",
+        "city": "BROOKLIN",
+        "zipcode": "04616",
+        "latitude": "+44.258121",
+        "longitude": "-068.567404"
+    },
+    {
+        "county": "HANCOCK",
+        "city": "BROOKSVILLE",
+        "zipcode": "04617",
+        "latitude": "+44.337581",
+        "longitude": "-068.765568"
+    },
+    {
+        "county": "HANCOCK",
+        "city": "BUCKSPORT",
+        "zipcode": "04416",
+        "latitude": "+44.600448",
+        "longitude": "-068.773241"
+    },
+    {
+        "county": "HANCOCK",
+        "city": "CASTINE",
+        "zipcode": "04420",
+        "latitude": "+44.412968",
+        "longitude": "-068.798047"
+    },
+    {
+        "county": "HANCOCK",
+        "city": "CASTINE",
+        "zipcode": "04421",
+        "latitude": "+44.415639",
+        "longitude": "-068.792883"
+    },
+    {
+        "county": "HANCOCK",
+        "city": "COREA",
+        "zipcode": "04624",
+        "latitude": "+44.641873",
+        "longitude": "-068.391481"
+    },
+    {
+        "county": "HANCOCK",
+        "city": "CRANBERRY ISLES",
+        "zipcode": "04625",
+        "latitude": "+44.641873",
+        "longitude": "-068.391481"
+    },
+    {
+        "county": "HANCOCK",
+        "city": "DEER ISLE",
+        "zipcode": "04627",
+        "latitude": "+44.213503",
+        "longitude": "-068.711691"
+    },
+    {
+        "county": "HANCOCK",
+        "city": "EAST BLUE HILL",
+        "zipcode": "04629",
+        "latitude": "+44.641873",
+        "longitude": "-068.391481"
+    },
+    {
+        "county": "HANCOCK",
+        "city": "EAST ORLAND",
+        "zipcode": "04431",
+        "latitude": "+44.561174",
+        "longitude": "-068.664735"
+    },
+    {
+        "county": "HANCOCK",
+        "city": "ELLSWORTH",
+        "zipcode": "04605",
+        "latitude": "+44.477935",
+        "longitude": "-068.356311"
+    },
+    {
+        "county": "HANCOCK",
+        "city": "FRANKLIN",
+        "zipcode": "04634",
+        "latitude": "+44.595131",
+        "longitude": "-068.233576"
+    },
+    {
+        "county": "HANCOCK",
+        "city": "FRENCHBORO",
+        "zipcode": "04635",
+        "latitude": "+44.641873",
+        "longitude": "-068.391481"
+    },
+    {
+        "county": "HANCOCK",
+        "city": "GOULDSBORO",
+        "zipcode": "04607",
+        "latitude": "+44.483471",
+        "longitude": "-068.090339"
+    },
+    {
+        "county": "HANCOCK",
+        "city": "HANCOCK",
+        "zipcode": "04640",
+        "latitude": "+44.641873",
+        "longitude": "-068.391481"
+    },
+    {
+        "county": "HANCOCK",
+        "city": "HARBORSIDE",
+        "zipcode": "04642",
+        "latitude": "+44.641873",
+        "longitude": "-068.391481"
+    },
+    {
+        "county": "HANCOCK",
+        "city": "HULLS COVE",
+        "zipcode": "04644",
+        "latitude": "+44.641873",
+        "longitude": "-068.391481"
+    },
+    {
+        "county": "HANCOCK",
+        "city": "ISLESFORD",
+        "zipcode": "04646",
+        "latitude": "+44.641873",
+        "longitude": "-068.391481"
+    },
+    {
+        "county": "HANCOCK",
+        "city": "LITTLE DEER ISLE",
+        "zipcode": "04650",
+        "latitude": "+44.641873",
+        "longitude": "-068.391481"
+    },
+    {
+        "county": "HANCOCK",
+        "city": "MANSET",
+        "zipcode": "04656",
+        "latitude": "+44.641873",
+        "longitude": "-068.391481"
+    },
+    {
+        "county": "HANCOCK",
+        "city": "MOUNT DESERT",
+        "zipcode": "04660",
+        "latitude": "+44.334692",
+        "longitude": "-068.308737"
+    },
+    {
+        "county": "HANCOCK",
+        "city": "NORTHEAST HARBOR",
+        "zipcode": "04662",
+        "latitude": "+44.294073",
+        "longitude": "-068.284865"
+    },
+    {
+        "county": "HANCOCK",
+        "city": "ORLAND",
+        "zipcode": "04472",
+        "latitude": "+44.409375",
+        "longitude": "-068.625903"
+    },
+    {
+        "county": "HANCOCK",
+        "city": "OTTER CREEK",
+        "zipcode": "04665",
+        "latitude": "+44.641873",
+        "longitude": "-068.391481"
+    },
+    {
+        "county": "HANCOCK",
+        "city": "PENOBSCOT",
+        "zipcode": "04476",
+        "latitude": "+44.433911",
+        "longitude": "-068.721716"
+    },
+    {
+        "county": "HANCOCK",
+        "city": "PROSPECT HARBOR",
+        "zipcode": "04669",
+        "latitude": "+44.641873",
+        "longitude": "-068.391481"
+    },
+    {
+        "county": "HANCOCK",
+        "city": "SALSBURY COVE",
+        "zipcode": "04672",
+        "latitude": "+44.413523",
+        "longitude": "-068.251778"
+    },
+    {
+        "county": "HANCOCK",
+        "city": "SARGENTVILLE",
+        "zipcode": "04673",
+        "latitude": "+44.313629",
+        "longitude": "-068.686305"
+    },
+    {
+        "county": "HANCOCK",
+        "city": "SEAL COVE",
+        "zipcode": "04674",
+        "latitude": "+44.641873",
+        "longitude": "-068.391481"
+    },
+    {
+        "county": "HANCOCK",
+        "city": "SEAL HARBOR",
+        "zipcode": "04675",
+        "latitude": "+44.299037",
+        "longitude": "-068.246314"
+    },
+    {
+        "county": "HANCOCK",
+        "city": "SEDGWICK",
+        "zipcode": "04676",
+        "latitude": "+44.399111",
+        "longitude": "-068.701228"
+    },
+    {
+        "county": "HANCOCK",
+        "city": "SORRENTO",
+        "zipcode": "04677",
+        "latitude": "+44.491175",
+        "longitude": "-068.191370"
+    },
+    {
+        "county": "HANCOCK",
+        "city": "SOUTHWEST HARBOR",
+        "zipcode": "04679",
+        "latitude": "+44.390897",
+        "longitude": "-068.261568"
+    },
+    {
+        "county": "HANCOCK",
+        "city": "STONINGTON",
+        "zipcode": "04681",
+        "latitude": "+44.641873",
+        "longitude": "-068.391481"
+    },
+    {
+        "county": "HANCOCK",
+        "city": "SULLIVAN",
+        "zipcode": "04664",
+        "latitude": "+44.641873",
+        "longitude": "-068.391481"
+    },
+    {
+        "county": "HANCOCK",
+        "city": "SUNSET",
+        "zipcode": "04683",
+        "latitude": "+44.641873",
+        "longitude": "-068.391481"
+    },
+    {
+        "county": "HANCOCK",
+        "city": "SURRY",
+        "zipcode": "04684",
+        "latitude": "+44.641873",
+        "longitude": "-068.391481"
+    },
+    {
+        "county": "HANCOCK",
+        "city": "SWANS ISLAND",
+        "zipcode": "04685",
+        "latitude": "+44.213118",
+        "longitude": "-068.396479"
+    },
+    {
+        "county": "HANCOCK",
+        "city": "WEST TREMONT",
+        "zipcode": "04690",
+        "latitude": "+44.641873",
+        "longitude": "-068.391481"
+    },
+    {
+        "county": "HANCOCK",
+        "city": "WINTER HARBOR",
+        "zipcode": "04693",
+        "latitude": "+44.387188",
+        "longitude": "-068.074964"
+    },
+    {
+        "county": "KENNEBEC",
+        "city": "ALBION",
+        "zipcode": "04910",
+        "latitude": "+44.530366",
+        "longitude": "-069.639976"
+    },
+    {
+        "county": "KENNEBEC",
+        "city": "AUGUSTA",
+        "zipcode": "04330",
+        "latitude": "+44.351642",
+        "longitude": "-069.803773"
+    },
+    {
+        "county": "KENNEBEC",
+        "city": "AUGUSTA",
+        "zipcode": "04332",
+        "latitude": "+44.414056",
+        "longitude": "-069.751913"
+    },
+    {
+        "county": "KENNEBEC",
+        "city": "AUGUSTA",
+        "zipcode": "04333",
+        "latitude": "+44.414056",
+        "longitude": "-069.751913"
+    },
+    {
+        "county": "KENNEBEC",
+        "city": "AUGUSTA",
+        "zipcode": "04336",
+        "latitude": "+44.315693",
+        "longitude": "-069.818009"
+    },
+    {
+        "county": "KENNEBEC",
+        "city": "AUGUSTA",
+        "zipcode": "04338",
+        "latitude": "+44.414056",
+        "longitude": "-069.751913"
+    },
+    {
+        "county": "KENNEBEC",
+        "city": "BELGRADE",
+        "zipcode": "04917",
+        "latitude": "+44.480594",
+        "longitude": "-069.832530"
+    },
+    {
+        "county": "KENNEBEC",
+        "city": "BELGRADE LAKES",
+        "zipcode": "04918",
+        "latitude": "+44.414056",
+        "longitude": "-069.751913"
+    },
+    {
+        "county": "KENNEBEC",
+        "city": "CHINA VILLAGE",
+        "zipcode": "04926",
+        "latitude": "+44.391167",
+        "longitude": "-069.538257"
+    },
+    {
+        "county": "KENNEBEC",
+        "city": "CLINTON",
+        "zipcode": "04927",
+        "latitude": "+44.621084",
+        "longitude": "-069.512609"
+    },
+    {
+        "county": "KENNEBEC",
+        "city": "EAST VASSALBORO",
+        "zipcode": "04935",
+        "latitude": "+44.414056",
+        "longitude": "-069.751913"
+    },
+    {
+        "county": "KENNEBEC",
+        "city": "EAST WINTHROP",
+        "zipcode": "04343",
+        "latitude": "+44.414056",
+        "longitude": "-069.751913"
+    },
+    {
+        "county": "KENNEBEC",
+        "city": "FARMINGDALE",
+        "zipcode": "04344",
+        "latitude": "+44.256614",
+        "longitude": "-069.797105"
+    },
+    {
+        "county": "KENNEBEC",
+        "city": "GARDINER",
+        "zipcode": "04345",
+        "latitude": "+44.296652",
+        "longitude": "-069.796909"
+    },
+    {
+        "county": "KENNEBEC",
+        "city": "HALLOWELL",
+        "zipcode": "04347",
+        "latitude": "+44.249130",
+        "longitude": "-069.795037"
+    },
+    {
+        "county": "KENNEBEC",
+        "city": "KENTS HILL",
+        "zipcode": "04349",
+        "latitude": "+44.414056",
+        "longitude": "-069.751913"
+    },
+    {
+        "county": "KENNEBEC",
+        "city": "LITCHFIELD",
+        "zipcode": "04350",
+        "latitude": "+44.158104",
+        "longitude": "-069.954040"
+    },
+    {
+        "county": "KENNEBEC",
+        "city": "MANCHESTER",
+        "zipcode": "04351",
+        "latitude": "+44.358014",
+        "longitude": "-069.867001"
+    },
+    {
+        "county": "KENNEBEC",
+        "city": "MONMOUTH",
+        "zipcode": "04259",
+        "latitude": "+44.349166",
+        "longitude": "-069.870181"
+    },
+    {
+        "county": "KENNEBEC",
+        "city": "MOUNT VERNON",
+        "zipcode": "04352",
+        "latitude": "+44.461522",
+        "longitude": "-069.986762"
+    },
+    {
+        "county": "KENNEBEC",
+        "city": "NORTH MONMOUTH",
+        "zipcode": "04265",
+        "latitude": "+44.303359",
+        "longitude": "-070.037848"
+    },
+    {
+        "county": "KENNEBEC",
+        "city": "NORTH VASSALBORO",
+        "zipcode": "04962",
+        "latitude": "+44.479288",
+        "longitude": "-069.622006"
+    },
+    {
+        "county": "KENNEBEC",
+        "city": "OAKLAND",
+        "zipcode": "04963",
+        "latitude": "+44.557111",
+        "longitude": "-069.826495"
+    },
+    {
+        "county": "KENNEBEC",
+        "city": "RANDOLPH",
+        "zipcode": "04346",
+        "latitude": "+44.269959",
+        "longitude": "-069.724135"
+    },
+    {
+        "county": "KENNEBEC",
+        "city": "READFIELD",
+        "zipcode": "04355",
+        "latitude": "+44.384840",
+        "longitude": "-069.953716"
+    },
+    {
+        "county": "KENNEBEC",
+        "city": "SOUTH CHINA",
+        "zipcode": "04358",
+        "latitude": "+44.375578",
+        "longitude": "-069.586327"
+    },
+    {
+        "county": "KENNEBEC",
+        "city": "SOUTH GARDINER",
+        "zipcode": "04359",
+        "latitude": "+44.183266",
+        "longitude": "-069.777196"
+    },
+    {
+        "county": "KENNEBEC",
+        "city": "VASSALBORO",
+        "zipcode": "04989",
+        "latitude": "+44.427757",
+        "longitude": "-069.635908"
+    },
+    {
+        "county": "KENNEBEC",
+        "city": "VIENNA",
+        "zipcode": "04360",
+        "latitude": "+44.414056",
+        "longitude": "-069.751913"
+    },
+    {
+        "county": "KENNEBEC",
+        "city": "WATERVILLE",
+        "zipcode": "04901",
+        "latitude": "+44.554321",
+        "longitude": "-069.617809"
+    },
+    {
+        "county": "KENNEBEC",
+        "city": "WATERVILLE",
+        "zipcode": "04903",
+        "latitude": "+44.549225",
+        "longitude": "-069.713178"
+    },
+    {
+        "county": "KENNEBEC",
+        "city": "WAYNE",
+        "zipcode": "04284",
+        "latitude": "+44.359835",
+        "longitude": "-070.074555"
+    },
+    {
+        "county": "KENNEBEC",
+        "city": "WINDSOR",
+        "zipcode": "04363",
+        "latitude": "+44.414056",
+        "longitude": "-069.751913"
+    },
+    {
+        "county": "KENNEBEC",
+        "city": "WINTHROP",
+        "zipcode": "04364",
+        "latitude": "+44.322865",
+        "longitude": "-069.957627"
+    },
+    {
+        "county": "KNOX",
+        "city": "CAMDEN",
+        "zipcode": "04843",
+        "latitude": "+44.126130",
+        "longitude": "-069.029238"
+    },
+    {
+        "county": "KNOX",
+        "city": "CUSHING",
+        "zipcode": "04563",
+        "latitude": "+44.023010",
+        "longitude": "-069.255572"
+    },
+    {
+        "county": "KNOX",
+        "city": "FRIENDSHIP",
+        "zipcode": "04547",
+        "latitude": "+44.010424",
+        "longitude": "-069.231179"
+    },
+    {
+        "county": "KNOX",
+        "city": "GLEN COVE",
+        "zipcode": "04846",
+        "latitude": "+44.131005",
+        "longitude": "-069.091111"
+    },
+    {
+        "county": "KNOX",
+        "city": "HOPE",
+        "zipcode": "04847",
+        "latitude": "+44.241072",
+        "longitude": "-069.203015"
+    },
+    {
+        "county": "KNOX",
+        "city": "ISLE AU HAUT",
+        "zipcode": "04645",
+        "latitude": "+44.032196",
+        "longitude": "-069.148017"
+    },
+    {
+        "county": "KNOX",
+        "city": "MATINICUS",
+        "zipcode": "04851",
+        "latitude": "+44.032196",
+        "longitude": "-069.148017"
+    },
+    {
+        "county": "KNOX",
+        "city": "NORTH HAVEN",
+        "zipcode": "04853",
+        "latitude": "+44.113472",
+        "longitude": "-068.855722"
+    },
+    {
+        "county": "KNOX",
+        "city": "OWLS HEAD",
+        "zipcode": "04854",
+        "latitude": "+44.079510",
+        "longitude": "-069.085574"
+    },
+    {
+        "county": "KNOX",
+        "city": "PORT CLYDE",
+        "zipcode": "04855",
+        "latitude": "+44.032196",
+        "longitude": "-069.148017"
+    },
+    {
+        "county": "KNOX",
+        "city": "ROCKLAND",
+        "zipcode": "04841",
+        "latitude": "+44.128607",
+        "longitude": "-069.068648"
+    },
+    {
+        "county": "KNOX",
+        "city": "ROCKPORT",
+        "zipcode": "04856",
+        "latitude": "+44.132144",
+        "longitude": "-069.034160"
+    },
+    {
+        "county": "KNOX",
+        "city": "SAINT GEORGE",
+        "zipcode": "04857",
+        "latitude": "+43.995024",
+        "longitude": "-069.198524"
+    },
+    {
+        "county": "KNOX",
+        "city": "SOUTH THOMASTON",
+        "zipcode": "04858",
+        "latitude": "+44.115186",
+        "longitude": "-069.132883"
+    },
+    {
+        "county": "KNOX",
+        "city": "SPRUCE HEAD",
+        "zipcode": "04859",
+        "latitude": "+44.002248",
+        "longitude": "-069.119550"
+    },
+    {
+        "county": "KNOX",
+        "city": "TENANTS HARBOR",
+        "zipcode": "04860",
+        "latitude": "+43.963129",
+        "longitude": "-069.213329"
+    },
+    {
+        "county": "KNOX",
+        "city": "THOMASTON",
+        "zipcode": "04861",
+        "latitude": "+44.108131",
+        "longitude": "-069.042704"
+    },
+    {
+        "county": "KNOX",
+        "city": "UNION",
+        "zipcode": "04862",
+        "latitude": "+44.231517",
+        "longitude": "-069.219722"
+    },
+    {
+        "county": "KNOX",
+        "city": "VINALHAVEN",
+        "zipcode": "04863",
+        "latitude": "+44.085110",
+        "longitude": "-068.841965"
+    },
+    {
+        "county": "KNOX",
+        "city": "WARREN",
+        "zipcode": "04864",
+        "latitude": "+44.086333",
+        "longitude": "-069.188163"
+    },
+    {
+        "county": "KNOX",
+        "city": "WASHINGTON",
+        "zipcode": "04574",
+        "latitude": "+44.162384",
+        "longitude": "-069.387795"
+    },
+    {
+        "county": "KNOX",
+        "city": "WEST ROCKPORT",
+        "zipcode": "04865",
+        "latitude": "+44.192369",
+        "longitude": "-069.121139"
+    },
+    {
+        "county": "LINCOLN",
+        "city": "ALNA",
+        "zipcode": "04535",
+        "latitude": "+44.008962",
+        "longitude": "-069.566684"
+    },
+    {
+        "county": "LINCOLN",
+        "city": "BAYVILLE",
+        "zipcode": "04536",
+        "latitude": "+44.021333",
+        "longitude": "-069.523263"
+    },
+    {
+        "county": "LINCOLN",
+        "city": "BOOTHBAY",
+        "zipcode": "04537",
+        "latitude": "+43.894903",
+        "longitude": "-069.627163"
+    },
+    {
+        "county": "LINCOLN",
+        "city": "BOOTHBAY HARBOR",
+        "zipcode": "04538",
+        "latitude": "+43.956167",
+        "longitude": "-069.517161"
+    },
+    {
+        "county": "LINCOLN",
+        "city": "BREMEN",
+        "zipcode": "04551",
+        "latitude": "+44.010411",
+        "longitude": "-069.440192"
+    },
+    {
+        "county": "LINCOLN",
+        "city": "BRISTOL",
+        "zipcode": "04539",
+        "latitude": "+43.928967",
+        "longitude": "-069.598725"
+    },
+    {
+        "county": "LINCOLN",
+        "city": "CHAMBERLAIN",
+        "zipcode": "04541",
+        "latitude": "+43.884294",
+        "longitude": "-069.479184"
+    },
+    {
+        "county": "LINCOLN",
+        "city": "COOPERS MILLS",
+        "zipcode": "04341",
+        "latitude": "+44.258771",
+        "longitude": "-069.551024"
+    },
+    {
+        "county": "LINCOLN",
+        "city": "DAMARISCOTTA",
+        "zipcode": "04543",
+        "latitude": "+43.986485",
+        "longitude": "-069.424228"
+    },
+    {
+        "county": "LINCOLN",
+        "city": "DRESDEN",
+        "zipcode": "04342",
+        "latitude": "+44.077448",
+        "longitude": "-069.738418"
+    },
+    {
+        "county": "LINCOLN",
+        "city": "EAST BOOTHBAY",
+        "zipcode": "04544",
+        "latitude": "+43.826770",
+        "longitude": "-069.597446"
+    },
+    {
+        "county": "LINCOLN",
+        "city": "EDGECOMB",
+        "zipcode": "04556",
+        "latitude": "+43.931748",
+        "longitude": "-069.587334"
+    },
+    {
+        "county": "LINCOLN",
+        "city": "ISLE OF SPRINGS",
+        "zipcode": "04549",
+        "latitude": "+44.021333",
+        "longitude": "-069.523263"
+    },
+    {
+        "county": "LINCOLN",
+        "city": "JEFFERSON",
+        "zipcode": "04348",
+        "latitude": "+44.220432",
+        "longitude": "-069.513293"
+    },
+    {
+        "county": "LINCOLN",
+        "city": "MONHEGAN",
+        "zipcode": "04852",
+        "latitude": "+44.021333",
+        "longitude": "-069.523263"
+    },
+    {
+        "county": "LINCOLN",
+        "city": "NEW HARBOR",
+        "zipcode": "04554",
+        "latitude": "+43.870936",
+        "longitude": "-069.566313"
+    },
+    {
+        "county": "LINCOLN",
+        "city": "NEWAGEN",
+        "zipcode": "04552",
+        "latitude": "+44.021333",
+        "longitude": "-069.523263"
+    },
+    {
+        "county": "LINCOLN",
+        "city": "NEWCASTLE",
+        "zipcode": "04553",
+        "latitude": "+43.991336",
+        "longitude": "-069.503427"
+    },
+    {
+        "county": "LINCOLN",
+        "city": "NOBLEBORO",
+        "zipcode": "04555",
+        "latitude": "+44.074877",
+        "longitude": "-069.536374"
+    },
+    {
+        "county": "LINCOLN",
+        "city": "PEMAQUID",
+        "zipcode": "04558",
+        "latitude": "+43.896727",
+        "longitude": "-069.509282"
+    },
+    {
+        "county": "LINCOLN",
+        "city": "ROUND POND",
+        "zipcode": "04564",
+        "latitude": "+43.932449",
+        "longitude": "-069.468052"
+    },
+    {
+        "county": "LINCOLN",
+        "city": "SOUTH BRISTOL",
+        "zipcode": "04568",
+        "latitude": "+43.877877",
+        "longitude": "-069.612725"
+    },
+    {
+        "county": "LINCOLN",
+        "city": "SOUTHPORT",
+        "zipcode": "04576",
+        "latitude": "+43.935605",
+        "longitude": "-069.529648"
+    },
+    {
+        "county": "LINCOLN",
+        "city": "SQUIRREL ISLAND",
+        "zipcode": "04570",
+        "latitude": "+44.021333",
+        "longitude": "-069.523263"
+    },
+    {
+        "county": "LINCOLN",
+        "city": "TREVETT",
+        "zipcode": "04571",
+        "latitude": "+43.882610",
+        "longitude": "-069.680144"
+    },
+    {
+        "county": "LINCOLN",
+        "city": "WALDOBORO",
+        "zipcode": "04572",
+        "latitude": "+44.038581",
+        "longitude": "-069.415708"
+    },
+    {
+        "county": "LINCOLN",
+        "city": "WALPOLE",
+        "zipcode": "04573",
+        "latitude": "+43.929821",
+        "longitude": "-069.592127"
+    },
+    {
+        "county": "LINCOLN",
+        "city": "WEST BOOTHBAY HARBOR",
+        "zipcode": "04575",
+        "latitude": "+43.854534",
+        "longitude": "-069.660795"
+    },
+    {
+        "county": "LINCOLN",
+        "city": "WHITEFIELD",
+        "zipcode": "04353",
+        "latitude": "+44.188406",
+        "longitude": "-069.575119"
+    },
+    {
+        "county": "LINCOLN",
+        "city": "WISCASSET",
+        "zipcode": "04578",
+        "latitude": "+43.964901",
+        "longitude": "-069.597134"
+    },
+    {
+        "county": "OXFORD",
+        "city": "ANDOVER",
+        "zipcode": "04216",
+        "latitude": "+44.568160",
+        "longitude": "-070.704051"
+    },
+    {
+        "county": "OXFORD",
+        "city": "BETHEL",
+        "zipcode": "04217",
+        "latitude": "+44.428414",
+        "longitude": "-070.770035"
+    },
+    {
+        "county": "OXFORD",
+        "city": "BROWNFIELD",
+        "zipcode": "04010",
+        "latitude": "+44.163033",
+        "longitude": "-070.739823"
+    },
+    {
+        "county": "OXFORD",
+        "city": "BRYANT POND",
+        "zipcode": "04219",
+        "latitude": "+44.265009",
+        "longitude": "-070.587095"
+    },
+    {
+        "county": "OXFORD",
+        "city": "BUCKFIELD",
+        "zipcode": "04220",
+        "latitude": "+44.326165",
+        "longitude": "-070.381112"
+    },
+    {
+        "county": "OXFORD",
+        "city": "CANTON",
+        "zipcode": "04221",
+        "latitude": "+44.385750",
+        "longitude": "-070.311314"
+    },
+    {
+        "county": "OXFORD",
+        "city": "CENTER LOVELL",
+        "zipcode": "04016",
+        "latitude": "+44.180965",
+        "longitude": "-070.891727"
+    },
+    {
+        "county": "OXFORD",
+        "city": "DENMARK",
+        "zipcode": "04022",
+        "latitude": "+44.566156",
+        "longitude": "-070.661557"
+    },
+    {
+        "county": "OXFORD",
+        "city": "DIXFIELD",
+        "zipcode": "04224",
+        "latitude": "+44.553968",
+        "longitude": "-070.422541"
+    },
+    {
+        "county": "OXFORD",
+        "city": "EAST ANDOVER",
+        "zipcode": "04226",
+        "latitude": "+44.555618",
+        "longitude": "-070.691857"
+    },
+    {
+        "county": "OXFORD",
+        "city": "FRYEBURG",
+        "zipcode": "04037",
+        "latitude": "+44.044292",
+        "longitude": "-070.964418"
+    },
+    {
+        "county": "OXFORD",
+        "city": "GREENWOOD",
+        "zipcode": "04255",
+        "latitude": "+44.401595",
+        "longitude": "-070.708774"
+    },
+    {
+        "county": "OXFORD",
+        "city": "HANOVER",
+        "zipcode": "04237",
+        "latitude": "+44.494347",
+        "longitude": "-070.735691"
+    },
+    {
+        "county": "OXFORD",
+        "city": "HEBRON",
+        "zipcode": "04238",
+        "latitude": "+44.225640",
+        "longitude": "-070.372831"
+    },
+    {
+        "county": "OXFORD",
+        "city": "HIRAM",
+        "zipcode": "04041",
+        "latitude": "+43.879628",
+        "longitude": "-070.826188"
+    },
+    {
+        "county": "OXFORD",
+        "city": "LOVELL",
+        "zipcode": "04051",
+        "latitude": "+44.139839",
+        "longitude": "-070.886741"
+    },
+    {
+        "county": "OXFORD",
+        "city": "MEXICO",
+        "zipcode": "04257",
+        "latitude": "+44.570265",
+        "longitude": "-070.516131"
+    },
+    {
+        "county": "OXFORD",
+        "city": "NEWRY",
+        "zipcode": "04261",
+        "latitude": "+44.689526",
+        "longitude": "-071.011246"
+    },
+    {
+        "county": "OXFORD",
+        "city": "NORTH WATERFORD",
+        "zipcode": "04267",
+        "latitude": "+44.566156",
+        "longitude": "-070.661557"
+    },
+    {
+        "county": "OXFORD",
+        "city": "NORWAY",
+        "zipcode": "04268",
+        "latitude": "+44.280503",
+        "longitude": "-070.691576"
+    },
+    {
+        "county": "OXFORD",
+        "city": "OXFORD",
+        "zipcode": "04270",
+        "latitude": "+44.284385",
+        "longitude": "-070.507791"
+    },
+    {
+        "county": "OXFORD",
+        "city": "PARIS",
+        "zipcode": "04271",
+        "latitude": "+44.264111",
+        "longitude": "-070.498513"
+    },
+    {
+        "county": "OXFORD",
+        "city": "PERU",
+        "zipcode": "04290",
+        "latitude": "+44.477183",
+        "longitude": "-070.436722"
+    },
+    {
+        "county": "OXFORD",
+        "city": "PORTER",
+        "zipcode": "04068",
+        "latitude": "+43.848322",
+        "longitude": "-070.935379"
+    },
+    {
+        "county": "OXFORD",
+        "city": "ROXBURY",
+        "zipcode": "04275",
+        "latitude": "+44.566156",
+        "longitude": "-070.661557"
+    },
+    {
+        "county": "OXFORD",
+        "city": "RUMFORD",
+        "zipcode": "04276",
+        "latitude": "+44.523556",
+        "longitude": "-070.638174"
+    },
+    {
+        "county": "OXFORD",
+        "city": "RUMFORD CENTER",
+        "zipcode": "04278",
+        "latitude": "+44.377031",
+        "longitude": "-070.568041"
+    },
+    {
+        "county": "OXFORD",
+        "city": "SOUTH PARIS",
+        "zipcode": "04281",
+        "latitude": "+44.353052",
+        "longitude": "-070.607841"
+    },
+    {
+        "county": "OXFORD",
+        "city": "SOUTH WATERFORD",
+        "zipcode": "04081",
+        "latitude": "+44.566156",
+        "longitude": "-070.661557"
+    },
+    {
+        "county": "OXFORD",
+        "city": "STONEHAM",
+        "zipcode": "04231",
+        "latitude": "+44.313283",
+        "longitude": "-070.861797"
+    },
+    {
+        "county": "OXFORD",
+        "city": "SUMNER",
+        "zipcode": "04292",
+        "latitude": "+44.318900",
+        "longitude": "-070.477506"
+    },
+    {
+        "county": "OXFORD",
+        "city": "WATERFORD",
+        "zipcode": "04088",
+        "latitude": "+44.566156",
+        "longitude": "-070.661557"
+    },
+    {
+        "county": "OXFORD",
+        "city": "WEST BETHEL",
+        "zipcode": "04286",
+        "latitude": "+44.402050",
+        "longitude": "-070.860094"
+    },
+    {
+        "county": "OXFORD",
+        "city": "WEST PARIS",
+        "zipcode": "04289",
+        "latitude": "+44.340438",
+        "longitude": "-070.543265"
+    },
+    {
+        "county": "PENOBSCOT",
+        "city": "BANGOR",
+        "zipcode": "04401",
+        "latitude": "+45.061744",
+        "longitude": "-068.878893"
+    },
+    {
+        "county": "PENOBSCOT",
+        "city": "BANGOR",
+        "zipcode": "04402",
+        "latitude": "+45.519867",
+        "longitude": "-068.647416"
+    },
+    {
+        "county": "PENOBSCOT",
+        "city": "BRADFORD",
+        "zipcode": "04410",
+        "latitude": "+45.058864",
+        "longitude": "-068.954320"
+    },
+    {
+        "county": "PENOBSCOT",
+        "city": "BRADLEY",
+        "zipcode": "04411",
+        "latitude": "+44.914946",
+        "longitude": "-068.625688"
+    },
+    {
+        "county": "PENOBSCOT",
+        "city": "BREWER",
+        "zipcode": "04412",
+        "latitude": "+44.835610",
+        "longitude": "-068.783742"
+    },
+    {
+        "county": "PENOBSCOT",
+        "city": "BURLINGTON",
+        "zipcode": "04417",
+        "latitude": "+44.817820",
+        "longitude": "-068.817481"
+    },
+    {
+        "county": "PENOBSCOT",
+        "city": "CARMEL",
+        "zipcode": "04419",
+        "latitude": "+44.808062",
+        "longitude": "-068.940624"
+    },
+    {
+        "county": "PENOBSCOT",
+        "city": "CHARLESTON",
+        "zipcode": "04422",
+        "latitude": "+45.066999",
+        "longitude": "-069.040695"
+    },
+    {
+        "county": "PENOBSCOT",
+        "city": "CORINNA",
+        "zipcode": "04928",
+        "latitude": "+44.944157",
+        "longitude": "-069.228736"
+    },
+    {
+        "county": "PENOBSCOT",
+        "city": "CORINTH",
+        "zipcode": "04427",
+        "latitude": "+44.989376",
+        "longitude": "-068.865187"
+    },
+    {
+        "county": "PENOBSCOT",
+        "city": "COSTIGAN",
+        "zipcode": "04423",
+        "latitude": "+45.039478",
+        "longitude": "-068.529182"
+    },
+    {
+        "county": "PENOBSCOT",
+        "city": "DEXTER",
+        "zipcode": "04930",
+        "latitude": "+44.964532",
+        "longitude": "-069.203773"
+    },
+    {
+        "county": "PENOBSCOT",
+        "city": "DIXMONT",
+        "zipcode": "04932",
+        "latitude": "+44.681900",
+        "longitude": "-069.121648"
+    },
+    {
+        "county": "PENOBSCOT",
+        "city": "EAST MILLINOCKET",
+        "zipcode": "04430",
+        "latitude": "+45.233408",
+        "longitude": "-068.689174"
+    },
+    {
+        "county": "PENOBSCOT",
+        "city": "EAST NEWPORT",
+        "zipcode": "04933",
+        "latitude": "+45.519867",
+        "longitude": "-068.647416"
+    },
+    {
+        "county": "PENOBSCOT",
+        "city": "EDDINGTON",
+        "zipcode": "04428",
+        "latitude": "+44.791690",
+        "longitude": "-068.577728"
+    },
+    {
+        "county": "PENOBSCOT",
+        "city": "ETNA",
+        "zipcode": "04434",
+        "latitude": "+45.519867",
+        "longitude": "-068.647416"
+    },
+    {
+        "county": "PENOBSCOT",
+        "city": "EXETER",
+        "zipcode": "04435",
+        "latitude": "+44.966032",
+        "longitude": "-069.133080"
+    },
+    {
+        "county": "PENOBSCOT",
+        "city": "GARLAND",
+        "zipcode": "04939",
+        "latitude": "+45.014913",
+        "longitude": "-069.156965"
+    },
+    {
+        "county": "PENOBSCOT",
+        "city": "GREENBUSH",
+        "zipcode": "04418",
+        "latitude": "+45.049429",
+        "longitude": "-068.581212"
+    },
+    {
+        "county": "PENOBSCOT",
+        "city": "HAMPDEN",
+        "zipcode": "04444",
+        "latitude": "+44.835984",
+        "longitude": "-068.829046"
+    },
+    {
+        "county": "PENOBSCOT",
+        "city": "HOLDEN",
+        "zipcode": "04429",
+        "latitude": "+44.894294",
+        "longitude": "-068.818345"
+    },
+    {
+        "county": "PENOBSCOT",
+        "city": "HOWLAND",
+        "zipcode": "04448",
+        "latitude": "+45.245635",
+        "longitude": "-068.666632"
+    },
+    {
+        "county": "PENOBSCOT",
+        "city": "HUDSON",
+        "zipcode": "04449",
+        "latitude": "+45.006054",
+        "longitude": "-068.884621"
+    },
+    {
+        "county": "PENOBSCOT",
+        "city": "KENDUSKEAG",
+        "zipcode": "04450",
+        "latitude": "+44.918877",
+        "longitude": "-068.965803"
+    },
+    {
+        "county": "PENOBSCOT",
+        "city": "KINGMAN",
+        "zipcode": "04451",
+        "latitude": "+45.519867",
+        "longitude": "-068.647416"
+    },
+    {
+        "county": "PENOBSCOT",
+        "city": "LAGRANGE",
+        "zipcode": "04453",
+        "latitude": "+44.787229",
+        "longitude": "-069.218210"
+    },
+    {
+        "county": "PENOBSCOT",
+        "city": "LEE",
+        "zipcode": "04455",
+        "latitude": "+45.519867",
+        "longitude": "-068.647416"
+    },
+    {
+        "county": "PENOBSCOT",
+        "city": "LEVANT",
+        "zipcode": "04456",
+        "latitude": "+44.871231",
+        "longitude": "-069.011636"
+    },
+    {
+        "county": "PENOBSCOT",
+        "city": "LINCOLN",
+        "zipcode": "04457",
+        "latitude": "+45.366794",
+        "longitude": "-068.492990"
+    },
+    {
+        "county": "PENOBSCOT",
+        "city": "MATTAWAMKEAG",
+        "zipcode": "04459",
+        "latitude": "+45.519867",
+        "longitude": "-068.647416"
+    },
+    {
+        "county": "PENOBSCOT",
+        "city": "MEDWAY",
+        "zipcode": "04460",
+        "latitude": "+45.618608",
+        "longitude": "-068.543602"
+    },
+    {
+        "county": "PENOBSCOT",
+        "city": "MILFORD",
+        "zipcode": "04461",
+        "latitude": "+45.054200",
+        "longitude": "-068.595946"
+    },
+    {
+        "county": "PENOBSCOT",
+        "city": "MILLINOCKET",
+        "zipcode": "04462",
+        "latitude": "+45.226479",
+        "longitude": "-068.752091"
+    },
+    {
+        "county": "PENOBSCOT",
+        "city": "NEWPORT",
+        "zipcode": "04953",
+        "latitude": "+44.863406",
+        "longitude": "-069.266827"
+    },
+    {
+        "county": "PENOBSCOT",
+        "city": "OLAMON",
+        "zipcode": "04467",
+        "latitude": "+45.519867",
+        "longitude": "-068.647416"
+    },
+    {
+        "county": "PENOBSCOT",
+        "city": "OLD TOWN",
+        "zipcode": "04468",
+        "latitude": "+45.040655",
+        "longitude": "-068.722962"
+    },
+    {
+        "county": "PENOBSCOT",
+        "city": "ORONO",
+        "zipcode": "04469",
+        "latitude": "+45.002798",
+        "longitude": "-068.633430"
+    },
+    {
+        "county": "PENOBSCOT",
+        "city": "ORONO",
+        "zipcode": "04473",
+        "latitude": "+45.068848",
+        "longitude": "-068.744361"
+    },
+    {
+        "county": "PENOBSCOT",
+        "city": "ORRINGTON",
+        "zipcode": "04474",
+        "latitude": "+44.842939",
+        "longitude": "-068.782487"
+    },
+    {
+        "county": "PENOBSCOT",
+        "city": "PASSADUMKEAG",
+        "zipcode": "04475",
+        "latitude": "+45.040668",
+        "longitude": "-068.618775"
+    },
+    {
+        "county": "PENOBSCOT",
+        "city": "PATTEN",
+        "zipcode": "04765",
+        "latitude": "+45.999084",
+        "longitude": "-068.443112"
+    },
+    {
+        "county": "PENOBSCOT",
+        "city": "PLYMOUTH",
+        "zipcode": "04969",
+        "latitude": "+44.772503",
+        "longitude": "-069.247539"
+    },
+    {
+        "county": "PENOBSCOT",
+        "city": "SHERMAN STATION",
+        "zipcode": "04777",
+        "latitude": "+45.519867",
+        "longitude": "-068.647416"
+    },
+    {
+        "county": "PENOBSCOT",
+        "city": "SPRINGFIELD",
+        "zipcode": "04487",
+        "latitude": "+45.519867",
+        "longitude": "-068.647416"
+    },
+    {
+        "county": "PENOBSCOT",
+        "city": "STACYVILLE",
+        "zipcode": "04782",
+        "latitude": "+45.519867",
+        "longitude": "-068.647416"
+    },
+    {
+        "county": "PENOBSCOT",
+        "city": "STETSON",
+        "zipcode": "04488",
+        "latitude": "+44.894697",
+        "longitude": "-069.142341"
+    },
+    {
+        "county": "PENOBSCOT",
+        "city": "STILLWATER",
+        "zipcode": "04489",
+        "latitude": "+44.922368",
+        "longitude": "-068.686796"
+    },
+    {
+        "county": "PENOBSCOT",
+        "city": "WEST ENFIELD",
+        "zipcode": "04493",
+        "latitude": "+45.519867",
+        "longitude": "-068.647416"
+    },
+    {
+        "county": "PENOBSCOT",
+        "city": "WINN",
+        "zipcode": "04495",
+        "latitude": "+45.519867",
+        "longitude": "-068.647416"
+    },
+    {
+        "county": "PISCATAQUIS",
+        "city": "ABBOT",
+        "zipcode": "04406",
+        "latitude": "+45.184103",
+        "longitude": "-069.233382"
+    },
+    {
+        "county": "PISCATAQUIS",
+        "city": "BROWNVILLE",
+        "zipcode": "04414",
+        "latitude": "+45.310095",
+        "longitude": "-069.029462"
+    },
+    {
+        "county": "PISCATAQUIS",
+        "city": "BROWNVILLE JUNCTION",
+        "zipcode": "04415",
+        "latitude": "+45.351184",
+        "longitude": "-069.058062"
+    },
+    {
+        "county": "PISCATAQUIS",
+        "city": "DOVER FOXCROFT",
+        "zipcode": "04426",
+        "latitude": "+45.171605",
+        "longitude": "-069.207725"
+    },
+    {
+        "county": "PISCATAQUIS",
+        "city": "GREENVILLE",
+        "zipcode": "04441",
+        "latitude": "+45.792364",
+        "longitude": "-069.304630"
+    },
+    {
+        "county": "PISCATAQUIS",
+        "city": "GREENVILLE JUNCTION",
+        "zipcode": "04442",
+        "latitude": "+45.792364",
+        "longitude": "-069.304630"
+    },
+    {
+        "county": "PISCATAQUIS",
+        "city": "GUILFORD",
+        "zipcode": "04443",
+        "latitude": "+45.315976",
+        "longitude": "-069.457444"
+    },
+    {
+        "county": "PISCATAQUIS",
+        "city": "MILO",
+        "zipcode": "04463",
+        "latitude": "+45.244612",
+        "longitude": "-068.975988"
+    },
+    {
+        "county": "PISCATAQUIS",
+        "city": "MONSON",
+        "zipcode": "04464",
+        "latitude": "+45.792364",
+        "longitude": "-069.304630"
+    },
+    {
+        "county": "PISCATAQUIS",
+        "city": "SANGERVILLE",
+        "zipcode": "04479",
+        "latitude": "+45.792364",
+        "longitude": "-069.304630"
+    },
+    {
+        "county": "PISCATAQUIS",
+        "city": "SEBEC",
+        "zipcode": "04481",
+        "latitude": "+45.792364",
+        "longitude": "-069.304630"
+    },
+    {
+        "county": "PISCATAQUIS",
+        "city": "SHIRLEY MILLS",
+        "zipcode": "04485",
+        "latitude": "+45.792364",
+        "longitude": "-069.304630"
+    },
+    {
+        "county": "SAGADAHOC",
+        "city": "BATH",
+        "zipcode": "04530",
+        "latitude": "+43.867892",
+        "longitude": "-069.826495"
+    },
+    {
+        "county": "SAGADAHOC",
+        "city": "BOWDOIN",
+        "zipcode": "04287",
+        "latitude": "+44.057514",
+        "longitude": "-069.965553"
+    },
+    {
+        "county": "SAGADAHOC",
+        "city": "BOWDOINHAM",
+        "zipcode": "04008",
+        "latitude": "+44.023162",
+        "longitude": "-069.875816"
+    },
+    {
+        "county": "SAGADAHOC",
+        "city": "GEORGETOWN",
+        "zipcode": "04548",
+        "latitude": "+43.805389",
+        "longitude": "-069.745295"
+    },
+    {
+        "county": "SAGADAHOC",
+        "city": "PHIPPSBURG",
+        "zipcode": "04562",
+        "latitude": "+43.789616",
+        "longitude": "-069.810821"
+    },
+    {
+        "county": "SAGADAHOC",
+        "city": "RICHMOND",
+        "zipcode": "04357",
+        "latitude": "+44.108059",
+        "longitude": "-069.827489"
+    },
+    {
+        "county": "SAGADAHOC",
+        "city": "SEBASCO ESTATES",
+        "zipcode": "04565",
+        "latitude": "+43.773312",
+        "longitude": "-069.863461"
+    },
+    {
+        "county": "SAGADAHOC",
+        "city": "SMALL POINT",
+        "zipcode": "04567",
+        "latitude": "+43.900856",
+        "longitude": "-069.859541"
+    },
+    {
+        "county": "SAGADAHOC",
+        "city": "TOPSHAM",
+        "zipcode": "04086",
+        "latitude": "+43.981404",
+        "longitude": "-069.937793"
+    },
+    {
+        "county": "SAGADAHOC",
+        "city": "WOOLWICH",
+        "zipcode": "04579",
+        "latitude": "+43.938696",
+        "longitude": "-069.764378"
+    },
+    {
+        "county": "SOMERSET",
+        "city": "ANSON",
+        "zipcode": "04911",
+        "latitude": "+44.810620",
+        "longitude": "-069.912885"
+    },
+    {
+        "county": "SOMERSET",
+        "city": "ATHENS",
+        "zipcode": "04912",
+        "latitude": "+44.922700",
+        "longitude": "-069.676680"
+    },
+    {
+        "county": "SOMERSET",
+        "city": "BINGHAM",
+        "zipcode": "04920",
+        "latitude": "+45.575731",
+        "longitude": "-069.909773"
+    },
+    {
+        "county": "SOMERSET",
+        "city": "CAMBRIDGE",
+        "zipcode": "04923",
+        "latitude": "+45.036055",
+        "longitude": "-069.438697"
+    },
+    {
+        "county": "SOMERSET",
+        "city": "CANAAN",
+        "zipcode": "04924",
+        "latitude": "+44.743659",
+        "longitude": "-069.585151"
+    },
+    {
+        "county": "SOMERSET",
+        "city": "CARATUNK",
+        "zipcode": "04925",
+        "latitude": "+45.575731",
+        "longitude": "-069.909773"
+    },
+    {
+        "county": "SOMERSET",
+        "city": "DETROIT",
+        "zipcode": "04929",
+        "latitude": "+44.761527",
+        "longitude": "-069.322662"
+    },
+    {
+        "county": "SOMERSET",
+        "city": "FAIRFIELD",
+        "zipcode": "04937",
+        "latitude": "+44.646261",
+        "longitude": "-069.680158"
+    },
+    {
+        "county": "SOMERSET",
+        "city": "HARMONY",
+        "zipcode": "04942",
+        "latitude": "+44.973047",
+        "longitude": "-069.548148"
+    },
+    {
+        "county": "SOMERSET",
+        "city": "HARTLAND",
+        "zipcode": "04943",
+        "latitude": "+44.896404",
+        "longitude": "-069.464092"
+    },
+    {
+        "county": "SOMERSET",
+        "city": "HINCKLEY",
+        "zipcode": "04944",
+        "latitude": "+44.684737",
+        "longitude": "-069.642500"
+    },
+    {
+        "county": "SOMERSET",
+        "city": "JACKMAN",
+        "zipcode": "04945",
+        "latitude": "+44.883675",
+        "longitude": "-069.452187"
+    },
+    {
+        "county": "SOMERSET",
+        "city": "MADISON",
+        "zipcode": "04950",
+        "latitude": "+44.786404",
+        "longitude": "-069.805662"
+    },
+    {
+        "county": "SOMERSET",
+        "city": "NEW PORTLAND",
+        "zipcode": "04954",
+        "latitude": "+45.575731",
+        "longitude": "-069.909773"
+    },
+    {
+        "county": "SOMERSET",
+        "city": "NORRIDGEWOCK",
+        "zipcode": "04957",
+        "latitude": "+44.707468",
+        "longitude": "-069.818804"
+    },
+    {
+        "county": "SOMERSET",
+        "city": "NORTH ANSON",
+        "zipcode": "04958",
+        "latitude": "+44.801900",
+        "longitude": "-069.946593"
+    },
+    {
+        "county": "SOMERSET",
+        "city": "NORTH NEW PORTLAND",
+        "zipcode": "04961",
+        "latitude": "+45.575731",
+        "longitude": "-069.909773"
+    },
+    {
+        "county": "SOMERSET",
+        "city": "PALMYRA",
+        "zipcode": "04965",
+        "latitude": "+44.802655",
+        "longitude": "-069.537715"
+    },
+    {
+        "county": "SOMERSET",
+        "city": "PITTSFIELD",
+        "zipcode": "04967",
+        "latitude": "+44.760948",
+        "longitude": "-069.387705"
+    },
+    {
+        "county": "SOMERSET",
+        "city": "ROCKWOOD",
+        "zipcode": "04478",
+        "latitude": "+45.286570",
+        "longitude": "-070.054629"
+    },
+    {
+        "county": "SOMERSET",
+        "city": "SAINT ALBANS",
+        "zipcode": "04971",
+        "latitude": "+44.931830",
+        "longitude": "-069.403011"
+    },
+    {
+        "county": "SOMERSET",
+        "city": "SHAWMUT",
+        "zipcode": "04975",
+        "latitude": "+44.624515",
+        "longitude": "-069.586852"
+    },
+    {
+        "county": "SOMERSET",
+        "city": "SKOWHEGAN",
+        "zipcode": "04976",
+        "latitude": "+44.769303",
+        "longitude": "-069.593975"
+    },
+    {
+        "county": "SOMERSET",
+        "city": "SMITHFIELD",
+        "zipcode": "04978",
+        "latitude": "+44.621110",
+        "longitude": "-069.770923"
+    },
+    {
+        "county": "SOMERSET",
+        "city": "SOLON",
+        "zipcode": "04979",
+        "latitude": "+44.931415",
+        "longitude": "-069.834764"
+    },
+    {
+        "county": "SOMERSET",
+        "city": "WEST FORKS",
+        "zipcode": "04985",
+        "latitude": "+45.575731",
+        "longitude": "-069.909773"
+    },
+    {
+        "county": "WALDO",
+        "city": "BELFAST",
+        "zipcode": "04915",
+        "latitude": "+44.404619",
+        "longitude": "-069.040297"
+    },
+    {
+        "county": "WALDO",
+        "city": "BROOKS",
+        "zipcode": "04921",
+        "latitude": "+44.579387",
+        "longitude": "-069.175448"
+    },
+    {
+        "county": "WALDO",
+        "city": "BURNHAM",
+        "zipcode": "04922",
+        "latitude": "+44.677388",
+        "longitude": "-069.378829"
+    },
+    {
+        "county": "WALDO",
+        "city": "FRANKFORT",
+        "zipcode": "04438",
+        "latitude": "+44.632657",
+        "longitude": "-068.849975"
+    },
+    {
+        "county": "WALDO",
+        "city": "FREEDOM",
+        "zipcode": "04941",
+        "latitude": "+44.488583",
+        "longitude": "-069.339221"
+    },
+    {
+        "county": "WALDO",
+        "city": "ISLESBORO",
+        "zipcode": "04848",
+        "latitude": "+44.309021",
+        "longitude": "-068.900772"
+    },
+    {
+        "county": "WALDO",
+        "city": "LIBERTY",
+        "zipcode": "04949",
+        "latitude": "+44.371549",
+        "longitude": "-069.155550"
+    },
+    {
+        "county": "WALDO",
+        "city": "LINCOLNVILLE",
+        "zipcode": "04849",
+        "latitude": "+44.324832",
+        "longitude": "-068.998255"
+    },
+    {
+        "county": "WALDO",
+        "city": "LINCOLNVILLE CENTER",
+        "zipcode": "04850",
+        "latitude": "+44.478694",
+        "longitude": "-069.149559"
+    },
+    {
+        "county": "WALDO",
+        "city": "MONROE",
+        "zipcode": "04951",
+        "latitude": "+44.478694",
+        "longitude": "-069.149559"
+    },
+    {
+        "county": "WALDO",
+        "city": "MORRILL",
+        "zipcode": "04952",
+        "latitude": "+44.397850",
+        "longitude": "-069.142182"
+    },
+    {
+        "county": "WALDO",
+        "city": "PALERMO",
+        "zipcode": "04354",
+        "latitude": "+44.395590",
+        "longitude": "-069.416800"
+    },
+    {
+        "county": "WALDO",
+        "city": "SANDY POINT",
+        "zipcode": "04972",
+        "latitude": "+44.478694",
+        "longitude": "-069.149559"
+    },
+    {
+        "county": "WALDO",
+        "city": "SEARSMONT",
+        "zipcode": "04973",
+        "latitude": "+44.357201",
+        "longitude": "-069.215906"
+    },
+    {
+        "county": "WALDO",
+        "city": "SEARSPORT",
+        "zipcode": "04974",
+        "latitude": "+44.489412",
+        "longitude": "-068.933051"
+    },
+    {
+        "county": "WALDO",
+        "city": "STOCKTON SPRINGS",
+        "zipcode": "04981",
+        "latitude": "+44.501114",
+        "longitude": "-068.891743"
+    },
+    {
+        "county": "WALDO",
+        "city": "THORNDIKE",
+        "zipcode": "04986",
+        "latitude": "+44.513048",
+        "longitude": "-069.183929"
+    },
+    {
+        "county": "WALDO",
+        "city": "TROY",
+        "zipcode": "04987",
+        "latitude": "+44.478694",
+        "longitude": "-069.149559"
+    },
+    {
+        "county": "WALDO",
+        "city": "UNITY",
+        "zipcode": "04988",
+        "latitude": "+44.601175",
+        "longitude": "-069.357191"
+    },
+    {
+        "county": "WALDO",
+        "city": "WINTERPORT",
+        "zipcode": "04496",
+        "latitude": "+44.653370",
+        "longitude": "-068.917487"
+    },
+    {
+        "county": "WASHINGTON",
+        "city": "ADDISON",
+        "zipcode": "04606",
+        "latitude": "+45.002969",
+        "longitude": "-067.495548"
+    },
+    {
+        "county": "WASHINGTON",
+        "city": "BAILEYVILLE",
+        "zipcode": "04694",
+        "latitude": "+45.152637",
+        "longitude": "-067.377410"
+    },
+    {
+        "county": "WASHINGTON",
+        "city": "BEALS",
+        "zipcode": "04611",
+        "latitude": "+45.002969",
+        "longitude": "-067.495548"
+    },
+    {
+        "county": "WASHINGTON",
+        "city": "BROOKTON",
+        "zipcode": "04413",
+        "latitude": "+45.002969",
+        "longitude": "-067.495548"
+    },
+    {
+        "county": "WASHINGTON",
+        "city": "CALAIS",
+        "zipcode": "04619",
+        "latitude": "+45.188254",
+        "longitude": "-067.389101"
+    },
+    {
+        "county": "WASHINGTON",
+        "city": "CHERRYFIELD",
+        "zipcode": "04622",
+        "latitude": "+44.603258",
+        "longitude": "-067.923248"
+    },
+    {
+        "county": "WASHINGTON",
+        "city": "COLUMBIA FALLS",
+        "zipcode": "04623",
+        "latitude": "+44.698608",
+        "longitude": "-067.779881"
+    },
+    {
+        "county": "WASHINGTON",
+        "city": "CUTLER",
+        "zipcode": "04626",
+        "latitude": "+45.002969",
+        "longitude": "-067.495548"
+    },
+    {
+        "county": "WASHINGTON",
+        "city": "DANFORTH",
+        "zipcode": "04424",
+        "latitude": "+45.658831",
+        "longitude": "-067.866054"
+    },
+    {
+        "county": "WASHINGTON",
+        "city": "DENNYSVILLE",
+        "zipcode": "04628",
+        "latitude": "+45.002969",
+        "longitude": "-067.495548"
+    },
+    {
+        "county": "WASHINGTON",
+        "city": "EAST MACHIAS",
+        "zipcode": "04630",
+        "latitude": "+44.707460",
+        "longitude": "-067.462470"
+    },
+    {
+        "county": "WASHINGTON",
+        "city": "EASTPORT",
+        "zipcode": "04631",
+        "latitude": "+45.036287",
+        "longitude": "-067.136853"
+    },
+    {
+        "county": "WASHINGTON",
+        "city": "GRAND LAKE STREAM",
+        "zipcode": "04637",
+        "latitude": "+45.185635",
+        "longitude": "-067.601026"
+    },
+    {
+        "county": "WASHINGTON",
+        "city": "HARRINGTON",
+        "zipcode": "04643",
+        "latitude": "+45.002969",
+        "longitude": "-067.495548"
+    },
+    {
+        "county": "WASHINGTON",
+        "city": "JONESBORO",
+        "zipcode": "04648",
+        "latitude": "+45.002969",
+        "longitude": "-067.495548"
+    },
+    {
+        "county": "WASHINGTON",
+        "city": "JONESPORT",
+        "zipcode": "04649",
+        "latitude": "+45.002969",
+        "longitude": "-067.495548"
+    },
+    {
+        "county": "WASHINGTON",
+        "city": "LAMBERT LAKE",
+        "zipcode": "04454",
+        "latitude": "+45.002969",
+        "longitude": "-067.495548"
+    },
+    {
+        "county": "WASHINGTON",
+        "city": "LUBEC",
+        "zipcode": "04652",
+        "latitude": "+44.904288",
+        "longitude": "-067.040767"
+    },
+    {
+        "county": "WASHINGTON",
+        "city": "MACHIAS",
+        "zipcode": "04654",
+        "latitude": "+44.660627",
+        "longitude": "-067.469196"
+    },
+    {
+        "county": "WASHINGTON",
+        "city": "MACHIASPORT",
+        "zipcode": "04655",
+        "latitude": "+45.002969",
+        "longitude": "-067.495548"
+    },
+    {
+        "county": "WASHINGTON",
+        "city": "MEDDYBEMPS",
+        "zipcode": "04657",
+        "latitude": "+45.002969",
+        "longitude": "-067.495548"
+    },
+    {
+        "county": "WASHINGTON",
+        "city": "MILBRIDGE",
+        "zipcode": "04658",
+        "latitude": "+45.002969",
+        "longitude": "-067.495548"
+    },
+    {
+        "county": "WASHINGTON",
+        "city": "PEMBROKE",
+        "zipcode": "04666",
+        "latitude": "+44.930092",
+        "longitude": "-067.156533"
+    },
+    {
+        "county": "WASHINGTON",
+        "city": "PERRY",
+        "zipcode": "04667",
+        "latitude": "+45.013348",
+        "longitude": "-067.097043"
+    },
+    {
+        "county": "WASHINGTON",
+        "city": "PRINCETON",
+        "zipcode": "04668",
+        "latitude": "+45.209229",
+        "longitude": "-067.575432"
+    },
+    {
+        "county": "WASHINGTON",
+        "city": "ROBBINSTON",
+        "zipcode": "04671",
+        "latitude": "+45.002969",
+        "longitude": "-067.495548"
+    },
+    {
+        "county": "WASHINGTON",
+        "city": "STEUBEN",
+        "zipcode": "04680",
+        "latitude": "+45.002969",
+        "longitude": "-067.495548"
+    },
+    {
+        "county": "WASHINGTON",
+        "city": "TOPSFIELD",
+        "zipcode": "04490",
+        "latitude": "+45.002969",
+        "longitude": "-067.495548"
+    },
+    {
+        "county": "WASHINGTON",
+        "city": "VANCEBORO",
+        "zipcode": "04491",
+        "latitude": "+45.002969",
+        "longitude": "-067.495548"
+    },
+    {
+        "county": "WASHINGTON",
+        "city": "WAITE",
+        "zipcode": "04492",
+        "latitude": "+45.002969",
+        "longitude": "-067.495548"
+    },
+    {
+        "county": "WASHINGTON",
+        "city": "WESLEY",
+        "zipcode": "04686",
+        "latitude": "+45.002969",
+        "longitude": "-067.495548"
+    },
+    {
+        "county": "WASHINGTON",
+        "city": "WHITING",
+        "zipcode": "04691",
+        "latitude": "+45.002969",
+        "longitude": "-067.495548"
+    },
+    {
+        "county": "YORK",
+        "city": "ACTON",
+        "zipcode": "04001",
+        "latitude": "+43.520752",
+        "longitude": "-070.804588"
+    },
+    {
+        "county": "YORK",
+        "city": "ALFRED",
+        "zipcode": "04002",
+        "latitude": "+43.467224",
+        "longitude": "-070.738992"
+    },
+    {
+        "county": "YORK",
+        "city": "BAR MILLS",
+        "zipcode": "04004",
+        "latitude": "+43.365658",
+        "longitude": "-070.604379"
+    },
+    {
+        "county": "YORK",
+        "city": "BERWICK",
+        "zipcode": "03901",
+        "latitude": "+43.279539",
+        "longitude": "-070.740013"
+    },
+    {
+        "county": "YORK",
+        "city": "BIDDEFORD",
+        "zipcode": "04005",
+        "latitude": "+43.532376",
+        "longitude": "-070.651859"
+    },
+    {
+        "county": "YORK",
+        "city": "BIDDEFORD",
+        "zipcode": "04007",
+        "latitude": "+43.458130",
+        "longitude": "-070.505301"
+    },
+    {
+        "county": "YORK",
+        "city": "BIDDEFORD POOL",
+        "zipcode": "04006",
+        "latitude": "+43.436049",
+        "longitude": "-070.359800"
+    },
+    {
+        "county": "YORK",
+        "city": "BUXTON",
+        "zipcode": "04093",
+        "latitude": "+43.653805",
+        "longitude": "-070.622959"
+    },
+    {
+        "county": "YORK",
+        "city": "CAPE NEDDICK",
+        "zipcode": "03902",
+        "latitude": "+43.245785",
+        "longitude": "-070.664719"
+    },
+    {
+        "county": "YORK",
+        "city": "CAPE PORPOISE",
+        "zipcode": "04014",
+        "latitude": "+43.365658",
+        "longitude": "-070.604379"
+    },
+    {
+        "county": "YORK",
+        "city": "CORNISH",
+        "zipcode": "04020",
+        "latitude": "+43.773970",
+        "longitude": "-070.791727"
+    },
+    {
+        "county": "YORK",
+        "city": "EAST PARSONFIELD",
+        "zipcode": "04028",
+        "latitude": "+43.732391",
+        "longitude": "-070.845114"
+    },
+    {
+        "county": "YORK",
+        "city": "EAST WATERBORO",
+        "zipcode": "04030",
+        "latitude": "+43.596921",
+        "longitude": "-070.689681"
+    },
+    {
+        "county": "YORK",
+        "city": "ELIOT",
+        "zipcode": "03903",
+        "latitude": "+43.182729",
+        "longitude": "-070.745759"
+    },
+    {
+        "county": "YORK",
+        "city": "HOLLIS CENTER",
+        "zipcode": "04042",
+        "latitude": "+43.584232",
+        "longitude": "-070.624391"
+    },
+    {
+        "county": "YORK",
+        "city": "KENNEBUNK",
+        "zipcode": "04043",
+        "latitude": "+43.494679",
+        "longitude": "-070.549210"
+    },
+    {
+        "county": "YORK",
+        "city": "KENNEBUNKPORT",
+        "zipcode": "04046",
+        "latitude": "+43.534125",
+        "longitude": "-070.607475"
+    },
+    {
+        "county": "YORK",
+        "city": "KITTERY",
+        "zipcode": "03904",
+        "latitude": "+43.191554",
+        "longitude": "-070.684607"
+    },
+    {
+        "county": "YORK",
+        "city": "KITTERY POINT",
+        "zipcode": "03905",
+        "latitude": "+43.094746",
+        "longitude": "-070.689280"
+    },
+    {
+        "county": "YORK",
+        "city": "LEBANON",
+        "zipcode": "04027",
+        "latitude": "+43.459708",
+        "longitude": "-070.915190"
+    },
+    {
+        "county": "YORK",
+        "city": "LIMERICK",
+        "zipcode": "04048",
+        "latitude": "+43.661222",
+        "longitude": "-070.834480"
+    },
+    {
+        "county": "YORK",
+        "city": "LIMINGTON",
+        "zipcode": "04049",
+        "latitude": "+43.703854",
+        "longitude": "-070.748668"
+    },
+    {
+        "county": "YORK",
+        "city": "MOODY",
+        "zipcode": "04054",
+        "latitude": "+43.276341",
+        "longitude": "-070.597752"
+    },
+    {
+        "county": "YORK",
+        "city": "NEWFIELD",
+        "zipcode": "04056",
+        "latitude": "+43.658378",
+        "longitude": "-070.868871"
+    },
+    {
+        "county": "YORK",
+        "city": "NORTH BERWICK",
+        "zipcode": "03906",
+        "latitude": "+43.340626",
+        "longitude": "-070.753996"
+    },
+    {
+        "county": "YORK",
+        "city": "NORTH WATERBORO",
+        "zipcode": "04061",
+        "latitude": "+43.542090",
+        "longitude": "-070.710773"
+    },
+    {
+        "county": "YORK",
+        "city": "OCEAN PARK",
+        "zipcode": "04063",
+        "latitude": "+43.504889",
+        "longitude": "-070.385703"
+    },
+    {
+        "county": "YORK",
+        "city": "OGUNQUIT",
+        "zipcode": "03907",
+        "latitude": "+43.350806",
+        "longitude": "-070.731498"
+    },
+    {
+        "county": "YORK",
+        "city": "OLD ORCHARD BEACH",
+        "zipcode": "04064",
+        "latitude": "+43.411837",
+        "longitude": "-070.469526"
+    },
+    {
+        "county": "YORK",
+        "city": "PARSONSFIELD",
+        "zipcode": "04047",
+        "latitude": "+43.744987",
+        "longitude": "-070.909196"
+    },
+    {
+        "county": "YORK",
+        "city": "SACO",
+        "zipcode": "04072",
+        "latitude": "+43.541241",
+        "longitude": "-070.666387"
+    },
+    {
+        "county": "YORK",
+        "city": "SANFORD",
+        "zipcode": "04073",
+        "latitude": "+43.576196",
+        "longitude": "-070.630569"
+    },
+    {
+        "county": "YORK",
+        "city": "SHAPLEIGH",
+        "zipcode": "04076",
+        "latitude": "+43.510275",
+        "longitude": "-070.771590"
+    },
+    {
+        "county": "YORK",
+        "city": "SOUTH BERWICK",
+        "zipcode": "03908",
+        "latitude": "+43.227549",
+        "longitude": "-070.711710"
+    },
+    {
+        "county": "YORK",
+        "city": "SPRINGVALE",
+        "zipcode": "04083",
+        "latitude": "+43.465941",
+        "longitude": "-070.748295"
+    },
+    {
+        "county": "YORK",
+        "city": "WATERBORO",
+        "zipcode": "04087",
+        "latitude": "+43.573684",
+        "longitude": "-070.749181"
+    },
+    {
+        "county": "YORK",
+        "city": "WELLS",
+        "zipcode": "04090",
+        "latitude": "+43.429659",
+        "longitude": "-070.671274"
+    },
+    {
+        "county": "YORK",
+        "city": "WEST KENNEBUNK",
+        "zipcode": "04094",
+        "latitude": "+43.406101",
+        "longitude": "-070.573255"
+    },
+    {
+        "county": "YORK",
+        "city": "WEST NEWFIELD",
+        "zipcode": "04095",
+        "latitude": "+43.601018",
+        "longitude": "-070.902676"
+    },
+    {
+        "county": "YORK",
+        "city": "YORK",
+        "zipcode": "03909",
+        "latitude": "+43.237891",
+        "longitude": "-070.690990"
+    },
+    {
+        "county": "YORK",
+        "city": "YORK BEACH",
+        "zipcode": "03910",
+        "latitude": "+43.211674",
+        "longitude": "-070.732010"
+    },
+    {
+        "county": "YORK",
+        "city": "YORK HARBOR",
+        "zipcode": "03911",
+        "latitude": "+43.155465",
+        "longitude": "-070.635702"
+    }
+]

@@ -1,0 +1,596 @@
+[
+    {
+        "county": "CARSON CITY",
+        "city": "CARSON CITY",
+        "latitude": "+39.167833",
+        "longitude": "-119.776409"
+    },
+    {
+        "county": "CHURCHILL",
+        "city": "FALLON",
+        "latitude": "+39.537979",
+        "longitude": "-118.343592"
+    },
+    {
+        "county": "CLARK",
+        "city": "BLUE DIAMOND",
+        "latitude": "+36.088098",
+        "longitude": "-115.608969"
+    },
+    {
+        "county": "CLARK",
+        "city": "BOULDER CITY",
+        "latitude": "+35.927901",
+        "longitude": "-114.972061"
+    },
+    {
+        "county": "CLARK",
+        "city": "BUNKERVILLE",
+        "latitude": "+36.768399",
+        "longitude": "-114.128106"
+    },
+    {
+        "county": "CLARK",
+        "city": "CAL NEV ARI",
+        "latitude": "+35.252249",
+        "longitude": "-114.871384"
+    },
+    {
+        "county": "CLARK",
+        "city": "HENDERSON",
+        "latitude": "",
+        "longitude": ""
+    },
+    {
+        "county": "CLARK",
+        "city": "INDIAN SPRINGS",
+        "latitude": "+35.927901",
+        "longitude": "-114.972061"
+    },
+    {
+        "county": "CLARK",
+        "city": "JEAN",
+        "latitude": "+35.927901",
+        "longitude": "-114.972061"
+    },
+    {
+        "county": "CLARK",
+        "city": "LAS VEGAS",
+        "latitude": "+35.927901",
+        "longitude": "-114.972061"
+    },
+    {
+        "county": "CLARK",
+        "city": "LAUGHLIN",
+        "latitude": "+35.819678",
+        "longitude": "-114.675298"
+    },
+    {
+        "county": "CLARK",
+        "city": "LOGANDALE",
+        "latitude": "+36.593525",
+        "longitude": "-114.468251"
+    },
+    {
+        "county": "CLARK",
+        "city": "MESQUITE",
+        "latitude": "+36.437362",
+        "longitude": "-114.728855"
+    },
+    {
+        "county": "CLARK",
+        "city": "MOAPA",
+        "latitude": "+36.691647",
+        "longitude": "-114.651381"
+    },
+    {
+        "county": "CLARK",
+        "city": "NELLIS AFB",
+        "latitude": "+35.927901",
+        "longitude": "-114.972061"
+    },
+    {
+        "county": "CLARK",
+        "city": "NORTH LAS VEGAS",
+        "latitude": "",
+        "longitude": ""
+    },
+    {
+        "county": "CLARK",
+        "city": "OVERTON",
+        "latitude": "+36.570259",
+        "longitude": "-114.473191"
+    },
+    {
+        "county": "CLARK",
+        "city": "SEARCHLIGHT",
+        "latitude": "+35.332725",
+        "longitude": "-114.892999"
+    },
+    {
+        "county": "CLARK",
+        "city": "THE LAKES",
+        "latitude": "+35.927901",
+        "longitude": "-114.972061"
+    },
+    {
+        "county": "DOUGLAS",
+        "city": "CARSON CITY",
+        "latitude": "+39.055424",
+        "longitude": "-119.805916"
+    },
+    {
+        "county": "DOUGLAS",
+        "city": "GARDNERVILLE",
+        "latitude": "+38.818277",
+        "longitude": "-119.649498"
+    },
+    {
+        "county": "DOUGLAS",
+        "city": "GENOA",
+        "latitude": "+39.034129",
+        "longitude": "-119.822837"
+    },
+    {
+        "county": "DOUGLAS",
+        "city": "GLENBROOK",
+        "latitude": "+39.050936",
+        "longitude": "-119.942771"
+    },
+    {
+        "county": "DOUGLAS",
+        "city": "MINDEN",
+        "latitude": "+39.008718",
+        "longitude": "-119.729731"
+    },
+    {
+        "county": "DOUGLAS",
+        "city": "STATELINE",
+        "latitude": "+38.860647",
+        "longitude": "-119.732977"
+    },
+    {
+        "county": "DOUGLAS",
+        "city": "ZEPHYR COVE",
+        "latitude": "+39.020403",
+        "longitude": "-119.911397"
+    },
+    {
+        "county": "ELKO",
+        "city": "CARLIN",
+        "latitude": "+40.715931",
+        "longitude": "-116.103154"
+    },
+    {
+        "county": "ELKO",
+        "city": "DEETH",
+        "latitude": "+41.059414",
+        "longitude": "-115.529596"
+    },
+    {
+        "county": "ELKO",
+        "city": "ELKO",
+        "latitude": "+41.059414",
+        "longitude": "-115.529596"
+    },
+    {
+        "county": "ELKO",
+        "city": "HALLECK",
+        "latitude": "+41.059414",
+        "longitude": "-115.529596"
+    },
+    {
+        "county": "ELKO",
+        "city": "JACKPOT",
+        "latitude": "+41.059414",
+        "longitude": "-115.529596"
+    },
+    {
+        "county": "ELKO",
+        "city": "JARBIDGE",
+        "latitude": "+41.059414",
+        "longitude": "-115.529596"
+    },
+    {
+        "county": "ELKO",
+        "city": "LAMOILLE",
+        "latitude": "+40.744704",
+        "longitude": "-115.554233"
+    },
+    {
+        "county": "ELKO",
+        "city": "MONTELLO",
+        "latitude": "+41.059414",
+        "longitude": "-115.529596"
+    },
+    {
+        "county": "ELKO",
+        "city": "MOUNTAIN CITY",
+        "latitude": "+41.059414",
+        "longitude": "-115.529596"
+    },
+    {
+        "county": "ELKO",
+        "city": "OWYHEE",
+        "latitude": "+41.748280",
+        "longitude": "-116.007157"
+    },
+    {
+        "county": "ELKO",
+        "city": "RUBY VALLEY",
+        "latitude": "+41.059414",
+        "longitude": "-115.529596"
+    },
+    {
+        "county": "ELKO",
+        "city": "SPRING CREEK",
+        "latitude": "+40.751905",
+        "longitude": "-115.595581"
+    },
+    {
+        "county": "ELKO",
+        "city": "TUSCARORA",
+        "latitude": "+41.059414",
+        "longitude": "-115.529596"
+    },
+    {
+        "county": "ELKO",
+        "city": "WELLS",
+        "latitude": "+41.543923",
+        "longitude": "-114.821761"
+    },
+    {
+        "county": "ELKO",
+        "city": "WEST WENDOVER",
+        "latitude": "+40.504545",
+        "longitude": "-114.412635"
+    },
+    {
+        "county": "ESMERALDA",
+        "city": "DYER",
+        "latitude": "+37.585111",
+        "longitude": "-117.604871"
+    },
+    {
+        "county": "ESMERALDA",
+        "city": "GOLDFIELD",
+        "latitude": "+37.722454",
+        "longitude": "-117.796454"
+    },
+    {
+        "county": "ESMERALDA",
+        "city": "SILVERPEAK",
+        "latitude": "+37.722454",
+        "longitude": "-117.796454"
+    },
+    {
+        "county": "EUREKA",
+        "city": "CRESCENT VALLEY",
+        "latitude": "+40.413793",
+        "longitude": "-116.581275"
+    },
+    {
+        "county": "EUREKA",
+        "city": "EUREKA",
+        "latitude": "+39.547797",
+        "longitude": "-115.993806"
+    },
+    {
+        "county": "HUMBOLDT",
+        "city": "DENIO",
+        "latitude": "+41.263287",
+        "longitude": "-118.174506"
+    },
+    {
+        "county": "HUMBOLDT",
+        "city": "GOLCONDA",
+        "latitude": "+40.950867",
+        "longitude": "-117.494182"
+    },
+    {
+        "county": "HUMBOLDT",
+        "city": "MC DERMITT",
+        "latitude": "+41.970838",
+        "longitude": "-117.673683"
+    },
+    {
+        "county": "HUMBOLDT",
+        "city": "OROVADA",
+        "latitude": "+41.263287",
+        "longitude": "-118.174506"
+    },
+    {
+        "county": "HUMBOLDT",
+        "city": "PARADISE VALLEY",
+        "latitude": "+41.263287",
+        "longitude": "-118.174506"
+    },
+    {
+        "county": "HUMBOLDT",
+        "city": "VALMY",
+        "latitude": "+41.263287",
+        "longitude": "-118.174506"
+    },
+    {
+        "county": "HUMBOLDT",
+        "city": "WINNEMUCCA",
+        "latitude": "+41.076358",
+        "longitude": "-117.760165"
+    },
+    {
+        "county": "LANDER",
+        "city": "AUSTIN",
+        "latitude": "+40.046976",
+        "longitude": "-117.196690"
+    },
+    {
+        "county": "LANDER",
+        "city": "BATTLE MOUNTAIN",
+        "latitude": "+40.042115",
+        "longitude": "-116.974803"
+    },
+    {
+        "county": "LINCOLN",
+        "city": "ALAMO",
+        "latitude": "+37.472491",
+        "longitude": "-115.143709"
+    },
+    {
+        "county": "LINCOLN",
+        "city": "CALIENTE",
+        "latitude": "+38.017162",
+        "longitude": "-114.431896"
+    },
+    {
+        "county": "LINCOLN",
+        "city": "HIKO",
+        "latitude": "+37.592635",
+        "longitude": "-115.226154"
+    },
+    {
+        "county": "LINCOLN",
+        "city": "PANACA",
+        "latitude": "+37.759736",
+        "longitude": "-114.972405"
+    },
+    {
+        "county": "LINCOLN",
+        "city": "PIOCHE",
+        "latitude": "+37.759736",
+        "longitude": "-114.972405"
+    },
+    {
+        "county": "LYON",
+        "city": "DAYTON",
+        "latitude": "+39.103007",
+        "longitude": "-119.482264"
+    },
+    {
+        "county": "LYON",
+        "city": "FERNLEY",
+        "latitude": "+39.489212",
+        "longitude": "-119.196644"
+    },
+    {
+        "county": "LYON",
+        "city": "SILVER CITY",
+        "latitude": "+39.265240",
+        "longitude": "-119.638802"
+    },
+    {
+        "county": "LYON",
+        "city": "SILVER SPRINGS",
+        "latitude": "+39.439405",
+        "longitude": "-119.391468"
+    },
+    {
+        "county": "LYON",
+        "city": "SMITH",
+        "latitude": "+38.773292",
+        "longitude": "-119.302929"
+    },
+    {
+        "county": "LYON",
+        "city": "WELLINGTON",
+        "latitude": "+38.844747",
+        "longitude": "-119.352280"
+    },
+    {
+        "county": "LYON",
+        "city": "YERINGTON",
+        "latitude": "+39.080415",
+        "longitude": "-119.228631"
+    },
+    {
+        "county": "MINERAL",
+        "city": "HAWTHORNE",
+        "latitude": "+38.576848",
+        "longitude": "-118.690644"
+    },
+    {
+        "county": "MINERAL",
+        "city": "LUNING",
+        "latitude": "+38.484178",
+        "longitude": "-118.423999"
+    },
+    {
+        "county": "MINERAL",
+        "city": "MINA",
+        "latitude": "+38.387008",
+        "longitude": "-118.109585"
+    },
+    {
+        "county": "MINERAL",
+        "city": "SCHURZ",
+        "latitude": "+38.970781",
+        "longitude": "-118.833128"
+    },
+    {
+        "county": "NYE",
+        "city": "AMARGOSA VALLEY",
+        "latitude": "+36.539018",
+        "longitude": "-116.549634"
+    },
+    {
+        "county": "NYE",
+        "city": "BEATTY",
+        "latitude": "+36.819857",
+        "longitude": "-116.609372"
+    },
+    {
+        "county": "NYE",
+        "city": "GABBS",
+        "latitude": "+38.863664",
+        "longitude": "-117.928173"
+    },
+    {
+        "county": "NYE",
+        "city": "MANHATTAN",
+        "latitude": "+38.702281",
+        "longitude": "-116.310045"
+    },
+    {
+        "county": "NYE",
+        "city": "MERCURY",
+        "latitude": "+37.583805",
+        "longitude": "-116.598559"
+    },
+    {
+        "county": "NYE",
+        "city": "PAHRUMP",
+        "latitude": "",
+        "longitude": ""
+    },
+    {
+        "county": "NYE",
+        "city": "ROUND MOUNTAIN",
+        "latitude": "+37.583805",
+        "longitude": "-116.598559"
+    },
+    {
+        "county": "NYE",
+        "city": "TONOPAH",
+        "latitude": "+38.262575",
+        "longitude": "-116.624808"
+    },
+    {
+        "county": "PERSHING",
+        "city": "IMLAY",
+        "latitude": "+40.649475",
+        "longitude": "-118.288693"
+    },
+    {
+        "county": "PERSHING",
+        "city": "LOVELOCK",
+        "latitude": "+40.251285",
+        "longitude": "-118.400276"
+    },
+    {
+        "county": "STOREY",
+        "city": "VIRGINIA CITY",
+        "latitude": "+39.332488",
+        "longitude": "-119.613509"
+    },
+    {
+        "county": "WASHOE",
+        "city": "CRYSTAL BAY",
+        "latitude": "+39.239457",
+        "longitude": "-119.971133"
+    },
+    {
+        "county": "WASHOE",
+        "city": "EMPIRE",
+        "latitude": "+40.613152",
+        "longitude": "-119.348515"
+    },
+    {
+        "county": "WASHOE",
+        "city": "GERLACH",
+        "latitude": "+40.652505",
+        "longitude": "-119.356505"
+    },
+    {
+        "county": "WASHOE",
+        "city": "INCLINE VILLAGE",
+        "latitude": "+39.259103",
+        "longitude": "-119.956585"
+    },
+    {
+        "county": "WASHOE",
+        "city": "NIXON",
+        "latitude": "+39.827156",
+        "longitude": "-119.360545"
+    },
+    {
+        "county": "WASHOE",
+        "city": "RENO",
+        "latitude": "+40.541218",
+        "longitude": "-119.586934"
+    },
+    {
+        "county": "WASHOE",
+        "city": "SPARKS",
+        "latitude": "",
+        "longitude": ""
+    },
+    {
+        "county": "WASHOE",
+        "city": "SUN VALLEY",
+        "latitude": "+39.748304",
+        "longitude": "-119.804924"
+    },
+    {
+        "county": "WASHOE",
+        "city": "VERDI",
+        "latitude": "+39.516486",
+        "longitude": "-119.983252"
+    },
+    {
+        "county": "WASHOE",
+        "city": "WADSWORTH",
+        "latitude": "+39.639846",
+        "longitude": "-119.302787"
+    },
+    {
+        "county": "WASHOE",
+        "city": "WASHOE VALLEY",
+        "latitude": "+39.453739",
+        "longitude": "-119.722803"
+    },
+    {
+        "county": "WHITE PINE",
+        "city": "BAKER",
+        "latitude": "+38.955899",
+        "longitude": "-114.243831"
+    },
+    {
+        "county": "WHITE PINE",
+        "city": "DUCKWATER",
+        "latitude": "+39.402924",
+        "longitude": "-114.977022"
+    },
+    {
+        "county": "WHITE PINE",
+        "city": "ELY",
+        "latitude": "+39.332636",
+        "longitude": "-114.824507"
+    },
+    {
+        "county": "WHITE PINE",
+        "city": "LUND",
+        "latitude": "+38.864122",
+        "longitude": "-115.006865"
+    },
+    {
+        "county": "WHITE PINE",
+        "city": "MC GILL",
+        "latitude": "+39.403429",
+        "longitude": "-114.779100"
+    },
+    {
+        "county": "WHITE PINE",
+        "city": "RUTH",
+        "latitude": "+39.342631",
+        "longitude": "-114.885945"
+    }
+]

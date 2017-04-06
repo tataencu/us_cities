@@ -1,0 +1,3397 @@
+[
+    {
+        "county": "BAKER",
+        "city": "BAKER CITY",
+        "zipcode": 97814,
+        "latitude": "+44.754237",
+        "longitude": "-117.742659"
+    },
+    {
+        "county": "BAKER",
+        "city": "BRIDGEPORT",
+        "zipcode": 97819,
+        "latitude": "+44.493135",
+        "longitude": "-117.765498"
+    },
+    {
+        "county": "BAKER",
+        "city": "DURKEE",
+        "zipcode": 97905,
+        "latitude": "+44.498826",
+        "longitude": "-117.412907"
+    },
+    {
+        "county": "BAKER",
+        "city": "HAINES",
+        "zipcode": 97833,
+        "latitude": "+44.941557",
+        "longitude": "-117.987928"
+    },
+    {
+        "county": "BAKER",
+        "city": "HALFWAY",
+        "zipcode": 97834,
+        "latitude": "+44.952248",
+        "longitude": "-117.123753"
+    },
+    {
+        "county": "BAKER",
+        "city": "HEREFORD",
+        "zipcode": 97837,
+        "latitude": "+44.530415",
+        "longitude": "-118.029277"
+    },
+    {
+        "county": "BAKER",
+        "city": "HUNTINGTON",
+        "zipcode": 97907,
+        "latitude": "+44.432748",
+        "longitude": "-117.389163"
+    },
+    {
+        "county": "BAKER",
+        "city": "OXBOW",
+        "zipcode": 97840,
+        "latitude": "+44.963341",
+        "longitude": "-116.843590"
+    },
+    {
+        "county": "BAKER",
+        "city": "RICHLAND",
+        "zipcode": 97870,
+        "latitude": "+44.794629",
+        "longitude": "-117.229802"
+    },
+    {
+        "county": "BAKER",
+        "city": "SUMPTER",
+        "zipcode": 97877,
+        "latitude": "+44.725630",
+        "longitude": "-118.181033"
+    },
+    {
+        "county": "BAKER",
+        "city": "UNITY",
+        "zipcode": 97884,
+        "latitude": "+44.456084",
+        "longitude": "-118.195489"
+    },
+    {
+        "county": "BENTON",
+        "city": "ALSEA",
+        "zipcode": 97324,
+        "latitude": "+44.377113",
+        "longitude": "-123.588271"
+    },
+    {
+        "county": "BENTON",
+        "city": "BLODGETT",
+        "zipcode": 97326,
+        "latitude": "+44.638187",
+        "longitude": "-123.538238"
+    },
+    {
+        "county": "BENTON",
+        "city": "CORVALLIS",
+        "zipcode": 97330,
+        "latitude": "+44.639931",
+        "longitude": "-123.275969"
+    },
+    {
+        "county": "BENTON",
+        "city": "CORVALLIS",
+        "zipcode": 97331,
+        "latitude": "+44.565613",
+        "longitude": "-123.278957"
+    },
+    {
+        "county": "BENTON",
+        "city": "CORVALLIS",
+        "zipcode": 97333,
+        "latitude": "+44.467218",
+        "longitude": "-123.337762"
+    },
+    {
+        "county": "BENTON",
+        "city": "CORVALLIS",
+        "zipcode": 97339,
+        "latitude": "+44.498930",
+        "longitude": "-123.445033"
+    },
+    {
+        "county": "BENTON",
+        "city": "MONROE",
+        "zipcode": 97456,
+        "latitude": "+44.346783",
+        "longitude": "-123.325952"
+    },
+    {
+        "county": "BENTON",
+        "city": "PHILOMATH",
+        "zipcode": 97370,
+        "latitude": "+44.555144",
+        "longitude": "-123.439249"
+    },
+    {
+        "county": "CLACKAMAS",
+        "city": "BEAVERCREEK",
+        "zipcode": 97004,
+        "latitude": "+45.247636",
+        "longitude": "-122.468991"
+    },
+    {
+        "county": "CLACKAMAS",
+        "city": "BORING",
+        "zipcode": 97009,
+        "latitude": "+45.411842",
+        "longitude": "-122.376420"
+    },
+    {
+        "county": "CLACKAMAS",
+        "city": "BRIGHTWOOD",
+        "zipcode": 97011,
+        "latitude": "+45.359095",
+        "longitude": "-121.998736"
+    },
+    {
+        "county": "CLACKAMAS",
+        "city": "CANBY",
+        "zipcode": 97013,
+        "latitude": "+45.214288",
+        "longitude": "-122.661593"
+    },
+    {
+        "county": "CLACKAMAS",
+        "city": "CLACKAMAS",
+        "zipcode": 97015,
+        "latitude": "+45.415038",
+        "longitude": "-122.499461"
+    },
+    {
+        "county": "CLACKAMAS",
+        "city": "COLTON",
+        "zipcode": 97017,
+        "latitude": "+45.188700",
+        "longitude": "-122.397774"
+    },
+    {
+        "county": "CLACKAMAS",
+        "city": "EAGLE CREEK",
+        "zipcode": 97022,
+        "latitude": "+45.346076",
+        "longitude": "-122.312496"
+    },
+    {
+        "county": "CLACKAMAS",
+        "city": "ESTACADA",
+        "zipcode": 97023,
+        "latitude": "+45.226738",
+        "longitude": "-122.247547"
+    },
+    {
+        "county": "CLACKAMAS",
+        "city": "GLADSTONE",
+        "zipcode": 97027,
+        "latitude": "+45.390442",
+        "longitude": "-122.593220"
+    },
+    {
+        "county": "CLACKAMAS",
+        "city": "GOVERNMENT CAMP",
+        "zipcode": 97028,
+        "latitude": "+45.297173",
+        "longitude": "-121.739004"
+    },
+    {
+        "county": "CLACKAMAS",
+        "city": "LAKE OSWEGO",
+        "zipcode": 97034,
+        "latitude": "+45.408374",
+        "longitude": "-122.691388"
+    },
+    {
+        "county": "CLACKAMAS",
+        "city": "LAKE OSWEGO",
+        "zipcode": 97035,
+        "latitude": "+45.408077",
+        "longitude": "-122.723058"
+    },
+    {
+        "county": "CLACKAMAS",
+        "city": "MARYLHURST",
+        "zipcode": 97036,
+        "latitude": "+45.173284",
+        "longitude": "-122.259861"
+    },
+    {
+        "county": "CLACKAMAS",
+        "city": "MOLALLA",
+        "zipcode": 97038,
+        "latitude": "+45.078408",
+        "longitude": "-122.565028"
+    },
+    {
+        "county": "CLACKAMAS",
+        "city": "MULINO",
+        "zipcode": 97042,
+        "latitude": "+45.201439",
+        "longitude": "-122.537939"
+    },
+    {
+        "county": "CLACKAMAS",
+        "city": "OREGON CITY",
+        "zipcode": 97045,
+        "latitude": "+45.317893",
+        "longitude": "-122.523602"
+    },
+    {
+        "county": "CLACKAMAS",
+        "city": "PORTLAND",
+        "zipcode": 97222,
+        "latitude": "+45.437341",
+        "longitude": "-122.614703"
+    },
+    {
+        "county": "CLACKAMAS",
+        "city": "PORTLAND",
+        "zipcode": 97267,
+        "latitude": "+45.402142",
+        "longitude": "-122.614353"
+    },
+    {
+        "county": "CLACKAMAS",
+        "city": "PORTLAND",
+        "zipcode": 97268,
+        "latitude": "+45.173284",
+        "longitude": "-122.259861"
+    },
+    {
+        "county": "CLACKAMAS",
+        "city": "PORTLAND",
+        "zipcode": 97269,
+        "latitude": "+45.173284",
+        "longitude": "-122.259861"
+    },
+    {
+        "county": "CLACKAMAS",
+        "city": "RHODODENDRON",
+        "zipcode": 97049,
+        "latitude": "+45.346537",
+        "longitude": "-121.915134"
+    },
+    {
+        "county": "CLACKAMAS",
+        "city": "SANDY",
+        "zipcode": 97055,
+        "latitude": "+45.388551",
+        "longitude": "-122.172544"
+    },
+    {
+        "county": "CLACKAMAS",
+        "city": "WELCHES",
+        "zipcode": 97067,
+        "latitude": "+45.327305",
+        "longitude": "-121.973561"
+    },
+    {
+        "county": "CLACKAMAS",
+        "city": "WEST LINN",
+        "zipcode": 97068,
+        "latitude": "+45.343615",
+        "longitude": "-122.664926"
+    },
+    {
+        "county": "CLACKAMAS",
+        "city": "WILSONVILLE",
+        "zipcode": 97070,
+        "latitude": "+45.308493",
+        "longitude": "-122.785518"
+    },
+    {
+        "county": "CLATSOP",
+        "city": "ARCH CAPE",
+        "zipcode": 97102,
+        "latitude": "+45.810934",
+        "longitude": "-123.962989"
+    },
+    {
+        "county": "CLATSOP",
+        "city": "ASTORIA",
+        "zipcode": 97103,
+        "latitude": "+46.142206",
+        "longitude": "-123.795996"
+    },
+    {
+        "county": "CLATSOP",
+        "city": "CANNON BEACH",
+        "zipcode": 97110,
+        "latitude": "+45.946617",
+        "longitude": "-123.931458"
+    },
+    {
+        "county": "CLATSOP",
+        "city": "HAMMOND",
+        "zipcode": 97121,
+        "latitude": "+46.182894",
+        "longitude": "-123.951350"
+    },
+    {
+        "county": "CLATSOP",
+        "city": "SEASIDE",
+        "zipcode": 97138,
+        "latitude": "+45.976770",
+        "longitude": "-123.857394"
+    },
+    {
+        "county": "CLATSOP",
+        "city": "TOLOVANA PARK",
+        "zipcode": 97145,
+        "latitude": "+45.866346",
+        "longitude": "-123.959518"
+    },
+    {
+        "county": "CLATSOP",
+        "city": "WARRENTON",
+        "zipcode": 97146,
+        "latitude": "+46.125267",
+        "longitude": "-123.905174"
+    },
+    {
+        "county": "COLUMBIA",
+        "city": "CLATSKANIE",
+        "zipcode": 97016,
+        "latitude": "+46.066499",
+        "longitude": "-123.205886"
+    },
+    {
+        "county": "COLUMBIA",
+        "city": "COLUMBIA CITY",
+        "zipcode": 97018,
+        "latitude": "+45.892304",
+        "longitude": "-122.814191"
+    },
+    {
+        "county": "COLUMBIA",
+        "city": "DEER ISLAND",
+        "zipcode": 97054,
+        "latitude": "+45.942286",
+        "longitude": "-122.919248"
+    },
+    {
+        "county": "COLUMBIA",
+        "city": "RAINIER",
+        "zipcode": 97048,
+        "latitude": "+46.038342",
+        "longitude": "-122.972651"
+    },
+    {
+        "county": "COLUMBIA",
+        "city": "SAINT HELENS",
+        "zipcode": 97051,
+        "latitude": "+45.887794",
+        "longitude": "-122.919935"
+    },
+    {
+        "county": "COLUMBIA",
+        "city": "SCAPPOOSE",
+        "zipcode": 97056,
+        "latitude": "+45.811578",
+        "longitude": "-122.974184"
+    },
+    {
+        "county": "COLUMBIA",
+        "city": "VERNONIA",
+        "zipcode": 97064,
+        "latitude": "+45.888246",
+        "longitude": "-123.209056"
+    },
+    {
+        "county": "COLUMBIA",
+        "city": "WARREN",
+        "zipcode": 97053,
+        "latitude": "+45.824213",
+        "longitude": "-122.874601"
+    },
+    {
+        "county": "COOS",
+        "city": "ALLEGANY",
+        "zipcode": 97407,
+        "latitude": "+43.246918",
+        "longitude": "-124.231068"
+    },
+    {
+        "county": "COOS",
+        "city": "BANDON",
+        "zipcode": 97411,
+        "latitude": "+43.088824",
+        "longitude": "-124.389936"
+    },
+    {
+        "county": "COOS",
+        "city": "BROADBENT",
+        "zipcode": 97414,
+        "latitude": "+43.138755",
+        "longitude": "-124.127089"
+    },
+    {
+        "county": "COOS",
+        "city": "COOS BAY",
+        "zipcode": 97420,
+        "latitude": "+43.215143",
+        "longitude": "-124.198358"
+    },
+    {
+        "county": "COOS",
+        "city": "COQUILLE",
+        "zipcode": 97423,
+        "latitude": "+43.232318",
+        "longitude": "-124.224190"
+    },
+    {
+        "county": "COOS",
+        "city": "LAKESIDE",
+        "zipcode": 97449,
+        "latitude": "+43.583767",
+        "longitude": "-124.122749"
+    },
+    {
+        "county": "COOS",
+        "city": "MYRTLE POINT",
+        "zipcode": 97458,
+        "latitude": "+43.020023",
+        "longitude": "-124.136075"
+    },
+    {
+        "county": "COOS",
+        "city": "NORTH BEND",
+        "zipcode": 97459,
+        "latitude": "+43.241489",
+        "longitude": "-124.163469"
+    },
+    {
+        "county": "COOS",
+        "city": "NORWAY",
+        "zipcode": 97460,
+        "latitude": "+43.138755",
+        "longitude": "-124.127089"
+    },
+    {
+        "county": "COOS",
+        "city": "POWERS",
+        "zipcode": 97466,
+        "latitude": "+42.879975",
+        "longitude": "-124.070945"
+    },
+    {
+        "county": "CROOK",
+        "city": "PAULINA",
+        "zipcode": 97751,
+        "latitude": "+44.127641",
+        "longitude": "-119.864655"
+    },
+    {
+        "county": "CROOK",
+        "city": "POST",
+        "zipcode": 97752,
+        "latitude": "+44.085051",
+        "longitude": "-120.276069"
+    },
+    {
+        "county": "CROOK",
+        "city": "POWELL BUTTE",
+        "zipcode": 97753,
+        "latitude": "+44.232525",
+        "longitude": "-121.008489"
+    },
+    {
+        "county": "CROOK",
+        "city": "PRINEVILLE",
+        "zipcode": 97754,
+        "latitude": "+44.168050",
+        "longitude": "-120.660334"
+    },
+    {
+        "county": "CURRY",
+        "city": "AGNESS",
+        "zipcode": 97406,
+        "latitude": "+42.656925",
+        "longitude": "-124.133206"
+    },
+    {
+        "county": "CURRY",
+        "city": "BROOKINGS",
+        "zipcode": 97415,
+        "latitude": "+42.137789",
+        "longitude": "-124.249196"
+    },
+    {
+        "county": "CURRY",
+        "city": "GOLD BEACH",
+        "zipcode": 97444,
+        "latitude": "+42.410099",
+        "longitude": "-124.334383"
+    },
+    {
+        "county": "CURRY",
+        "city": "LANGLOIS",
+        "zipcode": 97450,
+        "latitude": "+42.893126",
+        "longitude": "-124.406262"
+    },
+    {
+        "county": "CURRY",
+        "city": "OPHIR",
+        "zipcode": 97464,
+        "latitude": "+42.739889",
+        "longitude": "-124.510560"
+    },
+    {
+        "county": "CURRY",
+        "city": "PORT ORFORD",
+        "zipcode": 97465,
+        "latitude": "+42.703155",
+        "longitude": "-124.450940"
+    },
+    {
+        "county": "CURRY",
+        "city": "SIXES",
+        "zipcode": 97476,
+        "latitude": "+42.800135",
+        "longitude": "-124.433374"
+    },
+    {
+        "county": "CURRY",
+        "city": "WEDDERBURN",
+        "zipcode": 97491,
+        "latitude": "+42.609252",
+        "longitude": "-124.388576"
+    },
+    {
+        "county": "DESCHUTES",
+        "city": "BEND",
+        "zipcode": 97701,
+        "latitude": "+44.082037",
+        "longitude": "-121.227125"
+    },
+    {
+        "county": "DESCHUTES",
+        "city": "BEND",
+        "zipcode": 97702,
+        "latitude": "+43.998448",
+        "longitude": "-121.260298"
+    },
+    {
+        "county": "DESCHUTES",
+        "city": "BEND",
+        "zipcode": 97707,
+        "latitude": "+43.843071",
+        "longitude": "-121.576423"
+    },
+    {
+        "county": "DESCHUTES",
+        "city": "BEND",
+        "zipcode": 97708,
+        "latitude": "+44.001834",
+        "longitude": "-120.949520"
+    },
+    {
+        "county": "DESCHUTES",
+        "city": "BEND",
+        "zipcode": 97709,
+        "latitude": "+44.001834",
+        "longitude": "-120.949520"
+    },
+    {
+        "county": "DESCHUTES",
+        "city": "BROTHERS",
+        "zipcode": 97712,
+        "latitude": "+43.665917",
+        "longitude": "-120.225618"
+    },
+    {
+        "county": "DESCHUTES",
+        "city": "LA PINE",
+        "zipcode": 97739,
+        "latitude": "+43.692193",
+        "longitude": "-121.565187"
+    },
+    {
+        "county": "DESCHUTES",
+        "city": "REDMOND",
+        "zipcode": 97756,
+        "latitude": "+44.268862",
+        "longitude": "-121.266414"
+    },
+    {
+        "county": "DESCHUTES",
+        "city": "SISTERS",
+        "zipcode": 97759,
+        "latitude": "+44.316480",
+        "longitude": "-121.509124"
+    },
+    {
+        "county": "DESCHUTES",
+        "city": "TERREBONNE",
+        "zipcode": 97760,
+        "latitude": "+44.349792",
+        "longitude": "-121.245224"
+    },
+    {
+        "county": "DOUGLAS",
+        "city": "AZALEA",
+        "zipcode": 97410,
+        "latitude": "+42.834139",
+        "longitude": "-123.132160"
+    },
+    {
+        "county": "DOUGLAS",
+        "city": "CAMAS VALLEY",
+        "zipcode": 97416,
+        "latitude": "+43.040527",
+        "longitude": "-123.653799"
+    },
+    {
+        "county": "DOUGLAS",
+        "city": "CANYONVILLE",
+        "zipcode": 97417,
+        "latitude": "+42.950960",
+        "longitude": "-123.258975"
+    },
+    {
+        "county": "DOUGLAS",
+        "city": "CURTIN",
+        "zipcode": 97428,
+        "latitude": "+43.747559",
+        "longitude": "-123.196161"
+    },
+    {
+        "county": "DOUGLAS",
+        "city": "DAYS CREEK",
+        "zipcode": 97429,
+        "latitude": "+42.972697",
+        "longitude": "-123.088917"
+    },
+    {
+        "county": "DOUGLAS",
+        "city": "DILLARD",
+        "zipcode": 97432,
+        "latitude": "+43.113502",
+        "longitude": "-123.418068"
+    },
+    {
+        "county": "DOUGLAS",
+        "city": "DRAIN",
+        "zipcode": 97435,
+        "latitude": "+43.716624",
+        "longitude": "-123.334749"
+    },
+    {
+        "county": "DOUGLAS",
+        "city": "ELKTON",
+        "zipcode": 97436,
+        "latitude": "+43.573594",
+        "longitude": "-123.556893"
+    },
+    {
+        "county": "DOUGLAS",
+        "city": "GARDINER",
+        "zipcode": 97441,
+        "latitude": "+43.751140",
+        "longitude": "-124.123806"
+    },
+    {
+        "county": "DOUGLAS",
+        "city": "GLENDALE",
+        "zipcode": 97442,
+        "latitude": "+42.761476",
+        "longitude": "-123.391350"
+    },
+    {
+        "county": "DOUGLAS",
+        "city": "GLIDE",
+        "zipcode": 97443,
+        "latitude": "+43.265950",
+        "longitude": "-123.018231"
+    },
+    {
+        "county": "DOUGLAS",
+        "city": "IDLEYLD PARK",
+        "zipcode": 97447,
+        "latitude": "+43.065884",
+        "longitude": "-122.869705"
+    },
+    {
+        "county": "DOUGLAS",
+        "city": "MYRTLE CREEK",
+        "zipcode": 97457,
+        "latitude": "+43.300361",
+        "longitude": "-123.225556"
+    },
+    {
+        "county": "DOUGLAS",
+        "city": "OAKLAND",
+        "zipcode": 97462,
+        "latitude": "+43.503232",
+        "longitude": "-123.414079"
+    },
+    {
+        "county": "DOUGLAS",
+        "city": "REEDSPORT",
+        "zipcode": 97467,
+        "latitude": "+43.449523",
+        "longitude": "-123.745579"
+    },
+    {
+        "county": "DOUGLAS",
+        "city": "RIDDLE",
+        "zipcode": 97469,
+        "latitude": "+43.267918",
+        "longitude": "-123.425450"
+    },
+    {
+        "county": "DOUGLAS",
+        "city": "ROSEBURG",
+        "zipcode": 97470,
+        "latitude": "+43.053573",
+        "longitude": "-123.360805"
+    },
+    {
+        "county": "DOUGLAS",
+        "city": "SCOTTSBURG",
+        "zipcode": 97473,
+        "latitude": "+43.671853",
+        "longitude": "-123.825751"
+    },
+    {
+        "county": "DOUGLAS",
+        "city": "SUTHERLIN",
+        "zipcode": 97479,
+        "latitude": "+43.345559",
+        "longitude": "-123.208273"
+    },
+    {
+        "county": "DOUGLAS",
+        "city": "TENMILE",
+        "zipcode": 97481,
+        "latitude": "+43.114050",
+        "longitude": "-123.529417"
+    },
+    {
+        "county": "DOUGLAS",
+        "city": "TILLER",
+        "zipcode": 97484,
+        "latitude": "+42.917670",
+        "longitude": "-122.907864"
+    },
+    {
+        "county": "DOUGLAS",
+        "city": "UMPQUA",
+        "zipcode": 97486,
+        "latitude": "+43.393775",
+        "longitude": "-123.516847"
+    },
+    {
+        "county": "DOUGLAS",
+        "city": "WILBUR",
+        "zipcode": 97494,
+        "latitude": "+43.328430",
+        "longitude": "-123.333177"
+    },
+    {
+        "county": "DOUGLAS",
+        "city": "WINCHESTER",
+        "zipcode": 97495,
+        "latitude": "+43.333141",
+        "longitude": "-123.325617"
+    },
+    {
+        "county": "DOUGLAS",
+        "city": "WINSTON",
+        "zipcode": 97496,
+        "latitude": "+43.306579",
+        "longitude": "-123.453420"
+    },
+    {
+        "county": "DOUGLAS",
+        "city": "YONCALLA",
+        "zipcode": 97499,
+        "latitude": "+43.308689",
+        "longitude": "-123.165395"
+    },
+    {
+        "county": "GILLIAM",
+        "city": "ARLINGTON",
+        "zipcode": 97812,
+        "latitude": "+45.567282",
+        "longitude": "-120.275127"
+    },
+    {
+        "county": "GILLIAM",
+        "city": "CONDON",
+        "zipcode": 97823,
+        "latitude": "+45.255099",
+        "longitude": "-120.140937"
+    },
+    {
+        "county": "GILLIAM",
+        "city": "MIKKALO",
+        "zipcode": 97861,
+        "latitude": "+45.438822",
+        "longitude": "-120.206698"
+    },
+    {
+        "county": "GRANT",
+        "city": "BATES",
+        "zipcode": 97817,
+        "latitude": "+44.477794",
+        "longitude": "-118.947769"
+    },
+    {
+        "county": "GRANT",
+        "city": "CANYON CITY",
+        "zipcode": 97820,
+        "latitude": "+44.391149",
+        "longitude": "-118.946498"
+    },
+    {
+        "county": "GRANT",
+        "city": "DAYVILLE",
+        "zipcode": 97825,
+        "latitude": "+44.465268",
+        "longitude": "-119.533402"
+    },
+    {
+        "county": "GRANT",
+        "city": "FOX",
+        "zipcode": 97831,
+        "latitude": "+44.477794",
+        "longitude": "-118.947769"
+    },
+    {
+        "county": "GRANT",
+        "city": "JOHN DAY",
+        "zipcode": 97845,
+        "latitude": "+44.550033",
+        "longitude": "-118.914774"
+    },
+    {
+        "county": "GRANT",
+        "city": "KIMBERLY",
+        "zipcode": 97848,
+        "latitude": "+44.477794",
+        "longitude": "-118.947769"
+    },
+    {
+        "county": "GRANT",
+        "city": "LONG CREEK",
+        "zipcode": 97856,
+        "latitude": "+44.713688",
+        "longitude": "-119.090832"
+    },
+    {
+        "county": "GRANT",
+        "city": "MONUMENT",
+        "zipcode": 97864,
+        "latitude": "+44.818887",
+        "longitude": "-119.419221"
+    },
+    {
+        "county": "GRANT",
+        "city": "MOUNT VERNON",
+        "zipcode": 97865,
+        "latitude": "+44.446986",
+        "longitude": "-119.097430"
+    },
+    {
+        "county": "GRANT",
+        "city": "PRAIRIE CITY",
+        "zipcode": 97869,
+        "latitude": "+44.459922",
+        "longitude": "-118.704035"
+    },
+    {
+        "county": "GRANT",
+        "city": "RITTER",
+        "zipcode": 97872,
+        "latitude": "+44.477794",
+        "longitude": "-118.947769"
+    },
+    {
+        "county": "GRANT",
+        "city": "SENECA",
+        "zipcode": 97873,
+        "latitude": "+44.119638",
+        "longitude": "-119.122317"
+    },
+    {
+        "county": "HARNEY",
+        "city": "BURNS",
+        "zipcode": 97720,
+        "latitude": "+43.554287",
+        "longitude": "-118.874273"
+    },
+    {
+        "county": "HARNEY",
+        "city": "CRANE",
+        "zipcode": 97732,
+        "latitude": "+43.019785",
+        "longitude": "-119.069624"
+    },
+    {
+        "county": "HARNEY",
+        "city": "DIAMOND",
+        "zipcode": 97722,
+        "latitude": "+43.019785",
+        "longitude": "-119.069624"
+    },
+    {
+        "county": "HARNEY",
+        "city": "DREWSEY",
+        "zipcode": 97904,
+        "latitude": "+43.019785",
+        "longitude": "-119.069624"
+    },
+    {
+        "county": "HARNEY",
+        "city": "FIELDS",
+        "zipcode": 97710,
+        "latitude": "+43.019785",
+        "longitude": "-119.069624"
+    },
+    {
+        "county": "HARNEY",
+        "city": "FRENCHGLEN",
+        "zipcode": 97736,
+        "latitude": "+43.562030",
+        "longitude": "-119.078609"
+    },
+    {
+        "county": "HARNEY",
+        "city": "HINES",
+        "zipcode": 97738,
+        "latitude": "+43.555768",
+        "longitude": "-119.081558"
+    },
+    {
+        "county": "HARNEY",
+        "city": "LAWEN",
+        "zipcode": 97740,
+        "latitude": "+43.019785",
+        "longitude": "-119.069624"
+    },
+    {
+        "county": "HARNEY",
+        "city": "PRINCETON",
+        "zipcode": 97721,
+        "latitude": "+43.019785",
+        "longitude": "-119.069624"
+    },
+    {
+        "county": "HARNEY",
+        "city": "RILEY",
+        "zipcode": 97758,
+        "latitude": "+43.019785",
+        "longitude": "-119.069624"
+    },
+    {
+        "county": "HOOD RIVER",
+        "city": "CASCADE LOCKS",
+        "zipcode": 97014,
+        "latitude": "+45.671017",
+        "longitude": "-121.868565"
+    },
+    {
+        "county": "HOOD RIVER",
+        "city": "HOOD RIVER",
+        "zipcode": 97031,
+        "latitude": "+45.638312",
+        "longitude": "-121.677126"
+    },
+    {
+        "county": "HOOD RIVER",
+        "city": "MOUNT HOOD PARKDALE",
+        "zipcode": 97041,
+        "latitude": "+45.492879",
+        "longitude": "-121.598308"
+    },
+    {
+        "county": "HOOD RIVER",
+        "city": "ODELL",
+        "zipcode": 97044,
+        "latitude": "+45.643738",
+        "longitude": "-121.536658"
+    },
+    {
+        "county": "JACKSON",
+        "city": "ASHLAND",
+        "zipcode": 97520,
+        "latitude": "+42.148098",
+        "longitude": "-122.537356"
+    },
+    {
+        "county": "JACKSON",
+        "city": "BUTTE FALLS",
+        "zipcode": 97522,
+        "latitude": "+42.530813",
+        "longitude": "-122.554633"
+    },
+    {
+        "county": "JACKSON",
+        "city": "CENTRAL POINT",
+        "zipcode": 97502,
+        "latitude": "+42.416384",
+        "longitude": "-122.917383"
+    },
+    {
+        "county": "JACKSON",
+        "city": "EAGLE POINT",
+        "zipcode": 97524,
+        "latitude": "+42.478023",
+        "longitude": "-122.635695"
+    },
+    {
+        "county": "JACKSON",
+        "city": "GOLD HILL",
+        "zipcode": 97525,
+        "latitude": "+42.440993",
+        "longitude": "-123.029161"
+    },
+    {
+        "county": "JACKSON",
+        "city": "JACKSONVILLE",
+        "zipcode": 97530,
+        "latitude": "+42.181333",
+        "longitude": "-123.024100"
+    },
+    {
+        "county": "JACKSON",
+        "city": "MEDFORD",
+        "zipcode": 97501,
+        "latitude": "+42.482623",
+        "longitude": "-122.722550"
+    },
+    {
+        "county": "JACKSON",
+        "city": "MEDFORD",
+        "zipcode": 97504,
+        "latitude": "+42.322392",
+        "longitude": "-122.793659"
+    },
+    {
+        "county": "JACKSON",
+        "city": "PHOENIX",
+        "zipcode": 97535,
+        "latitude": "+42.262556",
+        "longitude": "-122.814640"
+    },
+    {
+        "county": "JACKSON",
+        "city": "PROSPECT",
+        "zipcode": 97536,
+        "latitude": "+42.787066",
+        "longitude": "-122.506046"
+    },
+    {
+        "county": "JACKSON",
+        "city": "ROGUE RIVER",
+        "zipcode": 97537,
+        "latitude": "+42.533003",
+        "longitude": "-123.097269"
+    },
+    {
+        "county": "JACKSON",
+        "city": "SHADY COVE",
+        "zipcode": 97539,
+        "latitude": "+42.621218",
+        "longitude": "-122.756141"
+    },
+    {
+        "county": "JACKSON",
+        "city": "TALENT",
+        "zipcode": 97540,
+        "latitude": "+42.221879",
+        "longitude": "-122.770093"
+    },
+    {
+        "county": "JACKSON",
+        "city": "TRAIL",
+        "zipcode": 97541,
+        "latitude": "+42.697957",
+        "longitude": "-122.769269"
+    },
+    {
+        "county": "JACKSON",
+        "city": "WHITE CITY",
+        "zipcode": 97503,
+        "latitude": "+42.537028",
+        "longitude": "-122.883923"
+    },
+    {
+        "county": "JEFFERSON",
+        "city": "ASHWOOD",
+        "zipcode": 97711,
+        "latitude": "+44.538351",
+        "longitude": "-121.321903"
+    },
+    {
+        "county": "JEFFERSON",
+        "city": "CAMP SHERMAN",
+        "zipcode": 97730,
+        "latitude": "+44.443474",
+        "longitude": "-121.659909"
+    },
+    {
+        "county": "JEFFERSON",
+        "city": "CULVER",
+        "zipcode": 97734,
+        "latitude": "+44.499106",
+        "longitude": "-121.267976"
+    },
+    {
+        "county": "JEFFERSON",
+        "city": "MADRAS",
+        "zipcode": 97741,
+        "latitude": "+44.626160",
+        "longitude": "-121.128106"
+    },
+    {
+        "county": "JEFFERSON",
+        "city": "WARM SPRINGS",
+        "zipcode": 97761,
+        "latitude": "+44.771108",
+        "longitude": "-121.334786"
+    },
+    {
+        "county": "JOSEPHINE",
+        "city": "CAVE JUNCTION",
+        "zipcode": 97523,
+        "latitude": "+42.273683",
+        "longitude": "-123.554046"
+    },
+    {
+        "county": "JOSEPHINE",
+        "city": "GRANTS PASS",
+        "zipcode": 97526,
+        "latitude": "+42.402144",
+        "longitude": "-123.416119"
+    },
+    {
+        "county": "JOSEPHINE",
+        "city": "GRANTS PASS",
+        "zipcode": 97527,
+        "latitude": "+42.345125",
+        "longitude": "-123.440456"
+    },
+    {
+        "county": "JOSEPHINE",
+        "city": "GRANTS PASS",
+        "zipcode": 97528,
+        "latitude": "+42.396421",
+        "longitude": "-123.535027"
+    },
+    {
+        "county": "JOSEPHINE",
+        "city": "KERBY",
+        "zipcode": 97531,
+        "latitude": "+42.212141",
+        "longitude": "-123.624688"
+    },
+    {
+        "county": "JOSEPHINE",
+        "city": "MERLIN",
+        "zipcode": 97532,
+        "latitude": "+42.400936",
+        "longitude": "-123.525826"
+    },
+    {
+        "county": "JOSEPHINE",
+        "city": "MURPHY",
+        "zipcode": 97533,
+        "latitude": "+42.308007",
+        "longitude": "-123.327323"
+    },
+    {
+        "county": "JOSEPHINE",
+        "city": "O BRIEN",
+        "zipcode": 97534,
+        "latitude": "+42.087941",
+        "longitude": "-123.688998"
+    },
+    {
+        "county": "JOSEPHINE",
+        "city": "SELMA",
+        "zipcode": 97538,
+        "latitude": "+42.265435",
+        "longitude": "-123.551451"
+    },
+    {
+        "county": "JOSEPHINE",
+        "city": "WILDERVILLE",
+        "zipcode": 97543,
+        "latitude": "+42.292694",
+        "longitude": "-123.548618"
+    },
+    {
+        "county": "JOSEPHINE",
+        "city": "WILLIAMS",
+        "zipcode": 97544,
+        "latitude": "+42.357375",
+        "longitude": "-123.321239"
+    },
+    {
+        "county": "JOSEPHINE",
+        "city": "WOLF CREEK",
+        "zipcode": 97497,
+        "latitude": "+42.652236",
+        "longitude": "-123.425008"
+    },
+    {
+        "county": "KLAMATH",
+        "city": "BEATTY",
+        "zipcode": 97621,
+        "latitude": "+42.464842",
+        "longitude": "-121.259056"
+    },
+    {
+        "county": "KLAMATH",
+        "city": "BLY",
+        "zipcode": 97622,
+        "latitude": "+42.399541",
+        "longitude": "-121.080557"
+    },
+    {
+        "county": "KLAMATH",
+        "city": "BONANZA",
+        "zipcode": 97623,
+        "latitude": "+42.193652",
+        "longitude": "-121.330060"
+    },
+    {
+        "county": "KLAMATH",
+        "city": "CHEMULT",
+        "zipcode": 97731,
+        "latitude": "+42.804981",
+        "longitude": "-121.584833"
+    },
+    {
+        "county": "KLAMATH",
+        "city": "CHILOQUIN",
+        "zipcode": 97624,
+        "latitude": "+42.722220",
+        "longitude": "-121.878916"
+    },
+    {
+        "county": "KLAMATH",
+        "city": "CRATER LAKE",
+        "zipcode": 97604,
+        "latitude": "+42.733365",
+        "longitude": "-121.987076"
+    },
+    {
+        "county": "KLAMATH",
+        "city": "CRESCENT",
+        "zipcode": 97733,
+        "latitude": "+43.444217",
+        "longitude": "-121.710925"
+    },
+    {
+        "county": "KLAMATH",
+        "city": "CRESCENT LAKE",
+        "zipcode": 97425,
+        "latitude": "+43.517990",
+        "longitude": "-121.949514"
+    },
+    {
+        "county": "KLAMATH",
+        "city": "DAIRY",
+        "zipcode": 97625,
+        "latitude": "+42.291015",
+        "longitude": "-121.507834"
+    },
+    {
+        "county": "KLAMATH",
+        "city": "FORT KLAMATH",
+        "zipcode": 97626,
+        "latitude": "+42.641537",
+        "longitude": "-122.037995"
+    },
+    {
+        "county": "KLAMATH",
+        "city": "GILCHRIST",
+        "zipcode": 97737,
+        "latitude": "+43.372529",
+        "longitude": "-121.658336"
+    },
+    {
+        "county": "KLAMATH",
+        "city": "KENO",
+        "zipcode": 97627,
+        "latitude": "+42.119398",
+        "longitude": "-122.008124"
+    },
+    {
+        "county": "KLAMATH",
+        "city": "KLAMATH FALLS",
+        "zipcode": 97601,
+        "latitude": "+42.293293",
+        "longitude": "-121.816873"
+    },
+    {
+        "county": "KLAMATH",
+        "city": "KLAMATH FALLS",
+        "zipcode": 97602,
+        "latitude": "+42.804981",
+        "longitude": "-121.584833"
+    },
+    {
+        "county": "KLAMATH",
+        "city": "KLAMATH FALLS",
+        "zipcode": 97603,
+        "latitude": "+42.612760",
+        "longitude": "-121.685853"
+    },
+    {
+        "county": "KLAMATH",
+        "city": "MALIN",
+        "zipcode": 97632,
+        "latitude": "+42.095447",
+        "longitude": "-121.387408"
+    },
+    {
+        "county": "KLAMATH",
+        "city": "MERRILL",
+        "zipcode": 97633,
+        "latitude": "+42.055503",
+        "longitude": "-121.522384"
+    },
+    {
+        "county": "KLAMATH",
+        "city": "MIDLAND",
+        "zipcode": 97634,
+        "latitude": "+42.128418",
+        "longitude": "-121.870983"
+    },
+    {
+        "county": "KLAMATH",
+        "city": "SPRAGUE RIVER",
+        "zipcode": 97639,
+        "latitude": "+42.486975",
+        "longitude": "-121.531087"
+    },
+    {
+        "county": "LAKE",
+        "city": "ADEL",
+        "zipcode": 97620,
+        "latitude": "+42.805272",
+        "longitude": "-120.355294"
+    },
+    {
+        "county": "LAKE",
+        "city": "CHRISTMAS VALLEY",
+        "zipcode": 97641,
+        "latitude": "+43.157855",
+        "longitude": "-120.724397"
+    },
+    {
+        "county": "LAKE",
+        "city": "FORT ROCK",
+        "zipcode": 97735,
+        "latitude": "+42.805272",
+        "longitude": "-120.355294"
+    },
+    {
+        "county": "LAKE",
+        "city": "LAKEVIEW",
+        "zipcode": 97630,
+        "latitude": "+42.180763",
+        "longitude": "-120.369607"
+    },
+    {
+        "county": "LAKE",
+        "city": "NEW PINE CREEK",
+        "zipcode": 97635,
+        "latitude": "+42.805272",
+        "longitude": "-120.355294"
+    },
+    {
+        "county": "LAKE",
+        "city": "PAISLEY",
+        "zipcode": 97636,
+        "latitude": "+42.775198",
+        "longitude": "-120.330349"
+    },
+    {
+        "county": "LAKE",
+        "city": "PLUSH",
+        "zipcode": 97637,
+        "latitude": "+42.805272",
+        "longitude": "-120.355294"
+    },
+    {
+        "county": "LAKE",
+        "city": "SILVER LAKE",
+        "zipcode": 97638,
+        "latitude": "+42.805272",
+        "longitude": "-120.355294"
+    },
+    {
+        "county": "LAKE",
+        "city": "SUMMER LAKE",
+        "zipcode": 97640,
+        "latitude": "+42.944694",
+        "longitude": "-120.794615"
+    },
+    {
+        "county": "LANE",
+        "city": "ALVADORE",
+        "zipcode": 97409,
+        "latitude": "+44.127631",
+        "longitude": "-123.266648"
+    },
+    {
+        "county": "LANE",
+        "city": "BLACHLY",
+        "zipcode": 97412,
+        "latitude": "+44.174264",
+        "longitude": "-123.571057"
+    },
+    {
+        "county": "LANE",
+        "city": "BLUE RIVER",
+        "zipcode": 97413,
+        "latitude": "+44.175516",
+        "longitude": "-122.121690"
+    },
+    {
+        "county": "LANE",
+        "city": "CHESHIRE",
+        "zipcode": 97419,
+        "latitude": "+44.210177",
+        "longitude": "-123.368242"
+    },
+    {
+        "county": "LANE",
+        "city": "COTTAGE GROVE",
+        "zipcode": 97424,
+        "latitude": "+43.728930",
+        "longitude": "-123.049498"
+    },
+    {
+        "county": "LANE",
+        "city": "CRESWELL",
+        "zipcode": 97426,
+        "latitude": "+43.895976",
+        "longitude": "-123.041968"
+    },
+    {
+        "county": "LANE",
+        "city": "CULP CREEK",
+        "zipcode": 97427,
+        "latitude": "+43.657939",
+        "longitude": "-122.787122"
+    },
+    {
+        "county": "LANE",
+        "city": "DEADWOOD",
+        "zipcode": 97430,
+        "latitude": "+44.146196",
+        "longitude": "-123.681581"
+    },
+    {
+        "county": "LANE",
+        "city": "DEXTER",
+        "zipcode": 97431,
+        "latitude": "+43.968007",
+        "longitude": "-123.424918"
+    },
+    {
+        "county": "LANE",
+        "city": "DORENA",
+        "zipcode": 97434,
+        "latitude": "+43.736115",
+        "longitude": "-122.894601"
+    },
+    {
+        "county": "LANE",
+        "city": "ELMIRA",
+        "zipcode": 97437,
+        "latitude": "+44.097363",
+        "longitude": "-123.388216"
+    },
+    {
+        "county": "LANE",
+        "city": "EUGENE",
+        "zipcode": 97401,
+        "latitude": "+44.117868",
+        "longitude": "-123.074193"
+    },
+    {
+        "county": "LANE",
+        "city": "EUGENE",
+        "zipcode": 97402,
+        "latitude": "+44.033642",
+        "longitude": "-123.073186"
+    },
+    {
+        "county": "LANE",
+        "city": "EUGENE",
+        "zipcode": 97403,
+        "latitude": "+44.032396",
+        "longitude": "-123.095799"
+    },
+    {
+        "county": "LANE",
+        "city": "EUGENE",
+        "zipcode": 97404,
+        "latitude": "+44.100192",
+        "longitude": "-123.168807"
+    },
+    {
+        "county": "LANE",
+        "city": "EUGENE",
+        "zipcode": 97405,
+        "latitude": "+43.935009",
+        "longitude": "-123.166429"
+    },
+    {
+        "county": "LANE",
+        "city": "EUGENE",
+        "zipcode": 97408,
+        "latitude": "+44.141548",
+        "longitude": "-123.125468"
+    },
+    {
+        "county": "LANE",
+        "city": "EUGENE",
+        "zipcode": 97440,
+        "latitude": "+43.863845",
+        "longitude": "-122.998790"
+    },
+    {
+        "county": "LANE",
+        "city": "FALL CREEK",
+        "zipcode": 97438,
+        "latitude": "+43.982300",
+        "longitude": "-122.769150"
+    },
+    {
+        "county": "LANE",
+        "city": "FLORENCE",
+        "zipcode": 97439,
+        "latitude": "+44.064723",
+        "longitude": "-123.996747"
+    },
+    {
+        "county": "LANE",
+        "city": "JUNCTION CITY",
+        "zipcode": 97448,
+        "latitude": "+44.192567",
+        "longitude": "-123.273576"
+    },
+    {
+        "county": "LANE",
+        "city": "LORANE",
+        "zipcode": 97451,
+        "latitude": "+43.817721",
+        "longitude": "-123.273366"
+    },
+    {
+        "county": "LANE",
+        "city": "LOWELL",
+        "zipcode": 97452,
+        "latitude": "+43.885422",
+        "longitude": "-122.694091"
+    },
+    {
+        "county": "LANE",
+        "city": "MAPLETON",
+        "zipcode": 97453,
+        "latitude": "+44.010088",
+        "longitude": "-123.901261"
+    },
+    {
+        "county": "LANE",
+        "city": "MARCOLA",
+        "zipcode": 97454,
+        "latitude": "+44.212732",
+        "longitude": "-122.812544"
+    },
+    {
+        "county": "LANE",
+        "city": "NOTI",
+        "zipcode": 97461,
+        "latitude": "+44.099169",
+        "longitude": "-123.468389"
+    },
+    {
+        "county": "LANE",
+        "city": "OAKRIDGE",
+        "zipcode": 97463,
+        "latitude": "+43.737605",
+        "longitude": "-122.437723"
+    },
+    {
+        "county": "LANE",
+        "city": "PLEASANT HILL",
+        "zipcode": 97455,
+        "latitude": "+43.967356",
+        "longitude": "-122.915417"
+    },
+    {
+        "county": "LANE",
+        "city": "SAGINAW",
+        "zipcode": 97472,
+        "latitude": "+43.863845",
+        "longitude": "-122.998790"
+    },
+    {
+        "county": "LANE",
+        "city": "SPRINGFIELD",
+        "zipcode": 97477,
+        "latitude": "+43.937276",
+        "longitude": "-123.444371"
+    },
+    {
+        "county": "LANE",
+        "city": "SPRINGFIELD",
+        "zipcode": 97478,
+        "latitude": "+44.095761",
+        "longitude": "-122.872806"
+    },
+    {
+        "county": "LANE",
+        "city": "SWISSHOME",
+        "zipcode": 97480,
+        "latitude": "+44.101084",
+        "longitude": "-123.732051"
+    },
+    {
+        "county": "LANE",
+        "city": "THURSTON",
+        "zipcode": 97482,
+        "latitude": "+43.863845",
+        "longitude": "-122.998790"
+    },
+    {
+        "county": "LANE",
+        "city": "VENETA",
+        "zipcode": 97487,
+        "latitude": "+44.003051",
+        "longitude": "-123.367371"
+    },
+    {
+        "county": "LANE",
+        "city": "VIDA",
+        "zipcode": 97488,
+        "latitude": "+44.162401",
+        "longitude": "-122.870723"
+    },
+    {
+        "county": "LANE",
+        "city": "WALTERVILLE",
+        "zipcode": 97489,
+        "latitude": "+44.128776",
+        "longitude": "-122.637619"
+    },
+    {
+        "county": "LANE",
+        "city": "WALTON",
+        "zipcode": 97490,
+        "latitude": "+44.000245",
+        "longitude": "-123.615073"
+    },
+    {
+        "county": "LANE",
+        "city": "WESTFIR",
+        "zipcode": 97492,
+        "latitude": "+43.757499",
+        "longitude": "-122.481043"
+    },
+    {
+        "county": "LANE",
+        "city": "WESTLAKE",
+        "zipcode": 97493,
+        "latitude": "+43.915870",
+        "longitude": "-124.031752"
+    },
+    {
+        "county": "LINCOLN",
+        "city": "DEPOE BAY",
+        "zipcode": 97341,
+        "latitude": "+44.832205",
+        "longitude": "-124.050272"
+    },
+    {
+        "county": "LINCOLN",
+        "city": "EDDYVILLE",
+        "zipcode": 97343,
+        "latitude": "+44.604237",
+        "longitude": "-123.736099"
+    },
+    {
+        "county": "LINCOLN",
+        "city": "GLENEDEN BEACH",
+        "zipcode": 97388,
+        "latitude": "+44.885000",
+        "longitude": "-123.994219"
+    },
+    {
+        "county": "LINCOLN",
+        "city": "LINCOLN CITY",
+        "zipcode": 97367,
+        "latitude": "+44.908891",
+        "longitude": "-123.988850"
+    },
+    {
+        "county": "LINCOLN",
+        "city": "LOGSDEN",
+        "zipcode": 97357,
+        "latitude": "+44.708240",
+        "longitude": "-123.805124"
+    },
+    {
+        "county": "LINCOLN",
+        "city": "NEOTSU",
+        "zipcode": 97364,
+        "latitude": "+44.998210",
+        "longitude": "-123.974717"
+    },
+    {
+        "county": "LINCOLN",
+        "city": "NEWPORT",
+        "zipcode": 97365,
+        "latitude": "+44.552413",
+        "longitude": "-124.024426"
+    },
+    {
+        "county": "LINCOLN",
+        "city": "OTIS",
+        "zipcode": 97368,
+        "latitude": "+45.002157",
+        "longitude": "-123.905622"
+    },
+    {
+        "county": "LINCOLN",
+        "city": "OTTER ROCK",
+        "zipcode": 97369,
+        "latitude": "+44.758819",
+        "longitude": "-124.063280"
+    },
+    {
+        "county": "LINCOLN",
+        "city": "ROSE LODGE",
+        "zipcode": 97372,
+        "latitude": "+44.659979",
+        "longitude": "-123.892016"
+    },
+    {
+        "county": "LINCOLN",
+        "city": "SEAL ROCK",
+        "zipcode": 97376,
+        "latitude": "+44.487404",
+        "longitude": "-123.956719"
+    },
+    {
+        "county": "LINCOLN",
+        "city": "SILETZ",
+        "zipcode": 97380,
+        "latitude": "+44.746459",
+        "longitude": "-123.844630"
+    },
+    {
+        "county": "LINCOLN",
+        "city": "SOUTH BEACH",
+        "zipcode": 97366,
+        "latitude": "+44.574645",
+        "longitude": "-124.043287"
+    },
+    {
+        "county": "LINCOLN",
+        "city": "TIDEWATER",
+        "zipcode": 97390,
+        "latitude": "+44.361780",
+        "longitude": "-123.891668"
+    },
+    {
+        "county": "LINCOLN",
+        "city": "TOLEDO",
+        "zipcode": 97391,
+        "latitude": "+44.657190",
+        "longitude": "-123.932758"
+    },
+    {
+        "county": "LINCOLN",
+        "city": "WALDPORT",
+        "zipcode": 97394,
+        "latitude": "+44.395907",
+        "longitude": "-123.980384"
+    },
+    {
+        "county": "LINCOLN",
+        "city": "YACHATS",
+        "zipcode": 97498,
+        "latitude": "+44.333892",
+        "longitude": "-124.024246"
+    },
+    {
+        "county": "LINN",
+        "city": "ALBANY",
+        "zipcode": 97321,
+        "latitude": "+44.594489",
+        "longitude": "-122.581676"
+    },
+    {
+        "county": "LINN",
+        "city": "BROWNSVILLE",
+        "zipcode": 97327,
+        "latitude": "+44.378703",
+        "longitude": "-122.942438"
+    },
+    {
+        "county": "LINN",
+        "city": "CASCADIA",
+        "zipcode": 97329,
+        "latitude": "+44.399487",
+        "longitude": "-122.363606"
+    },
+    {
+        "county": "LINN",
+        "city": "CRABTREE",
+        "zipcode": 97335,
+        "latitude": "+44.634439",
+        "longitude": "-122.893292"
+    },
+    {
+        "county": "LINN",
+        "city": "CRAWFORDSVILLE",
+        "zipcode": 97336,
+        "latitude": "+44.359301",
+        "longitude": "-122.850752"
+    },
+    {
+        "county": "LINN",
+        "city": "FOSTER",
+        "zipcode": 97345,
+        "latitude": "+44.430866",
+        "longitude": "-122.400143"
+    },
+    {
+        "county": "LINN",
+        "city": "HALSEY",
+        "zipcode": 97348,
+        "latitude": "+44.385837",
+        "longitude": "-123.115961"
+    },
+    {
+        "county": "LINN",
+        "city": "HARRISBURG",
+        "zipcode": 97446,
+        "latitude": "+44.273684",
+        "longitude": "-123.108438"
+    },
+    {
+        "county": "LINN",
+        "city": "LEBANON",
+        "zipcode": 97355,
+        "latitude": "+44.526381",
+        "longitude": "-122.827457"
+    },
+    {
+        "county": "LINN",
+        "city": "LYONS",
+        "zipcode": 97358,
+        "latitude": "+44.749921",
+        "longitude": "-122.594993"
+    },
+    {
+        "county": "LINN",
+        "city": "MILL CITY",
+        "zipcode": 97360,
+        "latitude": "+44.621679",
+        "longitude": "-122.578500"
+    },
+    {
+        "county": "LINN",
+        "city": "SCIO",
+        "zipcode": 97374,
+        "latitude": "+44.689609",
+        "longitude": "-122.748639"
+    },
+    {
+        "county": "LINN",
+        "city": "SHEDD",
+        "zipcode": 97377,
+        "latitude": "+44.435988",
+        "longitude": "-123.106034"
+    },
+    {
+        "county": "LINN",
+        "city": "SWEET HOME",
+        "zipcode": 97386,
+        "latitude": "+44.380262",
+        "longitude": "-122.698954"
+    },
+    {
+        "county": "LINN",
+        "city": "TANGENT",
+        "zipcode": 97389,
+        "latitude": "+44.533934",
+        "longitude": "-123.081664"
+    },
+    {
+        "county": "MALHEUR",
+        "city": "ADRIAN",
+        "zipcode": 97901,
+        "latitude": "+43.785214",
+        "longitude": "-117.368446"
+    },
+    {
+        "county": "MALHEUR",
+        "city": "AROCK",
+        "zipcode": 97902,
+        "latitude": "+42.915641",
+        "longitude": "-117.497988"
+    },
+    {
+        "county": "MALHEUR",
+        "city": "BROGAN",
+        "zipcode": 97903,
+        "latitude": "+44.248595",
+        "longitude": "-117.563891"
+    },
+    {
+        "county": "MALHEUR",
+        "city": "HARPER",
+        "zipcode": 97906,
+        "latitude": "+43.830263",
+        "longitude": "-117.626175"
+    },
+    {
+        "county": "MALHEUR",
+        "city": "IRONSIDE",
+        "zipcode": 97908,
+        "latitude": "+44.341058",
+        "longitude": "-117.818949"
+    },
+    {
+        "county": "MALHEUR",
+        "city": "JAMIESON",
+        "zipcode": 97909,
+        "latitude": "+44.216093",
+        "longitude": "-117.481258"
+    },
+    {
+        "county": "MALHEUR",
+        "city": "JORDAN VALLEY",
+        "zipcode": 97910,
+        "latitude": "+42.951169",
+        "longitude": "-117.469061"
+    },
+    {
+        "county": "MALHEUR",
+        "city": "JUNTURA",
+        "zipcode": 97911,
+        "latitude": "+43.820762",
+        "longitude": "-118.036522"
+    },
+    {
+        "county": "MALHEUR",
+        "city": "NYSSA",
+        "zipcode": 97913,
+        "latitude": "+43.627554",
+        "longitude": "-117.207823"
+    },
+    {
+        "county": "MALHEUR",
+        "city": "ONTARIO",
+        "zipcode": 97914,
+        "latitude": "+44.093127",
+        "longitude": "-117.079896"
+    },
+    {
+        "county": "MALHEUR",
+        "city": "RIVERSIDE",
+        "zipcode": 97917,
+        "latitude": "+43.509919",
+        "longitude": "-118.098586"
+    },
+    {
+        "county": "MALHEUR",
+        "city": "VALE",
+        "zipcode": 97918,
+        "latitude": "+44.052329",
+        "longitude": "-117.283258"
+    },
+    {
+        "county": "MALHEUR",
+        "city": "WESTFALL",
+        "zipcode": 97920,
+        "latitude": "+43.966853",
+        "longitude": "-117.709928"
+    },
+    {
+        "county": "MARION",
+        "city": "AUMSVILLE",
+        "zipcode": 97325,
+        "latitude": "+44.799503",
+        "longitude": "-122.900739"
+    },
+    {
+        "county": "MARION",
+        "city": "AURORA",
+        "zipcode": 97002,
+        "latitude": "+45.224241",
+        "longitude": "-122.819800"
+    },
+    {
+        "county": "MARION",
+        "city": "DETROIT",
+        "zipcode": 97342,
+        "latitude": "+44.735834",
+        "longitude": "-122.066865"
+    },
+    {
+        "county": "MARION",
+        "city": "DONALD",
+        "zipcode": 97020,
+        "latitude": "+45.219924",
+        "longitude": "-122.840536"
+    },
+    {
+        "county": "MARION",
+        "city": "GATES",
+        "zipcode": 97346,
+        "latitude": "+44.762578",
+        "longitude": "-122.372622"
+    },
+    {
+        "county": "MARION",
+        "city": "GERVAIS",
+        "zipcode": 97026,
+        "latitude": "+45.120045",
+        "longitude": "-122.935106"
+    },
+    {
+        "county": "MARION",
+        "city": "HUBBARD",
+        "zipcode": 97032,
+        "latitude": "+45.196900",
+        "longitude": "-122.812012"
+    },
+    {
+        "county": "MARION",
+        "city": "IDANHA",
+        "zipcode": 97350,
+        "latitude": "+44.700127",
+        "longitude": "-122.074043"
+    },
+    {
+        "county": "MARION",
+        "city": "JEFFERSON",
+        "zipcode": 97352,
+        "latitude": "+44.768025",
+        "longitude": "-123.003516"
+    },
+    {
+        "county": "MARION",
+        "city": "KEIZER",
+        "zipcode": 97307,
+        "latitude": "+44.984465",
+        "longitude": "-122.457024"
+    },
+    {
+        "county": "MARION",
+        "city": "MARION",
+        "zipcode": 97359,
+        "latitude": "+44.984465",
+        "longitude": "-122.457024"
+    },
+    {
+        "county": "MARION",
+        "city": "MEHAMA",
+        "zipcode": 97384,
+        "latitude": "+44.790267",
+        "longitude": "-122.618719"
+    },
+    {
+        "county": "MARION",
+        "city": "MOUNT ANGEL",
+        "zipcode": 97362,
+        "latitude": "+44.934698",
+        "longitude": "-122.655118"
+    },
+    {
+        "county": "MARION",
+        "city": "SAINT BENEDICT",
+        "zipcode": 97373,
+        "latitude": "+44.984465",
+        "longitude": "-122.457024"
+    },
+    {
+        "county": "MARION",
+        "city": "SAINT PAUL",
+        "zipcode": 97137,
+        "latitude": "+45.208263",
+        "longitude": "-122.948636"
+    },
+    {
+        "county": "MARION",
+        "city": "SALEM",
+        "zipcode": 97301,
+        "latitude": "+44.904720",
+        "longitude": "-122.921721"
+    },
+    {
+        "county": "MARION",
+        "city": "SALEM",
+        "zipcode": 97302,
+        "latitude": "+44.890486",
+        "longitude": "-123.082192"
+    },
+    {
+        "county": "MARION",
+        "city": "SALEM",
+        "zipcode": 97303,
+        "latitude": "+44.992731",
+        "longitude": "-123.016720"
+    },
+    {
+        "county": "MARION",
+        "city": "SALEM",
+        "zipcode": 97305,
+        "latitude": "+44.996133",
+        "longitude": "-122.912390"
+    },
+    {
+        "county": "MARION",
+        "city": "SALEM",
+        "zipcode": 97306,
+        "latitude": "+44.856786",
+        "longitude": "-123.088297"
+    },
+    {
+        "county": "MARION",
+        "city": "SALEM",
+        "zipcode": 97308,
+        "latitude": "+44.984465",
+        "longitude": "-122.457024"
+    },
+    {
+        "county": "MARION",
+        "city": "SALEM",
+        "zipcode": 97309,
+        "latitude": "+44.984465",
+        "longitude": "-122.457024"
+    },
+    {
+        "county": "MARION",
+        "city": "SALEM",
+        "zipcode": 97310,
+        "latitude": "+44.927141",
+        "longitude": "-122.986105"
+    },
+    {
+        "county": "MARION",
+        "city": "SALEM",
+        "zipcode": 97311,
+        "latitude": "+44.943841",
+        "longitude": "-123.028607"
+    },
+    {
+        "county": "MARION",
+        "city": "SALEM",
+        "zipcode": 97312,
+        "latitude": "+44.936357",
+        "longitude": "-123.038116"
+    },
+    {
+        "county": "MARION",
+        "city": "SALEM",
+        "zipcode": 97313,
+        "latitude": "+44.984941",
+        "longitude": "-122.998756"
+    },
+    {
+        "county": "MARION",
+        "city": "SALEM",
+        "zipcode": 97314,
+        "latitude": "+44.965541",
+        "longitude": "-123.006606"
+    },
+    {
+        "county": "MARION",
+        "city": "SCOTTS MILLS",
+        "zipcode": 97375,
+        "latitude": "+44.989702",
+        "longitude": "-122.618718"
+    },
+    {
+        "county": "MARION",
+        "city": "SILVERTON",
+        "zipcode": 97381,
+        "latitude": "+44.954501",
+        "longitude": "-122.748442"
+    },
+    {
+        "county": "MARION",
+        "city": "STAYTON",
+        "zipcode": 97383,
+        "latitude": "+44.807707",
+        "longitude": "-122.726619"
+    },
+    {
+        "county": "MARION",
+        "city": "SUBLIMITY",
+        "zipcode": 97385,
+        "latitude": "+44.886618",
+        "longitude": "-122.740264"
+    },
+    {
+        "county": "MARION",
+        "city": "TURNER",
+        "zipcode": 97392,
+        "latitude": "+44.795200",
+        "longitude": "-122.942210"
+    },
+    {
+        "county": "MARION",
+        "city": "WOODBURN",
+        "zipcode": 97071,
+        "latitude": "+45.148007",
+        "longitude": "-122.876205"
+    },
+    {
+        "county": "MORROW",
+        "city": "BOARDMAN",
+        "zipcode": 97818,
+        "latitude": "+45.419841",
+        "longitude": "-119.657500"
+    },
+    {
+        "county": "MORROW",
+        "city": "HEPPNER",
+        "zipcode": 97836,
+        "latitude": "+45.301332",
+        "longitude": "-119.577731"
+    },
+    {
+        "county": "MORROW",
+        "city": "IONE",
+        "zipcode": 97843,
+        "latitude": "+45.456534",
+        "longitude": "-119.842256"
+    },
+    {
+        "county": "MORROW",
+        "city": "IRRIGON",
+        "zipcode": 97844,
+        "latitude": "+45.707049",
+        "longitude": "-119.631097"
+    },
+    {
+        "county": "MORROW",
+        "city": "LEXINGTON",
+        "zipcode": 97839,
+        "latitude": "+45.493821",
+        "longitude": "-119.638037"
+    },
+    {
+        "county": "MULTNOMAH",
+        "city": "BRIDAL VEIL",
+        "zipcode": 97010,
+        "latitude": "+45.582981",
+        "longitude": "-122.101103"
+    },
+    {
+        "county": "MULTNOMAH",
+        "city": "CORBETT",
+        "zipcode": 97019,
+        "latitude": "+45.518270",
+        "longitude": "-122.229299"
+    },
+    {
+        "county": "MULTNOMAH",
+        "city": "FAIRVIEW",
+        "zipcode": 97024,
+        "latitude": "+45.544407",
+        "longitude": "-122.536360"
+    },
+    {
+        "county": "MULTNOMAH",
+        "city": "GRESHAM",
+        "zipcode": 97030,
+        "latitude": "+45.508117",
+        "longitude": "-122.430233"
+    },
+    {
+        "county": "MULTNOMAH",
+        "city": "GRESHAM",
+        "zipcode": 97080,
+        "latitude": "+45.481252",
+        "longitude": "-122.386750"
+    },
+    {
+        "county": "MULTNOMAH",
+        "city": "PORTLAND",
+        "zipcode": 97201,
+        "latitude": "+45.498931",
+        "longitude": "-122.693157"
+    },
+    {
+        "county": "MULTNOMAH",
+        "city": "PORTLAND",
+        "zipcode": 97202,
+        "latitude": "+45.481690",
+        "longitude": "-122.637331"
+    },
+    {
+        "county": "MULTNOMAH",
+        "city": "PORTLAND",
+        "zipcode": 97203,
+        "latitude": "+45.604838",
+        "longitude": "-122.743737"
+    },
+    {
+        "county": "MULTNOMAH",
+        "city": "PORTLAND",
+        "zipcode": 97204,
+        "latitude": "+45.518090",
+        "longitude": "-122.675106"
+    },
+    {
+        "county": "MULTNOMAH",
+        "city": "PORTLAND",
+        "zipcode": 97205,
+        "latitude": "+45.519490",
+        "longitude": "-122.690157"
+    },
+    {
+        "county": "MULTNOMAH",
+        "city": "PORTLAND",
+        "zipcode": 97206,
+        "latitude": "+45.483341",
+        "longitude": "-122.596154"
+    },
+    {
+        "county": "MULTNOMAH",
+        "city": "PORTLAND",
+        "zipcode": 97207,
+        "latitude": "+45.480324",
+        "longitude": "-122.711117"
+    },
+    {
+        "county": "MULTNOMAH",
+        "city": "PORTLAND",
+        "zipcode": 97208,
+        "latitude": "+45.532165",
+        "longitude": "-122.564824"
+    },
+    {
+        "county": "MULTNOMAH",
+        "city": "PORTLAND",
+        "zipcode": 97209,
+        "latitude": "+45.531990",
+        "longitude": "-122.683826"
+    },
+    {
+        "county": "MULTNOMAH",
+        "city": "PORTLAND",
+        "zipcode": 97210,
+        "latitude": "+45.547339",
+        "longitude": "-122.732358"
+    },
+    {
+        "county": "MULTNOMAH",
+        "city": "PORTLAND",
+        "zipcode": 97211,
+        "latitude": "+45.577289",
+        "longitude": "-122.615906"
+    },
+    {
+        "county": "MULTNOMAH",
+        "city": "PORTLAND",
+        "zipcode": 97212,
+        "latitude": "+45.543740",
+        "longitude": "-122.643106"
+    },
+    {
+        "county": "MULTNOMAH",
+        "city": "PORTLAND",
+        "zipcode": 97213,
+        "latitude": "+45.539090",
+        "longitude": "-122.599751"
+    },
+    {
+        "county": "MULTNOMAH",
+        "city": "PORTLAND",
+        "zipcode": 97214,
+        "latitude": "+45.514440",
+        "longitude": "-122.642305"
+    },
+    {
+        "county": "MULTNOMAH",
+        "city": "PORTLAND",
+        "zipcode": 97215,
+        "latitude": "+45.518940",
+        "longitude": "-122.599104"
+    },
+    {
+        "county": "MULTNOMAH",
+        "city": "PORTLAND",
+        "zipcode": 97216,
+        "latitude": "+45.515341",
+        "longitude": "-122.558003"
+    },
+    {
+        "county": "MULTNOMAH",
+        "city": "PORTLAND",
+        "zipcode": 97217,
+        "latitude": "+45.594589",
+        "longitude": "-122.704308"
+    },
+    {
+        "county": "MULTNOMAH",
+        "city": "PORTLAND",
+        "zipcode": 97218,
+        "latitude": "+45.575689",
+        "longitude": "-122.605205"
+    },
+    {
+        "county": "MULTNOMAH",
+        "city": "PORTLAND",
+        "zipcode": 97219,
+        "latitude": "+45.455090",
+        "longitude": "-122.696724"
+    },
+    {
+        "county": "MULTNOMAH",
+        "city": "PORTLAND",
+        "zipcode": 97220,
+        "latitude": "+45.556340",
+        "longitude": "-122.556104"
+    },
+    {
+        "county": "MULTNOMAH",
+        "city": "PORTLAND",
+        "zipcode": 97221,
+        "latitude": "+45.506550",
+        "longitude": "-122.733888"
+    },
+    {
+        "county": "MULTNOMAH",
+        "city": "PORTLAND",
+        "zipcode": 97227,
+        "latitude": "+45.545039",
+        "longitude": "-122.680007"
+    },
+    {
+        "county": "MULTNOMAH",
+        "city": "PORTLAND",
+        "zipcode": 97228,
+        "latitude": "+45.580557",
+        "longitude": "-122.374776"
+    },
+    {
+        "county": "MULTNOMAH",
+        "city": "PORTLAND",
+        "zipcode": 97230,
+        "latitude": "+45.547173",
+        "longitude": "-122.500053"
+    },
+    {
+        "county": "MULTNOMAH",
+        "city": "PORTLAND",
+        "zipcode": 97231,
+        "latitude": "+45.652987",
+        "longitude": "-122.839778"
+    },
+    {
+        "county": "MULTNOMAH",
+        "city": "PORTLAND",
+        "zipcode": 97232,
+        "latitude": "+45.523690",
+        "longitude": "-122.642655"
+    },
+    {
+        "county": "MULTNOMAH",
+        "city": "PORTLAND",
+        "zipcode": 97233,
+        "latitude": "+45.515121",
+        "longitude": "-122.496052"
+    },
+    {
+        "county": "MULTNOMAH",
+        "city": "PORTLAND",
+        "zipcode": 97236,
+        "latitude": "+45.484594",
+        "longitude": "-122.504175"
+    },
+    {
+        "county": "MULTNOMAH",
+        "city": "PORTLAND",
+        "zipcode": 97238,
+        "latitude": "+45.580557",
+        "longitude": "-122.374776"
+    },
+    {
+        "county": "MULTNOMAH",
+        "city": "PORTLAND",
+        "zipcode": 97240,
+        "latitude": "+45.580557",
+        "longitude": "-122.374776"
+    },
+    {
+        "county": "MULTNOMAH",
+        "city": "PORTLAND",
+        "zipcode": 97242,
+        "latitude": "+45.580557",
+        "longitude": "-122.374776"
+    },
+    {
+        "county": "MULTNOMAH",
+        "city": "PORTLAND",
+        "zipcode": 97251,
+        "latitude": "+45.580557",
+        "longitude": "-122.374776"
+    },
+    {
+        "county": "MULTNOMAH",
+        "city": "PORTLAND",
+        "zipcode": 97253,
+        "latitude": "+45.580557",
+        "longitude": "-122.374776"
+    },
+    {
+        "county": "MULTNOMAH",
+        "city": "PORTLAND",
+        "zipcode": 97254,
+        "latitude": "+45.596678",
+        "longitude": "-122.594180"
+    },
+    {
+        "county": "MULTNOMAH",
+        "city": "PORTLAND",
+        "zipcode": 97255,
+        "latitude": "+45.580557",
+        "longitude": "-122.374776"
+    },
+    {
+        "county": "MULTNOMAH",
+        "city": "PORTLAND",
+        "zipcode": 97256,
+        "latitude": "+45.580557",
+        "longitude": "-122.374776"
+    },
+    {
+        "county": "MULTNOMAH",
+        "city": "PORTLAND",
+        "zipcode": 97258,
+        "latitude": "+45.580557",
+        "longitude": "-122.374776"
+    },
+    {
+        "county": "MULTNOMAH",
+        "city": "PORTLAND",
+        "zipcode": 97259,
+        "latitude": "+45.580557",
+        "longitude": "-122.374776"
+    },
+    {
+        "county": "MULTNOMAH",
+        "city": "PORTLAND",
+        "zipcode": 97266,
+        "latitude": "+45.482949",
+        "longitude": "-122.557502"
+    },
+    {
+        "county": "MULTNOMAH",
+        "city": "PORTLAND",
+        "zipcode": 97271,
+        "latitude": "+45.580557",
+        "longitude": "-122.374776"
+    },
+    {
+        "county": "MULTNOMAH",
+        "city": "PORTLAND",
+        "zipcode": 97272,
+        "latitude": "+45.580557",
+        "longitude": "-122.374776"
+    },
+    {
+        "county": "MULTNOMAH",
+        "city": "PORTLAND",
+        "zipcode": 97280,
+        "latitude": "+45.580557",
+        "longitude": "-122.374776"
+    },
+    {
+        "county": "MULTNOMAH",
+        "city": "PORTLAND",
+        "zipcode": 97282,
+        "latitude": "+45.580557",
+        "longitude": "-122.374776"
+    },
+    {
+        "county": "MULTNOMAH",
+        "city": "PORTLAND",
+        "zipcode": 97283,
+        "latitude": "+45.580557",
+        "longitude": "-122.374776"
+    },
+    {
+        "county": "MULTNOMAH",
+        "city": "PORTLAND",
+        "zipcode": 97286,
+        "latitude": "+45.580557",
+        "longitude": "-122.374776"
+    },
+    {
+        "county": "MULTNOMAH",
+        "city": "PORTLAND",
+        "zipcode": 97290,
+        "latitude": "+45.580557",
+        "longitude": "-122.374776"
+    },
+    {
+        "county": "MULTNOMAH",
+        "city": "PORTLAND",
+        "zipcode": 97292,
+        "latitude": "+45.580557",
+        "longitude": "-122.374776"
+    },
+    {
+        "county": "MULTNOMAH",
+        "city": "PORTLAND",
+        "zipcode": 97293,
+        "latitude": "+45.580557",
+        "longitude": "-122.374776"
+    },
+    {
+        "county": "MULTNOMAH",
+        "city": "PORTLAND",
+        "zipcode": 97294,
+        "latitude": "+45.580557",
+        "longitude": "-122.374776"
+    },
+    {
+        "county": "MULTNOMAH",
+        "city": "PORTLAND",
+        "zipcode": 97296,
+        "latitude": "+45.580557",
+        "longitude": "-122.374776"
+    },
+    {
+        "county": "MULTNOMAH",
+        "city": "PORTLAND",
+        "zipcode": 97299,
+        "latitude": "+45.580557",
+        "longitude": "-122.374776"
+    },
+    {
+        "county": "MULTNOMAH",
+        "city": "TROUTDALE",
+        "zipcode": 97060,
+        "latitude": "+45.525007",
+        "longitude": "-122.390049"
+    },
+    {
+        "county": "POLK",
+        "city": "DALLAS",
+        "zipcode": 97338,
+        "latitude": "+44.928092",
+        "longitude": "-123.337291"
+    },
+    {
+        "county": "POLK",
+        "city": "FALLS CITY",
+        "zipcode": 97344,
+        "latitude": "+44.870977",
+        "longitude": "-123.473276"
+    },
+    {
+        "county": "POLK",
+        "city": "GRAND RONDE",
+        "zipcode": 97347,
+        "latitude": "+45.053757",
+        "longitude": "-123.648356"
+    },
+    {
+        "county": "POLK",
+        "city": "INDEPENDENCE",
+        "zipcode": 97351,
+        "latitude": "+44.836951",
+        "longitude": "-123.165523"
+    },
+    {
+        "county": "POLK",
+        "city": "MONMOUTH",
+        "zipcode": 97361,
+        "latitude": "+44.808768",
+        "longitude": "-123.326075"
+    },
+    {
+        "county": "POLK",
+        "city": "RICKREALL",
+        "zipcode": 97371,
+        "latitude": "+44.991024",
+        "longitude": "-123.209356"
+    },
+    {
+        "county": "POLK",
+        "city": "SALEM",
+        "zipcode": 97304,
+        "latitude": "+44.993510",
+        "longitude": "-123.107442"
+    },
+    {
+        "county": "SHERMAN",
+        "city": "GRASS VALLEY",
+        "zipcode": 97029,
+        "latitude": "+45.306543",
+        "longitude": "-120.797313"
+    },
+    {
+        "county": "SHERMAN",
+        "city": "KENT",
+        "zipcode": 97033,
+        "latitude": "+45.237277",
+        "longitude": "-120.626298"
+    },
+    {
+        "county": "SHERMAN",
+        "city": "MORO",
+        "zipcode": 97039,
+        "latitude": "+45.502564",
+        "longitude": "-120.684499"
+    },
+    {
+        "county": "SHERMAN",
+        "city": "RUFUS",
+        "zipcode": 97050,
+        "latitude": "+45.647067",
+        "longitude": "-120.764130"
+    },
+    {
+        "county": "SHERMAN",
+        "city": "WASCO",
+        "zipcode": 97065,
+        "latitude": "+45.403298",
+        "longitude": "-120.710276"
+    },
+    {
+        "county": "TILLAMOOK",
+        "city": "BAY CITY",
+        "zipcode": 97107,
+        "latitude": "+45.609399",
+        "longitude": "-123.894297"
+    },
+    {
+        "county": "TILLAMOOK",
+        "city": "BEAVER",
+        "zipcode": 97108,
+        "latitude": "+45.278621",
+        "longitude": "-123.746717"
+    },
+    {
+        "county": "TILLAMOOK",
+        "city": "CLOVERDALE",
+        "zipcode": 97112,
+        "latitude": "+45.216360",
+        "longitude": "-123.876339"
+    },
+    {
+        "county": "TILLAMOOK",
+        "city": "GARIBALDI",
+        "zipcode": 97118,
+        "latitude": "+45.562572",
+        "longitude": "-123.900072"
+    },
+    {
+        "county": "TILLAMOOK",
+        "city": "HEBO",
+        "zipcode": 97122,
+        "latitude": "+45.176795",
+        "longitude": "-123.846000"
+    },
+    {
+        "county": "TILLAMOOK",
+        "city": "MANZANITA",
+        "zipcode": 97130,
+        "latitude": "+45.736552",
+        "longitude": "-123.923108"
+    },
+    {
+        "county": "TILLAMOOK",
+        "city": "NEHALEM",
+        "zipcode": 97131,
+        "latitude": "+45.651933",
+        "longitude": "-123.853529"
+    },
+    {
+        "county": "TILLAMOOK",
+        "city": "NESKOWIN",
+        "zipcode": 97149,
+        "latitude": "+45.097011",
+        "longitude": "-123.943418"
+    },
+    {
+        "county": "TILLAMOOK",
+        "city": "NETARTS",
+        "zipcode": 97143,
+        "latitude": "+45.434049",
+        "longitude": "-123.945785"
+    },
+    {
+        "county": "TILLAMOOK",
+        "city": "OCEANSIDE",
+        "zipcode": 97134,
+        "latitude": "+45.454855",
+        "longitude": "-123.965029"
+    },
+    {
+        "county": "TILLAMOOK",
+        "city": "PACIFIC CITY",
+        "zipcode": 97135,
+        "latitude": "+45.204976",
+        "longitude": "-123.958970"
+    },
+    {
+        "county": "TILLAMOOK",
+        "city": "ROCKAWAY BEACH",
+        "zipcode": 97136,
+        "latitude": "+45.635205",
+        "longitude": "-123.913048"
+    },
+    {
+        "county": "TILLAMOOK",
+        "city": "TILLAMOOK",
+        "zipcode": 97141,
+        "latitude": "+45.461952",
+        "longitude": "-123.740874"
+    },
+    {
+        "county": "TILLAMOOK",
+        "city": "WHEELER",
+        "zipcode": 97147,
+        "latitude": "+45.397283",
+        "longitude": "-123.916076"
+    },
+    {
+        "county": "UMATILLA",
+        "city": "ADAMS",
+        "zipcode": 97810,
+        "latitude": "+45.724767",
+        "longitude": "-118.490788"
+    },
+    {
+        "county": "UMATILLA",
+        "city": "ATHENA",
+        "zipcode": 97813,
+        "latitude": "+45.823940",
+        "longitude": "-118.524881"
+    },
+    {
+        "county": "UMATILLA",
+        "city": "CAYUSE",
+        "zipcode": 97821,
+        "latitude": "+45.683276",
+        "longitude": "-118.458080"
+    },
+    {
+        "county": "UMATILLA",
+        "city": "ECHO",
+        "zipcode": 97826,
+        "latitude": "+45.692754",
+        "longitude": "-119.198798"
+    },
+    {
+        "county": "UMATILLA",
+        "city": "HELIX",
+        "zipcode": 97835,
+        "latitude": "+45.909854",
+        "longitude": "-118.755877"
+    },
+    {
+        "county": "UMATILLA",
+        "city": "HERMISTON",
+        "zipcode": 97838,
+        "latitude": "+45.699986",
+        "longitude": "-119.100692"
+    },
+    {
+        "county": "UMATILLA",
+        "city": "MEACHAM",
+        "zipcode": 97859,
+        "latitude": "+45.521453",
+        "longitude": "-118.433494"
+    },
+    {
+        "county": "UMATILLA",
+        "city": "MILTON FREEWATER",
+        "zipcode": 97862,
+        "latitude": "+45.740766",
+        "longitude": "-118.504320"
+    },
+    {
+        "county": "UMATILLA",
+        "city": "PENDLETON",
+        "zipcode": 97801,
+        "latitude": "+45.711814",
+        "longitude": "-118.637974"
+    },
+    {
+        "county": "UMATILLA",
+        "city": "PILOT ROCK",
+        "zipcode": 97868,
+        "latitude": "+45.421150",
+        "longitude": "-118.860300"
+    },
+    {
+        "county": "UMATILLA",
+        "city": "STANFIELD",
+        "zipcode": 97875,
+        "latitude": "+45.806358",
+        "longitude": "-119.176169"
+    },
+    {
+        "county": "UMATILLA",
+        "city": "UKIAH",
+        "zipcode": 97880,
+        "latitude": "+45.498472",
+        "longitude": "-118.704081"
+    },
+    {
+        "county": "UMATILLA",
+        "city": "UMATILLA",
+        "zipcode": 97882,
+        "latitude": "+45.869529",
+        "longitude": "-118.956930"
+    },
+    {
+        "county": "UMATILLA",
+        "city": "WESTON",
+        "zipcode": 97886,
+        "latitude": "+45.788782",
+        "longitude": "-118.300068"
+    },
+    {
+        "county": "UNION",
+        "city": "COVE",
+        "zipcode": 97824,
+        "latitude": "+45.341881",
+        "longitude": "-117.872662"
+    },
+    {
+        "county": "UNION",
+        "city": "ELGIN",
+        "zipcode": 97827,
+        "latitude": "+45.612664",
+        "longitude": "-117.907539"
+    },
+    {
+        "county": "UNION",
+        "city": "IMBLER",
+        "zipcode": 97841,
+        "latitude": "+45.474915",
+        "longitude": "-117.957463"
+    },
+    {
+        "county": "UNION",
+        "city": "LA GRANDE",
+        "zipcode": 97850,
+        "latitude": "+45.295350",
+        "longitude": "-118.164822"
+    },
+    {
+        "county": "UNION",
+        "city": "NORTH POWDER",
+        "zipcode": 97867,
+        "latitude": "+45.043975",
+        "longitude": "-117.981498"
+    },
+    {
+        "county": "UNION",
+        "city": "SUMMERVILLE",
+        "zipcode": 97876,
+        "latitude": "+45.295599",
+        "longitude": "-118.000258"
+    },
+    {
+        "county": "UNION",
+        "city": "UNION",
+        "zipcode": 97883,
+        "latitude": "+45.162055",
+        "longitude": "-117.848982"
+    },
+    {
+        "county": "WALLOWA",
+        "city": "ENTERPRISE",
+        "zipcode": 97828,
+        "latitude": "+45.648199",
+        "longitude": "-117.169858"
+    },
+    {
+        "county": "WALLOWA",
+        "city": "IMNAHA",
+        "zipcode": 97842,
+        "latitude": "+45.503578",
+        "longitude": "-116.807469"
+    },
+    {
+        "county": "WALLOWA",
+        "city": "JOSEPH",
+        "zipcode": 97846,
+        "latitude": "+45.406071",
+        "longitude": "-117.073337"
+    },
+    {
+        "county": "WALLOWA",
+        "city": "LOSTINE",
+        "zipcode": 97857,
+        "latitude": "+45.465083",
+        "longitude": "-117.457163"
+    },
+    {
+        "county": "WALLOWA",
+        "city": "WALLOWA",
+        "zipcode": 97885,
+        "latitude": "+45.655005",
+        "longitude": "-117.511052"
+    },
+    {
+        "county": "WASCO",
+        "city": "ANTELOPE",
+        "zipcode": 97001,
+        "latitude": "+45.263301",
+        "longitude": "-121.088513"
+    },
+    {
+        "county": "WASCO",
+        "city": "DUFUR",
+        "zipcode": 97021,
+        "latitude": "+45.391278",
+        "longitude": "-121.143152"
+    },
+    {
+        "county": "WASCO",
+        "city": "MAUPIN",
+        "zipcode": 97037,
+        "latitude": "+45.155868",
+        "longitude": "-121.338132"
+    },
+    {
+        "county": "WASCO",
+        "city": "MOSIER",
+        "zipcode": 97040,
+        "latitude": "+45.650790",
+        "longitude": "-121.379020"
+    },
+    {
+        "county": "WASCO",
+        "city": "SHANIKO",
+        "zipcode": 97057,
+        "latitude": "+45.263301",
+        "longitude": "-121.088513"
+    },
+    {
+        "county": "WASCO",
+        "city": "THE DALLES",
+        "zipcode": 97058,
+        "latitude": "+45.554978",
+        "longitude": "-121.187030"
+    },
+    {
+        "county": "WASCO",
+        "city": "TYGH VALLEY",
+        "zipcode": 97063,
+        "latitude": "+45.297105",
+        "longitude": "-121.233727"
+    },
+    {
+        "county": "WASHINGTON",
+        "city": "BANKS",
+        "zipcode": 97106,
+        "latitude": "+45.594526",
+        "longitude": "-123.138952"
+    },
+    {
+        "county": "WASHINGTON",
+        "city": "BEAVERTON",
+        "zipcode": 97005,
+        "latitude": "+45.496289",
+        "longitude": "-122.800146"
+    },
+    {
+        "county": "WASHINGTON",
+        "city": "BEAVERTON",
+        "zipcode": 97006,
+        "latitude": "+45.520130",
+        "longitude": "-122.860376"
+    },
+    {
+        "county": "WASHINGTON",
+        "city": "BEAVERTON",
+        "zipcode": 97007,
+        "latitude": "+45.450489",
+        "longitude": "-122.865171"
+    },
+    {
+        "county": "WASHINGTON",
+        "city": "BEAVERTON",
+        "zipcode": 97008,
+        "latitude": "+45.456020",
+        "longitude": "-122.799559"
+    },
+    {
+        "county": "WASHINGTON",
+        "city": "BEAVERTON",
+        "zipcode": 97075,
+        "latitude": "+45.548616",
+        "longitude": "-123.114725"
+    },
+    {
+        "county": "WASHINGTON",
+        "city": "BEAVERTON",
+        "zipcode": 97076,
+        "latitude": "+45.548616",
+        "longitude": "-123.114725"
+    },
+    {
+        "county": "WASHINGTON",
+        "city": "BEAVERTON",
+        "zipcode": 97077,
+        "latitude": "+45.548616",
+        "longitude": "-123.114725"
+    },
+    {
+        "county": "WASHINGTON",
+        "city": "BEAVERTON",
+        "zipcode": 97078,
+        "latitude": "+45.451976",
+        "longitude": "-122.789257"
+    },
+    {
+        "county": "WASHINGTON",
+        "city": "BUXTON",
+        "zipcode": 97109,
+        "latitude": "+45.728555",
+        "longitude": "-123.177864"
+    },
+    {
+        "county": "WASHINGTON",
+        "city": "CORNELIUS",
+        "zipcode": 97113,
+        "latitude": "+45.600635",
+        "longitude": "-122.920629"
+    },
+    {
+        "county": "WASHINGTON",
+        "city": "FOREST GROVE",
+        "zipcode": 97116,
+        "latitude": "+45.598052",
+        "longitude": "-123.181800"
+    },
+    {
+        "county": "WASHINGTON",
+        "city": "GALES CREEK",
+        "zipcode": 97117,
+        "latitude": "+45.604204",
+        "longitude": "-123.269580"
+    },
+    {
+        "county": "WASHINGTON",
+        "city": "GASTON",
+        "zipcode": 97119,
+        "latitude": "+45.466171",
+        "longitude": "-123.149974"
+    },
+    {
+        "county": "WASHINGTON",
+        "city": "HILLSBORO",
+        "zipcode": 97123,
+        "latitude": "+45.458397",
+        "longitude": "-122.977963"
+    },
+    {
+        "county": "WASHINGTON",
+        "city": "HILLSBORO",
+        "zipcode": 97124,
+        "latitude": "+45.623370",
+        "longitude": "-122.953316"
+    },
+    {
+        "county": "WASHINGTON",
+        "city": "MANNING",
+        "zipcode": 97125,
+        "latitude": "+45.659193",
+        "longitude": "-123.191739"
+    },
+    {
+        "county": "WASHINGTON",
+        "city": "NORTH PLAINS",
+        "zipcode": 97133,
+        "latitude": "+45.668573",
+        "longitude": "-123.028124"
+    },
+    {
+        "county": "WASHINGTON",
+        "city": "PORTLAND",
+        "zipcode": 97223,
+        "latitude": "+45.447390",
+        "longitude": "-122.795294"
+    },
+    {
+        "county": "WASHINGTON",
+        "city": "PORTLAND",
+        "zipcode": 97224,
+        "latitude": "+45.409448",
+        "longitude": "-122.801400"
+    },
+    {
+        "county": "WASHINGTON",
+        "city": "PORTLAND",
+        "zipcode": 97225,
+        "latitude": "+45.498473",
+        "longitude": "-122.778659"
+    },
+    {
+        "county": "WASHINGTON",
+        "city": "PORTLAND",
+        "zipcode": 97229,
+        "latitude": "+45.548317",
+        "longitude": "-122.827561"
+    },
+    {
+        "county": "WASHINGTON",
+        "city": "PORTLAND",
+        "zipcode": 97281,
+        "latitude": "+45.548616",
+        "longitude": "-123.114725"
+    },
+    {
+        "county": "WASHINGTON",
+        "city": "PORTLAND",
+        "zipcode": 97291,
+        "latitude": "+45.548616",
+        "longitude": "-123.114725"
+    },
+    {
+        "county": "WASHINGTON",
+        "city": "PORTLAND",
+        "zipcode": 97298,
+        "latitude": "+45.548616",
+        "longitude": "-123.114725"
+    },
+    {
+        "county": "WASHINGTON",
+        "city": "SHERWOOD",
+        "zipcode": 97140,
+        "latitude": "+45.371478",
+        "longitude": "-122.874613"
+    },
+    {
+        "county": "WASHINGTON",
+        "city": "TIMBER",
+        "zipcode": 97144,
+        "latitude": "+45.740988",
+        "longitude": "-123.299311"
+    },
+    {
+        "county": "WASHINGTON",
+        "city": "TUALATIN",
+        "zipcode": 97062,
+        "latitude": "+45.366608",
+        "longitude": "-122.783887"
+    },
+    {
+        "county": "WHEELER",
+        "city": "FOSSIL",
+        "zipcode": 97830,
+        "latitude": "+44.928579",
+        "longitude": "-120.130869"
+    },
+    {
+        "county": "WHEELER",
+        "city": "MITCHELL",
+        "zipcode": 97750,
+        "latitude": "+44.644668",
+        "longitude": "-120.014665"
+    },
+    {
+        "county": "WHEELER",
+        "city": "SPRAY",
+        "zipcode": 97874,
+        "latitude": "+44.780103",
+        "longitude": "-119.914072"
+    },
+    {
+        "county": "YAMHILL",
+        "city": "AMITY",
+        "zipcode": 97101,
+        "latitude": "+45.121454",
+        "longitude": "-123.191368"
+    },
+    {
+        "county": "YAMHILL",
+        "city": "CARLTON",
+        "zipcode": 97111,
+        "latitude": "+45.282393",
+        "longitude": "-123.218624"
+    },
+    {
+        "county": "YAMHILL",
+        "city": "DAYTON",
+        "zipcode": 97114,
+        "latitude": "+45.187141",
+        "longitude": "-123.077797"
+    },
+    {
+        "county": "YAMHILL",
+        "city": "DUNDEE",
+        "zipcode": 97115,
+        "latitude": "+45.272370",
+        "longitude": "-123.020670"
+    },
+    {
+        "county": "YAMHILL",
+        "city": "LAFAYETTE",
+        "zipcode": 97127,
+        "latitude": "+45.232882",
+        "longitude": "-123.110948"
+    },
+    {
+        "county": "YAMHILL",
+        "city": "MCMINNVILLE",
+        "zipcode": 97128,
+        "latitude": "+45.187444",
+        "longitude": "-123.237145"
+    },
+    {
+        "county": "YAMHILL",
+        "city": "NEWBERG",
+        "zipcode": 97132,
+        "latitude": "+45.329475",
+        "longitude": "-122.981045"
+    },
+    {
+        "county": "YAMHILL",
+        "city": "SHERIDAN",
+        "zipcode": 97378,
+        "latitude": "+45.145945",
+        "longitude": "-123.385904"
+    },
+    {
+        "county": "YAMHILL",
+        "city": "WILLAMINA",
+        "zipcode": 97396,
+        "latitude": "+45.145011",
+        "longitude": "-123.523136"
+    },
+    {
+        "county": "YAMHILL",
+        "city": "YAMHILL",
+        "zipcode": 97148,
+        "latitude": "+45.351892",
+        "longitude": "-123.234840"
+    }
+]

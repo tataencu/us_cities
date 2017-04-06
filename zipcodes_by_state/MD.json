@@ -1,0 +1,4335 @@
+[
+    {
+        "county": "ALLEGANY",
+        "city": "BARTON",
+        "zipcode": 21521,
+        "latitude": "+39.536798",
+        "longitude": "-079.009008"
+    },
+    {
+        "county": "ALLEGANY",
+        "city": "CORRIGANVILLE",
+        "zipcode": 21524,
+        "latitude": "+39.696680",
+        "longitude": "-078.803067"
+    },
+    {
+        "county": "ALLEGANY",
+        "city": "CUMBERLAND",
+        "zipcode": 21501,
+        "latitude": "+39.580691",
+        "longitude": "-078.690593"
+    },
+    {
+        "county": "ALLEGANY",
+        "city": "CUMBERLAND",
+        "zipcode": 21502,
+        "latitude": "+39.599150",
+        "longitude": "-078.844425"
+    },
+    {
+        "county": "ALLEGANY",
+        "city": "CUMBERLAND",
+        "zipcode": 21503,
+        "latitude": "+39.580691",
+        "longitude": "-078.690593"
+    },
+    {
+        "county": "ALLEGANY",
+        "city": "CUMBERLAND",
+        "zipcode": 21504,
+        "latitude": "+39.580691",
+        "longitude": "-078.690593"
+    },
+    {
+        "county": "ALLEGANY",
+        "city": "CUMBERLAND",
+        "zipcode": 21505,
+        "latitude": "+39.594043",
+        "longitude": "-078.843432"
+    },
+    {
+        "county": "ALLEGANY",
+        "city": "ECKHART MINES",
+        "zipcode": 21528,
+        "latitude": "+39.652837",
+        "longitude": "-078.901395"
+    },
+    {
+        "county": "ALLEGANY",
+        "city": "ELLERSLIE",
+        "zipcode": 21529,
+        "latitude": "+39.708261",
+        "longitude": "-078.777446"
+    },
+    {
+        "county": "ALLEGANY",
+        "city": "FLINTSTONE",
+        "zipcode": 21530,
+        "latitude": "+39.679418",
+        "longitude": "-078.524164"
+    },
+    {
+        "county": "ALLEGANY",
+        "city": "FROSTBURG",
+        "zipcode": 21532,
+        "latitude": "+39.642060",
+        "longitude": "-078.912502"
+    },
+    {
+        "county": "ALLEGANY",
+        "city": "LITTLE ORLEANS",
+        "zipcode": 21766,
+        "latitude": "+39.641946",
+        "longitude": "-078.408891"
+    },
+    {
+        "county": "ALLEGANY",
+        "city": "LONACONING",
+        "zipcode": 21539,
+        "latitude": "+39.571706",
+        "longitude": "-078.934521"
+    },
+    {
+        "county": "ALLEGANY",
+        "city": "LUKE",
+        "zipcode": 21540,
+        "latitude": "+39.475381",
+        "longitude": "-079.058451"
+    },
+    {
+        "county": "ALLEGANY",
+        "city": "MIDLAND",
+        "zipcode": 21542,
+        "latitude": "+39.595113",
+        "longitude": "-078.943082"
+    },
+    {
+        "county": "ALLEGANY",
+        "city": "MIDLOTHIAN",
+        "zipcode": 21543,
+        "latitude": "+39.633866",
+        "longitude": "-078.960403"
+    },
+    {
+        "county": "ALLEGANY",
+        "city": "MOUNT SAVAGE",
+        "zipcode": 21545,
+        "latitude": "+39.695649",
+        "longitude": "-078.872465"
+    },
+    {
+        "county": "ALLEGANY",
+        "city": "OLDTOWN",
+        "zipcode": 21555,
+        "latitude": "+39.596645",
+        "longitude": "-078.572564"
+    },
+    {
+        "county": "ALLEGANY",
+        "city": "PINTO",
+        "zipcode": 21556,
+        "latitude": "+39.572452",
+        "longitude": "-078.843962"
+    },
+    {
+        "county": "ALLEGANY",
+        "city": "RAWLINGS",
+        "zipcode": 21557,
+        "latitude": "+39.505820",
+        "longitude": "-078.921162"
+    },
+    {
+        "county": "ALLEGANY",
+        "city": "SPRING GAP",
+        "zipcode": 21560,
+        "latitude": "+39.601008",
+        "longitude": "-078.687137"
+    },
+    {
+        "county": "ALLEGANY",
+        "city": "WESTERNPORT",
+        "zipcode": 21562,
+        "latitude": "+39.490547",
+        "longitude": "-079.013989"
+    },
+    {
+        "county": "ANNE ARUNDEL",
+        "city": "ANNAPOLIS",
+        "zipcode": 21401,
+        "latitude": "+38.967311",
+        "longitude": "-076.610143"
+    },
+    {
+        "county": "ANNE ARUNDEL",
+        "city": "ANNAPOLIS",
+        "zipcode": 21402,
+        "latitude": "+39.048110",
+        "longitude": "-076.452032"
+    },
+    {
+        "county": "ANNE ARUNDEL",
+        "city": "ANNAPOLIS",
+        "zipcode": 21403,
+        "latitude": "+39.007361",
+        "longitude": "-076.584637"
+    },
+    {
+        "county": "ANNE ARUNDEL",
+        "city": "ANNAPOLIS",
+        "zipcode": 21404,
+        "latitude": "+38.974203",
+        "longitude": "-076.594942"
+    },
+    {
+        "county": "ANNE ARUNDEL",
+        "city": "ANNAPOLIS",
+        "zipcode": 21405,
+        "latitude": "+38.992124",
+        "longitude": "-076.506883"
+    },
+    {
+        "county": "ANNE ARUNDEL",
+        "city": "ANNAPOLIS",
+        "zipcode": 21411,
+        "latitude": "+38.974203",
+        "longitude": "-076.594942"
+    },
+    {
+        "county": "ANNE ARUNDEL",
+        "city": "ANNAPOLIS",
+        "zipcode": 21412,
+        "latitude": "+38.974203",
+        "longitude": "-076.594942"
+    },
+    {
+        "county": "ANNE ARUNDEL",
+        "city": "ARNOLD",
+        "zipcode": 21012,
+        "latitude": "+39.031461",
+        "longitude": "-076.623203"
+    },
+    {
+        "county": "ANNE ARUNDEL",
+        "city": "BALTIMORE",
+        "zipcode": 21240,
+        "latitude": "+39.142793",
+        "longitude": "-076.651589"
+    },
+    {
+        "county": "ANNE ARUNDEL",
+        "city": "BROOKLYN",
+        "zipcode": 21225,
+        "latitude": "+39.018973",
+        "longitude": "-076.616437"
+    },
+    {
+        "county": "ANNE ARUNDEL",
+        "city": "CHURCHTON",
+        "zipcode": 20733,
+        "latitude": "+38.921313",
+        "longitude": "-076.532569"
+    },
+    {
+        "county": "ANNE ARUNDEL",
+        "city": "CROFTON",
+        "zipcode": 21114,
+        "latitude": "+39.064360",
+        "longitude": "-076.622577"
+    },
+    {
+        "county": "ANNE ARUNDEL",
+        "city": "CROWNSVILLE",
+        "zipcode": 21032,
+        "latitude": "+39.018110",
+        "longitude": "-076.588272"
+    },
+    {
+        "county": "ANNE ARUNDEL",
+        "city": "CURTIS BAY",
+        "zipcode": 21226,
+        "latitude": "+39.068710",
+        "longitude": "-076.584137"
+    },
+    {
+        "county": "ANNE ARUNDEL",
+        "city": "DAVIDSONVILLE",
+        "zipcode": 21035,
+        "latitude": "+39.042960",
+        "longitude": "-076.628630"
+    },
+    {
+        "county": "ANNE ARUNDEL",
+        "city": "DEALE",
+        "zipcode": 20751,
+        "latitude": "+38.960712",
+        "longitude": "-076.621708"
+    },
+    {
+        "county": "ANNE ARUNDEL",
+        "city": "EDGEWATER",
+        "zipcode": 21037,
+        "latitude": "+38.975128",
+        "longitude": "-076.623684"
+    },
+    {
+        "county": "ANNE ARUNDEL",
+        "city": "FORT GEORGE G MEADE",
+        "zipcode": 20755,
+        "latitude": "+39.154307",
+        "longitude": "-076.691190"
+    },
+    {
+        "county": "ANNE ARUNDEL",
+        "city": "FRIENDSHIP",
+        "zipcode": 20758,
+        "latitude": "+38.736079",
+        "longitude": "-076.583547"
+    },
+    {
+        "county": "ANNE ARUNDEL",
+        "city": "GALESVILLE",
+        "zipcode": 20765,
+        "latitude": "+38.974512",
+        "longitude": "-076.545083"
+    },
+    {
+        "county": "ANNE ARUNDEL",
+        "city": "GAMBRILLS",
+        "zipcode": 21054,
+        "latitude": "+39.048359",
+        "longitude": "-076.631238"
+    },
+    {
+        "county": "ANNE ARUNDEL",
+        "city": "GIBSON ISLAND",
+        "zipcode": 21056,
+        "latitude": "+39.086064",
+        "longitude": "-076.545474"
+    },
+    {
+        "county": "ANNE ARUNDEL",
+        "city": "GLEN BURNIE",
+        "zipcode": 21060,
+        "latitude": "+39.170158",
+        "longitude": "-076.579836"
+    },
+    {
+        "county": "ANNE ARUNDEL",
+        "city": "GLEN BURNIE",
+        "zipcode": 21061,
+        "latitude": "+38.967943",
+        "longitude": "-076.615637"
+    },
+    {
+        "county": "ANNE ARUNDEL",
+        "city": "GLEN BURNIE",
+        "zipcode": 21062,
+        "latitude": "+38.974203",
+        "longitude": "-076.594942"
+    },
+    {
+        "county": "ANNE ARUNDEL",
+        "city": "HANOVER",
+        "zipcode": 21076,
+        "latitude": "+39.057694",
+        "longitude": "-076.615557"
+    },
+    {
+        "county": "ANNE ARUNDEL",
+        "city": "HANOVER",
+        "zipcode": 21098,
+        "latitude": "+38.974203",
+        "longitude": "-076.594942"
+    },
+    {
+        "county": "ANNE ARUNDEL",
+        "city": "HARMANS",
+        "zipcode": 21077,
+        "latitude": "+38.947102",
+        "longitude": "-076.629277"
+    },
+    {
+        "county": "ANNE ARUNDEL",
+        "city": "HARWOOD",
+        "zipcode": 20776,
+        "latitude": "+38.962992",
+        "longitude": "-076.564785"
+    },
+    {
+        "county": "ANNE ARUNDEL",
+        "city": "LAUREL",
+        "zipcode": 20724,
+        "latitude": "+39.098008",
+        "longitude": "-076.804443"
+    },
+    {
+        "county": "ANNE ARUNDEL",
+        "city": "LINTHICUM HEIGHTS",
+        "zipcode": 21090,
+        "latitude": "+39.068309",
+        "longitude": "-076.631743"
+    },
+    {
+        "county": "ANNE ARUNDEL",
+        "city": "LOTHIAN",
+        "zipcode": 20711,
+        "latitude": "+38.802263",
+        "longitude": "-076.645735"
+    },
+    {
+        "county": "ANNE ARUNDEL",
+        "city": "MAYO",
+        "zipcode": 21106,
+        "latitude": "+38.971475",
+        "longitude": "-076.580934"
+    },
+    {
+        "county": "ANNE ARUNDEL",
+        "city": "MILLERSVILLE",
+        "zipcode": 21108,
+        "latitude": "+38.986961",
+        "longitude": "-076.582479"
+    },
+    {
+        "county": "ANNE ARUNDEL",
+        "city": "ODENTON",
+        "zipcode": 21113,
+        "latitude": "+38.975412",
+        "longitude": "-076.586886"
+    },
+    {
+        "county": "ANNE ARUNDEL",
+        "city": "PASADENA",
+        "zipcode": 21122,
+        "latitude": "+38.976813",
+        "longitude": "-076.616185"
+    },
+    {
+        "county": "ANNE ARUNDEL",
+        "city": "PASADENA",
+        "zipcode": 21123,
+        "latitude": "+38.974203",
+        "longitude": "-076.594942"
+    },
+    {
+        "county": "ANNE ARUNDEL",
+        "city": "RIVA",
+        "zipcode": 21140,
+        "latitude": "+39.031943",
+        "longitude": "-076.625199"
+    },
+    {
+        "county": "ANNE ARUNDEL",
+        "city": "SEVERN",
+        "zipcode": 21144,
+        "latitude": "+38.983971",
+        "longitude": "-076.623121"
+    },
+    {
+        "county": "ANNE ARUNDEL",
+        "city": "SEVERNA PARK",
+        "zipcode": 21146,
+        "latitude": "+38.951199",
+        "longitude": "-076.603722"
+    },
+    {
+        "county": "ANNE ARUNDEL",
+        "city": "SHADY SIDE",
+        "zipcode": 20764,
+        "latitude": "+38.965727",
+        "longitude": "-076.589086"
+    },
+    {
+        "county": "ANNE ARUNDEL",
+        "city": "TRACYS LANDING",
+        "zipcode": 20779,
+        "latitude": "+38.942878",
+        "longitude": "-076.558783"
+    },
+    {
+        "county": "ANNE ARUNDEL",
+        "city": "WEST RIVER",
+        "zipcode": 20778,
+        "latitude": "+39.002411",
+        "longitude": "-076.563885"
+    },
+    {
+        "county": "BALTIMORE",
+        "city": "BALDWIN",
+        "zipcode": 21013,
+        "latitude": "+39.496406",
+        "longitude": "-076.486624"
+    },
+    {
+        "county": "BALTIMORE",
+        "city": "BALTIMORE",
+        "zipcode": 21250,
+        "latitude": "+39.258226",
+        "longitude": "-076.713149"
+    },
+    {
+        "county": "BALTIMORE",
+        "city": "BALTIMORE",
+        "zipcode": 21251,
+        "latitude": "+39.438964",
+        "longitude": "-076.592139"
+    },
+    {
+        "county": "BALTIMORE",
+        "city": "BALTIMORE",
+        "zipcode": 21252,
+        "latitude": "+39.388799",
+        "longitude": "-076.613325"
+    },
+    {
+        "county": "BALTIMORE",
+        "city": "BALTIMORE",
+        "zipcode": 21282,
+        "latitude": "+39.438964",
+        "longitude": "-076.592139"
+    },
+    {
+        "county": "BALTIMORE",
+        "city": "BALTIMORE",
+        "zipcode": 21284,
+        "latitude": "+39.438964",
+        "longitude": "-076.592139"
+    },
+    {
+        "county": "BALTIMORE",
+        "city": "BALTIMORE",
+        "zipcode": 21285,
+        "latitude": "+39.438964",
+        "longitude": "-076.592139"
+    },
+    {
+        "county": "BALTIMORE",
+        "city": "BORING",
+        "zipcode": 21020,
+        "latitude": "+39.521276",
+        "longitude": "-076.804699"
+    },
+    {
+        "county": "BALTIMORE",
+        "city": "BROOKLANDVILLE",
+        "zipcode": 21022,
+        "latitude": "+39.397861",
+        "longitude": "-076.671742"
+    },
+    {
+        "county": "BALTIMORE",
+        "city": "BUTLER",
+        "zipcode": 21023,
+        "latitude": "+39.532955",
+        "longitude": "-076.743196"
+    },
+    {
+        "county": "BALTIMORE",
+        "city": "CATONSVILLE",
+        "zipcode": 21228,
+        "latitude": "+39.274156",
+        "longitude": "-076.631074"
+    },
+    {
+        "county": "BALTIMORE",
+        "city": "CHASE",
+        "zipcode": 21027,
+        "latitude": "+39.438964",
+        "longitude": "-076.592139"
+    },
+    {
+        "county": "BALTIMORE",
+        "city": "COCKEYSVILLE",
+        "zipcode": 21030,
+        "latitude": "+39.491227",
+        "longitude": "-076.664077"
+    },
+    {
+        "county": "BALTIMORE",
+        "city": "DUNDALK",
+        "zipcode": 21222,
+        "latitude": "+39.325991",
+        "longitude": "-076.451733"
+    },
+    {
+        "county": "BALTIMORE",
+        "city": "ESSEX",
+        "zipcode": 21221,
+        "latitude": "+39.296007",
+        "longitude": "-076.559787"
+    },
+    {
+        "county": "BALTIMORE",
+        "city": "FORK",
+        "zipcode": 21051,
+        "latitude": "+39.473140",
+        "longitude": "-076.448385"
+    },
+    {
+        "county": "BALTIMORE",
+        "city": "FORT HOWARD",
+        "zipcode": 21052,
+        "latitude": "+39.206998",
+        "longitude": "-076.445599"
+    },
+    {
+        "county": "BALTIMORE",
+        "city": "FREELAND",
+        "zipcode": 21053,
+        "latitude": "+39.687103",
+        "longitude": "-076.717644"
+    },
+    {
+        "county": "BALTIMORE",
+        "city": "GARRISON",
+        "zipcode": 21055,
+        "latitude": "+39.438964",
+        "longitude": "-076.592139"
+    },
+    {
+        "county": "BALTIMORE",
+        "city": "GLEN ARM",
+        "zipcode": 21057,
+        "latitude": "+39.451006",
+        "longitude": "-076.501186"
+    },
+    {
+        "county": "BALTIMORE",
+        "city": "GLYNDON",
+        "zipcode": 21071,
+        "latitude": "+39.515748",
+        "longitude": "-076.766097"
+    },
+    {
+        "county": "BALTIMORE",
+        "city": "GWYNN OAK",
+        "zipcode": 21207,
+        "latitude": "+39.325605",
+        "longitude": "-076.736594"
+    },
+    {
+        "county": "BALTIMORE",
+        "city": "HALETHORPE",
+        "zipcode": 21227,
+        "latitude": "+39.241606",
+        "longitude": "-076.677291"
+    },
+    {
+        "county": "BALTIMORE",
+        "city": "HUNT VALLEY",
+        "zipcode": 21031,
+        "latitude": "+39.480493",
+        "longitude": "-076.655257"
+    },
+    {
+        "county": "BALTIMORE",
+        "city": "HYDES",
+        "zipcode": 21082,
+        "latitude": "+39.481685",
+        "longitude": "-076.471736"
+    },
+    {
+        "county": "BALTIMORE",
+        "city": "KINGSVILLE",
+        "zipcode": 21087,
+        "latitude": "+39.445257",
+        "longitude": "-076.421783"
+    },
+    {
+        "county": "BALTIMORE",
+        "city": "LONG GREEN",
+        "zipcode": 21092,
+        "latitude": "+39.438964",
+        "longitude": "-076.592139"
+    },
+    {
+        "county": "BALTIMORE",
+        "city": "LUTHERVILLE TIMONIUM",
+        "zipcode": 21093,
+        "latitude": "+39.433206",
+        "longitude": "-076.654593"
+    },
+    {
+        "county": "BALTIMORE",
+        "city": "LUTHERVILLE TIMONIUM",
+        "zipcode": 21094,
+        "latitude": "+39.438964",
+        "longitude": "-076.592139"
+    },
+    {
+        "county": "BALTIMORE",
+        "city": "MARYLAND LINE",
+        "zipcode": 21105,
+        "latitude": "+39.711379",
+        "longitude": "-076.659492"
+    },
+    {
+        "county": "BALTIMORE",
+        "city": "MIDDLE RIVER",
+        "zipcode": 21220,
+        "latitude": "+39.344057",
+        "longitude": "-076.505086"
+    },
+    {
+        "county": "BALTIMORE",
+        "city": "MONKTON",
+        "zipcode": 21111,
+        "latitude": "+39.566189",
+        "longitude": "-076.597891"
+    },
+    {
+        "county": "BALTIMORE",
+        "city": "NOTTINGHAM",
+        "zipcode": 21236,
+        "latitude": "+39.392107",
+        "longitude": "-076.489277"
+    },
+    {
+        "county": "BALTIMORE",
+        "city": "OWINGS MILLS",
+        "zipcode": 21117,
+        "latitude": "+39.429055",
+        "longitude": "-076.787696"
+    },
+    {
+        "county": "BALTIMORE",
+        "city": "PARKTON",
+        "zipcode": 21120,
+        "latitude": "+39.642203",
+        "longitude": "-076.673693"
+    },
+    {
+        "county": "BALTIMORE",
+        "city": "PARKVILLE",
+        "zipcode": 21234,
+        "latitude": "+39.413106",
+        "longitude": "-076.530044"
+    },
+    {
+        "county": "BALTIMORE",
+        "city": "PERRY HALL",
+        "zipcode": 21128,
+        "latitude": "+39.404757",
+        "longitude": "-076.450084"
+    },
+    {
+        "county": "BALTIMORE",
+        "city": "PHOENIX",
+        "zipcode": 21131,
+        "latitude": "+39.483255",
+        "longitude": "-076.577619"
+    },
+    {
+        "county": "BALTIMORE",
+        "city": "PIKESVILLE",
+        "zipcode": 21208,
+        "latitude": "+39.385156",
+        "longitude": "-076.727036"
+    },
+    {
+        "county": "BALTIMORE",
+        "city": "RANDALLSTOWN",
+        "zipcode": 21133,
+        "latitude": "+39.377872",
+        "longitude": "-076.816675"
+    },
+    {
+        "county": "BALTIMORE",
+        "city": "REISTERSTOWN",
+        "zipcode": 21136,
+        "latitude": "+39.487615",
+        "longitude": "-076.796347"
+    },
+    {
+        "county": "BALTIMORE",
+        "city": "RIDERWOOD",
+        "zipcode": 21139,
+        "latitude": "+39.438964",
+        "longitude": "-076.592139"
+    },
+    {
+        "county": "BALTIMORE",
+        "city": "ROSEDALE",
+        "zipcode": 21237,
+        "latitude": "+39.339957",
+        "longitude": "-076.488035"
+    },
+    {
+        "county": "BALTIMORE",
+        "city": "SPARKS GLENCOE",
+        "zipcode": 21152,
+        "latitude": "+39.526441",
+        "longitude": "-076.715587"
+    },
+    {
+        "county": "BALTIMORE",
+        "city": "SPARROWS POINT",
+        "zipcode": 21219,
+        "latitude": "+39.229611",
+        "longitude": "-076.445532"
+    },
+    {
+        "county": "BALTIMORE",
+        "city": "STEVENSON",
+        "zipcode": 21153,
+        "latitude": "+39.412905",
+        "longitude": "-076.730345"
+    },
+    {
+        "county": "BALTIMORE",
+        "city": "TOWSON",
+        "zipcode": 21204,
+        "latitude": "+39.407156",
+        "longitude": "-076.603790"
+    },
+    {
+        "county": "BALTIMORE",
+        "city": "TOWSON",
+        "zipcode": 21286,
+        "latitude": "+39.414306",
+        "longitude": "-076.576089"
+    },
+    {
+        "county": "BALTIMORE",
+        "city": "UPPER FALLS",
+        "zipcode": 21156,
+        "latitude": "+39.461038",
+        "longitude": "-076.583163"
+    },
+    {
+        "county": "BALTIMORE",
+        "city": "UPPERCO",
+        "zipcode": 21155,
+        "latitude": "+39.567574",
+        "longitude": "-076.797213"
+    },
+    {
+        "county": "BALTIMORE",
+        "city": "WHITE MARSH",
+        "zipcode": 21162,
+        "latitude": "+39.389457",
+        "longitude": "-076.411976"
+    },
+    {
+        "county": "BALTIMORE",
+        "city": "WINDSOR MILL",
+        "zipcode": 21244,
+        "latitude": "+39.333105",
+        "longitude": "-076.784896"
+    },
+    {
+        "county": "BALTIMORE",
+        "city": "WOODSTOCK",
+        "zipcode": 21163,
+        "latitude": "+39.349834",
+        "longitude": "-076.845587"
+    },
+    {
+        "county": "BALTIMORE CITY",
+        "city": "BALTIMORE",
+        "zipcode": 21201,
+        "latitude": "+39.296536",
+        "longitude": "-076.623489"
+    },
+    {
+        "county": "BALTIMORE CITY",
+        "city": "BALTIMORE",
+        "zipcode": 21202,
+        "latitude": "+39.295907",
+        "longitude": "-076.608438"
+    },
+    {
+        "county": "BALTIMORE CITY",
+        "city": "BALTIMORE",
+        "zipcode": 21203,
+        "latitude": "+39.284707",
+        "longitude": "-076.620489"
+    },
+    {
+        "county": "BALTIMORE CITY",
+        "city": "BALTIMORE",
+        "zipcode": 21205,
+        "latitude": "+39.302757",
+        "longitude": "-076.567987"
+    },
+    {
+        "county": "BALTIMORE CITY",
+        "city": "BALTIMORE",
+        "zipcode": 21206,
+        "latitude": "+39.336857",
+        "longitude": "-076.553237"
+    },
+    {
+        "county": "BALTIMORE CITY",
+        "city": "BALTIMORE",
+        "zipcode": 21209,
+        "latitude": "+39.354256",
+        "longitude": "-076.667892"
+    },
+    {
+        "county": "BALTIMORE CITY",
+        "city": "BALTIMORE",
+        "zipcode": 21210,
+        "latitude": "+39.352356",
+        "longitude": "-076.633290"
+    },
+    {
+        "county": "BALTIMORE CITY",
+        "city": "BALTIMORE",
+        "zipcode": 21211,
+        "latitude": "+39.327889",
+        "longitude": "-076.638990"
+    },
+    {
+        "county": "BALTIMORE CITY",
+        "city": "BALTIMORE",
+        "zipcode": 21212,
+        "latitude": "+39.356206",
+        "longitude": "-076.610989"
+    },
+    {
+        "county": "BALTIMORE CITY",
+        "city": "BALTIMORE",
+        "zipcode": 21213,
+        "latitude": "+39.306606",
+        "longitude": "-076.603338"
+    },
+    {
+        "county": "BALTIMORE CITY",
+        "city": "BALTIMORE",
+        "zipcode": 21214,
+        "latitude": "+39.350006",
+        "longitude": "-076.562187"
+    },
+    {
+        "county": "BALTIMORE CITY",
+        "city": "BALTIMORE",
+        "zipcode": 21215,
+        "latitude": "+39.343306",
+        "longitude": "-076.681192"
+    },
+    {
+        "county": "BALTIMORE CITY",
+        "city": "BALTIMORE",
+        "zipcode": 21216,
+        "latitude": "+39.310756",
+        "longitude": "-076.674792"
+    },
+    {
+        "county": "BALTIMORE CITY",
+        "city": "BALTIMORE",
+        "zipcode": 21217,
+        "latitude": "+39.308606",
+        "longitude": "-076.637490"
+    },
+    {
+        "county": "BALTIMORE CITY",
+        "city": "BALTIMORE",
+        "zipcode": 21218,
+        "latitude": "+39.328456",
+        "longitude": "-076.599139"
+    },
+    {
+        "county": "BALTIMORE CITY",
+        "city": "BALTIMORE",
+        "zipcode": 21223,
+        "latitude": "+39.279506",
+        "longitude": "-076.650140"
+    },
+    {
+        "county": "BALTIMORE CITY",
+        "city": "BALTIMORE",
+        "zipcode": 21224,
+        "latitude": "+39.279207",
+        "longitude": "-076.557237"
+    },
+    {
+        "county": "BALTIMORE CITY",
+        "city": "BALTIMORE",
+        "zipcode": 21229,
+        "latitude": "+39.286613",
+        "longitude": "-076.652840"
+    },
+    {
+        "county": "BALTIMORE CITY",
+        "city": "BALTIMORE",
+        "zipcode": 21230,
+        "latitude": "+39.264548",
+        "longitude": "-076.622439"
+    },
+    {
+        "county": "BALTIMORE CITY",
+        "city": "BALTIMORE",
+        "zipcode": 21231,
+        "latitude": "+39.288757",
+        "longitude": "-076.592238"
+    },
+    {
+        "county": "BALTIMORE CITY",
+        "city": "BALTIMORE",
+        "zipcode": 21233,
+        "latitude": "+39.284707",
+        "longitude": "-076.620489"
+    },
+    {
+        "county": "BALTIMORE CITY",
+        "city": "BALTIMORE",
+        "zipcode": 21235,
+        "latitude": "+39.284707",
+        "longitude": "-076.620489"
+    },
+    {
+        "county": "BALTIMORE CITY",
+        "city": "BALTIMORE",
+        "zipcode": 21239,
+        "latitude": "+39.356356",
+        "longitude": "-076.587588"
+    },
+    {
+        "county": "BALTIMORE CITY",
+        "city": "BALTIMORE",
+        "zipcode": 21241,
+        "latitude": "+39.284707",
+        "longitude": "-076.620489"
+    },
+    {
+        "county": "BALTIMORE CITY",
+        "city": "BALTIMORE",
+        "zipcode": 21263,
+        "latitude": "+39.284707",
+        "longitude": "-076.620489"
+    },
+    {
+        "county": "BALTIMORE CITY",
+        "city": "BALTIMORE",
+        "zipcode": 21264,
+        "latitude": "+39.284707",
+        "longitude": "-076.620489"
+    },
+    {
+        "county": "BALTIMORE CITY",
+        "city": "BALTIMORE",
+        "zipcode": 21265,
+        "latitude": "+39.284707",
+        "longitude": "-076.620489"
+    },
+    {
+        "county": "BALTIMORE CITY",
+        "city": "BALTIMORE",
+        "zipcode": 21268,
+        "latitude": "+39.284707",
+        "longitude": "-076.620489"
+    },
+    {
+        "county": "BALTIMORE CITY",
+        "city": "BALTIMORE",
+        "zipcode": 21270,
+        "latitude": "+39.284707",
+        "longitude": "-076.620489"
+    },
+    {
+        "county": "BALTIMORE CITY",
+        "city": "BALTIMORE",
+        "zipcode": 21273,
+        "latitude": "+39.284707",
+        "longitude": "-076.620489"
+    },
+    {
+        "county": "BALTIMORE CITY",
+        "city": "BALTIMORE",
+        "zipcode": 21274,
+        "latitude": "+39.284707",
+        "longitude": "-076.620489"
+    },
+    {
+        "county": "BALTIMORE CITY",
+        "city": "BALTIMORE",
+        "zipcode": 21275,
+        "latitude": "+39.284707",
+        "longitude": "-076.620489"
+    },
+    {
+        "county": "BALTIMORE CITY",
+        "city": "BALTIMORE",
+        "zipcode": 21278,
+        "latitude": "+39.284707",
+        "longitude": "-076.620489"
+    },
+    {
+        "county": "BALTIMORE CITY",
+        "city": "BALTIMORE",
+        "zipcode": 21279,
+        "latitude": "+39.284707",
+        "longitude": "-076.620489"
+    },
+    {
+        "county": "BALTIMORE CITY",
+        "city": "BALTIMORE",
+        "zipcode": 21280,
+        "latitude": "+39.284707",
+        "longitude": "-076.620489"
+    },
+    {
+        "county": "BALTIMORE CITY",
+        "city": "BALTIMORE",
+        "zipcode": 21281,
+        "latitude": "+39.284707",
+        "longitude": "-076.620489"
+    },
+    {
+        "county": "BALTIMORE CITY",
+        "city": "BALTIMORE",
+        "zipcode": 21283,
+        "latitude": "+39.284707",
+        "longitude": "-076.620489"
+    },
+    {
+        "county": "BALTIMORE CITY",
+        "city": "BALTIMORE",
+        "zipcode": 21287,
+        "latitude": "+39.297457",
+        "longitude": "-076.592738"
+    },
+    {
+        "county": "BALTIMORE CITY",
+        "city": "BALTIMORE",
+        "zipcode": 21288,
+        "latitude": "+39.284707",
+        "longitude": "-076.620489"
+    },
+    {
+        "county": "BALTIMORE CITY",
+        "city": "BALTIMORE",
+        "zipcode": 21289,
+        "latitude": "+39.284707",
+        "longitude": "-076.620489"
+    },
+    {
+        "county": "BALTIMORE CITY",
+        "city": "BALTIMORE",
+        "zipcode": 21290,
+        "latitude": "+39.293256",
+        "longitude": "-076.623839"
+    },
+    {
+        "county": "BALTIMORE CITY",
+        "city": "BALTIMORE",
+        "zipcode": 21297,
+        "latitude": "+39.284707",
+        "longitude": "-076.620489"
+    },
+    {
+        "county": "BALTIMORE CITY",
+        "city": "BALTIMORE",
+        "zipcode": 21298,
+        "latitude": "+39.284707",
+        "longitude": "-076.620489"
+    },
+    {
+        "county": "CALVERT",
+        "city": "BARSTOW",
+        "zipcode": 20610,
+        "latitude": "+38.444727",
+        "longitude": "-076.533026"
+    },
+    {
+        "county": "CALVERT",
+        "city": "BROOMES ISLAND",
+        "zipcode": 20615,
+        "latitude": "+38.493984",
+        "longitude": "-076.567469"
+    },
+    {
+        "county": "CALVERT",
+        "city": "CHESAPEAKE BEACH",
+        "zipcode": 20732,
+        "latitude": "+38.565841",
+        "longitude": "-076.526169"
+    },
+    {
+        "county": "CALVERT",
+        "city": "DOWELL",
+        "zipcode": 20629,
+        "latitude": "+38.376974",
+        "longitude": "-076.434476"
+    },
+    {
+        "county": "CALVERT",
+        "city": "DUNKIRK",
+        "zipcode": 20754,
+        "latitude": "+38.604072",
+        "longitude": "-076.604364"
+    },
+    {
+        "county": "CALVERT",
+        "city": "HUNTINGTOWN",
+        "zipcode": 20639,
+        "latitude": "+38.519368",
+        "longitude": "-076.546326"
+    },
+    {
+        "county": "CALVERT",
+        "city": "LUSBY",
+        "zipcode": 20657,
+        "latitude": "+38.493430",
+        "longitude": "-076.459768"
+    },
+    {
+        "county": "CALVERT",
+        "city": "NORTH BEACH",
+        "zipcode": 20714,
+        "latitude": "+38.610496",
+        "longitude": "-076.595901"
+    },
+    {
+        "county": "CALVERT",
+        "city": "OWINGS",
+        "zipcode": 20736,
+        "latitude": "+38.548775",
+        "longitude": "-076.562876"
+    },
+    {
+        "county": "CALVERT",
+        "city": "PORT REPUBLIC",
+        "zipcode": 20676,
+        "latitude": "+38.560231",
+        "longitude": "-076.531761"
+    },
+    {
+        "county": "CALVERT",
+        "city": "PRINCE FREDERICK",
+        "zipcode": 20678,
+        "latitude": "+38.511282",
+        "longitude": "-076.528578"
+    },
+    {
+        "county": "CALVERT",
+        "city": "SAINT LEONARD",
+        "zipcode": 20685,
+        "latitude": "+38.440484",
+        "longitude": "-076.517360"
+    },
+    {
+        "county": "CALVERT",
+        "city": "SOLOMONS",
+        "zipcode": 20688,
+        "latitude": "+38.377410",
+        "longitude": "-076.440937"
+    },
+    {
+        "county": "CALVERT",
+        "city": "SUNDERLAND",
+        "zipcode": 20689,
+        "latitude": "+38.556448",
+        "longitude": "-076.541436"
+    },
+    {
+        "county": "CAROLINE",
+        "city": "BETHLEHEM",
+        "zipcode": 21609,
+        "latitude": "+38.740562",
+        "longitude": "-075.958683"
+    },
+    {
+        "county": "CAROLINE",
+        "city": "DENTON",
+        "zipcode": 21629,
+        "latitude": "+38.859523",
+        "longitude": "-075.835702"
+    },
+    {
+        "county": "CAROLINE",
+        "city": "FEDERALSBURG",
+        "zipcode": 21632,
+        "latitude": "+38.823318",
+        "longitude": "-075.825197"
+    },
+    {
+        "county": "CAROLINE",
+        "city": "GOLDSBORO",
+        "zipcode": 21636,
+        "latitude": "+39.022245",
+        "longitude": "-075.809462"
+    },
+    {
+        "county": "CAROLINE",
+        "city": "GREENSBORO",
+        "zipcode": 21639,
+        "latitude": "+38.968592",
+        "longitude": "-075.790732"
+    },
+    {
+        "county": "CAROLINE",
+        "city": "HENDERSON",
+        "zipcode": 21640,
+        "latitude": "+39.081351",
+        "longitude": "-075.811781"
+    },
+    {
+        "county": "CAROLINE",
+        "city": "HILLSBORO",
+        "zipcode": 21641,
+        "latitude": "+38.920588",
+        "longitude": "-075.938770"
+    },
+    {
+        "county": "CAROLINE",
+        "city": "MARYDEL",
+        "zipcode": 21649,
+        "latitude": "+39.106088",
+        "longitude": "-075.790870"
+    },
+    {
+        "county": "CAROLINE",
+        "city": "PRESTON",
+        "zipcode": 21655,
+        "latitude": "+38.752146",
+        "longitude": "-075.907650"
+    },
+    {
+        "county": "CAROLINE",
+        "city": "RIDGELY",
+        "zipcode": 21660,
+        "latitude": "+38.874255",
+        "longitude": "-075.866707"
+    },
+    {
+        "county": "CAROLINE",
+        "city": "RIDGELY",
+        "zipcode": 21681,
+        "latitude": "+38.889270",
+        "longitude": "-075.861191"
+    },
+    {
+        "county": "CAROLINE",
+        "city": "RIDGELY",
+        "zipcode": 21682,
+        "latitude": "+38.889270",
+        "longitude": "-075.861191"
+    },
+    {
+        "county": "CAROLINE",
+        "city": "RIDGELY",
+        "zipcode": 21683,
+        "latitude": "+38.889270",
+        "longitude": "-075.861191"
+    },
+    {
+        "county": "CAROLINE",
+        "city": "RIDGELY",
+        "zipcode": 21684,
+        "latitude": "+38.889270",
+        "longitude": "-075.861191"
+    },
+    {
+        "county": "CAROLINE",
+        "city": "RIDGELY",
+        "zipcode": 21685,
+        "latitude": "+38.889270",
+        "longitude": "-075.861191"
+    },
+    {
+        "county": "CAROLINE",
+        "city": "RIDGELY",
+        "zipcode": 21686,
+        "latitude": "+38.889270",
+        "longitude": "-075.861191"
+    },
+    {
+        "county": "CAROLINE",
+        "city": "RIDGELY",
+        "zipcode": 21687,
+        "latitude": "+38.889270",
+        "longitude": "-075.861191"
+    },
+    {
+        "county": "CAROLINE",
+        "city": "RIDGELY",
+        "zipcode": 21688,
+        "latitude": "+38.889270",
+        "longitude": "-075.861191"
+    },
+    {
+        "county": "CAROLINE",
+        "city": "TEMPLEVILLE",
+        "zipcode": 21670,
+        "latitude": "+38.889270",
+        "longitude": "-075.861191"
+    },
+    {
+        "county": "CARROLL",
+        "city": "FINKSBURG",
+        "zipcode": 21048,
+        "latitude": "+39.499102",
+        "longitude": "-076.910108"
+    },
+    {
+        "county": "CARROLL",
+        "city": "HAMPSTEAD",
+        "zipcode": 21074,
+        "latitude": "+39.614552",
+        "longitude": "-076.864427"
+    },
+    {
+        "county": "CARROLL",
+        "city": "HENRYTON",
+        "zipcode": 21080,
+        "latitude": "+39.534703",
+        "longitude": "-077.049302"
+    },
+    {
+        "county": "CARROLL",
+        "city": "KEYMAR",
+        "zipcode": 21757,
+        "latitude": "+39.619399",
+        "longitude": "-077.252657"
+    },
+    {
+        "county": "CARROLL",
+        "city": "LINEBORO",
+        "zipcode": 21088,
+        "latitude": "+39.534703",
+        "longitude": "-077.049302"
+    },
+    {
+        "county": "CARROLL",
+        "city": "LINWOOD",
+        "zipcode": 21764,
+        "latitude": "+39.534703",
+        "longitude": "-077.049302"
+    },
+    {
+        "county": "CARROLL",
+        "city": "MANCHESTER",
+        "zipcode": 21102,
+        "latitude": "+39.556164",
+        "longitude": "-076.870849"
+    },
+    {
+        "county": "CARROLL",
+        "city": "MARRIOTTSVILLE",
+        "zipcode": 21104,
+        "latitude": "+39.378104",
+        "longitude": "-076.916267"
+    },
+    {
+        "county": "CARROLL",
+        "city": "NEW WINDSOR",
+        "zipcode": 21776,
+        "latitude": "+39.521886",
+        "longitude": "-077.093303"
+    },
+    {
+        "county": "CARROLL",
+        "city": "SYKESVILLE",
+        "zipcode": 21784,
+        "latitude": "+39.456720",
+        "longitude": "-076.969601"
+    },
+    {
+        "county": "CARROLL",
+        "city": "TANEYTOWN",
+        "zipcode": 21787,
+        "latitude": "+39.657449",
+        "longitude": "-077.169055"
+    },
+    {
+        "county": "CARROLL",
+        "city": "UNION BRIDGE",
+        "zipcode": 21791,
+        "latitude": "+39.579850",
+        "longitude": "-077.131896"
+    },
+    {
+        "county": "CARROLL",
+        "city": "WESTMINSTER",
+        "zipcode": 21157,
+        "latitude": "+39.564201",
+        "longitude": "-076.980701"
+    },
+    {
+        "county": "CARROLL",
+        "city": "WESTMINSTER",
+        "zipcode": 21158,
+        "latitude": "+39.606981",
+        "longitude": "-077.029403"
+    },
+    {
+        "county": "CARROLL",
+        "city": "WOODBINE",
+        "zipcode": 21797,
+        "latitude": "+39.402352",
+        "longitude": "-077.081821"
+    },
+    {
+        "county": "CECIL",
+        "city": "CECILTON",
+        "zipcode": 21913,
+        "latitude": "+39.410355",
+        "longitude": "-075.863287"
+    },
+    {
+        "county": "CECIL",
+        "city": "CHARLESTOWN",
+        "zipcode": 21914,
+        "latitude": "+39.574387",
+        "longitude": "-075.978564"
+    },
+    {
+        "county": "CECIL",
+        "city": "CHESAPEAKE CITY",
+        "zipcode": 21915,
+        "latitude": "+39.469098",
+        "longitude": "-075.849327"
+    },
+    {
+        "county": "CECIL",
+        "city": "CHILDS",
+        "zipcode": 21916,
+        "latitude": "+39.541512",
+        "longitude": "-075.999972"
+    },
+    {
+        "county": "CECIL",
+        "city": "COLORA",
+        "zipcode": 21917,
+        "latitude": "+39.537261",
+        "longitude": "-076.003452"
+    },
+    {
+        "county": "CECIL",
+        "city": "CONOWINGO",
+        "zipcode": 21918,
+        "latitude": "+39.543894",
+        "longitude": "-076.049157"
+    },
+    {
+        "county": "CECIL",
+        "city": "EARLEVILLE",
+        "zipcode": 21919,
+        "latitude": "+39.470309",
+        "longitude": "-075.927952"
+    },
+    {
+        "county": "CECIL",
+        "city": "ELK MILLS",
+        "zipcode": 21920,
+        "latitude": "+39.658031",
+        "longitude": "-075.828196"
+    },
+    {
+        "county": "CECIL",
+        "city": "ELKTON",
+        "zipcode": 21921,
+        "latitude": "+39.561860",
+        "longitude": "-075.875740"
+    },
+    {
+        "county": "CECIL",
+        "city": "ELKTON",
+        "zipcode": 21922,
+        "latitude": "+39.593612",
+        "longitude": "-075.947332"
+    },
+    {
+        "county": "CECIL",
+        "city": "GEORGETOWN",
+        "zipcode": 21930,
+        "latitude": "+39.366183",
+        "longitude": "-075.884544"
+    },
+    {
+        "county": "CECIL",
+        "city": "NORTH EAST",
+        "zipcode": 21901,
+        "latitude": "+39.535078",
+        "longitude": "-075.894051"
+    },
+    {
+        "county": "CECIL",
+        "city": "PERRY POINT",
+        "zipcode": 21902,
+        "latitude": "+39.552962",
+        "longitude": "-076.072471"
+    },
+    {
+        "county": "CECIL",
+        "city": "PERRYVILLE",
+        "zipcode": 21903,
+        "latitude": "+39.571449",
+        "longitude": "-076.033281"
+    },
+    {
+        "county": "CECIL",
+        "city": "PORT DEPOSIT",
+        "zipcode": 21904,
+        "latitude": "+39.615086",
+        "longitude": "-076.063342"
+    },
+    {
+        "county": "CECIL",
+        "city": "RISING SUN",
+        "zipcode": 21911,
+        "latitude": "+39.671572",
+        "longitude": "-076.056651"
+    },
+    {
+        "county": "CECIL",
+        "city": "WARWICK",
+        "zipcode": 21912,
+        "latitude": "+39.533058",
+        "longitude": "-075.915203"
+    },
+    {
+        "county": "CHARLES",
+        "city": "BEL ALTON",
+        "zipcode": 20611,
+        "latitude": "+38.454919",
+        "longitude": "-076.980364"
+    },
+    {
+        "county": "CHARLES",
+        "city": "BENEDICT",
+        "zipcode": 20612,
+        "latitude": "+38.508689",
+        "longitude": "-076.687344"
+    },
+    {
+        "county": "CHARLES",
+        "city": "BRYANS ROAD",
+        "zipcode": 20616,
+        "latitude": "+38.636227",
+        "longitude": "-077.084649"
+    },
+    {
+        "county": "CHARLES",
+        "city": "BRYANTOWN",
+        "zipcode": 20617,
+        "latitude": "+38.536256",
+        "longitude": "-076.853752"
+    },
+    {
+        "county": "CHARLES",
+        "city": "COBB ISLAND",
+        "zipcode": 20625,
+        "latitude": "+38.262037",
+        "longitude": "-076.850190"
+    },
+    {
+        "county": "CHARLES",
+        "city": "FAULKNER",
+        "zipcode": 20632,
+        "latitude": "+38.421762",
+        "longitude": "-076.948718"
+    },
+    {
+        "county": "CHARLES",
+        "city": "HUGHESVILLE",
+        "zipcode": 20637,
+        "latitude": "+38.520572",
+        "longitude": "-076.781313"
+    },
+    {
+        "county": "CHARLES",
+        "city": "INDIAN HEAD",
+        "zipcode": 20640,
+        "latitude": "+38.453999",
+        "longitude": "-077.052819"
+    },
+    {
+        "county": "CHARLES",
+        "city": "IRONSIDES",
+        "zipcode": 20643,
+        "latitude": "+38.503876",
+        "longitude": "-077.148283"
+    },
+    {
+        "county": "CHARLES",
+        "city": "ISSUE",
+        "zipcode": 20645,
+        "latitude": "+38.298477",
+        "longitude": "-076.884910"
+    },
+    {
+        "county": "CHARLES",
+        "city": "LA PLATA",
+        "zipcode": 20646,
+        "latitude": "+38.513875",
+        "longitude": "-077.010340"
+    },
+    {
+        "county": "CHARLES",
+        "city": "MARBURY",
+        "zipcode": 20658,
+        "latitude": "+38.563331",
+        "longitude": "-077.159621"
+    },
+    {
+        "county": "CHARLES",
+        "city": "MOUNT VICTORIA",
+        "zipcode": 20661,
+        "latitude": "+38.343591",
+        "longitude": "-076.884559"
+    },
+    {
+        "county": "CHARLES",
+        "city": "NANJEMOY",
+        "zipcode": 20662,
+        "latitude": "+38.430568",
+        "longitude": "-077.192545"
+    },
+    {
+        "county": "CHARLES",
+        "city": "NEWBURG",
+        "zipcode": 20664,
+        "latitude": "+38.364718",
+        "longitude": "-076.917398"
+    },
+    {
+        "county": "CHARLES",
+        "city": "POMFRET",
+        "zipcode": 20675,
+        "latitude": "+38.576096",
+        "longitude": "-077.015916"
+    },
+    {
+        "county": "CHARLES",
+        "city": "PORT TOBACCO",
+        "zipcode": 20677,
+        "latitude": "+38.504699",
+        "longitude": "-077.037862"
+    },
+    {
+        "county": "CHARLES",
+        "city": "ROCK POINT",
+        "zipcode": 20682,
+        "latitude": "+38.283551",
+        "longitude": "-076.848093"
+    },
+    {
+        "county": "CHARLES",
+        "city": "WALDORF",
+        "zipcode": 20601,
+        "latitude": "+38.603783",
+        "longitude": "-076.867928"
+    },
+    {
+        "county": "CHARLES",
+        "city": "WALDORF",
+        "zipcode": 20602,
+        "latitude": "+38.518559",
+        "longitude": "-076.912165"
+    },
+    {
+        "county": "CHARLES",
+        "city": "WALDORF",
+        "zipcode": 20603,
+        "latitude": "+38.521150",
+        "longitude": "-077.062012"
+    },
+    {
+        "county": "CHARLES",
+        "city": "WALDORF",
+        "zipcode": 20604,
+        "latitude": "+38.509548",
+        "longitude": "-076.981651"
+    },
+    {
+        "county": "CHARLES",
+        "city": "WELCOME",
+        "zipcode": 20693,
+        "latitude": "+38.476246",
+        "longitude": "-077.084009"
+    },
+    {
+        "county": "CHARLES",
+        "city": "WHITE PLAINS",
+        "zipcode": 20695,
+        "latitude": "+38.597440",
+        "longitude": "-076.990278"
+    },
+    {
+        "county": "DORCHESTER",
+        "city": "CAMBRIDGE",
+        "zipcode": 21613,
+        "latitude": "+38.479813",
+        "longitude": "-076.079864"
+    },
+    {
+        "county": "DORCHESTER",
+        "city": "CHURCH CREEK",
+        "zipcode": 21622,
+        "latitude": "+38.415211",
+        "longitude": "-076.191021"
+    },
+    {
+        "county": "DORCHESTER",
+        "city": "CRAPO",
+        "zipcode": 21626,
+        "latitude": "+38.323604",
+        "longitude": "-076.097337"
+    },
+    {
+        "county": "DORCHESTER",
+        "city": "CROCHERON",
+        "zipcode": 21627,
+        "latitude": "+38.242608",
+        "longitude": "-076.053064"
+    },
+    {
+        "county": "DORCHESTER",
+        "city": "EAST NEW MARKET",
+        "zipcode": 21631,
+        "latitude": "+38.579447",
+        "longitude": "-075.939691"
+    },
+    {
+        "county": "DORCHESTER",
+        "city": "FISHING CREEK",
+        "zipcode": 21634,
+        "latitude": "+38.298680",
+        "longitude": "-076.203532"
+    },
+    {
+        "county": "DORCHESTER",
+        "city": "HURLOCK",
+        "zipcode": 21643,
+        "latitude": "+38.643824",
+        "longitude": "-075.863003"
+    },
+    {
+        "county": "DORCHESTER",
+        "city": "LINKWOOD",
+        "zipcode": 21835,
+        "latitude": "+38.532301",
+        "longitude": "-075.949958"
+    },
+    {
+        "county": "DORCHESTER",
+        "city": "MADISON",
+        "zipcode": 21648,
+        "latitude": "+38.478205",
+        "longitude": "-076.241202"
+    },
+    {
+        "county": "DORCHESTER",
+        "city": "RHODESDALE",
+        "zipcode": 21659,
+        "latitude": "+38.561727",
+        "longitude": "-075.804650"
+    },
+    {
+        "county": "DORCHESTER",
+        "city": "SECRETARY",
+        "zipcode": 21664,
+        "latitude": "+38.600971",
+        "longitude": "-075.947375"
+    },
+    {
+        "county": "DORCHESTER",
+        "city": "TAYLORS ISLAND",
+        "zipcode": 21669,
+        "latitude": "+38.453204",
+        "longitude": "-076.264100"
+    },
+    {
+        "county": "DORCHESTER",
+        "city": "TODDVILLE",
+        "zipcode": 21672,
+        "latitude": "+38.274149",
+        "longitude": "-076.072171"
+    },
+    {
+        "county": "DORCHESTER",
+        "city": "VIENNA",
+        "zipcode": 21869,
+        "latitude": "+38.430928",
+        "longitude": "-075.897058"
+    },
+    {
+        "county": "DORCHESTER",
+        "city": "WINGATE",
+        "zipcode": 21675,
+        "latitude": "+38.307394",
+        "longitude": "-076.106344"
+    },
+    {
+        "county": "DORCHESTER",
+        "city": "WOOLFORD",
+        "zipcode": 21677,
+        "latitude": "+38.499650",
+        "longitude": "-076.202456"
+    },
+    {
+        "county": "FREDERICK",
+        "city": "ADAMSTOWN",
+        "zipcode": 21710,
+        "latitude": "+39.291049",
+        "longitude": "-077.455243"
+    },
+    {
+        "county": "FREDERICK",
+        "city": "BRADDOCK HEIGHTS",
+        "zipcode": 21714,
+        "latitude": "+39.420300",
+        "longitude": "-077.505098"
+    },
+    {
+        "county": "FREDERICK",
+        "city": "BRUNSWICK",
+        "zipcode": 21716,
+        "latitude": "+39.317945",
+        "longitude": "-077.624701"
+    },
+    {
+        "county": "FREDERICK",
+        "city": "BUCKEYSTOWN",
+        "zipcode": 21717,
+        "latitude": "+39.330887",
+        "longitude": "-077.427405"
+    },
+    {
+        "county": "FREDERICK",
+        "city": "BURKITTSVILLE",
+        "zipcode": 21718,
+        "latitude": "+39.400868",
+        "longitude": "-077.627954"
+    },
+    {
+        "county": "FREDERICK",
+        "city": "EMMITSBURG",
+        "zipcode": 21727,
+        "latitude": "+39.675397",
+        "longitude": "-077.336732"
+    },
+    {
+        "county": "FREDERICK",
+        "city": "FREDERICK",
+        "zipcode": 21701,
+        "latitude": "+39.512748",
+        "longitude": "-077.369299"
+    },
+    {
+        "county": "FREDERICK",
+        "city": "FREDERICK",
+        "zipcode": 21702,
+        "latitude": "+39.492596",
+        "longitude": "-077.461211"
+    },
+    {
+        "county": "FREDERICK",
+        "city": "FREDERICK",
+        "zipcode": 21703,
+        "latitude": "+39.364713",
+        "longitude": "-077.463561"
+    },
+    {
+        "county": "FREDERICK",
+        "city": "FREDERICK",
+        "zipcode": 21704,
+        "latitude": "+39.345477",
+        "longitude": "-077.383229"
+    },
+    {
+        "county": "FREDERICK",
+        "city": "FREDERICK",
+        "zipcode": 21705,
+        "latitude": "+39.469961",
+        "longitude": "-077.392139"
+    },
+    {
+        "county": "FREDERICK",
+        "city": "FREDERICK",
+        "zipcode": 21709,
+        "latitude": "+39.469961",
+        "longitude": "-077.392139"
+    },
+    {
+        "county": "FREDERICK",
+        "city": "IJAMSVILLE",
+        "zipcode": 21754,
+        "latitude": "+39.339477",
+        "longitude": "-077.310622"
+    },
+    {
+        "county": "FREDERICK",
+        "city": "JEFFERSON",
+        "zipcode": 21755,
+        "latitude": "+39.353688",
+        "longitude": "-077.567142"
+    },
+    {
+        "county": "FREDERICK",
+        "city": "KNOXVILLE",
+        "zipcode": 21758,
+        "latitude": "+39.349240",
+        "longitude": "-077.620514"
+    },
+    {
+        "county": "FREDERICK",
+        "city": "LADIESBURG",
+        "zipcode": 21759,
+        "latitude": "+39.569426",
+        "longitude": "-077.290519"
+    },
+    {
+        "county": "FREDERICK",
+        "city": "LIBERTYTOWN",
+        "zipcode": 21762,
+        "latitude": "+39.482208",
+        "longitude": "-077.246761"
+    },
+    {
+        "county": "FREDERICK",
+        "city": "MIDDLETOWN",
+        "zipcode": 21769,
+        "latitude": "+39.535030",
+        "longitude": "-077.485034"
+    },
+    {
+        "county": "FREDERICK",
+        "city": "MONROVIA",
+        "zipcode": 21770,
+        "latitude": "+39.351552",
+        "longitude": "-077.265818"
+    },
+    {
+        "county": "FREDERICK",
+        "city": "MOUNT AIRY",
+        "zipcode": 21771,
+        "latitude": "+39.407252",
+        "longitude": "-077.214087"
+    },
+    {
+        "county": "FREDERICK",
+        "city": "MYERSVILLE",
+        "zipcode": 21773,
+        "latitude": "+39.550036",
+        "longitude": "-077.556275"
+    },
+    {
+        "county": "FREDERICK",
+        "city": "NEW MARKET",
+        "zipcode": 21774,
+        "latitude": "+39.432571",
+        "longitude": "-077.220932"
+    },
+    {
+        "county": "FREDERICK",
+        "city": "NEW MIDWAY",
+        "zipcode": 21775,
+        "latitude": "+39.564472",
+        "longitude": "-077.294680"
+    },
+    {
+        "county": "FREDERICK",
+        "city": "POINT OF ROCKS",
+        "zipcode": 21777,
+        "latitude": "+39.277770",
+        "longitude": "-077.532068"
+    },
+    {
+        "county": "FREDERICK",
+        "city": "ROCKY RIDGE",
+        "zipcode": 21778,
+        "latitude": "+39.618999",
+        "longitude": "-077.335442"
+    },
+    {
+        "county": "FREDERICK",
+        "city": "SABILLASVILLE",
+        "zipcode": 21780,
+        "latitude": "+39.667035",
+        "longitude": "-077.481888"
+    },
+    {
+        "county": "FREDERICK",
+        "city": "THURMONT",
+        "zipcode": 21788,
+        "latitude": "+39.610876",
+        "longitude": "-077.398931"
+    },
+    {
+        "county": "FREDERICK",
+        "city": "TUSCARORA",
+        "zipcode": 21790,
+        "latitude": "+39.265086",
+        "longitude": "-077.496646"
+    },
+    {
+        "county": "FREDERICK",
+        "city": "UNIONVILLE",
+        "zipcode": 21792,
+        "latitude": "+39.469961",
+        "longitude": "-077.392139"
+    },
+    {
+        "county": "FREDERICK",
+        "city": "WALKERSVILLE",
+        "zipcode": 21793,
+        "latitude": "+39.491247",
+        "longitude": "-077.343542"
+    },
+    {
+        "county": "FREDERICK",
+        "city": "WOODSBORO",
+        "zipcode": 21798,
+        "latitude": "+39.542724",
+        "longitude": "-077.292314"
+    },
+    {
+        "county": "GARRETT",
+        "city": "ACCIDENT",
+        "zipcode": 21520,
+        "latitude": "+39.589350",
+        "longitude": "-079.230969"
+    },
+    {
+        "county": "GARRETT",
+        "city": "BITTINGER",
+        "zipcode": 21522,
+        "latitude": "+39.601664",
+        "longitude": "-079.233691"
+    },
+    {
+        "county": "GARRETT",
+        "city": "BLOOMINGTON",
+        "zipcode": 21523,
+        "latitude": "+39.486109",
+        "longitude": "-079.082970"
+    },
+    {
+        "county": "GARRETT",
+        "city": "FRIENDSVILLE",
+        "zipcode": 21531,
+        "latitude": "+39.637098",
+        "longitude": "-079.257117"
+    },
+    {
+        "county": "GARRETT",
+        "city": "GRANTSVILLE",
+        "zipcode": 21536,
+        "latitude": "+39.655141",
+        "longitude": "-079.124143"
+    },
+    {
+        "county": "GARRETT",
+        "city": "KITZMILLER",
+        "zipcode": 21538,
+        "latitude": "+39.416917",
+        "longitude": "-079.222202"
+    },
+    {
+        "county": "GARRETT",
+        "city": "MC HENRY",
+        "zipcode": 21541,
+        "latitude": "+39.565589",
+        "longitude": "-079.382332"
+    },
+    {
+        "county": "GARRETT",
+        "city": "OAKLAND",
+        "zipcode": 21550,
+        "latitude": "+39.433920",
+        "longitude": "-079.316683"
+    },
+    {
+        "county": "GARRETT",
+        "city": "SWANTON",
+        "zipcode": 21561,
+        "latitude": "+39.538568",
+        "longitude": "-079.190791"
+    },
+    {
+        "county": "HARFORD",
+        "city": "ABERDEEN",
+        "zipcode": 21001,
+        "latitude": "+39.499909",
+        "longitude": "-076.231177"
+    },
+    {
+        "county": "HARFORD",
+        "city": "ABERDEEN PROVING GROUND",
+        "zipcode": 21005,
+        "latitude": "+39.477062",
+        "longitude": "-076.120824"
+    },
+    {
+        "county": "HARFORD",
+        "city": "ABINGDON",
+        "zipcode": 21009,
+        "latitude": "+39.472579",
+        "longitude": "-076.277279"
+    },
+    {
+        "county": "HARFORD",
+        "city": "BEL AIR",
+        "zipcode": 21014,
+        "latitude": "+39.547557",
+        "longitude": "-076.321984"
+    },
+    {
+        "county": "HARFORD",
+        "city": "BEL AIR",
+        "zipcode": 21015,
+        "latitude": "+39.551757",
+        "longitude": "-076.298713"
+    },
+    {
+        "county": "HARFORD",
+        "city": "BELCAMP",
+        "zipcode": 21017,
+        "latitude": "+39.473660",
+        "longitude": "-076.238835"
+    },
+    {
+        "county": "HARFORD",
+        "city": "BENSON",
+        "zipcode": 21018,
+        "latitude": "+39.509276",
+        "longitude": "-076.385083"
+    },
+    {
+        "county": "HARFORD",
+        "city": "CHURCHVILLE",
+        "zipcode": 21028,
+        "latitude": "+39.563172",
+        "longitude": "-076.236427"
+    },
+    {
+        "county": "HARFORD",
+        "city": "DARLINGTON",
+        "zipcode": 21034,
+        "latitude": "+39.646205",
+        "longitude": "-076.226377"
+    },
+    {
+        "county": "HARFORD",
+        "city": "EDGEWOOD",
+        "zipcode": 21040,
+        "latitude": "+39.434799",
+        "longitude": "-076.293579"
+    },
+    {
+        "county": "HARFORD",
+        "city": "FALLSTON",
+        "zipcode": 21047,
+        "latitude": "+39.531206",
+        "longitude": "-076.439035"
+    },
+    {
+        "county": "HARFORD",
+        "city": "FOREST HILL",
+        "zipcode": 21050,
+        "latitude": "+39.587155",
+        "longitude": "-076.392733"
+    },
+    {
+        "county": "HARFORD",
+        "city": "GUNPOWDER",
+        "zipcode": 21010,
+        "latitude": "+39.380158",
+        "longitude": "-076.295468"
+    },
+    {
+        "county": "HARFORD",
+        "city": "HAVRE DE GRACE",
+        "zipcode": 21078,
+        "latitude": "+39.560095",
+        "longitude": "-076.155170"
+    },
+    {
+        "county": "HARFORD",
+        "city": "JARRETTSVILLE",
+        "zipcode": 21084,
+        "latitude": "+39.552706",
+        "longitude": "-076.419734"
+    },
+    {
+        "county": "HARFORD",
+        "city": "JOPPA",
+        "zipcode": 21085,
+        "latitude": "+39.449157",
+        "longitude": "-076.351881"
+    },
+    {
+        "county": "HARFORD",
+        "city": "PERRYMAN",
+        "zipcode": 21130,
+        "latitude": "+39.471559",
+        "longitude": "-076.211676"
+    },
+    {
+        "county": "HARFORD",
+        "city": "PYLESVILLE",
+        "zipcode": 21132,
+        "latitude": "+39.692854",
+        "longitude": "-076.421834"
+    },
+    {
+        "county": "HARFORD",
+        "city": "STREET",
+        "zipcode": 21154,
+        "latitude": "+39.657355",
+        "longitude": "-076.371332"
+    },
+    {
+        "county": "HARFORD",
+        "city": "WHITE HALL",
+        "zipcode": 21161,
+        "latitude": "+39.658104",
+        "longitude": "-076.527937"
+    },
+    {
+        "county": "HARFORD",
+        "city": "WHITEFORD",
+        "zipcode": 21160,
+        "latitude": "+39.703155",
+        "longitude": "-076.330641"
+    },
+    {
+        "county": "HOWARD",
+        "city": "ANNAPOLIS JUNCTION",
+        "zipcode": 20701,
+        "latitude": "+39.133200",
+        "longitude": "-076.798843"
+    },
+    {
+        "county": "HOWARD",
+        "city": "CLARKSVILLE",
+        "zipcode": 21029,
+        "latitude": "+39.212456",
+        "longitude": "-076.951498"
+    },
+    {
+        "county": "HOWARD",
+        "city": "COLUMBIA",
+        "zipcode": 21044,
+        "latitude": "+39.206132",
+        "longitude": "-076.887905"
+    },
+    {
+        "county": "HOWARD",
+        "city": "COLUMBIA",
+        "zipcode": 21045,
+        "latitude": "+39.207806",
+        "longitude": "-076.825475"
+    },
+    {
+        "county": "HOWARD",
+        "city": "COLUMBIA",
+        "zipcode": 21046,
+        "latitude": "+39.175406",
+        "longitude": "-076.834945"
+    },
+    {
+        "county": "HOWARD",
+        "city": "COOKSVILLE",
+        "zipcode": 21723,
+        "latitude": "+39.328104",
+        "longitude": "-077.014200"
+    },
+    {
+        "county": "HOWARD",
+        "city": "DAYTON",
+        "zipcode": 21036,
+        "latitude": "+39.240155",
+        "longitude": "-077.003750"
+    },
+    {
+        "county": "HOWARD",
+        "city": "ELKRIDGE",
+        "zipcode": 21075,
+        "latitude": "+39.205756",
+        "longitude": "-076.753093"
+    },
+    {
+        "county": "HOWARD",
+        "city": "ELLICOTT CITY",
+        "zipcode": 21041,
+        "latitude": "+39.236405",
+        "longitude": "-076.941902"
+    },
+    {
+        "county": "HOWARD",
+        "city": "ELLICOTT CITY",
+        "zipcode": 21042,
+        "latitude": "+39.261897",
+        "longitude": "-076.897247"
+    },
+    {
+        "county": "HOWARD",
+        "city": "ELLICOTT CITY",
+        "zipcode": 21043,
+        "latitude": "+39.254833",
+        "longitude": "-076.800124"
+    },
+    {
+        "county": "HOWARD",
+        "city": "FULTON",
+        "zipcode": 20759,
+        "latitude": "+39.160806",
+        "longitude": "-076.927881"
+    },
+    {
+        "county": "HOWARD",
+        "city": "GLENELG",
+        "zipcode": 21737,
+        "latitude": "+39.259656",
+        "longitude": "-077.012699"
+    },
+    {
+        "county": "HOWARD",
+        "city": "GLENWOOD",
+        "zipcode": 21738,
+        "latitude": "+39.281504",
+        "longitude": "-077.025362"
+    },
+    {
+        "county": "HOWARD",
+        "city": "HIGHLAND",
+        "zipcode": 20777,
+        "latitude": "+39.173059",
+        "longitude": "-076.966718"
+    },
+    {
+        "county": "HOWARD",
+        "city": "JESSUP",
+        "zipcode": 20794,
+        "latitude": "+39.155266",
+        "longitude": "-076.813394"
+    },
+    {
+        "county": "HOWARD",
+        "city": "LAUREL",
+        "zipcode": 20723,
+        "latitude": "+39.136520",
+        "longitude": "-076.868729"
+    },
+    {
+        "county": "HOWARD",
+        "city": "LISBON",
+        "zipcode": 21765,
+        "latitude": "+39.337804",
+        "longitude": "-077.071952"
+    },
+    {
+        "county": "HOWARD",
+        "city": "SAVAGE",
+        "zipcode": 20763,
+        "latitude": "+39.136189",
+        "longitude": "-076.815044"
+    },
+    {
+        "county": "HOWARD",
+        "city": "SIMPSONVILLE",
+        "zipcode": 21150,
+        "latitude": "+39.236405",
+        "longitude": "-076.941902"
+    },
+    {
+        "county": "HOWARD",
+        "city": "WEST FRIENDSHIP",
+        "zipcode": 21794,
+        "latitude": "+39.296204",
+        "longitude": "-076.981150"
+    },
+    {
+        "county": "KENT",
+        "city": "BETTERTON",
+        "zipcode": 21610,
+        "latitude": "+39.366812",
+        "longitude": "-076.067079"
+    },
+    {
+        "county": "KENT",
+        "city": "CHESTERTOWN",
+        "zipcode": 21620,
+        "latitude": "+39.235988",
+        "longitude": "-076.059316"
+    },
+    {
+        "county": "KENT",
+        "city": "GALENA",
+        "zipcode": 21635,
+        "latitude": "+39.320381",
+        "longitude": "-075.836031"
+    },
+    {
+        "county": "KENT",
+        "city": "KENNEDYVILLE",
+        "zipcode": 21645,
+        "latitude": "+39.313679",
+        "longitude": "-075.961520"
+    },
+    {
+        "county": "KENT",
+        "city": "MASSEY",
+        "zipcode": 21650,
+        "latitude": "+39.308228",
+        "longitude": "-075.812769"
+    },
+    {
+        "county": "KENT",
+        "city": "MILLINGTON",
+        "zipcode": 21651,
+        "latitude": "+39.274314",
+        "longitude": "-075.895115"
+    },
+    {
+        "county": "KENT",
+        "city": "ROCK HALL",
+        "zipcode": 21661,
+        "latitude": "+39.117823",
+        "longitude": "-076.223193"
+    },
+    {
+        "county": "KENT",
+        "city": "STILL POND",
+        "zipcode": 21667,
+        "latitude": "+39.339906",
+        "longitude": "-076.047396"
+    },
+    {
+        "county": "KENT",
+        "city": "WORTON",
+        "zipcode": 21678,
+        "latitude": "+39.308842",
+        "longitude": "-076.081650"
+    },
+    {
+        "county": "MONTGOMERY",
+        "city": "ASHTON",
+        "zipcode": 20861,
+        "latitude": "+39.151468",
+        "longitude": "-076.994498"
+    },
+    {
+        "county": "MONTGOMERY",
+        "city": "BARNESVILLE",
+        "zipcode": 20838,
+        "latitude": "+39.228424",
+        "longitude": "-077.370970"
+    },
+    {
+        "county": "MONTGOMERY",
+        "city": "BEALLSVILLE",
+        "zipcode": 20839,
+        "latitude": "+39.178770",
+        "longitude": "-077.419605"
+    },
+    {
+        "county": "MONTGOMERY",
+        "city": "BETHESDA",
+        "zipcode": 20813,
+        "latitude": "+39.143979",
+        "longitude": "-077.207617"
+    },
+    {
+        "county": "MONTGOMERY",
+        "city": "BETHESDA",
+        "zipcode": 20814,
+        "latitude": "+39.004520",
+        "longitude": "-077.104600"
+    },
+    {
+        "county": "MONTGOMERY",
+        "city": "BETHESDA",
+        "zipcode": 20816,
+        "latitude": "+38.955907",
+        "longitude": "-077.116500"
+    },
+    {
+        "county": "MONTGOMERY",
+        "city": "BETHESDA",
+        "zipcode": 20817,
+        "latitude": "+38.989586",
+        "longitude": "-077.153801"
+    },
+    {
+        "county": "MONTGOMERY",
+        "city": "BETHESDA",
+        "zipcode": 20824,
+        "latitude": "+39.143979",
+        "longitude": "-077.207617"
+    },
+    {
+        "county": "MONTGOMERY",
+        "city": "BETHESDA",
+        "zipcode": 20827,
+        "latitude": "+39.143979",
+        "longitude": "-077.207617"
+    },
+    {
+        "county": "MONTGOMERY",
+        "city": "BETHESDA",
+        "zipcode": 20889,
+        "latitude": "+39.143979",
+        "longitude": "-077.207617"
+    },
+    {
+        "county": "MONTGOMERY",
+        "city": "BETHESDA",
+        "zipcode": 20892,
+        "latitude": "+39.002375",
+        "longitude": "-077.103410"
+    },
+    {
+        "county": "MONTGOMERY",
+        "city": "BETHESDA",
+        "zipcode": 20894,
+        "latitude": "+39.143979",
+        "longitude": "-077.207617"
+    },
+    {
+        "county": "MONTGOMERY",
+        "city": "BOYDS",
+        "zipcode": 20841,
+        "latitude": "+39.184675",
+        "longitude": "-077.328764"
+    },
+    {
+        "county": "MONTGOMERY",
+        "city": "BRINKLOW",
+        "zipcode": 20862,
+        "latitude": "+39.175506",
+        "longitude": "-077.020626"
+    },
+    {
+        "county": "MONTGOMERY",
+        "city": "BROOKEVILLE",
+        "zipcode": 20833,
+        "latitude": "+39.204341",
+        "longitude": "-077.050550"
+    },
+    {
+        "county": "MONTGOMERY",
+        "city": "BURTONSVILLE",
+        "zipcode": 20866,
+        "latitude": "+39.105644",
+        "longitude": "-076.935861"
+    },
+    {
+        "county": "MONTGOMERY",
+        "city": "CABIN JOHN",
+        "zipcode": 20818,
+        "latitude": "+39.128407",
+        "longitude": "-077.180053"
+    },
+    {
+        "county": "MONTGOMERY",
+        "city": "CHEVY CHASE",
+        "zipcode": 20815,
+        "latitude": "+38.983759",
+        "longitude": "-077.079449"
+    },
+    {
+        "county": "MONTGOMERY",
+        "city": "CHEVY CHASE",
+        "zipcode": 20825,
+        "latitude": "+39.143979",
+        "longitude": "-077.207617"
+    },
+    {
+        "county": "MONTGOMERY",
+        "city": "CLARKSBURG",
+        "zipcode": 20871,
+        "latitude": "+39.207775",
+        "longitude": "-077.259816"
+    },
+    {
+        "county": "MONTGOMERY",
+        "city": "DAMASCUS",
+        "zipcode": 20872,
+        "latitude": "+39.285477",
+        "longitude": "-077.215203"
+    },
+    {
+        "county": "MONTGOMERY",
+        "city": "DERWOOD",
+        "zipcode": 20855,
+        "latitude": "+39.142857",
+        "longitude": "-077.138145"
+    },
+    {
+        "county": "MONTGOMERY",
+        "city": "DICKERSON",
+        "zipcode": 20842,
+        "latitude": "+39.191093",
+        "longitude": "-077.421929"
+    },
+    {
+        "county": "MONTGOMERY",
+        "city": "GAITHERSBURG",
+        "zipcode": 20877,
+        "latitude": "+39.139336",
+        "longitude": "-077.182953"
+    },
+    {
+        "county": "MONTGOMERY",
+        "city": "GAITHERSBURG",
+        "zipcode": 20878,
+        "latitude": "+39.091857",
+        "longitude": "-077.198452"
+    },
+    {
+        "county": "MONTGOMERY",
+        "city": "GAITHERSBURG",
+        "zipcode": 20879,
+        "latitude": "+39.173000",
+        "longitude": "-077.185542"
+    },
+    {
+        "county": "MONTGOMERY",
+        "city": "GAITHERSBURG",
+        "zipcode": 20882,
+        "latitude": "+39.233512",
+        "longitude": "-077.145781"
+    },
+    {
+        "county": "MONTGOMERY",
+        "city": "GAITHERSBURG",
+        "zipcode": 20883,
+        "latitude": "",
+        "longitude": ""
+    },
+    {
+        "county": "MONTGOMERY",
+        "city": "GAITHERSBURG",
+        "zipcode": 20884,
+        "latitude": "+39.143979",
+        "longitude": "-077.207617"
+    },
+    {
+        "county": "MONTGOMERY",
+        "city": "GAITHERSBURG",
+        "zipcode": 20885,
+        "latitude": "+39.187421",
+        "longitude": "-077.202798"
+    },
+    {
+        "county": "MONTGOMERY",
+        "city": "GAITHERSBURG",
+        "zipcode": 20898,
+        "latitude": "+39.143979",
+        "longitude": "-077.207617"
+    },
+    {
+        "county": "MONTGOMERY",
+        "city": "GAITHERSBURG",
+        "zipcode": 20899,
+        "latitude": "+39.140324",
+        "longitude": "-077.221984"
+    },
+    {
+        "county": "MONTGOMERY",
+        "city": "GARRETT PARK",
+        "zipcode": 20896,
+        "latitude": "+39.036496",
+        "longitude": "-077.093100"
+    },
+    {
+        "county": "MONTGOMERY",
+        "city": "GERMANTOWN",
+        "zipcode": 20874,
+        "latitude": "+39.135512",
+        "longitude": "-077.282223"
+    },
+    {
+        "county": "MONTGOMERY",
+        "city": "GERMANTOWN",
+        "zipcode": 20875,
+        "latitude": "+39.143979",
+        "longitude": "-077.207617"
+    },
+    {
+        "county": "MONTGOMERY",
+        "city": "GERMANTOWN",
+        "zipcode": 20876,
+        "latitude": "+39.210218",
+        "longitude": "-077.239729"
+    },
+    {
+        "county": "MONTGOMERY",
+        "city": "GLEN ECHO",
+        "zipcode": 20812,
+        "latitude": "+38.968510",
+        "longitude": "-077.140801"
+    },
+    {
+        "county": "MONTGOMERY",
+        "city": "KENSINGTON",
+        "zipcode": 20891,
+        "latitude": "+39.143979",
+        "longitude": "-077.207617"
+    },
+    {
+        "county": "MONTGOMERY",
+        "city": "KENSINGTON",
+        "zipcode": 20895,
+        "latitude": "+39.095380",
+        "longitude": "-077.111555"
+    },
+    {
+        "county": "MONTGOMERY",
+        "city": "MONTGOMERY VILLAGE",
+        "zipcode": 20886,
+        "latitude": "+39.175703",
+        "longitude": "-077.187250"
+    },
+    {
+        "county": "MONTGOMERY",
+        "city": "OLNEY",
+        "zipcode": 20830,
+        "latitude": "+39.155220",
+        "longitude": "-077.066745"
+    },
+    {
+        "county": "MONTGOMERY",
+        "city": "OLNEY",
+        "zipcode": 20832,
+        "latitude": "+39.150364",
+        "longitude": "-077.077651"
+    },
+    {
+        "county": "MONTGOMERY",
+        "city": "POOLESVILLE",
+        "zipcode": 20837,
+        "latitude": "+39.123705",
+        "longitude": "-077.403211"
+    },
+    {
+        "county": "MONTGOMERY",
+        "city": "POTOMAC",
+        "zipcode": 20854,
+        "latitude": "+39.029839",
+        "longitude": "-077.234792"
+    },
+    {
+        "county": "MONTGOMERY",
+        "city": "POTOMAC",
+        "zipcode": 20859,
+        "latitude": "+39.143979",
+        "longitude": "-077.207617"
+    },
+    {
+        "county": "MONTGOMERY",
+        "city": "ROCKVILLE",
+        "zipcode": 20847,
+        "latitude": "+39.143979",
+        "longitude": "-077.207617"
+    },
+    {
+        "county": "MONTGOMERY",
+        "city": "ROCKVILLE",
+        "zipcode": 20848,
+        "latitude": "+39.143979",
+        "longitude": "-077.207617"
+    },
+    {
+        "county": "MONTGOMERY",
+        "city": "ROCKVILLE",
+        "zipcode": 20849,
+        "latitude": "+39.143979",
+        "longitude": "-077.207617"
+    },
+    {
+        "county": "MONTGOMERY",
+        "city": "ROCKVILLE",
+        "zipcode": 20850,
+        "latitude": "+39.089557",
+        "longitude": "-077.184127"
+    },
+    {
+        "county": "MONTGOMERY",
+        "city": "ROCKVILLE",
+        "zipcode": 20851,
+        "latitude": "+39.077858",
+        "longitude": "-077.125751"
+    },
+    {
+        "county": "MONTGOMERY",
+        "city": "ROCKVILLE",
+        "zipcode": 20852,
+        "latitude": "+39.052158",
+        "longitude": "-077.121096"
+    },
+    {
+        "county": "MONTGOMERY",
+        "city": "ROCKVILLE",
+        "zipcode": 20853,
+        "latitude": "+39.107357",
+        "longitude": "-077.099600"
+    },
+    {
+        "county": "MONTGOMERY",
+        "city": "ROCKVILLE",
+        "zipcode": 20857,
+        "latitude": "+39.143979",
+        "longitude": "-077.207617"
+    },
+    {
+        "county": "MONTGOMERY",
+        "city": "SANDY SPRING",
+        "zipcode": 20860,
+        "latitude": "+39.142424",
+        "longitude": "-077.044614"
+    },
+    {
+        "county": "MONTGOMERY",
+        "city": "SILVER SPRING",
+        "zipcode": 20901,
+        "latitude": "+39.036289",
+        "longitude": "-077.010948"
+    },
+    {
+        "county": "MONTGOMERY",
+        "city": "SILVER SPRING",
+        "zipcode": 20902,
+        "latitude": "+39.039974",
+        "longitude": "-077.044449"
+    },
+    {
+        "county": "MONTGOMERY",
+        "city": "SILVER SPRING",
+        "zipcode": 20903,
+        "latitude": "+39.015209",
+        "longitude": "-076.980597"
+    },
+    {
+        "county": "MONTGOMERY",
+        "city": "SILVER SPRING",
+        "zipcode": 20904,
+        "latitude": "+39.066844",
+        "longitude": "-076.996866"
+    },
+    {
+        "county": "MONTGOMERY",
+        "city": "SILVER SPRING",
+        "zipcode": 20905,
+        "latitude": "+39.114753",
+        "longitude": "-077.005870"
+    },
+    {
+        "county": "MONTGOMERY",
+        "city": "SILVER SPRING",
+        "zipcode": 20906,
+        "latitude": "+39.083978",
+        "longitude": "-077.061278"
+    },
+    {
+        "county": "MONTGOMERY",
+        "city": "SILVER SPRING",
+        "zipcode": 20907,
+        "latitude": "+39.143979",
+        "longitude": "-077.207617"
+    },
+    {
+        "county": "MONTGOMERY",
+        "city": "SILVER SPRING",
+        "zipcode": 20908,
+        "latitude": "+39.143979",
+        "longitude": "-077.207617"
+    },
+    {
+        "county": "MONTGOMERY",
+        "city": "SILVER SPRING",
+        "zipcode": 20910,
+        "latitude": "+39.003109",
+        "longitude": "-077.029648"
+    },
+    {
+        "county": "MONTGOMERY",
+        "city": "SILVER SPRING",
+        "zipcode": 20911,
+        "latitude": "+39.143979",
+        "longitude": "-077.207617"
+    },
+    {
+        "county": "MONTGOMERY",
+        "city": "SILVER SPRING",
+        "zipcode": 20914,
+        "latitude": "+39.143979",
+        "longitude": "-077.207617"
+    },
+    {
+        "county": "MONTGOMERY",
+        "city": "SILVER SPRING",
+        "zipcode": 20915,
+        "latitude": "+39.143979",
+        "longitude": "-077.207617"
+    },
+    {
+        "county": "MONTGOMERY",
+        "city": "SILVER SPRING",
+        "zipcode": 20916,
+        "latitude": "+39.143979",
+        "longitude": "-077.207617"
+    },
+    {
+        "county": "MONTGOMERY",
+        "city": "SILVER SPRING",
+        "zipcode": 20918,
+        "latitude": "+39.143979",
+        "longitude": "-077.207617"
+    },
+    {
+        "county": "MONTGOMERY",
+        "city": "SILVER SPRING",
+        "zipcode": 20997,
+        "latitude": "+39.143979",
+        "longitude": "-077.207617"
+    },
+    {
+        "county": "MONTGOMERY",
+        "city": "SPENCERVILLE",
+        "zipcode": 20868,
+        "latitude": "+39.122262",
+        "longitude": "-076.972157"
+    },
+    {
+        "county": "MONTGOMERY",
+        "city": "SUBURB MARYLAND FAC",
+        "zipcode": 20897,
+        "latitude": "+39.143979",
+        "longitude": "-077.207617"
+    },
+    {
+        "county": "MONTGOMERY",
+        "city": "TAKOMA PARK",
+        "zipcode": 20912,
+        "latitude": "+38.982360",
+        "longitude": "-077.005798"
+    },
+    {
+        "county": "MONTGOMERY",
+        "city": "TAKOMA PARK",
+        "zipcode": 20913,
+        "latitude": "+38.833563",
+        "longitude": "-076.877743"
+    },
+    {
+        "county": "MONTGOMERY",
+        "city": "WASHINGTON GROVE",
+        "zipcode": 20880,
+        "latitude": "+39.138815",
+        "longitude": "-077.172591"
+    },
+    {
+        "county": "PRINCE GEORGES",
+        "city": "ACCOKEEK",
+        "zipcode": 20607,
+        "latitude": "+38.666071",
+        "longitude": "-076.998396"
+    },
+    {
+        "county": "PRINCE GEORGES",
+        "city": "ANDREWS AIR FORCE BASE",
+        "zipcode": 20762,
+        "latitude": "+38.806207",
+        "longitude": "-076.875551"
+    },
+    {
+        "county": "PRINCE GEORGES",
+        "city": "AQUASCO",
+        "zipcode": 20608,
+        "latitude": "+38.588843",
+        "longitude": "-076.712639"
+    },
+    {
+        "county": "PRINCE GEORGES",
+        "city": "BELTSVILLE",
+        "zipcode": 20704,
+        "latitude": "+38.833563",
+        "longitude": "-076.877743"
+    },
+    {
+        "county": "PRINCE GEORGES",
+        "city": "BELTSVILLE",
+        "zipcode": 20705,
+        "latitude": "+39.044858",
+        "longitude": "-076.886795"
+    },
+    {
+        "county": "PRINCE GEORGES",
+        "city": "BLADENSBURG",
+        "zipcode": 20710,
+        "latitude": "+38.901211",
+        "longitude": "-076.925943"
+    },
+    {
+        "county": "PRINCE GEORGES",
+        "city": "BOWIE",
+        "zipcode": 20715,
+        "latitude": "+38.982612",
+        "longitude": "-076.743790"
+    },
+    {
+        "county": "PRINCE GEORGES",
+        "city": "BOWIE",
+        "zipcode": 20716,
+        "latitude": "+38.926311",
+        "longitude": "-076.709789"
+    },
+    {
+        "county": "PRINCE GEORGES",
+        "city": "BOWIE",
+        "zipcode": 20717,
+        "latitude": "+38.833563",
+        "longitude": "-076.877743"
+    },
+    {
+        "county": "PRINCE GEORGES",
+        "city": "BOWIE",
+        "zipcode": 20718,
+        "latitude": "+38.833563",
+        "longitude": "-076.877743"
+    },
+    {
+        "county": "PRINCE GEORGES",
+        "city": "BOWIE",
+        "zipcode": 20719,
+        "latitude": "+38.833563",
+        "longitude": "-076.877743"
+    },
+    {
+        "county": "PRINCE GEORGES",
+        "city": "BOWIE",
+        "zipcode": 20720,
+        "latitude": "+38.988510",
+        "longitude": "-076.790980"
+    },
+    {
+        "county": "PRINCE GEORGES",
+        "city": "BOWIE",
+        "zipcode": 20721,
+        "latitude": "+38.919357",
+        "longitude": "-076.787141"
+    },
+    {
+        "county": "PRINCE GEORGES",
+        "city": "BRANDYWINE",
+        "zipcode": 20613,
+        "latitude": "+38.658807",
+        "longitude": "-076.824293"
+    },
+    {
+        "county": "PRINCE GEORGES",
+        "city": "BRENTWOOD",
+        "zipcode": 20722,
+        "latitude": "+38.886849",
+        "longitude": "-076.865764"
+    },
+    {
+        "county": "PRINCE GEORGES",
+        "city": "CAPITOL HEIGHTS",
+        "zipcode": 20731,
+        "latitude": "+38.833563",
+        "longitude": "-076.877743"
+    },
+    {
+        "county": "PRINCE GEORGES",
+        "city": "CAPITOL HEIGHTS",
+        "zipcode": 20743,
+        "latitude": "+38.889711",
+        "longitude": "-076.892544"
+    },
+    {
+        "county": "PRINCE GEORGES",
+        "city": "CAPITOL HEIGHTS",
+        "zipcode": 20790,
+        "latitude": "+38.833563",
+        "longitude": "-076.877743"
+    },
+    {
+        "county": "PRINCE GEORGES",
+        "city": "CAPITOL HEIGHTS",
+        "zipcode": 20791,
+        "latitude": "+38.833563",
+        "longitude": "-076.877743"
+    },
+    {
+        "county": "PRINCE GEORGES",
+        "city": "CAPITOL HEIGHTS",
+        "zipcode": 20799,
+        "latitude": "+38.833563",
+        "longitude": "-076.877743"
+    },
+    {
+        "county": "PRINCE GEORGES",
+        "city": "CHELTENHAM",
+        "zipcode": 20623,
+        "latitude": "+38.745514",
+        "longitude": "-076.840572"
+    },
+    {
+        "county": "PRINCE GEORGES",
+        "city": "CLINTON",
+        "zipcode": 20735,
+        "latitude": "+38.739765",
+        "longitude": "-076.912096"
+    },
+    {
+        "county": "PRINCE GEORGES",
+        "city": "COLLEGE PARK",
+        "zipcode": 20740,
+        "latitude": "+38.979495",
+        "longitude": "-076.895852"
+    },
+    {
+        "county": "PRINCE GEORGES",
+        "city": "COLLEGE PARK",
+        "zipcode": 20741,
+        "latitude": "+38.833563",
+        "longitude": "-076.877743"
+    },
+    {
+        "county": "PRINCE GEORGES",
+        "city": "COLLEGE PARK",
+        "zipcode": 20742,
+        "latitude": "+38.833563",
+        "longitude": "-076.877743"
+    },
+    {
+        "county": "PRINCE GEORGES",
+        "city": "DISTRICT HEIGHTS",
+        "zipcode": 20747,
+        "latitude": "+38.851262",
+        "longitude": "-076.885744"
+    },
+    {
+        "county": "PRINCE GEORGES",
+        "city": "DISTRICT HEIGHTS",
+        "zipcode": 20753,
+        "latitude": "+38.833563",
+        "longitude": "-076.877743"
+    },
+    {
+        "county": "PRINCE GEORGES",
+        "city": "FORT WASHINGTON",
+        "zipcode": 20744,
+        "latitude": "+38.757114",
+        "longitude": "-076.977596"
+    },
+    {
+        "county": "PRINCE GEORGES",
+        "city": "FORT WASHINGTON",
+        "zipcode": 20749,
+        "latitude": "+38.833563",
+        "longitude": "-076.877743"
+    },
+    {
+        "county": "PRINCE GEORGES",
+        "city": "GLENN DALE",
+        "zipcode": 20769,
+        "latitude": "+38.983460",
+        "longitude": "-076.811392"
+    },
+    {
+        "county": "PRINCE GEORGES",
+        "city": "GREENBELT",
+        "zipcode": 20768,
+        "latitude": "+38.833563",
+        "longitude": "-076.877743"
+    },
+    {
+        "county": "PRINCE GEORGES",
+        "city": "GREENBELT",
+        "zipcode": 20770,
+        "latitude": "+38.995909",
+        "longitude": "-076.880966"
+    },
+    {
+        "county": "PRINCE GEORGES",
+        "city": "GREENBELT",
+        "zipcode": 20771,
+        "latitude": "+38.833563",
+        "longitude": "-076.877743"
+    },
+    {
+        "county": "PRINCE GEORGES",
+        "city": "HYATTSVILLE",
+        "zipcode": 20781,
+        "latitude": "+38.941610",
+        "longitude": "-076.937446"
+    },
+    {
+        "county": "PRINCE GEORGES",
+        "city": "HYATTSVILLE",
+        "zipcode": 20782,
+        "latitude": "+38.912211",
+        "longitude": "-076.967247"
+    },
+    {
+        "county": "PRINCE GEORGES",
+        "city": "HYATTSVILLE",
+        "zipcode": 20783,
+        "latitude": "+39.000509",
+        "longitude": "-076.972297"
+    },
+    {
+        "county": "PRINCE GEORGES",
+        "city": "HYATTSVILLE",
+        "zipcode": 20784,
+        "latitude": "+38.951310",
+        "longitude": "-076.895795"
+    },
+    {
+        "county": "PRINCE GEORGES",
+        "city": "HYATTSVILLE",
+        "zipcode": 20785,
+        "latitude": "+38.922261",
+        "longitude": "-076.875494"
+    },
+    {
+        "county": "PRINCE GEORGES",
+        "city": "HYATTSVILLE",
+        "zipcode": 20787,
+        "latitude": "+38.987070",
+        "longitude": "-076.982405"
+    },
+    {
+        "county": "PRINCE GEORGES",
+        "city": "HYATTSVILLE",
+        "zipcode": 20788,
+        "latitude": "+38.969434",
+        "longitude": "-076.950913"
+    },
+    {
+        "county": "PRINCE GEORGES",
+        "city": "LANHAM",
+        "zipcode": 20703,
+        "latitude": "+38.833563",
+        "longitude": "-076.877743"
+    },
+    {
+        "county": "PRINCE GEORGES",
+        "city": "LANHAM",
+        "zipcode": 20706,
+        "latitude": "+38.960760",
+        "longitude": "-076.856135"
+    },
+    {
+        "county": "PRINCE GEORGES",
+        "city": "LAUREL",
+        "zipcode": 20707,
+        "latitude": "+39.093136",
+        "longitude": "-076.881945"
+    },
+    {
+        "county": "PRINCE GEORGES",
+        "city": "LAUREL",
+        "zipcode": 20708,
+        "latitude": "+39.049859",
+        "longitude": "-076.834493"
+    },
+    {
+        "county": "PRINCE GEORGES",
+        "city": "LAUREL",
+        "zipcode": 20709,
+        "latitude": "+38.833563",
+        "longitude": "-076.877743"
+    },
+    {
+        "county": "PRINCE GEORGES",
+        "city": "LAUREL",
+        "zipcode": 20725,
+        "latitude": "+38.833563",
+        "longitude": "-076.877743"
+    },
+    {
+        "county": "PRINCE GEORGES",
+        "city": "LAUREL",
+        "zipcode": 20726,
+        "latitude": "+38.833563",
+        "longitude": "-076.877743"
+    },
+    {
+        "county": "PRINCE GEORGES",
+        "city": "MOUNT RAINIER",
+        "zipcode": 20712,
+        "latitude": "+38.942660",
+        "longitude": "-076.967057"
+    },
+    {
+        "county": "PRINCE GEORGES",
+        "city": "OXON HILL",
+        "zipcode": 20745,
+        "latitude": "+38.814362",
+        "longitude": "-076.957746"
+    },
+    {
+        "county": "PRINCE GEORGES",
+        "city": "OXON HILL",
+        "zipcode": 20750,
+        "latitude": "+38.833563",
+        "longitude": "-076.877743"
+    },
+    {
+        "county": "PRINCE GEORGES",
+        "city": "RIVERDALE",
+        "zipcode": 20737,
+        "latitude": "+38.963206",
+        "longitude": "-076.917795"
+    },
+    {
+        "county": "PRINCE GEORGES",
+        "city": "RIVERDALE",
+        "zipcode": 20738,
+        "latitude": "+38.833563",
+        "longitude": "-076.877743"
+    },
+    {
+        "county": "PRINCE GEORGES",
+        "city": "SOUTHERN MD FACILITY",
+        "zipcode": 20697,
+        "latitude": "+38.833563",
+        "longitude": "-076.877743"
+    },
+    {
+        "county": "PRINCE GEORGES",
+        "city": "SOUTHERN MD FACILITY",
+        "zipcode": 20797,
+        "latitude": "+38.833563",
+        "longitude": "-076.877743"
+    },
+    {
+        "county": "PRINCE GEORGES",
+        "city": "SUITLAND",
+        "zipcode": 20746,
+        "latitude": "+38.834912",
+        "longitude": "-076.912745"
+    },
+    {
+        "county": "PRINCE GEORGES",
+        "city": "SUITLAND",
+        "zipcode": 20752,
+        "latitude": "+38.833563",
+        "longitude": "-076.877743"
+    },
+    {
+        "county": "PRINCE GEORGES",
+        "city": "TEMPLE HILLS",
+        "zipcode": 20748,
+        "latitude": "+38.817263",
+        "longitude": "-076.935795"
+    },
+    {
+        "county": "PRINCE GEORGES",
+        "city": "TEMPLE HILLS",
+        "zipcode": 20757,
+        "latitude": "+38.833563",
+        "longitude": "-076.877743"
+    },
+    {
+        "county": "PRINCE GEORGES",
+        "city": "UPPER MARLBORO",
+        "zipcode": 20772,
+        "latitude": "+38.816171",
+        "longitude": "-076.786093"
+    },
+    {
+        "county": "PRINCE GEORGES",
+        "city": "UPPER MARLBORO",
+        "zipcode": 20773,
+        "latitude": "+38.833563",
+        "longitude": "-076.877743"
+    },
+    {
+        "county": "PRINCE GEORGES",
+        "city": "UPPER MARLBORO",
+        "zipcode": 20774,
+        "latitude": "+38.868212",
+        "longitude": "-076.815591"
+    },
+    {
+        "county": "PRINCE GEORGES",
+        "city": "UPPER MARLBORO",
+        "zipcode": 20775,
+        "latitude": "+38.833563",
+        "longitude": "-076.877743"
+    },
+    {
+        "county": "PRINCE GEORGES",
+        "city": "UPPER MARLBORO",
+        "zipcode": 20792,
+        "latitude": "",
+        "longitude": ""
+    },
+    {
+        "county": "QUEEN ANNES",
+        "city": "BARCLAY",
+        "zipcode": 21607,
+        "latitude": "+39.073391",
+        "longitude": "-076.060665"
+    },
+    {
+        "county": "QUEEN ANNES",
+        "city": "CENTREVILLE",
+        "zipcode": 21617,
+        "latitude": "+39.084003",
+        "longitude": "-076.091375"
+    },
+    {
+        "county": "QUEEN ANNES",
+        "city": "CHESTER",
+        "zipcode": 21619,
+        "latitude": "+38.946034",
+        "longitude": "-076.279172"
+    },
+    {
+        "county": "QUEEN ANNES",
+        "city": "CHESTERTOWN",
+        "zipcode": 21690,
+        "latitude": "+39.034637",
+        "longitude": "-076.092127"
+    },
+    {
+        "county": "QUEEN ANNES",
+        "city": "CHURCH HILL",
+        "zipcode": 21623,
+        "latitude": "+39.130500",
+        "longitude": "-075.961404"
+    },
+    {
+        "county": "QUEEN ANNES",
+        "city": "CRUMPTON",
+        "zipcode": 21628,
+        "latitude": "+39.231771",
+        "longitude": "-075.929797"
+    },
+    {
+        "county": "QUEEN ANNES",
+        "city": "GRASONVILLE",
+        "zipcode": 21638,
+        "latitude": "+39.019049",
+        "longitude": "-076.115897"
+    },
+    {
+        "county": "QUEEN ANNES",
+        "city": "INGLESIDE",
+        "zipcode": 21644,
+        "latitude": "+39.118226",
+        "longitude": "-075.876881"
+    },
+    {
+        "county": "QUEEN ANNES",
+        "city": "PRICE",
+        "zipcode": 21656,
+        "latitude": "+39.034637",
+        "longitude": "-076.092127"
+    },
+    {
+        "county": "QUEEN ANNES",
+        "city": "QUEEN ANNE",
+        "zipcode": 21657,
+        "latitude": "+38.975882",
+        "longitude": "-075.975322"
+    },
+    {
+        "county": "QUEEN ANNES",
+        "city": "QUEENSTOWN",
+        "zipcode": 21658,
+        "latitude": "+39.002550",
+        "longitude": "-076.142374"
+    },
+    {
+        "county": "QUEEN ANNES",
+        "city": "STEVENSVILLE",
+        "zipcode": 21666,
+        "latitude": "+39.012075",
+        "longitude": "-076.115680"
+    },
+    {
+        "county": "QUEEN ANNES",
+        "city": "SUDLERSVILLE",
+        "zipcode": 21668,
+        "latitude": "+39.119123",
+        "longitude": "-076.031257"
+    },
+    {
+        "county": "SAINT MARYS",
+        "city": "ABELL",
+        "zipcode": 20606,
+        "latitude": "+38.247149",
+        "longitude": "-076.748088"
+    },
+    {
+        "county": "SAINT MARYS",
+        "city": "AVENUE",
+        "zipcode": 20609,
+        "latitude": "+38.300217",
+        "longitude": "-076.743445"
+    },
+    {
+        "county": "SAINT MARYS",
+        "city": "BUSHWOOD",
+        "zipcode": 20618,
+        "latitude": "+38.309507",
+        "longitude": "-076.763069"
+    },
+    {
+        "county": "SAINT MARYS",
+        "city": "CALIFORNIA",
+        "zipcode": 20619,
+        "latitude": "+38.324994",
+        "longitude": "-076.637383"
+    },
+    {
+        "county": "SAINT MARYS",
+        "city": "CALLAWAY",
+        "zipcode": 20620,
+        "latitude": "+38.347927",
+        "longitude": "-076.621613"
+    },
+    {
+        "county": "SAINT MARYS",
+        "city": "CHAPTICO",
+        "zipcode": 20621,
+        "latitude": "+38.350987",
+        "longitude": "-076.783288"
+    },
+    {
+        "county": "SAINT MARYS",
+        "city": "CHARLOTTE HALL",
+        "zipcode": 20622,
+        "latitude": "+38.484421",
+        "longitude": "-076.754943"
+    },
+    {
+        "county": "SAINT MARYS",
+        "city": "CLEMENTS",
+        "zipcode": 20624,
+        "latitude": "+38.329424",
+        "longitude": "-076.730799"
+    },
+    {
+        "county": "SAINT MARYS",
+        "city": "COLTONS POINT",
+        "zipcode": 20626,
+        "latitude": "+38.236645",
+        "longitude": "-076.762227"
+    },
+    {
+        "county": "SAINT MARYS",
+        "city": "COMPTON",
+        "zipcode": 20627,
+        "latitude": "+38.276828",
+        "longitude": "-076.703971"
+    },
+    {
+        "county": "SAINT MARYS",
+        "city": "DAMERON",
+        "zipcode": 20628,
+        "latitude": "+38.148114",
+        "longitude": "-076.359651"
+    },
+    {
+        "county": "SAINT MARYS",
+        "city": "DRAYDEN",
+        "zipcode": 20630,
+        "latitude": "+38.178948",
+        "longitude": "-076.474510"
+    },
+    {
+        "county": "SAINT MARYS",
+        "city": "GREAT MILLS",
+        "zipcode": 20634,
+        "latitude": "+38.242387",
+        "longitude": "-076.501513"
+    },
+    {
+        "county": "SAINT MARYS",
+        "city": "HELEN",
+        "zipcode": 20635,
+        "latitude": "+38.312112",
+        "longitude": "-076.607676"
+    },
+    {
+        "county": "SAINT MARYS",
+        "city": "HOLLYWOOD",
+        "zipcode": 20636,
+        "latitude": "+38.342437",
+        "longitude": "-076.569163"
+    },
+    {
+        "county": "SAINT MARYS",
+        "city": "LEONARDTOWN",
+        "zipcode": 20650,
+        "latitude": "+38.278757",
+        "longitude": "-076.655917"
+    },
+    {
+        "county": "SAINT MARYS",
+        "city": "LEXINGTON PARK",
+        "zipcode": 20653,
+        "latitude": "+38.232909",
+        "longitude": "-076.430853"
+    },
+    {
+        "county": "SAINT MARYS",
+        "city": "LOVEVILLE",
+        "zipcode": 20656,
+        "latitude": "+38.359274",
+        "longitude": "-076.683325"
+    },
+    {
+        "county": "SAINT MARYS",
+        "city": "MECHANICSVILLE",
+        "zipcode": 20659,
+        "latitude": "+38.279211",
+        "longitude": "-076.608406"
+    },
+    {
+        "county": "SAINT MARYS",
+        "city": "MORGANZA",
+        "zipcode": 20660,
+        "latitude": "+38.363994",
+        "longitude": "-076.694102"
+    },
+    {
+        "county": "SAINT MARYS",
+        "city": "PARK HALL",
+        "zipcode": 20667,
+        "latitude": "+38.216529",
+        "longitude": "-076.433445"
+    },
+    {
+        "county": "SAINT MARYS",
+        "city": "PATUXENT RIVER",
+        "zipcode": 20670,
+        "latitude": "+38.281094",
+        "longitude": "-076.420952"
+    },
+    {
+        "county": "SAINT MARYS",
+        "city": "PINEY POINT",
+        "zipcode": 20674,
+        "latitude": "+38.168630",
+        "longitude": "-076.498367"
+    },
+    {
+        "county": "SAINT MARYS",
+        "city": "RIDGE",
+        "zipcode": 20680,
+        "latitude": "+38.122181",
+        "longitude": "-076.369412"
+    },
+    {
+        "county": "SAINT MARYS",
+        "city": "SAINT INIGOES",
+        "zipcode": 20684,
+        "latitude": "+38.141377",
+        "longitude": "-076.385350"
+    },
+    {
+        "county": "SAINT MARYS",
+        "city": "SAINT MARYS CITY",
+        "zipcode": 20686,
+        "latitude": "+38.188796",
+        "longitude": "-076.420738"
+    },
+    {
+        "county": "SAINT MARYS",
+        "city": "SCOTLAND",
+        "zipcode": 20687,
+        "latitude": "+38.078898",
+        "longitude": "-076.351659"
+    },
+    {
+        "county": "SAINT MARYS",
+        "city": "TALL TIMBERS",
+        "zipcode": 20690,
+        "latitude": "+38.160744",
+        "longitude": "-076.525504"
+    },
+    {
+        "county": "SAINT MARYS",
+        "city": "VALLEY LEE",
+        "zipcode": 20692,
+        "latitude": "+38.192688",
+        "longitude": "-076.501604"
+    },
+    {
+        "county": "SOMERSET",
+        "city": "CRISFIELD",
+        "zipcode": 21817,
+        "latitude": "+37.998308",
+        "longitude": "-075.818797"
+    },
+    {
+        "county": "SOMERSET",
+        "city": "DEAL ISLAND",
+        "zipcode": 21821,
+        "latitude": "+38.166101",
+        "longitude": "-075.923290"
+    },
+    {
+        "county": "SOMERSET",
+        "city": "EWELL",
+        "zipcode": 21824,
+        "latitude": "+37.983912",
+        "longitude": "-076.035623"
+    },
+    {
+        "county": "SOMERSET",
+        "city": "MANOKIN",
+        "zipcode": 21836,
+        "latitude": "+38.073294",
+        "longitude": "-075.734412"
+    },
+    {
+        "county": "SOMERSET",
+        "city": "MARION STATION",
+        "zipcode": 21838,
+        "latitude": "+38.018983",
+        "longitude": "-075.728768"
+    },
+    {
+        "county": "SOMERSET",
+        "city": "PRINCESS ANNE",
+        "zipcode": 21853,
+        "latitude": "+38.200553",
+        "longitude": "-075.752920"
+    },
+    {
+        "county": "SOMERSET",
+        "city": "REHOBETH",
+        "zipcode": 21857,
+        "latitude": "+38.092718",
+        "longitude": "-075.888207"
+    },
+    {
+        "county": "SOMERSET",
+        "city": "TYLERTON",
+        "zipcode": 21866,
+        "latitude": "+37.966573",
+        "longitude": "-076.023482"
+    },
+    {
+        "county": "SOMERSET",
+        "city": "UPPER FAIRMOUNT",
+        "zipcode": 21867,
+        "latitude": "+38.100490",
+        "longitude": "-075.822318"
+    },
+    {
+        "county": "SOMERSET",
+        "city": "WENONA",
+        "zipcode": 21870,
+        "latitude": "+38.092718",
+        "longitude": "-075.888207"
+    },
+    {
+        "county": "SOMERSET",
+        "city": "WESTOVER",
+        "zipcode": 21871,
+        "latitude": "+38.094181",
+        "longitude": "-075.717406"
+    },
+    {
+        "county": "SOMERSET",
+        "city": "WESTOVER",
+        "zipcode": 21890,
+        "latitude": "+38.092718",
+        "longitude": "-075.888207"
+    },
+    {
+        "county": "TALBOT",
+        "city": "BOZMAN",
+        "zipcode": 21612,
+        "latitude": "+38.749550",
+        "longitude": "-076.273704"
+    },
+    {
+        "county": "TALBOT",
+        "city": "CLAIBORNE",
+        "zipcode": 21624,
+        "latitude": "+38.836766",
+        "longitude": "-076.271370"
+    },
+    {
+        "county": "TALBOT",
+        "city": "CORDOVA",
+        "zipcode": 21625,
+        "latitude": "+38.869275",
+        "longitude": "-076.000119"
+    },
+    {
+        "county": "TALBOT",
+        "city": "EASTON",
+        "zipcode": 21601,
+        "latitude": "+38.800714",
+        "longitude": "-076.051486"
+    },
+    {
+        "county": "TALBOT",
+        "city": "EASTON",
+        "zipcode": 21606,
+        "latitude": "+38.758525",
+        "longitude": "-076.180166"
+    },
+    {
+        "county": "TALBOT",
+        "city": "MCDANIEL",
+        "zipcode": 21647,
+        "latitude": "+38.808497",
+        "longitude": "-076.287709"
+    },
+    {
+        "county": "TALBOT",
+        "city": "NEAVITT",
+        "zipcode": 21652,
+        "latitude": "+38.795102",
+        "longitude": "-076.152762"
+    },
+    {
+        "county": "TALBOT",
+        "city": "NEWCOMB",
+        "zipcode": 21653,
+        "latitude": "+38.751834",
+        "longitude": "-076.178041"
+    },
+    {
+        "county": "TALBOT",
+        "city": "OXFORD",
+        "zipcode": 21654,
+        "latitude": "+38.710783",
+        "longitude": "-076.125184"
+    },
+    {
+        "county": "TALBOT",
+        "city": "ROYAL OAK",
+        "zipcode": 21662,
+        "latitude": "+38.713532",
+        "longitude": "-076.196838"
+    },
+    {
+        "county": "TALBOT",
+        "city": "SAINT MICHAELS",
+        "zipcode": 21663,
+        "latitude": "+38.748765",
+        "longitude": "-076.167765"
+    },
+    {
+        "county": "TALBOT",
+        "city": "SHERWOOD",
+        "zipcode": 21665,
+        "latitude": "+38.745387",
+        "longitude": "-076.326606"
+    },
+    {
+        "county": "TALBOT",
+        "city": "TILGHMAN",
+        "zipcode": 21671,
+        "latitude": "+38.704729",
+        "longitude": "-076.332647"
+    },
+    {
+        "county": "TALBOT",
+        "city": "TRAPPE",
+        "zipcode": 21673,
+        "latitude": "+38.664452",
+        "longitude": "-076.058006"
+    },
+    {
+        "county": "TALBOT",
+        "city": "WITTMAN",
+        "zipcode": 21676,
+        "latitude": "+38.784568",
+        "longitude": "-076.300134"
+    },
+    {
+        "county": "TALBOT",
+        "city": "WYE MILLS",
+        "zipcode": 21679,
+        "latitude": "+38.915060",
+        "longitude": "-076.073905"
+    },
+    {
+        "county": "WASHINGTON",
+        "city": "BIG POOL",
+        "zipcode": 21711,
+        "latitude": "+39.666266",
+        "longitude": "-077.954912"
+    },
+    {
+        "county": "WASHINGTON",
+        "city": "BOONSBORO",
+        "zipcode": 21713,
+        "latitude": "+39.551986",
+        "longitude": "-077.695721"
+    },
+    {
+        "county": "WASHINGTON",
+        "city": "BROWNSVILLE",
+        "zipcode": 21715,
+        "latitude": "+39.386893",
+        "longitude": "-077.658015"
+    },
+    {
+        "county": "WASHINGTON",
+        "city": "CASCADE",
+        "zipcode": 21719,
+        "latitude": "+39.695751",
+        "longitude": "-077.495542"
+    },
+    {
+        "county": "WASHINGTON",
+        "city": "CAVETOWN",
+        "zipcode": 21720,
+        "latitude": "+39.647296",
+        "longitude": "-077.584162"
+    },
+    {
+        "county": "WASHINGTON",
+        "city": "CHEWSVILLE",
+        "zipcode": 21721,
+        "latitude": "+39.642537",
+        "longitude": "-077.637152"
+    },
+    {
+        "county": "WASHINGTON",
+        "city": "CLEAR SPRING",
+        "zipcode": 21722,
+        "latitude": "+39.665751",
+        "longitude": "-077.906389"
+    },
+    {
+        "county": "WASHINGTON",
+        "city": "FAIRPLAY",
+        "zipcode": 21733,
+        "latitude": "+39.559419",
+        "longitude": "-077.760390"
+    },
+    {
+        "county": "WASHINGTON",
+        "city": "FUNKSTOWN",
+        "zipcode": 21734,
+        "latitude": "+39.605960",
+        "longitude": "-077.707207"
+    },
+    {
+        "county": "WASHINGTON",
+        "city": "GAPLAND",
+        "zipcode": 21736,
+        "latitude": "+39.520696",
+        "longitude": "-077.916196"
+    },
+    {
+        "county": "WASHINGTON",
+        "city": "HAGERSTOWN",
+        "zipcode": 21740,
+        "latitude": "+39.588870",
+        "longitude": "-077.700213"
+    },
+    {
+        "county": "WASHINGTON",
+        "city": "HAGERSTOWN",
+        "zipcode": 21741,
+        "latitude": "+39.693944",
+        "longitude": "-077.742116"
+    },
+    {
+        "county": "WASHINGTON",
+        "city": "HAGERSTOWN",
+        "zipcode": 21742,
+        "latitude": "+39.642995",
+        "longitude": "-077.652779"
+    },
+    {
+        "county": "WASHINGTON",
+        "city": "HAGERSTOWN",
+        "zipcode": 21746,
+        "latitude": "+39.563787",
+        "longitude": "-077.720642"
+    },
+    {
+        "county": "WASHINGTON",
+        "city": "HAGERSTOWN",
+        "zipcode": 21747,
+        "latitude": "+39.520696",
+        "longitude": "-077.916196"
+    },
+    {
+        "county": "WASHINGTON",
+        "city": "HAGERSTOWN",
+        "zipcode": 21748,
+        "latitude": "+39.520696",
+        "longitude": "-077.916196"
+    },
+    {
+        "county": "WASHINGTON",
+        "city": "HAGERSTOWN",
+        "zipcode": 21749,
+        "latitude": "+39.520696",
+        "longitude": "-077.916196"
+    },
+    {
+        "county": "WASHINGTON",
+        "city": "HANCOCK",
+        "zipcode": 21750,
+        "latitude": "+39.588950",
+        "longitude": "-078.050204"
+    },
+    {
+        "county": "WASHINGTON",
+        "city": "KEEDYSVILLE",
+        "zipcode": 21756,
+        "latitude": "+39.458488",
+        "longitude": "-077.693341"
+    },
+    {
+        "county": "WASHINGTON",
+        "city": "MAUGANSVILLE",
+        "zipcode": 21767,
+        "latitude": "+39.696761",
+        "longitude": "-077.746766"
+    },
+    {
+        "county": "WASHINGTON",
+        "city": "ROHRERSVILLE",
+        "zipcode": 21779,
+        "latitude": "+39.430227",
+        "longitude": "-077.660130"
+    },
+    {
+        "county": "WASHINGTON",
+        "city": "SAINT JAMES",
+        "zipcode": 21781,
+        "latitude": "+39.569910",
+        "longitude": "-077.760697"
+    },
+    {
+        "county": "WASHINGTON",
+        "city": "SHARPSBURG",
+        "zipcode": 21782,
+        "latitude": "+39.438718",
+        "longitude": "-077.771667"
+    },
+    {
+        "county": "WASHINGTON",
+        "city": "SMITHSBURG",
+        "zipcode": 21783,
+        "latitude": "+39.591355",
+        "longitude": "-077.614762"
+    },
+    {
+        "county": "WASHINGTON",
+        "city": "WILLIAMSPORT",
+        "zipcode": 21795,
+        "latitude": "+39.589123",
+        "longitude": "-077.826258"
+    },
+    {
+        "county": "WICOMICO",
+        "city": "ALLEN",
+        "zipcode": 21810,
+        "latitude": "+38.388434",
+        "longitude": "-075.627600"
+    },
+    {
+        "county": "WICOMICO",
+        "city": "BIVALVE",
+        "zipcode": 21814,
+        "latitude": "+38.388434",
+        "longitude": "-075.627600"
+    },
+    {
+        "county": "WICOMICO",
+        "city": "DELMAR",
+        "zipcode": 21875,
+        "latitude": "+38.452527",
+        "longitude": "-075.574165"
+    },
+    {
+        "county": "WICOMICO",
+        "city": "FRUITLAND",
+        "zipcode": 21826,
+        "latitude": "+38.320318",
+        "longitude": "-075.620806"
+    },
+    {
+        "county": "WICOMICO",
+        "city": "HEBRON",
+        "zipcode": 21830,
+        "latitude": "+38.409235",
+        "longitude": "-075.724848"
+    },
+    {
+        "county": "WICOMICO",
+        "city": "MARDELA SPRINGS",
+        "zipcode": 21837,
+        "latitude": "+38.458249",
+        "longitude": "-075.754804"
+    },
+    {
+        "county": "WICOMICO",
+        "city": "NANTICOKE",
+        "zipcode": 21840,
+        "latitude": "+38.388434",
+        "longitude": "-075.627600"
+    },
+    {
+        "county": "WICOMICO",
+        "city": "PARSONSBURG",
+        "zipcode": 21849,
+        "latitude": "+38.376894",
+        "longitude": "-075.462009"
+    },
+    {
+        "county": "WICOMICO",
+        "city": "PITTSVILLE",
+        "zipcode": 21850,
+        "latitude": "+38.394572",
+        "longitude": "-075.410499"
+    },
+    {
+        "county": "WICOMICO",
+        "city": "POWELLVILLE",
+        "zipcode": 21852,
+        "latitude": "+38.388434",
+        "longitude": "-075.627600"
+    },
+    {
+        "county": "WICOMICO",
+        "city": "QUANTICO",
+        "zipcode": 21856,
+        "latitude": "+38.305282",
+        "longitude": "-075.763118"
+    },
+    {
+        "county": "WICOMICO",
+        "city": "SALISBURY",
+        "zipcode": 21801,
+        "latitude": "+38.382445",
+        "longitude": "-075.633621"
+    },
+    {
+        "county": "WICOMICO",
+        "city": "SALISBURY",
+        "zipcode": 21802,
+        "latitude": "+38.388434",
+        "longitude": "-075.627600"
+    },
+    {
+        "county": "WICOMICO",
+        "city": "SALISBURY",
+        "zipcode": 21803,
+        "latitude": "+38.388434",
+        "longitude": "-075.627600"
+    },
+    {
+        "county": "WICOMICO",
+        "city": "SALISBURY",
+        "zipcode": 21804,
+        "latitude": "+38.350793",
+        "longitude": "-075.533782"
+    },
+    {
+        "county": "WICOMICO",
+        "city": "SHARPTOWN",
+        "zipcode": 21861,
+        "latitude": "+38.538904",
+        "longitude": "-075.719182"
+    },
+    {
+        "county": "WICOMICO",
+        "city": "TYASKIN",
+        "zipcode": 21865,
+        "latitude": "+38.268914",
+        "longitude": "-075.790882"
+    },
+    {
+        "county": "WICOMICO",
+        "city": "WILLARDS",
+        "zipcode": 21874,
+        "latitude": "+38.404060",
+        "longitude": "-075.351349"
+    },
+    {
+        "county": "WORCESTER",
+        "city": "BERLIN",
+        "zipcode": 21811,
+        "latitude": "+38.310447",
+        "longitude": "-075.320901"
+    },
+    {
+        "county": "WORCESTER",
+        "city": "BISHOPVILLE",
+        "zipcode": 21813,
+        "latitude": "+38.421121",
+        "longitude": "-075.195960"
+    },
+    {
+        "county": "WORCESTER",
+        "city": "EDEN",
+        "zipcode": 21822,
+        "latitude": "+38.216972",
+        "longitude": "-075.550530"
+    },
+    {
+        "county": "WORCESTER",
+        "city": "GIRDLETREE",
+        "zipcode": 21829,
+        "latitude": "+38.102963",
+        "longitude": "-075.381853"
+    },
+    {
+        "county": "WORCESTER",
+        "city": "NEWARK",
+        "zipcode": 21841,
+        "latitude": "+38.246348",
+        "longitude": "-075.301838"
+    },
+    {
+        "county": "WORCESTER",
+        "city": "OCEAN CITY",
+        "zipcode": 21842,
+        "latitude": "+38.381107",
+        "longitude": "-075.113816"
+    },
+    {
+        "county": "WORCESTER",
+        "city": "OCEAN CITY",
+        "zipcode": 21843,
+        "latitude": "+38.223090",
+        "longitude": "-075.324057"
+    },
+    {
+        "county": "WORCESTER",
+        "city": "POCOMOKE CITY",
+        "zipcode": 21851,
+        "latitude": "+38.089201",
+        "longitude": "-075.537185"
+    },
+    {
+        "county": "WORCESTER",
+        "city": "SHOWELL",
+        "zipcode": 21862,
+        "latitude": "+38.400306",
+        "longitude": "-075.216551"
+    },
+    {
+        "county": "WORCESTER",
+        "city": "SNOW HILL",
+        "zipcode": 21863,
+        "latitude": "+38.217824",
+        "longitude": "-075.326618"
+    },
+    {
+        "county": "WORCESTER",
+        "city": "STOCKTON",
+        "zipcode": 21864,
+        "latitude": "+38.042932",
+        "longitude": "-075.411789"
+    },
+    {
+        "county": "WORCESTER",
+        "city": "WHALEYVILLE",
+        "zipcode": 21872,
+        "latitude": "+38.412085",
+        "longitude": "-075.281074"
+    }
+]

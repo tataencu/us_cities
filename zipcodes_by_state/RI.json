@@ -1,0 +1,639 @@
+[
+    {
+        "county": "BRISTOL",
+        "city": "BARRINGTON",
+        "zipcode": "02806",
+        "latitude": "+41.742501",
+        "longitude": "-071.320395"
+    },
+    {
+        "county": "BRISTOL",
+        "city": "BRISTOL",
+        "zipcode": "02809",
+        "latitude": "+41.678378",
+        "longitude": "-071.270400"
+    },
+    {
+        "county": "BRISTOL",
+        "city": "PRUDENCE ISLAND",
+        "zipcode": "02872",
+        "latitude": "+41.707119",
+        "longitude": "-071.286834"
+    },
+    {
+        "county": "BRISTOL",
+        "city": "WARREN",
+        "zipcode": "02885",
+        "latitude": "+41.727451",
+        "longitude": "-071.257492"
+    },
+    {
+        "county": "KENT",
+        "city": "COVENTRY",
+        "zipcode": "02816",
+        "latitude": "+41.694251",
+        "longitude": "-071.636786"
+    },
+    {
+        "county": "KENT",
+        "city": "EAST GREENWICH",
+        "zipcode": "02818",
+        "latitude": "+41.643350",
+        "longitude": "-071.478002"
+    },
+    {
+        "county": "KENT",
+        "city": "GREENE",
+        "zipcode": "02827",
+        "latitude": "+41.691676",
+        "longitude": "-071.727467"
+    },
+    {
+        "county": "KENT",
+        "city": "WARWICK",
+        "zipcode": "02886",
+        "latitude": "+41.702470",
+        "longitude": "-071.479020"
+    },
+    {
+        "county": "KENT",
+        "city": "WARWICK",
+        "zipcode": "02887",
+        "latitude": "+41.682455",
+        "longitude": "-071.557732"
+    },
+    {
+        "county": "KENT",
+        "city": "WARWICK",
+        "zipcode": "02888",
+        "latitude": "+41.747300",
+        "longitude": "-071.411088"
+    },
+    {
+        "county": "KENT",
+        "city": "WARWICK",
+        "zipcode": "02889",
+        "latitude": "+41.689182",
+        "longitude": "-071.496048"
+    },
+    {
+        "county": "KENT",
+        "city": "WEST GREENWICH",
+        "zipcode": "02817",
+        "latitude": "+41.631168",
+        "longitude": "-071.667165"
+    },
+    {
+        "county": "KENT",
+        "city": "WEST WARWICK",
+        "zipcode": "02893",
+        "latitude": "+41.696822",
+        "longitude": "-071.507304"
+    },
+    {
+        "county": "NEWPORT",
+        "city": "ADAMSVILLE",
+        "zipcode": "02801",
+        "latitude": "+41.530131",
+        "longitude": "-071.284066"
+    },
+    {
+        "county": "NEWPORT",
+        "city": "JAMESTOWN",
+        "zipcode": "02835",
+        "latitude": "+41.514120",
+        "longitude": "-071.377247"
+    },
+    {
+        "county": "NEWPORT",
+        "city": "LITTLE COMPTON",
+        "zipcode": "02837",
+        "latitude": "+41.510257",
+        "longitude": "-071.166340"
+    },
+    {
+        "county": "NEWPORT",
+        "city": "MIDDLETOWN",
+        "zipcode": "02842",
+        "latitude": "+41.519757",
+        "longitude": "-071.273101"
+    },
+    {
+        "county": "NEWPORT",
+        "city": "NEWPORT",
+        "zipcode": "02840",
+        "latitude": "+41.487552",
+        "longitude": "-071.327084"
+    },
+    {
+        "county": "NEWPORT",
+        "city": "NEWPORT",
+        "zipcode": "02841",
+        "latitude": "+41.498977",
+        "longitude": "-071.299004"
+    },
+    {
+        "county": "NEWPORT",
+        "city": "PORTSMOUTH",
+        "zipcode": "02871",
+        "latitude": "+41.585230",
+        "longitude": "-071.264197"
+    },
+    {
+        "county": "NEWPORT",
+        "city": "TIVERTON",
+        "zipcode": "02878",
+        "latitude": "+41.610180",
+        "longitude": "-071.175183"
+    },
+    {
+        "county": "PROVIDENCE",
+        "city": "ALBION",
+        "zipcode": "02802",
+        "latitude": "+41.954098",
+        "longitude": "-071.462053"
+    },
+    {
+        "county": "PROVIDENCE",
+        "city": "CENTRAL FALLS",
+        "zipcode": "02863",
+        "latitude": "+41.889849",
+        "longitude": "-071.394186"
+    },
+    {
+        "county": "PROVIDENCE",
+        "city": "CHEPACHET",
+        "zipcode": "02814",
+        "latitude": "+41.888971",
+        "longitude": "-071.688769"
+    },
+    {
+        "county": "PROVIDENCE",
+        "city": "CLAYVILLE",
+        "zipcode": "02815",
+        "latitude": "+41.770525",
+        "longitude": "-071.655850"
+    },
+    {
+        "county": "PROVIDENCE",
+        "city": "CRANSTON",
+        "zipcode": "02910",
+        "latitude": "+41.791700",
+        "longitude": "-071.435251"
+    },
+    {
+        "county": "PROVIDENCE",
+        "city": "CRANSTON",
+        "zipcode": "02920",
+        "latitude": "+41.769300",
+        "longitude": "-071.471353"
+    },
+    {
+        "county": "PROVIDENCE",
+        "city": "CRANSTON",
+        "zipcode": "02921",
+        "latitude": "+41.766750",
+        "longitude": "-071.476703"
+    },
+    {
+        "county": "PROVIDENCE",
+        "city": "CUMBERLAND",
+        "zipcode": "02864",
+        "latitude": "+41.949498",
+        "longitude": "-071.432690"
+    },
+    {
+        "county": "PROVIDENCE",
+        "city": "EAST PROVIDENCE",
+        "zipcode": "02914",
+        "latitude": "+41.813429",
+        "longitude": "-071.363348"
+    },
+    {
+        "county": "PROVIDENCE",
+        "city": "FISKEVILLE",
+        "zipcode": "02823",
+        "latitude": "+41.731200",
+        "longitude": "-071.546756"
+    },
+    {
+        "county": "PROVIDENCE",
+        "city": "FORESTDALE",
+        "zipcode": "02824",
+        "latitude": "+42.000248",
+        "longitude": "-071.563057"
+    },
+    {
+        "county": "PROVIDENCE",
+        "city": "FOSTER",
+        "zipcode": "02825",
+        "latitude": "+41.790569",
+        "longitude": "-071.706440"
+    },
+    {
+        "county": "PROVIDENCE",
+        "city": "GLENDALE",
+        "zipcode": "02826",
+        "latitude": "+41.982417",
+        "longitude": "-071.600848"
+    },
+    {
+        "county": "PROVIDENCE",
+        "city": "GREENVILLE",
+        "zipcode": "02828",
+        "latitude": "+41.879298",
+        "longitude": "-071.551682"
+    },
+    {
+        "county": "PROVIDENCE",
+        "city": "HARMONY",
+        "zipcode": "02829",
+        "latitude": "+41.879298",
+        "longitude": "-071.589357"
+    },
+    {
+        "county": "PROVIDENCE",
+        "city": "HARRISVILLE",
+        "zipcode": "02830",
+        "latitude": "+41.972390",
+        "longitude": "-071.648502"
+    },
+    {
+        "county": "PROVIDENCE",
+        "city": "HOPE",
+        "zipcode": "02831",
+        "latitude": "+41.753594",
+        "longitude": "-071.577746"
+    },
+    {
+        "county": "PROVIDENCE",
+        "city": "JOHNSTON",
+        "zipcode": "02919",
+        "latitude": "+41.870932",
+        "longitude": "-071.497604"
+    },
+    {
+        "county": "PROVIDENCE",
+        "city": "LINCOLN",
+        "zipcode": "02865",
+        "latitude": "+41.925298",
+        "longitude": "-071.493355"
+    },
+    {
+        "county": "PROVIDENCE",
+        "city": "MANVILLE",
+        "zipcode": "02838",
+        "latitude": "+41.967848",
+        "longitude": "-071.475604"
+    },
+    {
+        "county": "PROVIDENCE",
+        "city": "MAPLEVILLE",
+        "zipcode": "02839",
+        "latitude": "+41.941715",
+        "longitude": "-071.637581"
+    },
+    {
+        "county": "PROVIDENCE",
+        "city": "NORTH PROVIDENCE",
+        "zipcode": "02911",
+        "latitude": "+41.838749",
+        "longitude": "-071.449202"
+    },
+    {
+        "county": "PROVIDENCE",
+        "city": "NORTH SCITUATE",
+        "zipcode": "02857",
+        "latitude": "+41.838827",
+        "longitude": "-071.655006"
+    },
+    {
+        "county": "PROVIDENCE",
+        "city": "NORTH SMITHFIELD",
+        "zipcode": "02896",
+        "latitude": "+41.934348",
+        "longitude": "-071.540506"
+    },
+    {
+        "county": "PROVIDENCE",
+        "city": "OAKLAND",
+        "zipcode": "02858",
+        "latitude": "+41.962303",
+        "longitude": "-071.647542"
+    },
+    {
+        "county": "PROVIDENCE",
+        "city": "PASCOAG",
+        "zipcode": "02859",
+        "latitude": "+41.964150",
+        "longitude": "-071.723316"
+    },
+    {
+        "county": "PROVIDENCE",
+        "city": "PAWTUCKET",
+        "zipcode": "02860",
+        "latitude": "+41.875149",
+        "longitude": "-071.392732"
+    },
+    {
+        "county": "PROVIDENCE",
+        "city": "PAWTUCKET",
+        "zipcode": "02861",
+        "latitude": "+41.878249",
+        "longitude": "-071.369899"
+    },
+    {
+        "county": "PROVIDENCE",
+        "city": "PAWTUCKET",
+        "zipcode": "02862",
+        "latitude": "+41.861250",
+        "longitude": "-071.369099"
+    },
+    {
+        "county": "PROVIDENCE",
+        "city": "PROVIDENCE",
+        "zipcode": "02901",
+        "latitude": "+41.822750",
+        "longitude": "-071.414451"
+    },
+    {
+        "county": "PROVIDENCE",
+        "city": "PROVIDENCE",
+        "zipcode": "02902",
+        "latitude": "+41.818350",
+        "longitude": "-071.424851"
+    },
+    {
+        "county": "PROVIDENCE",
+        "city": "PROVIDENCE",
+        "zipcode": "02903",
+        "latitude": "+41.819459",
+        "longitude": "-071.411500"
+    },
+    {
+        "county": "PROVIDENCE",
+        "city": "PROVIDENCE",
+        "zipcode": "02904",
+        "latitude": "+41.854140",
+        "longitude": "-071.437752"
+    },
+    {
+        "county": "PROVIDENCE",
+        "city": "PROVIDENCE",
+        "zipcode": "02905",
+        "latitude": "+41.803799",
+        "longitude": "-071.422547"
+    },
+    {
+        "county": "PROVIDENCE",
+        "city": "PROVIDENCE",
+        "zipcode": "02906",
+        "latitude": "+41.837400",
+        "longitude": "-071.394717"
+    },
+    {
+        "county": "PROVIDENCE",
+        "city": "PROVIDENCE",
+        "zipcode": "02907",
+        "latitude": "+41.797065",
+        "longitude": "-071.425501"
+    },
+    {
+        "county": "PROVIDENCE",
+        "city": "PROVIDENCE",
+        "zipcode": "02908",
+        "latitude": "+41.837399",
+        "longitude": "-071.439900"
+    },
+    {
+        "county": "PROVIDENCE",
+        "city": "PROVIDENCE",
+        "zipcode": "02909",
+        "latitude": "+41.820599",
+        "longitude": "-071.444302"
+    },
+    {
+        "county": "PROVIDENCE",
+        "city": "PROVIDENCE",
+        "zipcode": "02912",
+        "latitude": "+41.826737",
+        "longitude": "-071.397699"
+    },
+    {
+        "county": "PROVIDENCE",
+        "city": "PROVIDENCE",
+        "zipcode": "02918",
+        "latitude": "+41.841499",
+        "longitude": "-071.440352"
+    },
+    {
+        "county": "PROVIDENCE",
+        "city": "PROVIDENCE",
+        "zipcode": "02940",
+        "latitude": "+41.871766",
+        "longitude": "-071.558518"
+    },
+    {
+        "county": "PROVIDENCE",
+        "city": "RIVERSIDE",
+        "zipcode": "02915",
+        "latitude": "+41.774300",
+        "longitude": "-071.349697"
+    },
+    {
+        "county": "PROVIDENCE",
+        "city": "RUMFORD",
+        "zipcode": "02916",
+        "latitude": "+41.842727",
+        "longitude": "-071.355798"
+    },
+    {
+        "county": "PROVIDENCE",
+        "city": "SLATERSVILLE",
+        "zipcode": "02876",
+        "latitude": "+41.998398",
+        "longitude": "-071.576307"
+    },
+    {
+        "county": "PROVIDENCE",
+        "city": "SMITHFIELD",
+        "zipcode": "02917",
+        "latitude": "+41.853899",
+        "longitude": "-071.497804"
+    },
+    {
+        "county": "PROVIDENCE",
+        "city": "WOONSOCKET",
+        "zipcode": "02895",
+        "latitude": "+41.984598",
+        "longitude": "-071.519390"
+    },
+    {
+        "county": "WASHINGTON",
+        "city": "ASHAWAY",
+        "zipcode": "02804",
+        "latitude": "+41.322365",
+        "longitude": "-071.679251"
+    },
+    {
+        "county": "WASHINGTON",
+        "city": "BLOCK ISLAND",
+        "zipcode": "02807",
+        "latitude": "+41.188888",
+        "longitude": "-071.577696"
+    },
+    {
+        "county": "WASHINGTON",
+        "city": "BRADFORD",
+        "zipcode": "02808",
+        "latitude": "+41.403784",
+        "longitude": "-071.761665"
+    },
+    {
+        "county": "WASHINGTON",
+        "city": "CAROLINA",
+        "zipcode": "02812",
+        "latitude": "+41.469148",
+        "longitude": "-071.675092"
+    },
+    {
+        "county": "WASHINGTON",
+        "city": "CHARLESTOWN",
+        "zipcode": "02813",
+        "latitude": "+41.395079",
+        "longitude": "-071.665420"
+    },
+    {
+        "county": "WASHINGTON",
+        "city": "EXETER",
+        "zipcode": "02822",
+        "latitude": "+41.546900",
+        "longitude": "-071.650262"
+    },
+    {
+        "county": "WASHINGTON",
+        "city": "HOPE VALLEY",
+        "zipcode": "02832",
+        "latitude": "+41.509632",
+        "longitude": "-071.733875"
+    },
+    {
+        "county": "WASHINGTON",
+        "city": "HOPKINTON",
+        "zipcode": "02833",
+        "latitude": "+41.475117",
+        "longitude": "-071.772617"
+    },
+    {
+        "county": "WASHINGTON",
+        "city": "KENYON",
+        "zipcode": "02836",
+        "latitude": "+41.447427",
+        "longitude": "-071.620432"
+    },
+    {
+        "county": "WASHINGTON",
+        "city": "KINGSTON",
+        "zipcode": "02881",
+        "latitude": "+41.482901",
+        "longitude": "-071.524317"
+    },
+    {
+        "county": "WASHINGTON",
+        "city": "NARRAGANSETT",
+        "zipcode": "02882",
+        "latitude": "+41.377185",
+        "longitude": "-071.497793"
+    },
+    {
+        "county": "WASHINGTON",
+        "city": "NORTH KINGSTOWN",
+        "zipcode": "02852",
+        "latitude": "+41.586851",
+        "longitude": "-071.464801"
+    },
+    {
+        "county": "WASHINGTON",
+        "city": "NORTH KINGSTOWN",
+        "zipcode": "02854",
+        "latitude": "+41.375317",
+        "longitude": "-071.643930"
+    },
+    {
+        "county": "WASHINGTON",
+        "city": "PEACE DALE",
+        "zipcode": "02883",
+        "latitude": "+41.375317",
+        "longitude": "-071.643930"
+    },
+    {
+        "county": "WASHINGTON",
+        "city": "ROCKVILLE",
+        "zipcode": "02873",
+        "latitude": "+41.519922",
+        "longitude": "-071.774023"
+    },
+    {
+        "county": "WASHINGTON",
+        "city": "SAUNDERSTOWN",
+        "zipcode": "02874",
+        "latitude": "+41.478466",
+        "longitude": "-071.471752"
+    },
+    {
+        "county": "WASHINGTON",
+        "city": "SHANNOCK",
+        "zipcode": "02875",
+        "latitude": "+41.456039",
+        "longitude": "-071.635474"
+    },
+    {
+        "county": "WASHINGTON",
+        "city": "SLOCUM",
+        "zipcode": "02877",
+        "latitude": "+41.528900",
+        "longitude": "-071.529854"
+    },
+    {
+        "county": "WASHINGTON",
+        "city": "WAKEFIELD",
+        "zipcode": "02879",
+        "latitude": "+41.443653",
+        "longitude": "-071.534202"
+    },
+    {
+        "county": "WASHINGTON",
+        "city": "WAKEFIELD",
+        "zipcode": "02880",
+        "latitude": "+41.375317",
+        "longitude": "-071.643930"
+    },
+    {
+        "county": "WASHINGTON",
+        "city": "WEST KINGSTON",
+        "zipcode": "02892",
+        "latitude": "+41.505764",
+        "longitude": "-071.621140"
+    },
+    {
+        "county": "WASHINGTON",
+        "city": "WESTERLY",
+        "zipcode": "02891",
+        "latitude": "+41.284494",
+        "longitude": "-071.710708"
+    },
+    {
+        "county": "WASHINGTON",
+        "city": "WOOD RIVER JUNCTION",
+        "zipcode": "02894",
+        "latitude": "+41.450050",
+        "longitude": "-071.707420"
+    },
+    {
+        "county": "WASHINGTON",
+        "city": "WYOMING",
+        "zipcode": "02898",
+        "latitude": "+41.504089",
+        "longitude": "-071.662954"
+    }
+]

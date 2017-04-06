@@ -1,0 +1,4636 @@
+[
+    {
+        "county": "ADAMS",
+        "city": "AURORA",
+        "zipcode": 80011,
+        "latitude": "+39.788286",
+        "longitude": "-104.822765"
+    },
+    {
+        "county": "ADAMS",
+        "city": "AURORA",
+        "zipcode": 80019,
+        "latitude": "+39.781442",
+        "longitude": "-104.685374"
+    },
+    {
+        "county": "ADAMS",
+        "city": "AURORA",
+        "zipcode": 80040,
+        "latitude": "+39.807970",
+        "longitude": "-104.407918"
+    },
+    {
+        "county": "ADAMS",
+        "city": "AURORA",
+        "zipcode": 80042,
+        "latitude": "+39.807970",
+        "longitude": "-104.407918"
+    },
+    {
+        "county": "ADAMS",
+        "city": "AURORA",
+        "zipcode": 80045,
+        "latitude": "+39.746736",
+        "longitude": "-104.838361"
+    },
+    {
+        "county": "ADAMS",
+        "city": "BENNETT",
+        "zipcode": 80102,
+        "latitude": "+39.869384",
+        "longitude": "-104.458336"
+    },
+    {
+        "county": "ADAMS",
+        "city": "BRIGHTON",
+        "zipcode": 80601,
+        "latitude": "+39.942984",
+        "longitude": "-104.786597"
+    },
+    {
+        "county": "ADAMS",
+        "city": "BRIGHTON",
+        "zipcode": 80602,
+        "latitude": "",
+        "longitude": ""
+    },
+    {
+        "county": "ADAMS",
+        "city": "BRIGHTON",
+        "zipcode": 80603,
+        "latitude": "",
+        "longitude": ""
+    },
+    {
+        "county": "ADAMS",
+        "city": "COMMERCE CITY",
+        "zipcode": 80022,
+        "latitude": "+39.869835",
+        "longitude": "-104.771527"
+    },
+    {
+        "county": "ADAMS",
+        "city": "COMMERCE CITY",
+        "zipcode": 80037,
+        "latitude": "+39.807970",
+        "longitude": "-104.407918"
+    },
+    {
+        "county": "ADAMS",
+        "city": "DENVER",
+        "zipcode": 80221,
+        "latitude": "+39.838028",
+        "longitude": "-104.998788"
+    },
+    {
+        "county": "ADAMS",
+        "city": "DENVER",
+        "zipcode": 80229,
+        "latitude": "+39.867098",
+        "longitude": "-104.922688"
+    },
+    {
+        "county": "ADAMS",
+        "city": "DENVER",
+        "zipcode": 80233,
+        "latitude": "+39.901534",
+        "longitude": "-104.940683"
+    },
+    {
+        "county": "ADAMS",
+        "city": "DENVER",
+        "zipcode": 80234,
+        "latitude": "+39.910774",
+        "longitude": "-105.010886"
+    },
+    {
+        "county": "ADAMS",
+        "city": "DENVER",
+        "zipcode": 80241,
+        "latitude": "+39.927421",
+        "longitude": "-104.954833"
+    },
+    {
+        "county": "ADAMS",
+        "city": "DENVER",
+        "zipcode": 80260,
+        "latitude": "+39.867235",
+        "longitude": "-105.004125"
+    },
+    {
+        "county": "ADAMS",
+        "city": "DUPONT",
+        "zipcode": 80024,
+        "latitude": "+39.844501",
+        "longitude": "-104.918783"
+    },
+    {
+        "county": "ADAMS",
+        "city": "EASTLAKE",
+        "zipcode": 80614,
+        "latitude": "+39.807970",
+        "longitude": "-104.407918"
+    },
+    {
+        "county": "ADAMS",
+        "city": "HENDERSON",
+        "zipcode": 80640,
+        "latitude": "+39.879235",
+        "longitude": "-104.883581"
+    },
+    {
+        "county": "ADAMS",
+        "city": "STRASBURG",
+        "zipcode": 80136,
+        "latitude": "+39.865547",
+        "longitude": "-104.291682"
+    },
+    {
+        "county": "ADAMS",
+        "city": "WATKINS",
+        "zipcode": 80137,
+        "latitude": "+39.796784",
+        "longitude": "-104.630327"
+    },
+    {
+        "county": "ADAMS",
+        "city": "WESTMINSTER",
+        "zipcode": 80030,
+        "latitude": "+39.872535",
+        "longitude": "-105.034487"
+    },
+    {
+        "county": "ADAMS",
+        "city": "WESTMINSTER",
+        "zipcode": 80031,
+        "latitude": "+39.875290",
+        "longitude": "-105.034487"
+    },
+    {
+        "county": "ADAMS",
+        "city": "WESTMINSTER",
+        "zipcode": 80035,
+        "latitude": "+39.807970",
+        "longitude": "-104.407918"
+    },
+    {
+        "county": "ADAMS",
+        "city": "WESTMINSTER",
+        "zipcode": 80036,
+        "latitude": "+39.807970",
+        "longitude": "-104.407918"
+    },
+    {
+        "county": "ALAMOSA",
+        "city": "ALAMOSA",
+        "zipcode": 81101,
+        "latitude": "+37.479933",
+        "longitude": "-105.790967"
+    },
+    {
+        "county": "ALAMOSA",
+        "city": "ALAMOSA",
+        "zipcode": 81102,
+        "latitude": "+37.476026",
+        "longitude": "-105.881779"
+    },
+    {
+        "county": "ALAMOSA",
+        "city": "HOOPER",
+        "zipcode": 81136,
+        "latitude": "+37.699184",
+        "longitude": "-105.873616"
+    },
+    {
+        "county": "ALAMOSA",
+        "city": "MOSCA",
+        "zipcode": 81146,
+        "latitude": "+37.631025",
+        "longitude": "-105.773133"
+    },
+    {
+        "county": "ARAPAHOE",
+        "city": "AURORA",
+        "zipcode": 80010,
+        "latitude": "+39.715287",
+        "longitude": "-104.847480"
+    },
+    {
+        "county": "ARAPAHOE",
+        "city": "AURORA",
+        "zipcode": 80012,
+        "latitude": "+39.681201",
+        "longitude": "-104.809730"
+    },
+    {
+        "county": "ARAPAHOE",
+        "city": "AURORA",
+        "zipcode": 80013,
+        "latitude": "+39.660654",
+        "longitude": "-104.762750"
+    },
+    {
+        "county": "ARAPAHOE",
+        "city": "AURORA",
+        "zipcode": 80014,
+        "latitude": "+39.660437",
+        "longitude": "-104.829330"
+    },
+    {
+        "county": "ARAPAHOE",
+        "city": "AURORA",
+        "zipcode": 80015,
+        "latitude": "+39.667429",
+        "longitude": "-104.775265"
+    },
+    {
+        "county": "ARAPAHOE",
+        "city": "AURORA",
+        "zipcode": 80016,
+        "latitude": "+39.601172",
+        "longitude": "-104.739428"
+    },
+    {
+        "county": "ARAPAHOE",
+        "city": "AURORA",
+        "zipcode": 80017,
+        "latitude": "+39.702142",
+        "longitude": "-104.806670"
+    },
+    {
+        "county": "ARAPAHOE",
+        "city": "AURORA",
+        "zipcode": 80018,
+        "latitude": "+39.689487",
+        "longitude": "-104.679820"
+    },
+    {
+        "county": "ARAPAHOE",
+        "city": "AURORA",
+        "zipcode": 80041,
+        "latitude": "+39.738752",
+        "longitude": "-104.408349"
+    },
+    {
+        "county": "ARAPAHOE",
+        "city": "AURORA",
+        "zipcode": 80044,
+        "latitude": "+39.738752",
+        "longitude": "-104.408349"
+    },
+    {
+        "county": "ARAPAHOE",
+        "city": "AURORA",
+        "zipcode": 80046,
+        "latitude": "+39.738752",
+        "longitude": "-104.408349"
+    },
+    {
+        "county": "ARAPAHOE",
+        "city": "AURORA",
+        "zipcode": 80047,
+        "latitude": "+39.738752",
+        "longitude": "-104.408349"
+    },
+    {
+        "county": "ARAPAHOE",
+        "city": "BYERS",
+        "zipcode": 80103,
+        "latitude": "+39.652632",
+        "longitude": "-104.162633"
+    },
+    {
+        "county": "ARAPAHOE",
+        "city": "DEER TRAIL",
+        "zipcode": 80105,
+        "latitude": "+39.659461",
+        "longitude": "-103.948538"
+    },
+    {
+        "county": "ARAPAHOE",
+        "city": "ENGLEWOOD",
+        "zipcode": 80110,
+        "latitude": "+39.648958",
+        "longitude": "-104.973852"
+    },
+    {
+        "county": "ARAPAHOE",
+        "city": "ENGLEWOOD",
+        "zipcode": 80111,
+        "latitude": "+39.666811",
+        "longitude": "-104.864703"
+    },
+    {
+        "county": "ARAPAHOE",
+        "city": "ENGLEWOOD",
+        "zipcode": 80112,
+        "latitude": "+39.581238",
+        "longitude": "-104.862194"
+    },
+    {
+        "county": "ARAPAHOE",
+        "city": "ENGLEWOOD",
+        "zipcode": 80150,
+        "latitude": "+39.738752",
+        "longitude": "-104.408349"
+    },
+    {
+        "county": "ARAPAHOE",
+        "city": "ENGLEWOOD",
+        "zipcode": 80151,
+        "latitude": "+39.738752",
+        "longitude": "-104.408349"
+    },
+    {
+        "county": "ARAPAHOE",
+        "city": "ENGLEWOOD",
+        "zipcode": 80154,
+        "latitude": "+39.738752",
+        "longitude": "-104.408349"
+    },
+    {
+        "county": "ARAPAHOE",
+        "city": "ENGLEWOOD",
+        "zipcode": 80155,
+        "latitude": "+39.738752",
+        "longitude": "-104.408349"
+    },
+    {
+        "county": "ARAPAHOE",
+        "city": "LITTLETON",
+        "zipcode": 80120,
+        "latitude": "+39.597937",
+        "longitude": "-105.010182"
+    },
+    {
+        "county": "ARAPAHOE",
+        "city": "LITTLETON",
+        "zipcode": 80121,
+        "latitude": "+39.612789",
+        "longitude": "-104.887730"
+    },
+    {
+        "county": "ARAPAHOE",
+        "city": "LITTLETON",
+        "zipcode": 80122,
+        "latitude": "+39.582222",
+        "longitude": "-104.955576"
+    },
+    {
+        "county": "ARAPAHOE",
+        "city": "LITTLETON",
+        "zipcode": 80160,
+        "latitude": "+39.738752",
+        "longitude": "-104.408349"
+    },
+    {
+        "county": "ARAPAHOE",
+        "city": "LITTLETON",
+        "zipcode": 80161,
+        "latitude": "+39.738752",
+        "longitude": "-104.408349"
+    },
+    {
+        "county": "ARAPAHOE",
+        "city": "LITTLETON",
+        "zipcode": 80165,
+        "latitude": "+39.738752",
+        "longitude": "-104.408349"
+    },
+    {
+        "county": "ARAPAHOE",
+        "city": "LITTLETON",
+        "zipcode": 80166,
+        "latitude": "+39.738752",
+        "longitude": "-104.408349"
+    },
+    {
+        "county": "ARCHULETA",
+        "city": "ARBOLES",
+        "zipcode": 81121,
+        "latitude": "+37.109225",
+        "longitude": "-107.311830"
+    },
+    {
+        "county": "ARCHULETA",
+        "city": "CHIMNEY ROCK",
+        "zipcode": 81127,
+        "latitude": "+37.250704",
+        "longitude": "-107.321138"
+    },
+    {
+        "county": "ARCHULETA",
+        "city": "CHROMO",
+        "zipcode": 81128,
+        "latitude": "+37.130148",
+        "longitude": "-106.821686"
+    },
+    {
+        "county": "ARCHULETA",
+        "city": "PAGOSA SPRINGS",
+        "zipcode": 81147,
+        "latitude": "+37.202251",
+        "longitude": "-107.126190"
+    },
+    {
+        "county": "ARCHULETA",
+        "city": "PAGOSA SPRINGS",
+        "zipcode": 81157,
+        "latitude": "+37.270438",
+        "longitude": "-107.093153"
+    },
+    {
+        "county": "BACA",
+        "city": "CAMPO",
+        "zipcode": 81029,
+        "latitude": "+37.184434",
+        "longitude": "-102.473938"
+    },
+    {
+        "county": "BACA",
+        "city": "PRITCHETT",
+        "zipcode": 81064,
+        "latitude": "+37.272262",
+        "longitude": "-102.914489"
+    },
+    {
+        "county": "BACA",
+        "city": "SPRINGFIELD",
+        "zipcode": 81073,
+        "latitude": "+37.371522",
+        "longitude": "-102.677359"
+    },
+    {
+        "county": "BACA",
+        "city": "TWO BUTTES",
+        "zipcode": 81084,
+        "latitude": "+37.521432",
+        "longitude": "-102.433241"
+    },
+    {
+        "county": "BACA",
+        "city": "VILAS",
+        "zipcode": 81087,
+        "latitude": "+37.339950",
+        "longitude": "-102.491522"
+    },
+    {
+        "county": "BACA",
+        "city": "WALSH",
+        "zipcode": 81090,
+        "latitude": "+37.368042",
+        "longitude": "-102.265146"
+    },
+    {
+        "county": "BENT",
+        "city": "FORT LYON",
+        "zipcode": 81038,
+        "latitude": "+37.955547",
+        "longitude": "-103.072469"
+    },
+    {
+        "county": "BENT",
+        "city": "HASTY",
+        "zipcode": 81044,
+        "latitude": "+37.959036",
+        "longitude": "-103.015041"
+    },
+    {
+        "county": "BENT",
+        "city": "LAS ANIMAS",
+        "zipcode": 81054,
+        "latitude": "+37.923031",
+        "longitude": "-103.088444"
+    },
+    {
+        "county": "BENT",
+        "city": "MC CLAVE",
+        "zipcode": 81057,
+        "latitude": "+38.085032",
+        "longitude": "-102.886910"
+    },
+    {
+        "county": "BOULDER",
+        "city": "ALLENSPARK",
+        "zipcode": 80510,
+        "latitude": "+40.210184",
+        "longitude": "-105.507950"
+    },
+    {
+        "county": "BOULDER",
+        "city": "BOULDER",
+        "zipcode": 80301,
+        "latitude": "+40.094787",
+        "longitude": "-105.278083"
+    },
+    {
+        "county": "BOULDER",
+        "city": "BOULDER",
+        "zipcode": 80302,
+        "latitude": "+40.063935",
+        "longitude": "-105.390027"
+    },
+    {
+        "county": "BOULDER",
+        "city": "BOULDER",
+        "zipcode": 80303,
+        "latitude": "+40.067772",
+        "longitude": "-105.274840"
+    },
+    {
+        "county": "BOULDER",
+        "city": "BOULDER",
+        "zipcode": 80304,
+        "latitude": "+40.114114",
+        "longitude": "-105.369797"
+    },
+    {
+        "county": "BOULDER",
+        "city": "BOULDER",
+        "zipcode": 80305,
+        "latitude": "",
+        "longitude": ""
+    },
+    {
+        "county": "BOULDER",
+        "city": "BOULDER",
+        "zipcode": 80306,
+        "latitude": "+40.102219",
+        "longitude": "-105.384694"
+    },
+    {
+        "county": "BOULDER",
+        "city": "BOULDER",
+        "zipcode": 80307,
+        "latitude": "+40.087835",
+        "longitude": "-105.373507"
+    },
+    {
+        "county": "BOULDER",
+        "city": "BOULDER",
+        "zipcode": 80308,
+        "latitude": "+40.027672",
+        "longitude": "-105.386800"
+    },
+    {
+        "county": "BOULDER",
+        "city": "BOULDER",
+        "zipcode": 80309,
+        "latitude": "+40.087835",
+        "longitude": "-105.373507"
+    },
+    {
+        "county": "BOULDER",
+        "city": "BOULDER",
+        "zipcode": 80310,
+        "latitude": "+40.087835",
+        "longitude": "-105.373507"
+    },
+    {
+        "county": "BOULDER",
+        "city": "BOULDER",
+        "zipcode": 80314,
+        "latitude": "+40.087835",
+        "longitude": "-105.373507"
+    },
+    {
+        "county": "BOULDER",
+        "city": "BOULDER",
+        "zipcode": 80321,
+        "latitude": "+40.087835",
+        "longitude": "-105.373507"
+    },
+    {
+        "county": "BOULDER",
+        "city": "BOULDER",
+        "zipcode": 80322,
+        "latitude": "+40.087835",
+        "longitude": "-105.373507"
+    },
+    {
+        "county": "BOULDER",
+        "city": "BOULDER",
+        "zipcode": 80323,
+        "latitude": "+40.087835",
+        "longitude": "-105.373507"
+    },
+    {
+        "county": "BOULDER",
+        "city": "BOULDER",
+        "zipcode": 80328,
+        "latitude": "+40.087835",
+        "longitude": "-105.373507"
+    },
+    {
+        "county": "BOULDER",
+        "city": "BOULDER",
+        "zipcode": 80329,
+        "latitude": "+40.087835",
+        "longitude": "-105.373507"
+    },
+    {
+        "county": "BOULDER",
+        "city": "BROOMFIELD",
+        "zipcode": 80020,
+        "latitude": "+40.046064",
+        "longitude": "-105.097151"
+    },
+    {
+        "county": "BOULDER",
+        "city": "BROOMFIELD",
+        "zipcode": 80038,
+        "latitude": "+40.087835",
+        "longitude": "-105.373507"
+    },
+    {
+        "county": "BOULDER",
+        "city": "ELDORADO SPRINGS",
+        "zipcode": 80025,
+        "latitude": "+39.932420",
+        "longitude": "-105.287967"
+    },
+    {
+        "county": "BOULDER",
+        "city": "HYGIENE",
+        "zipcode": 80533,
+        "latitude": "+40.181515",
+        "longitude": "-105.232695"
+    },
+    {
+        "county": "BOULDER",
+        "city": "JAMESTOWN",
+        "zipcode": 80455,
+        "latitude": "+40.101985",
+        "longitude": "-105.423992"
+    },
+    {
+        "county": "BOULDER",
+        "city": "LAFAYETTE",
+        "zipcode": 80026,
+        "latitude": "+40.026334",
+        "longitude": "-105.104899"
+    },
+    {
+        "county": "BOULDER",
+        "city": "LONGMONT",
+        "zipcode": 80501,
+        "latitude": "+40.165634",
+        "longitude": "-105.163300"
+    },
+    {
+        "county": "BOULDER",
+        "city": "LONGMONT",
+        "zipcode": 80502,
+        "latitude": "+40.087835",
+        "longitude": "-105.373507"
+    },
+    {
+        "county": "BOULDER",
+        "city": "LONGMONT",
+        "zipcode": 80503,
+        "latitude": "+40.159043",
+        "longitude": "-105.212558"
+    },
+    {
+        "county": "BOULDER",
+        "city": "LOUISVILLE",
+        "zipcode": 80027,
+        "latitude": "+39.980835",
+        "longitude": "-105.269915"
+    },
+    {
+        "county": "BOULDER",
+        "city": "LOUISVILLE",
+        "zipcode": 80028,
+        "latitude": "+40.087835",
+        "longitude": "-105.373507"
+    },
+    {
+        "county": "BOULDER",
+        "city": "LYONS",
+        "zipcode": 80540,
+        "latitude": "+40.189788",
+        "longitude": "-105.355280"
+    },
+    {
+        "county": "BOULDER",
+        "city": "NEDERLAND",
+        "zipcode": 80466,
+        "latitude": "+40.000686",
+        "longitude": "-105.495998"
+    },
+    {
+        "county": "BOULDER",
+        "city": "NIWOT",
+        "zipcode": 80544,
+        "latitude": "+40.177043",
+        "longitude": "-105.275045"
+    },
+    {
+        "county": "BOULDER",
+        "city": "PINECLIFFE",
+        "zipcode": 80471,
+        "latitude": "+39.947386",
+        "longitude": "-105.459269"
+    },
+    {
+        "county": "BOULDER",
+        "city": "WARD",
+        "zipcode": 80481,
+        "latitude": "+40.055785",
+        "longitude": "-105.472634"
+    },
+    {
+        "county": "CHAFFEE",
+        "city": "BUENA VISTA",
+        "zipcode": 81211,
+        "latitude": "+38.885032",
+        "longitude": "-106.179938"
+    },
+    {
+        "county": "CHAFFEE",
+        "city": "GRANITE",
+        "zipcode": 81228,
+        "latitude": "+39.030747",
+        "longitude": "-106.256615"
+    },
+    {
+        "county": "CHAFFEE",
+        "city": "MONARCH",
+        "zipcode": 81227,
+        "latitude": "+38.545757",
+        "longitude": "-106.243422"
+    },
+    {
+        "county": "CHAFFEE",
+        "city": "NATHROP",
+        "zipcode": 81236,
+        "latitude": "+38.747896",
+        "longitude": "-106.251196"
+    },
+    {
+        "county": "CHAFFEE",
+        "city": "PONCHA SPRINGS",
+        "zipcode": 81242,
+        "latitude": "+38.471892",
+        "longitude": "-106.097284"
+    },
+    {
+        "county": "CHAFFEE",
+        "city": "SALIDA",
+        "zipcode": 81201,
+        "latitude": "+38.629119",
+        "longitude": "-106.120582"
+    },
+    {
+        "county": "CHEYENNE",
+        "city": "ARAPAHOE",
+        "zipcode": 80802,
+        "latitude": "+38.847485",
+        "longitude": "-102.524932"
+    },
+    {
+        "county": "CHEYENNE",
+        "city": "CHEYENNE WELLS",
+        "zipcode": 80810,
+        "latitude": "+38.827259",
+        "longitude": "-102.411537"
+    },
+    {
+        "county": "CHEYENNE",
+        "city": "KIT CARSON",
+        "zipcode": 80825,
+        "latitude": "+38.827174",
+        "longitude": "-102.598136"
+    },
+    {
+        "county": "CHEYENNE",
+        "city": "WILD HORSE",
+        "zipcode": 80862,
+        "latitude": "+38.804111",
+        "longitude": "-103.079761"
+    },
+    {
+        "county": "CLEAR CREEK",
+        "city": "DUMONT",
+        "zipcode": 80436,
+        "latitude": "+39.753150",
+        "longitude": "-105.635592"
+    },
+    {
+        "county": "CLEAR CREEK",
+        "city": "EMPIRE",
+        "zipcode": 80438,
+        "latitude": "+39.761930",
+        "longitude": "-105.665451"
+    },
+    {
+        "county": "CLEAR CREEK",
+        "city": "GEORGETOWN",
+        "zipcode": 80444,
+        "latitude": "+39.725703",
+        "longitude": "-105.760626"
+    },
+    {
+        "county": "CLEAR CREEK",
+        "city": "IDAHO SPRINGS",
+        "zipcode": 80452,
+        "latitude": "+39.706574",
+        "longitude": "-105.541583"
+    },
+    {
+        "county": "CLEAR CREEK",
+        "city": "SILVER PLUME",
+        "zipcode": 80476,
+        "latitude": "+39.699631",
+        "longitude": "-105.750740"
+    },
+    {
+        "county": "CONEJOS",
+        "city": "ANTONITO",
+        "zipcode": 81120,
+        "latitude": "+37.135059",
+        "longitude": "-106.190367"
+    },
+    {
+        "county": "CONEJOS",
+        "city": "CAPULIN",
+        "zipcode": 81124,
+        "latitude": "+37.304205",
+        "longitude": "-106.127935"
+    },
+    {
+        "county": "CONEJOS",
+        "city": "CONEJOS",
+        "zipcode": 81129,
+        "latitude": "+37.101134",
+        "longitude": "-106.026480"
+    },
+    {
+        "county": "CONEJOS",
+        "city": "LA JARA",
+        "zipcode": 81140,
+        "latitude": "+37.276566",
+        "longitude": "-106.007989"
+    },
+    {
+        "county": "CONEJOS",
+        "city": "MANASSA",
+        "zipcode": 81141,
+        "latitude": "+37.175463",
+        "longitude": "-105.927841"
+    },
+    {
+        "county": "CONEJOS",
+        "city": "ROMEO",
+        "zipcode": 81148,
+        "latitude": "+37.172101",
+        "longitude": "-105.985811"
+    },
+    {
+        "county": "CONEJOS",
+        "city": "SANFORD",
+        "zipcode": 81151,
+        "latitude": "+37.255221",
+        "longitude": "-105.848097"
+    },
+    {
+        "county": "COSTILLA",
+        "city": "BLANCA",
+        "zipcode": 81123,
+        "latitude": "+37.435812",
+        "longitude": "-105.573480"
+    },
+    {
+        "county": "COSTILLA",
+        "city": "CHAMA",
+        "zipcode": 81126,
+        "latitude": "+37.326735",
+        "longitude": "-105.450502"
+    },
+    {
+        "county": "COSTILLA",
+        "city": "FORT GARLAND",
+        "zipcode": 81133,
+        "latitude": "+37.403455",
+        "longitude": "-105.415437"
+    },
+    {
+        "county": "COSTILLA",
+        "city": "GARCIA",
+        "zipcode": 81134,
+        "latitude": "+37.092195",
+        "longitude": "-105.530023"
+    },
+    {
+        "county": "COSTILLA",
+        "city": "JAROSO",
+        "zipcode": 81138,
+        "latitude": "+37.197731",
+        "longitude": "-105.429395"
+    },
+    {
+        "county": "COSTILLA",
+        "city": "SAN LUIS",
+        "zipcode": 81152,
+        "latitude": "+37.106599",
+        "longitude": "-105.478130"
+    },
+    {
+        "county": "COSTILLA",
+        "city": "SAN PABLO",
+        "zipcode": 81153,
+        "latitude": "+37.202995",
+        "longitude": "-105.418718"
+    },
+    {
+        "county": "CROWLEY",
+        "city": "CROWLEY",
+        "zipcode": 81033,
+        "latitude": "+38.229447",
+        "longitude": "-103.804241"
+    },
+    {
+        "county": "CROWLEY",
+        "city": "CROWLEY",
+        "zipcode": 81034,
+        "latitude": "+38.317851",
+        "longitude": "-103.779959"
+    },
+    {
+        "county": "CROWLEY",
+        "city": "OLNEY SPRINGS",
+        "zipcode": 81062,
+        "latitude": "+38.327723",
+        "longitude": "-103.953208"
+    },
+    {
+        "county": "CROWLEY",
+        "city": "ORDWAY",
+        "zipcode": 81063,
+        "latitude": "+38.317486",
+        "longitude": "-103.780036"
+    },
+    {
+        "county": "CROWLEY",
+        "city": "SUGAR CITY",
+        "zipcode": 81076,
+        "latitude": "+38.315371",
+        "longitude": "-103.599555"
+    },
+    {
+        "county": "CUSTER",
+        "city": "WESTCLIFFE",
+        "zipcode": 81252,
+        "latitude": "+38.095173",
+        "longitude": "-105.421953"
+    },
+    {
+        "county": "CUSTER",
+        "city": "WETMORE",
+        "zipcode": 81253,
+        "latitude": "+38.121657",
+        "longitude": "-105.147660"
+    },
+    {
+        "county": "DELTA",
+        "city": "AUSTIN",
+        "zipcode": 81410,
+        "latitude": "+38.805013",
+        "longitude": "-107.983125"
+    },
+    {
+        "county": "DELTA",
+        "city": "CEDAREDGE",
+        "zipcode": 81413,
+        "latitude": "+38.881646",
+        "longitude": "-107.795704"
+    },
+    {
+        "county": "DELTA",
+        "city": "CORY",
+        "zipcode": 81414,
+        "latitude": "+38.788697",
+        "longitude": "-107.986174"
+    },
+    {
+        "county": "DELTA",
+        "city": "CRAWFORD",
+        "zipcode": 81415,
+        "latitude": "+38.767652",
+        "longitude": "-107.630890"
+    },
+    {
+        "county": "DELTA",
+        "city": "DELTA",
+        "zipcode": 81416,
+        "latitude": "+38.785768",
+        "longitude": "-107.970780"
+    },
+    {
+        "county": "DELTA",
+        "city": "ECKERT",
+        "zipcode": 81418,
+        "latitude": "+38.875340",
+        "longitude": "-107.961178"
+    },
+    {
+        "county": "DELTA",
+        "city": "HOTCHKISS",
+        "zipcode": 81419,
+        "latitude": "+38.859973",
+        "longitude": "-107.752349"
+    },
+    {
+        "county": "DELTA",
+        "city": "LAZEAR",
+        "zipcode": 81420,
+        "latitude": "+38.781745",
+        "longitude": "-107.780778"
+    },
+    {
+        "county": "DELTA",
+        "city": "MAHER",
+        "zipcode": 81421,
+        "latitude": "+38.942927",
+        "longitude": "-107.939831"
+    },
+    {
+        "county": "DELTA",
+        "city": "PAONIA",
+        "zipcode": 81428,
+        "latitude": "+38.877198",
+        "longitude": "-107.609167"
+    },
+    {
+        "county": "DENVER",
+        "city": "DENVER",
+        "zipcode": 80201,
+        "latitude": "+39.726303",
+        "longitude": "-104.856808"
+    },
+    {
+        "county": "DENVER",
+        "city": "DENVER",
+        "zipcode": 80202,
+        "latitude": "+39.760189",
+        "longitude": "-104.996553"
+    },
+    {
+        "county": "DENVER",
+        "city": "DENVER",
+        "zipcode": 80203,
+        "latitude": "+39.729205",
+        "longitude": "-104.970331"
+    },
+    {
+        "county": "DENVER",
+        "city": "DENVER",
+        "zipcode": 80204,
+        "latitude": "+39.720136",
+        "longitude": "-105.021502"
+    },
+    {
+        "county": "DENVER",
+        "city": "DENVER",
+        "zipcode": 80205,
+        "latitude": "+39.760137",
+        "longitude": "-104.967585"
+    },
+    {
+        "county": "DENVER",
+        "city": "DENVER",
+        "zipcode": 80206,
+        "latitude": "+39.730787",
+        "longitude": "-104.953335"
+    },
+    {
+        "county": "DENVER",
+        "city": "DENVER",
+        "zipcode": 80207,
+        "latitude": "+39.713186",
+        "longitude": "-104.903532"
+    },
+    {
+        "county": "DENVER",
+        "city": "DENVER",
+        "zipcode": 80208,
+        "latitude": "+39.738752",
+        "longitude": "-104.408349"
+    },
+    {
+        "county": "DENVER",
+        "city": "DENVER",
+        "zipcode": 80209,
+        "latitude": "+39.707332",
+        "longitude": "-104.964236"
+    },
+    {
+        "county": "DENVER",
+        "city": "DENVER",
+        "zipcode": 80210,
+        "latitude": "+39.701677",
+        "longitude": "-104.964186"
+    },
+    {
+        "county": "DENVER",
+        "city": "DENVER",
+        "zipcode": 80211,
+        "latitude": "+39.765291",
+        "longitude": "-105.018387"
+    },
+    {
+        "county": "DENVER",
+        "city": "DENVER",
+        "zipcode": 80212,
+        "latitude": "+39.768286",
+        "longitude": "-105.049338"
+    },
+    {
+        "county": "DENVER",
+        "city": "DENVER",
+        "zipcode": 80216,
+        "latitude": "+39.777036",
+        "longitude": "-104.942034"
+    },
+    {
+        "county": "DENVER",
+        "city": "DENVER",
+        "zipcode": 80217,
+        "latitude": "+39.738752",
+        "longitude": "-104.408349"
+    },
+    {
+        "county": "DENVER",
+        "city": "DENVER",
+        "zipcode": 80218,
+        "latitude": "+39.720236",
+        "longitude": "-104.968759"
+    },
+    {
+        "county": "DENVER",
+        "city": "DENVER",
+        "zipcode": 80219,
+        "latitude": "+39.695014",
+        "longitude": "-105.034339"
+    },
+    {
+        "county": "DENVER",
+        "city": "DENVER",
+        "zipcode": 80220,
+        "latitude": "+39.732436",
+        "longitude": "-104.910843"
+    },
+    {
+        "county": "DENVER",
+        "city": "DENVER",
+        "zipcode": 80222,
+        "latitude": "+39.709343",
+        "longitude": "-104.924134"
+    },
+    {
+        "county": "DENVER",
+        "city": "DENVER",
+        "zipcode": 80223,
+        "latitude": "+39.707186",
+        "longitude": "-105.008762"
+    },
+    {
+        "county": "DENVER",
+        "city": "DENVER",
+        "zipcode": 80224,
+        "latitude": "+39.702037",
+        "longitude": "-104.911434"
+    },
+    {
+        "county": "DENVER",
+        "city": "DENVER",
+        "zipcode": 80227,
+        "latitude": "+39.667479",
+        "longitude": "-105.067136"
+    },
+    {
+        "county": "DENVER",
+        "city": "DENVER",
+        "zipcode": 80230,
+        "latitude": "+39.721848",
+        "longitude": "-104.895093"
+    },
+    {
+        "county": "DENVER",
+        "city": "DENVER",
+        "zipcode": 80231,
+        "latitude": "+39.684930",
+        "longitude": "-104.886785"
+    },
+    {
+        "county": "DENVER",
+        "city": "DENVER",
+        "zipcode": 80235,
+        "latitude": "+39.645837",
+        "longitude": "-105.065003"
+    },
+    {
+        "county": "DENVER",
+        "city": "DENVER",
+        "zipcode": 80236,
+        "latitude": "+39.649837",
+        "longitude": "-105.034988"
+    },
+    {
+        "county": "DENVER",
+        "city": "DENVER",
+        "zipcode": 80237,
+        "latitude": "+39.638537",
+        "longitude": "-104.903984"
+    },
+    {
+        "county": "DENVER",
+        "city": "DENVER",
+        "zipcode": 80238,
+        "latitude": "+39.738752",
+        "longitude": "-104.408349"
+    },
+    {
+        "county": "DENVER",
+        "city": "DENVER",
+        "zipcode": 80239,
+        "latitude": "+39.804398",
+        "longitude": "-104.813919"
+    },
+    {
+        "county": "DENVER",
+        "city": "DENVER",
+        "zipcode": 80243,
+        "latitude": "+39.738752",
+        "longitude": "-104.408349"
+    },
+    {
+        "county": "DENVER",
+        "city": "DENVER",
+        "zipcode": 80244,
+        "latitude": "+39.738752",
+        "longitude": "-104.408349"
+    },
+    {
+        "county": "DENVER",
+        "city": "DENVER",
+        "zipcode": 80246,
+        "latitude": "+39.708637",
+        "longitude": "-104.931234"
+    },
+    {
+        "county": "DENVER",
+        "city": "DENVER",
+        "zipcode": 80248,
+        "latitude": "+39.738752",
+        "longitude": "-104.408349"
+    },
+    {
+        "county": "DENVER",
+        "city": "DENVER",
+        "zipcode": 80249,
+        "latitude": "+39.837760",
+        "longitude": "-104.697674"
+    },
+    {
+        "county": "DENVER",
+        "city": "DENVER",
+        "zipcode": 80250,
+        "latitude": "+39.738752",
+        "longitude": "-104.408349"
+    },
+    {
+        "county": "DENVER",
+        "city": "DENVER",
+        "zipcode": 80251,
+        "latitude": "+39.738752",
+        "longitude": "-104.408349"
+    },
+    {
+        "county": "DENVER",
+        "city": "DENVER",
+        "zipcode": 80252,
+        "latitude": "+39.738752",
+        "longitude": "-104.408349"
+    },
+    {
+        "county": "DENVER",
+        "city": "DENVER",
+        "zipcode": 80254,
+        "latitude": "+39.738752",
+        "longitude": "-104.408349"
+    },
+    {
+        "county": "DENVER",
+        "city": "DENVER",
+        "zipcode": 80255,
+        "latitude": "+39.738752",
+        "longitude": "-104.408349"
+    },
+    {
+        "county": "DENVER",
+        "city": "DENVER",
+        "zipcode": 80256,
+        "latitude": "+39.747390",
+        "longitude": "-104.992842"
+    },
+    {
+        "county": "DENVER",
+        "city": "DENVER",
+        "zipcode": 80257,
+        "latitude": "+39.738752",
+        "longitude": "-104.408349"
+    },
+    {
+        "county": "DENVER",
+        "city": "DENVER",
+        "zipcode": 80259,
+        "latitude": "+39.746239",
+        "longitude": "-104.991334"
+    },
+    {
+        "county": "DENVER",
+        "city": "DENVER",
+        "zipcode": 80261,
+        "latitude": "+39.737929",
+        "longitude": "-104.985036"
+    },
+    {
+        "county": "DENVER",
+        "city": "DENVER",
+        "zipcode": 80262,
+        "latitude": "+39.731038",
+        "longitude": "-104.938391"
+    },
+    {
+        "county": "DENVER",
+        "city": "DENVER",
+        "zipcode": 80263,
+        "latitude": "+39.738752",
+        "longitude": "-104.408349"
+    },
+    {
+        "county": "DENVER",
+        "city": "DENVER",
+        "zipcode": 80264,
+        "latitude": "+39.742590",
+        "longitude": "-104.986292"
+    },
+    {
+        "county": "DENVER",
+        "city": "DENVER",
+        "zipcode": 80265,
+        "latitude": "+39.738752",
+        "longitude": "-104.408349"
+    },
+    {
+        "county": "DENVER",
+        "city": "DENVER",
+        "zipcode": 80266,
+        "latitude": "+39.747179",
+        "longitude": "-104.991511"
+    },
+    {
+        "county": "DENVER",
+        "city": "DENVER",
+        "zipcode": 80270,
+        "latitude": "+39.738752",
+        "longitude": "-104.408349"
+    },
+    {
+        "county": "DENVER",
+        "city": "DENVER",
+        "zipcode": 80271,
+        "latitude": "+39.738752",
+        "longitude": "-104.408349"
+    },
+    {
+        "county": "DENVER",
+        "city": "DENVER",
+        "zipcode": 80273,
+        "latitude": "+39.727293",
+        "longitude": "-104.987535"
+    },
+    {
+        "county": "DENVER",
+        "city": "DENVER",
+        "zipcode": 80274,
+        "latitude": "+39.743934",
+        "longitude": "-104.987577"
+    },
+    {
+        "county": "DENVER",
+        "city": "DENVER",
+        "zipcode": 80275,
+        "latitude": "+39.738752",
+        "longitude": "-104.408349"
+    },
+    {
+        "county": "DENVER",
+        "city": "DENVER",
+        "zipcode": 80279,
+        "latitude": "+39.738752",
+        "longitude": "-104.408349"
+    },
+    {
+        "county": "DENVER",
+        "city": "DENVER",
+        "zipcode": 80280,
+        "latitude": "+39.716675",
+        "longitude": "-104.906942"
+    },
+    {
+        "county": "DENVER",
+        "city": "DENVER",
+        "zipcode": 80281,
+        "latitude": "+39.743940",
+        "longitude": "-104.987577"
+    },
+    {
+        "county": "DENVER",
+        "city": "DENVER",
+        "zipcode": 80285,
+        "latitude": "",
+        "longitude": ""
+    },
+    {
+        "county": "DENVER",
+        "city": "DENVER",
+        "zipcode": 80290,
+        "latitude": "+39.743608",
+        "longitude": "-104.987556"
+    },
+    {
+        "county": "DENVER",
+        "city": "DENVER",
+        "zipcode": 80291,
+        "latitude": "+39.743940",
+        "longitude": "-104.987577"
+    },
+    {
+        "county": "DENVER",
+        "city": "DENVER",
+        "zipcode": 80292,
+        "latitude": "+39.747390",
+        "longitude": "-104.992842"
+    },
+    {
+        "county": "DENVER",
+        "city": "DENVER",
+        "zipcode": 80293,
+        "latitude": "+39.745786",
+        "longitude": "-104.990686"
+    },
+    {
+        "county": "DENVER",
+        "city": "DENVER",
+        "zipcode": 80294,
+        "latitude": "+39.749086",
+        "longitude": "-104.989036"
+    },
+    {
+        "county": "DENVER",
+        "city": "DENVER",
+        "zipcode": 80295,
+        "latitude": "+39.745486",
+        "longitude": "-104.986336"
+    },
+    {
+        "county": "DENVER",
+        "city": "DENVER",
+        "zipcode": 80299,
+        "latitude": "+39.738752",
+        "longitude": "-104.408349"
+    },
+    {
+        "county": "DOLORES",
+        "city": "CAHONE",
+        "zipcode": 81320,
+        "latitude": "+37.718233",
+        "longitude": "-108.791671"
+    },
+    {
+        "county": "DOLORES",
+        "city": "DOVE CREEK",
+        "zipcode": 81324,
+        "latitude": "+37.711532",
+        "longitude": "-108.924334"
+    },
+    {
+        "county": "DOLORES",
+        "city": "RICO",
+        "zipcode": 81332,
+        "latitude": "+37.690498",
+        "longitude": "-108.032410"
+    },
+    {
+        "county": "DOUGLAS",
+        "city": "CASTLE ROCK",
+        "zipcode": 80104,
+        "latitude": "+39.374779",
+        "longitude": "-104.849988"
+    },
+    {
+        "county": "DOUGLAS",
+        "city": "FRANKTOWN",
+        "zipcode": 80116,
+        "latitude": "+39.304030",
+        "longitude": "-104.756722"
+    },
+    {
+        "county": "DOUGLAS",
+        "city": "LARKSPUR",
+        "zipcode": 80118,
+        "latitude": "+39.213354",
+        "longitude": "-104.950189"
+    },
+    {
+        "county": "DOUGLAS",
+        "city": "LITTLETON",
+        "zipcode": 80124,
+        "latitude": "+39.529639",
+        "longitude": "-104.906562"
+    },
+    {
+        "county": "DOUGLAS",
+        "city": "LITTLETON",
+        "zipcode": 80125,
+        "latitude": "+39.495327",
+        "longitude": "-105.058970"
+    },
+    {
+        "county": "DOUGLAS",
+        "city": "LITTLETON",
+        "zipcode": 80126,
+        "latitude": "+39.543720",
+        "longitude": "-104.969143"
+    },
+    {
+        "county": "DOUGLAS",
+        "city": "LITTLETON",
+        "zipcode": 80129,
+        "latitude": "",
+        "longitude": ""
+    },
+    {
+        "county": "DOUGLAS",
+        "city": "LITTLETON",
+        "zipcode": 80130,
+        "latitude": "",
+        "longitude": ""
+    },
+    {
+        "county": "DOUGLAS",
+        "city": "LITTLETON",
+        "zipcode": 80163,
+        "latitude": "+39.347863",
+        "longitude": "-104.994708"
+    },
+    {
+        "county": "DOUGLAS",
+        "city": "LOUVIERS",
+        "zipcode": 80131,
+        "latitude": "+39.347863",
+        "longitude": "-104.994708"
+    },
+    {
+        "county": "DOUGLAS",
+        "city": "PARKER",
+        "zipcode": 80134,
+        "latitude": "+39.489472",
+        "longitude": "-104.844731"
+    },
+    {
+        "county": "DOUGLAS",
+        "city": "PARKER",
+        "zipcode": 80138,
+        "latitude": "+39.510214",
+        "longitude": "-104.721607"
+    },
+    {
+        "county": "DOUGLAS",
+        "city": "SEDALIA",
+        "zipcode": 80135,
+        "latitude": "+39.311334",
+        "longitude": "-105.067554"
+    },
+    {
+        "county": "EAGLE",
+        "city": "AVON",
+        "zipcode": 81620,
+        "latitude": "+39.631349",
+        "longitude": "-106.510843"
+    },
+    {
+        "county": "EAGLE",
+        "city": "BASALT",
+        "zipcode": 81621,
+        "latitude": "+39.495223",
+        "longitude": "-106.804842"
+    },
+    {
+        "county": "EAGLE",
+        "city": "BOND",
+        "zipcode": 80423,
+        "latitude": "+39.860356",
+        "longitude": "-106.631246"
+    },
+    {
+        "county": "EAGLE",
+        "city": "BURNS",
+        "zipcode": 80426,
+        "latitude": "+39.783610",
+        "longitude": "-106.896452"
+    },
+    {
+        "county": "EAGLE",
+        "city": "EAGLE",
+        "zipcode": 81631,
+        "latitude": "+39.607401",
+        "longitude": "-106.805111"
+    },
+    {
+        "county": "EAGLE",
+        "city": "EDWARDS",
+        "zipcode": 81632,
+        "latitude": "+39.638166",
+        "longitude": "-106.620644"
+    },
+    {
+        "county": "EAGLE",
+        "city": "GYPSUM",
+        "zipcode": 81637,
+        "latitude": "+39.615505",
+        "longitude": "-106.895722"
+    },
+    {
+        "county": "EAGLE",
+        "city": "MC COY",
+        "zipcode": 80463,
+        "latitude": "+39.827120",
+        "longitude": "-106.772151"
+    },
+    {
+        "county": "EAGLE",
+        "city": "MINTURN",
+        "zipcode": 81645,
+        "latitude": "+39.580461",
+        "longitude": "-106.417574"
+    },
+    {
+        "county": "EAGLE",
+        "city": "RED CLIFF",
+        "zipcode": 81649,
+        "latitude": "+39.458351",
+        "longitude": "-106.385056"
+    },
+    {
+        "county": "EAGLE",
+        "city": "VAIL",
+        "zipcode": 81657,
+        "latitude": "+39.582400",
+        "longitude": "-106.448730"
+    },
+    {
+        "county": "EAGLE",
+        "city": "VAIL",
+        "zipcode": 81658,
+        "latitude": "+39.624171",
+        "longitude": "-106.497314"
+    },
+    {
+        "county": "EAGLE",
+        "city": "WOLCOTT",
+        "zipcode": 81655,
+        "latitude": "+39.790730",
+        "longitude": "-106.696372"
+    },
+    {
+        "county": "EL PASO",
+        "city": "CALHAN",
+        "zipcode": 80808,
+        "latitude": "+38.940430",
+        "longitude": "-104.282512"
+    },
+    {
+        "county": "EL PASO",
+        "city": "CASCADE",
+        "zipcode": 80809,
+        "latitude": "+38.945534",
+        "longitude": "-104.994972"
+    },
+    {
+        "county": "EL PASO",
+        "city": "COLORADO SPRINGS",
+        "zipcode": 80901,
+        "latitude": "+38.861469",
+        "longitude": "-104.857828"
+    },
+    {
+        "county": "EL PASO",
+        "city": "COLORADO SPRINGS",
+        "zipcode": 80903,
+        "latitude": "+38.828893",
+        "longitude": "-104.809929"
+    },
+    {
+        "county": "EL PASO",
+        "city": "COLORADO SPRINGS",
+        "zipcode": 80904,
+        "latitude": "+38.861981",
+        "longitude": "-104.874531"
+    },
+    {
+        "county": "EL PASO",
+        "city": "COLORADO SPRINGS",
+        "zipcode": 80905,
+        "latitude": "+38.844319",
+        "longitude": "-104.801472"
+    },
+    {
+        "county": "EL PASO",
+        "city": "COLORADO SPRINGS",
+        "zipcode": 80906,
+        "latitude": "+38.796074",
+        "longitude": "-104.841763"
+    },
+    {
+        "county": "EL PASO",
+        "city": "COLORADO SPRINGS",
+        "zipcode": 80907,
+        "latitude": "+38.943076",
+        "longitude": "-104.814440"
+    },
+    {
+        "county": "EL PASO",
+        "city": "COLORADO SPRINGS",
+        "zipcode": 80908,
+        "latitude": "+39.020647",
+        "longitude": "-104.705498"
+    },
+    {
+        "county": "EL PASO",
+        "city": "COLORADO SPRINGS",
+        "zipcode": 80909,
+        "latitude": "+38.838268",
+        "longitude": "-104.850230"
+    },
+    {
+        "county": "EL PASO",
+        "city": "COLORADO SPRINGS",
+        "zipcode": 80910,
+        "latitude": "+38.804094",
+        "longitude": "-104.772059"
+    },
+    {
+        "county": "EL PASO",
+        "city": "COLORADO SPRINGS",
+        "zipcode": 80911,
+        "latitude": "+38.922849",
+        "longitude": "-104.789157"
+    },
+    {
+        "county": "EL PASO",
+        "city": "COLORADO SPRINGS",
+        "zipcode": 80912,
+        "latitude": "+38.824690",
+        "longitude": "-104.562027"
+    },
+    {
+        "county": "EL PASO",
+        "city": "COLORADO SPRINGS",
+        "zipcode": 80913,
+        "latitude": "+38.729969",
+        "longitude": "-104.753607"
+    },
+    {
+        "county": "EL PASO",
+        "city": "COLORADO SPRINGS",
+        "zipcode": 80914,
+        "latitude": "+38.819195",
+        "longitude": "-104.701177"
+    },
+    {
+        "county": "EL PASO",
+        "city": "COLORADO SPRINGS",
+        "zipcode": 80915,
+        "latitude": "+38.874436",
+        "longitude": "-104.751515"
+    },
+    {
+        "county": "EL PASO",
+        "city": "COLORADO SPRINGS",
+        "zipcode": 80916,
+        "latitude": "+38.810330",
+        "longitude": "-104.718555"
+    },
+    {
+        "county": "EL PASO",
+        "city": "COLORADO SPRINGS",
+        "zipcode": 80917,
+        "latitude": "+38.825130",
+        "longitude": "-104.746689"
+    },
+    {
+        "county": "EL PASO",
+        "city": "COLORADO SPRINGS",
+        "zipcode": 80918,
+        "latitude": "+38.903190",
+        "longitude": "-104.807998"
+    },
+    {
+        "county": "EL PASO",
+        "city": "COLORADO SPRINGS",
+        "zipcode": 80919,
+        "latitude": "+38.938149",
+        "longitude": "-104.917436"
+    },
+    {
+        "county": "EL PASO",
+        "city": "COLORADO SPRINGS",
+        "zipcode": 80920,
+        "latitude": "+38.965298",
+        "longitude": "-104.755956"
+    },
+    {
+        "county": "EL PASO",
+        "city": "COLORADO SPRINGS",
+        "zipcode": 80921,
+        "latitude": "+39.055054",
+        "longitude": "-104.891220"
+    },
+    {
+        "county": "EL PASO",
+        "city": "COLORADO SPRINGS",
+        "zipcode": 80922,
+        "latitude": "+38.904817",
+        "longitude": "-104.701240"
+    },
+    {
+        "county": "EL PASO",
+        "city": "COLORADO SPRINGS",
+        "zipcode": 80925,
+        "latitude": "+38.737774",
+        "longitude": "-104.645854"
+    },
+    {
+        "county": "EL PASO",
+        "city": "COLORADO SPRINGS",
+        "zipcode": 80926,
+        "latitude": "+38.644087",
+        "longitude": "-104.880825"
+    },
+    {
+        "county": "EL PASO",
+        "city": "COLORADO SPRINGS",
+        "zipcode": 80928,
+        "latitude": "+38.645078",
+        "longitude": "-104.395746"
+    },
+    {
+        "county": "EL PASO",
+        "city": "COLORADO SPRINGS",
+        "zipcode": 80929,
+        "latitude": "+38.846355",
+        "longitude": "-104.624727"
+    },
+    {
+        "county": "EL PASO",
+        "city": "COLORADO SPRINGS",
+        "zipcode": 80930,
+        "latitude": "+38.824202",
+        "longitude": "-104.493259"
+    },
+    {
+        "county": "EL PASO",
+        "city": "COLORADO SPRINGS",
+        "zipcode": 80931,
+        "latitude": "+38.953003",
+        "longitude": "-104.609230"
+    },
+    {
+        "county": "EL PASO",
+        "city": "COLORADO SPRINGS",
+        "zipcode": 80932,
+        "latitude": "+38.824690",
+        "longitude": "-104.562027"
+    },
+    {
+        "county": "EL PASO",
+        "city": "COLORADO SPRINGS",
+        "zipcode": 80933,
+        "latitude": "+38.939371",
+        "longitude": "-105.011786"
+    },
+    {
+        "county": "EL PASO",
+        "city": "COLORADO SPRINGS",
+        "zipcode": 80934,
+        "latitude": "+38.824690",
+        "longitude": "-104.562027"
+    },
+    {
+        "county": "EL PASO",
+        "city": "COLORADO SPRINGS",
+        "zipcode": 80935,
+        "latitude": "+38.824690",
+        "longitude": "-104.562027"
+    },
+    {
+        "county": "EL PASO",
+        "city": "COLORADO SPRINGS",
+        "zipcode": 80936,
+        "latitude": "+38.824690",
+        "longitude": "-104.562027"
+    },
+    {
+        "county": "EL PASO",
+        "city": "COLORADO SPRINGS",
+        "zipcode": 80937,
+        "latitude": "+38.824690",
+        "longitude": "-104.562027"
+    },
+    {
+        "county": "EL PASO",
+        "city": "COLORADO SPRINGS",
+        "zipcode": 80940,
+        "latitude": "+38.824690",
+        "longitude": "-104.562027"
+    },
+    {
+        "county": "EL PASO",
+        "city": "COLORADO SPRINGS",
+        "zipcode": 80941,
+        "latitude": "+38.824690",
+        "longitude": "-104.562027"
+    },
+    {
+        "county": "EL PASO",
+        "city": "COLORADO SPRINGS",
+        "zipcode": 80942,
+        "latitude": "+38.824690",
+        "longitude": "-104.562027"
+    },
+    {
+        "county": "EL PASO",
+        "city": "COLORADO SPRINGS",
+        "zipcode": 80943,
+        "latitude": "+38.824690",
+        "longitude": "-104.562027"
+    },
+    {
+        "county": "EL PASO",
+        "city": "COLORADO SPRINGS",
+        "zipcode": 80944,
+        "latitude": "+38.824690",
+        "longitude": "-104.562027"
+    },
+    {
+        "county": "EL PASO",
+        "city": "COLORADO SPRINGS",
+        "zipcode": 80945,
+        "latitude": "+38.824690",
+        "longitude": "-104.562027"
+    },
+    {
+        "county": "EL PASO",
+        "city": "COLORADO SPRINGS",
+        "zipcode": 80946,
+        "latitude": "+38.824690",
+        "longitude": "-104.562027"
+    },
+    {
+        "county": "EL PASO",
+        "city": "COLORADO SPRINGS",
+        "zipcode": 80947,
+        "latitude": "+38.824690",
+        "longitude": "-104.562027"
+    },
+    {
+        "county": "EL PASO",
+        "city": "COLORADO SPRINGS",
+        "zipcode": 80949,
+        "latitude": "+38.824690",
+        "longitude": "-104.562027"
+    },
+    {
+        "county": "EL PASO",
+        "city": "COLORADO SPRINGS",
+        "zipcode": 80950,
+        "latitude": "+38.824690",
+        "longitude": "-104.562027"
+    },
+    {
+        "county": "EL PASO",
+        "city": "COLORADO SPRINGS",
+        "zipcode": 80960,
+        "latitude": "+38.824690",
+        "longitude": "-104.562027"
+    },
+    {
+        "county": "EL PASO",
+        "city": "COLORADO SPRINGS",
+        "zipcode": 80962,
+        "latitude": "+38.824690",
+        "longitude": "-104.562027"
+    },
+    {
+        "county": "EL PASO",
+        "city": "COLORADO SPRINGS",
+        "zipcode": 80970,
+        "latitude": "+38.824690",
+        "longitude": "-104.562027"
+    },
+    {
+        "county": "EL PASO",
+        "city": "COLORADO SPRINGS",
+        "zipcode": 80977,
+        "latitude": "+38.824690",
+        "longitude": "-104.562027"
+    },
+    {
+        "county": "EL PASO",
+        "city": "COLORADO SPRINGS",
+        "zipcode": 80995,
+        "latitude": "+38.824690",
+        "longitude": "-104.562027"
+    },
+    {
+        "county": "EL PASO",
+        "city": "COLORADO SPRINGS",
+        "zipcode": 80997,
+        "latitude": "+38.824690",
+        "longitude": "-104.562027"
+    },
+    {
+        "county": "EL PASO",
+        "city": "FOUNTAIN",
+        "zipcode": 80817,
+        "latitude": "+38.663856",
+        "longitude": "-104.652221"
+    },
+    {
+        "county": "EL PASO",
+        "city": "GREEN MOUNTAIN FALLS",
+        "zipcode": 80819,
+        "latitude": "+38.938930",
+        "longitude": "-105.009444"
+    },
+    {
+        "county": "EL PASO",
+        "city": "MANITOU SPRINGS",
+        "zipcode": 80829,
+        "latitude": "+38.853366",
+        "longitude": "-104.927452"
+    },
+    {
+        "county": "EL PASO",
+        "city": "MONUMENT",
+        "zipcode": 80132,
+        "latitude": "+39.086393",
+        "longitude": "-104.807666"
+    },
+    {
+        "county": "EL PASO",
+        "city": "PALMER LAKE",
+        "zipcode": 80133,
+        "latitude": "+39.112138",
+        "longitude": "-104.900328"
+    },
+    {
+        "county": "EL PASO",
+        "city": "PEYTON",
+        "zipcode": 80831,
+        "latitude": "+38.984206",
+        "longitude": "-104.526328"
+    },
+    {
+        "county": "EL PASO",
+        "city": "RAMAH",
+        "zipcode": 80832,
+        "latitude": "+39.035064",
+        "longitude": "-104.163326"
+    },
+    {
+        "county": "EL PASO",
+        "city": "RUSH",
+        "zipcode": 80833,
+        "latitude": "+38.818756",
+        "longitude": "-104.117904"
+    },
+    {
+        "county": "EL PASO",
+        "city": "U S A F ACADEMY",
+        "zipcode": 80840,
+        "latitude": "+38.979235",
+        "longitude": "-104.860561"
+    },
+    {
+        "county": "EL PASO",
+        "city": "U S A F ACADEMY",
+        "zipcode": 80841,
+        "latitude": "+38.824690",
+        "longitude": "-104.562027"
+    },
+    {
+        "county": "EL PASO",
+        "city": "YODER",
+        "zipcode": 80864,
+        "latitude": "+38.738943",
+        "longitude": "-104.193088"
+    },
+    {
+        "county": "ELBERT",
+        "city": "AGATE",
+        "zipcode": 80101,
+        "latitude": "+39.382335",
+        "longitude": "-104.084781"
+    },
+    {
+        "county": "ELBERT",
+        "city": "ELBERT",
+        "zipcode": 80106,
+        "latitude": "+39.208967",
+        "longitude": "-104.505121"
+    },
+    {
+        "county": "ELBERT",
+        "city": "ELIZABETH",
+        "zipcode": 80107,
+        "latitude": "+39.382844",
+        "longitude": "-104.495911"
+    },
+    {
+        "county": "ELBERT",
+        "city": "KIOWA",
+        "zipcode": 80117,
+        "latitude": "+39.370254",
+        "longitude": "-104.421214"
+    },
+    {
+        "county": "ELBERT",
+        "city": "MATHESON",
+        "zipcode": 80830,
+        "latitude": "+39.114381",
+        "longitude": "-103.900144"
+    },
+    {
+        "county": "ELBERT",
+        "city": "SIMLA",
+        "zipcode": 80835,
+        "latitude": "+39.208696",
+        "longitude": "-104.070186"
+    },
+    {
+        "county": "FREMONT",
+        "city": "CANON CITY",
+        "zipcode": 81212,
+        "latitude": "+38.477727",
+        "longitude": "-105.507603"
+    },
+    {
+        "county": "FREMONT",
+        "city": "CANON CITY",
+        "zipcode": 81215,
+        "latitude": "+38.477563",
+        "longitude": "-105.476577"
+    },
+    {
+        "county": "FREMONT",
+        "city": "CANON CITY",
+        "zipcode": 81246,
+        "latitude": "+38.477563",
+        "longitude": "-105.476577"
+    },
+    {
+        "county": "FREMONT",
+        "city": "COAL CREEK",
+        "zipcode": 81221,
+        "latitude": "+38.338919",
+        "longitude": "-105.159722"
+    },
+    {
+        "county": "FREMONT",
+        "city": "COALDALE",
+        "zipcode": 81222,
+        "latitude": "+38.382377",
+        "longitude": "-105.784315"
+    },
+    {
+        "county": "FREMONT",
+        "city": "COTOPAXI",
+        "zipcode": 81223,
+        "latitude": "+38.439983",
+        "longitude": "-105.496490"
+    },
+    {
+        "county": "FREMONT",
+        "city": "FLORENCE",
+        "zipcode": 81226,
+        "latitude": "+38.355202",
+        "longitude": "-105.254782"
+    },
+    {
+        "county": "FREMONT",
+        "city": "FLORENCE",
+        "zipcode": 81290,
+        "latitude": "+38.358421",
+        "longitude": "-105.106881"
+    },
+    {
+        "county": "FREMONT",
+        "city": "HILLSIDE",
+        "zipcode": 81232,
+        "latitude": "+38.285533",
+        "longitude": "-105.642451"
+    },
+    {
+        "county": "FREMONT",
+        "city": "HOWARD",
+        "zipcode": 81233,
+        "latitude": "+38.410012",
+        "longitude": "-105.769848"
+    },
+    {
+        "county": "FREMONT",
+        "city": "PENROSE",
+        "zipcode": 81240,
+        "latitude": "+38.414125",
+        "longitude": "-105.047277"
+    },
+    {
+        "county": "FREMONT",
+        "city": "ROCKVALE",
+        "zipcode": 81244,
+        "latitude": "+38.336184",
+        "longitude": "-105.221140"
+    },
+    {
+        "county": "GARFIELD",
+        "city": "BATTLEMENT MESA",
+        "zipcode": 81636,
+        "latitude": "+39.430535",
+        "longitude": "-108.023924"
+    },
+    {
+        "county": "GARFIELD",
+        "city": "CARBONDALE",
+        "zipcode": 81623,
+        "latitude": "+39.476857",
+        "longitude": "-107.388130"
+    },
+    {
+        "county": "GARFIELD",
+        "city": "GLENWOOD SPRINGS",
+        "zipcode": 81601,
+        "latitude": "+39.500281",
+        "longitude": "-107.585235"
+    },
+    {
+        "county": "GARFIELD",
+        "city": "GLENWOOD SPRINGS",
+        "zipcode": 81602,
+        "latitude": "+39.511742",
+        "longitude": "-107.325336"
+    },
+    {
+        "county": "GARFIELD",
+        "city": "NEW CASTLE",
+        "zipcode": 81647,
+        "latitude": "+39.597433",
+        "longitude": "-107.566159"
+    },
+    {
+        "county": "GARFIELD",
+        "city": "PARACHUTE",
+        "zipcode": 81635,
+        "latitude": "+39.458498",
+        "longitude": "-107.878874"
+    },
+    {
+        "county": "GARFIELD",
+        "city": "RIFLE",
+        "zipcode": 81650,
+        "latitude": "+39.582273",
+        "longitude": "-107.794723"
+    },
+    {
+        "county": "GARFIELD",
+        "city": "SILT",
+        "zipcode": 81652,
+        "latitude": "+39.502817",
+        "longitude": "-107.665664"
+    },
+    {
+        "county": "GILPIN",
+        "city": "BLACK HAWK",
+        "zipcode": 80422,
+        "latitude": "+39.815990",
+        "longitude": "-105.475322"
+    },
+    {
+        "county": "GILPIN",
+        "city": "CENTRAL CITY",
+        "zipcode": 80427,
+        "latitude": "+39.821626",
+        "longitude": "-105.545631"
+    },
+    {
+        "county": "GILPIN",
+        "city": "ROLLINSVILLE",
+        "zipcode": 80474,
+        "latitude": "+39.883804",
+        "longitude": "-105.548200"
+    },
+    {
+        "county": "GRAND",
+        "city": "FRASER",
+        "zipcode": 80442,
+        "latitude": "+39.958523",
+        "longitude": "-105.792637"
+    },
+    {
+        "county": "GRAND",
+        "city": "GRANBY",
+        "zipcode": 80446,
+        "latitude": "+40.073869",
+        "longitude": "-105.928533"
+    },
+    {
+        "county": "GRAND",
+        "city": "GRAND LAKE",
+        "zipcode": 80447,
+        "latitude": "+40.153982",
+        "longitude": "-105.852209"
+    },
+    {
+        "county": "GRAND",
+        "city": "HOT SULPHUR SPRINGS",
+        "zipcode": 80451,
+        "latitude": "+40.071207",
+        "longitude": "-106.069256"
+    },
+    {
+        "county": "GRAND",
+        "city": "KREMMLING",
+        "zipcode": 80459,
+        "latitude": "+40.147681",
+        "longitude": "-106.378296"
+    },
+    {
+        "county": "GRAND",
+        "city": "PARSHALL",
+        "zipcode": 80468,
+        "latitude": "+39.953932",
+        "longitude": "-106.093005"
+    },
+    {
+        "county": "GRAND",
+        "city": "TABERNASH",
+        "zipcode": 80478,
+        "latitude": "+39.979743",
+        "longitude": "-105.861480"
+    },
+    {
+        "county": "GRAND",
+        "city": "WINTER PARK",
+        "zipcode": 80482,
+        "latitude": "+39.949118",
+        "longitude": "-105.816439"
+    },
+    {
+        "county": "GUNNISON",
+        "city": "ALMONT",
+        "zipcode": 81210,
+        "latitude": "+38.820006",
+        "longitude": "-106.660278"
+    },
+    {
+        "county": "GUNNISON",
+        "city": "CRESTED BUTTE",
+        "zipcode": 81224,
+        "latitude": "+38.880713",
+        "longitude": "-106.948680"
+    },
+    {
+        "county": "GUNNISON",
+        "city": "CRESTED BUTTE",
+        "zipcode": 81225,
+        "latitude": "+38.900560",
+        "longitude": "-106.963148"
+    },
+    {
+        "county": "GUNNISON",
+        "city": "GUNNISON",
+        "zipcode": 81230,
+        "latitude": "+38.528323",
+        "longitude": "-107.037294"
+    },
+    {
+        "county": "GUNNISON",
+        "city": "GUNNISON",
+        "zipcode": 81231,
+        "latitude": "+38.702309",
+        "longitude": "-106.940201"
+    },
+    {
+        "county": "GUNNISON",
+        "city": "GUNNISON",
+        "zipcode": 81247,
+        "latitude": "+38.457513",
+        "longitude": "-107.292081"
+    },
+    {
+        "county": "GUNNISON",
+        "city": "OHIO CITY",
+        "zipcode": 81237,
+        "latitude": "+38.590788",
+        "longitude": "-106.602838"
+    },
+    {
+        "county": "GUNNISON",
+        "city": "PARLIN",
+        "zipcode": 81239,
+        "latitude": "+38.537083",
+        "longitude": "-106.635214"
+    },
+    {
+        "county": "GUNNISON",
+        "city": "PITKIN",
+        "zipcode": 81241,
+        "latitude": "+38.589072",
+        "longitude": "-106.570985"
+    },
+    {
+        "county": "GUNNISON",
+        "city": "POWDERHORN",
+        "zipcode": 81243,
+        "latitude": "+38.270602",
+        "longitude": "-107.302888"
+    },
+    {
+        "county": "GUNNISON",
+        "city": "SOMERSET",
+        "zipcode": 81434,
+        "latitude": "+38.988409",
+        "longitude": "-107.231438"
+    },
+    {
+        "county": "HINSDALE",
+        "city": "LAKE CITY",
+        "zipcode": 81235,
+        "latitude": "+38.026256",
+        "longitude": "-107.276581"
+    },
+    {
+        "county": "HUERFANO",
+        "city": "GARDNER",
+        "zipcode": 81040,
+        "latitude": "+37.787772",
+        "longitude": "-105.184870"
+    },
+    {
+        "county": "HUERFANO",
+        "city": "LA VETA",
+        "zipcode": 81055,
+        "latitude": "+37.511672",
+        "longitude": "-105.057545"
+    },
+    {
+        "county": "HUERFANO",
+        "city": "WALSENBURG",
+        "zipcode": 81066,
+        "latitude": "+37.712093",
+        "longitude": "-105.344931"
+    },
+    {
+        "county": "HUERFANO",
+        "city": "WALSENBURG",
+        "zipcode": 81089,
+        "latitude": "+37.646467",
+        "longitude": "-104.779815"
+    },
+    {
+        "county": "JACKSON",
+        "city": "COALMONT",
+        "zipcode": 80430,
+        "latitude": "+40.480364",
+        "longitude": "-106.448221"
+    },
+    {
+        "county": "JACKSON",
+        "city": "COWDREY",
+        "zipcode": 80434,
+        "latitude": "+40.663052",
+        "longitude": "-106.362488"
+    },
+    {
+        "county": "JACKSON",
+        "city": "RAND",
+        "zipcode": 80473,
+        "latitude": "+40.466701",
+        "longitude": "-106.185703"
+    },
+    {
+        "county": "JACKSON",
+        "city": "WALDEN",
+        "zipcode": 80480,
+        "latitude": "+40.678825",
+        "longitude": "-106.249045"
+    },
+    {
+        "county": "JEFFERSON",
+        "city": "ARVADA",
+        "zipcode": 80001,
+        "latitude": "+39.522014",
+        "longitude": "-105.223945"
+    },
+    {
+        "county": "JEFFERSON",
+        "city": "ARVADA",
+        "zipcode": 80002,
+        "latitude": "+39.827818",
+        "longitude": "-105.109236"
+    },
+    {
+        "county": "JEFFERSON",
+        "city": "ARVADA",
+        "zipcode": 80003,
+        "latitude": "+39.835086",
+        "longitude": "-105.105775"
+    },
+    {
+        "county": "JEFFERSON",
+        "city": "ARVADA",
+        "zipcode": 80004,
+        "latitude": "+39.814481",
+        "longitude": "-105.128173"
+    },
+    {
+        "county": "JEFFERSON",
+        "city": "ARVADA",
+        "zipcode": 80005,
+        "latitude": "+39.857259",
+        "longitude": "-105.123440"
+    },
+    {
+        "county": "JEFFERSON",
+        "city": "ARVADA",
+        "zipcode": 80006,
+        "latitude": "+39.522014",
+        "longitude": "-105.223945"
+    },
+    {
+        "county": "JEFFERSON",
+        "city": "ARVADA",
+        "zipcode": 80007,
+        "latitude": "+39.863369",
+        "longitude": "-105.172429"
+    },
+    {
+        "county": "JEFFERSON",
+        "city": "BROOMFIELD",
+        "zipcode": 80021,
+        "latitude": "+39.885388",
+        "longitude": "-105.113890"
+    },
+    {
+        "county": "JEFFERSON",
+        "city": "BUFFALO CREEK",
+        "zipcode": 80425,
+        "latitude": "+39.332179",
+        "longitude": "-105.254998"
+    },
+    {
+        "county": "JEFFERSON",
+        "city": "CONIFER",
+        "zipcode": 80433,
+        "latitude": "+39.473542",
+        "longitude": "-105.284448"
+    },
+    {
+        "county": "JEFFERSON",
+        "city": "DENVER",
+        "zipcode": 80214,
+        "latitude": "+39.743636",
+        "longitude": "-105.064336"
+    },
+    {
+        "county": "JEFFERSON",
+        "city": "DENVER",
+        "zipcode": 80215,
+        "latitude": "+39.743486",
+        "longitude": "-105.100854"
+    },
+    {
+        "county": "JEFFERSON",
+        "city": "DENVER",
+        "zipcode": 80225,
+        "latitude": "+39.697090",
+        "longitude": "-105.120440"
+    },
+    {
+        "county": "JEFFERSON",
+        "city": "DENVER",
+        "zipcode": 80226,
+        "latitude": "+39.712337",
+        "longitude": "-105.091784"
+    },
+    {
+        "county": "JEFFERSON",
+        "city": "DENVER",
+        "zipcode": 80228,
+        "latitude": "+39.688776",
+        "longitude": "-105.156000"
+    },
+    {
+        "county": "JEFFERSON",
+        "city": "DENVER",
+        "zipcode": 80232,
+        "latitude": "+39.689487",
+        "longitude": "-105.090779"
+    },
+    {
+        "county": "JEFFERSON",
+        "city": "EVERGREEN",
+        "zipcode": 80437,
+        "latitude": "+39.522014",
+        "longitude": "-105.223945"
+    },
+    {
+        "county": "JEFFERSON",
+        "city": "EVERGREEN",
+        "zipcode": 80439,
+        "latitude": "+39.629598",
+        "longitude": "-105.326248"
+    },
+    {
+        "county": "JEFFERSON",
+        "city": "GOLDEN",
+        "zipcode": 80401,
+        "latitude": "+39.718539",
+        "longitude": "-105.245659"
+    },
+    {
+        "county": "JEFFERSON",
+        "city": "GOLDEN",
+        "zipcode": 80402,
+        "latitude": "+39.522014",
+        "longitude": "-105.223945"
+    },
+    {
+        "county": "JEFFERSON",
+        "city": "GOLDEN",
+        "zipcode": 80403,
+        "latitude": "+39.829821",
+        "longitude": "-105.270395"
+    },
+    {
+        "county": "JEFFERSON",
+        "city": "GOLDEN",
+        "zipcode": 80419,
+        "latitude": "+39.522014",
+        "longitude": "-105.223945"
+    },
+    {
+        "county": "JEFFERSON",
+        "city": "IDLEDALE",
+        "zipcode": 80453,
+        "latitude": "+39.668426",
+        "longitude": "-105.244245"
+    },
+    {
+        "county": "JEFFERSON",
+        "city": "INDIAN HILLS",
+        "zipcode": 80454,
+        "latitude": "+39.654637",
+        "longitude": "-105.248119"
+    },
+    {
+        "county": "JEFFERSON",
+        "city": "KITTREDGE",
+        "zipcode": 80457,
+        "latitude": "+39.648137",
+        "longitude": "-105.278194"
+    },
+    {
+        "county": "JEFFERSON",
+        "city": "LITTLETON",
+        "zipcode": 80123,
+        "latitude": "+39.620596",
+        "longitude": "-105.090085"
+    },
+    {
+        "county": "JEFFERSON",
+        "city": "LITTLETON",
+        "zipcode": 80127,
+        "latitude": "+39.544307",
+        "longitude": "-105.153074"
+    },
+    {
+        "county": "JEFFERSON",
+        "city": "LITTLETON",
+        "zipcode": 80128,
+        "latitude": "+39.591827",
+        "longitude": "-105.083196"
+    },
+    {
+        "county": "JEFFERSON",
+        "city": "LITTLETON",
+        "zipcode": 80162,
+        "latitude": "+39.522014",
+        "longitude": "-105.223945"
+    },
+    {
+        "county": "JEFFERSON",
+        "city": "MORRISON",
+        "zipcode": 80465,
+        "latitude": "+39.610289",
+        "longitude": "-105.201967"
+    },
+    {
+        "county": "JEFFERSON",
+        "city": "PINE",
+        "zipcode": 80470,
+        "latitude": "+39.356599",
+        "longitude": "-105.313600"
+    },
+    {
+        "county": "JEFFERSON",
+        "city": "WHEAT RIDGE",
+        "zipcode": 80033,
+        "latitude": "+39.776986",
+        "longitude": "-105.108182"
+    },
+    {
+        "county": "JEFFERSON",
+        "city": "WHEAT RIDGE",
+        "zipcode": 80034,
+        "latitude": "+39.522014",
+        "longitude": "-105.223945"
+    },
+    {
+        "county": "KIOWA",
+        "city": "ARLINGTON",
+        "zipcode": 81021,
+        "latitude": "+38.430393",
+        "longitude": "-103.366655"
+    },
+    {
+        "county": "KIOWA",
+        "city": "EADS",
+        "zipcode": 81036,
+        "latitude": "+38.440752",
+        "longitude": "-102.554901"
+    },
+    {
+        "county": "KIOWA",
+        "city": "HASWELL",
+        "zipcode": 81045,
+        "latitude": "+38.440077",
+        "longitude": "-103.130677"
+    },
+    {
+        "county": "KIOWA",
+        "city": "SHERIDAN LAKE",
+        "zipcode": 81071,
+        "latitude": "+38.441431",
+        "longitude": "-102.604797"
+    },
+    {
+        "county": "KIT CARSON",
+        "city": "BETHUNE",
+        "zipcode": 80805,
+        "latitude": "+39.293345",
+        "longitude": "-102.433217"
+    },
+    {
+        "county": "KIT CARSON",
+        "city": "BURLINGTON",
+        "zipcode": 80807,
+        "latitude": "+39.308966",
+        "longitude": "-102.461287"
+    },
+    {
+        "county": "KIT CARSON",
+        "city": "FLAGLER",
+        "zipcode": 80815,
+        "latitude": "+39.325130",
+        "longitude": "-102.783284"
+    },
+    {
+        "county": "KIT CARSON",
+        "city": "SEIBERT",
+        "zipcode": 80834,
+        "latitude": "+39.322355",
+        "longitude": "-102.881192"
+    },
+    {
+        "county": "KIT CARSON",
+        "city": "STRATTON",
+        "zipcode": 80836,
+        "latitude": "+39.304913",
+        "longitude": "-102.673010"
+    },
+    {
+        "county": "KIT CARSON",
+        "city": "VONA",
+        "zipcode": 80861,
+        "latitude": "+39.311151",
+        "longitude": "-102.742290"
+    },
+    {
+        "county": "LA PLATA",
+        "city": "BAYFIELD",
+        "zipcode": 81122,
+        "latitude": "+37.292065",
+        "longitude": "-107.736318"
+    },
+    {
+        "county": "LA PLATA",
+        "city": "DURANGO",
+        "zipcode": 81301,
+        "latitude": "+37.318364",
+        "longitude": "-107.880367"
+    },
+    {
+        "county": "LA PLATA",
+        "city": "DURANGO",
+        "zipcode": 81302,
+        "latitude": "+37.357249",
+        "longitude": "-107.935945"
+    },
+    {
+        "county": "LA PLATA",
+        "city": "DURANGO",
+        "zipcode": 81303,
+        "latitude": "",
+        "longitude": ""
+    },
+    {
+        "county": "LA PLATA",
+        "city": "HESPERUS",
+        "zipcode": 81326,
+        "latitude": "+37.205423",
+        "longitude": "-108.138519"
+    },
+    {
+        "county": "LA PLATA",
+        "city": "IGNACIO",
+        "zipcode": 81137,
+        "latitude": "+37.114844",
+        "longitude": "-107.659745"
+    },
+    {
+        "county": "LA PLATA",
+        "city": "MARVEL",
+        "zipcode": 81329,
+        "latitude": "+37.092605",
+        "longitude": "-108.125194"
+    },
+    {
+        "county": "LAKE",
+        "city": "CLIMAX",
+        "zipcode": 80429,
+        "latitude": "+39.225758",
+        "longitude": "-106.311697"
+    },
+    {
+        "county": "LAKE",
+        "city": "LEADVILLE",
+        "zipcode": 80461,
+        "latitude": "+39.217530",
+        "longitude": "-106.358330"
+    },
+    {
+        "county": "LAKE",
+        "city": "TWIN LAKES",
+        "zipcode": 81251,
+        "latitude": "+39.151466",
+        "longitude": "-106.422616"
+    },
+    {
+        "county": "LARIMER",
+        "city": "BELLVUE",
+        "zipcode": 80512,
+        "latitude": "+40.610729",
+        "longitude": "-105.525784"
+    },
+    {
+        "county": "LARIMER",
+        "city": "BERTHOUD",
+        "zipcode": 80513,
+        "latitude": "+40.530475",
+        "longitude": "-105.321046"
+    },
+    {
+        "county": "LARIMER",
+        "city": "DRAKE",
+        "zipcode": 80515,
+        "latitude": "+40.427541",
+        "longitude": "-105.383062"
+    },
+    {
+        "county": "LARIMER",
+        "city": "ESTES PARK",
+        "zipcode": 80511,
+        "latitude": "+40.628112",
+        "longitude": "-105.569245"
+    },
+    {
+        "county": "LARIMER",
+        "city": "ESTES PARK",
+        "zipcode": 80517,
+        "latitude": "+40.370748",
+        "longitude": "-105.323971"
+    },
+    {
+        "county": "LARIMER",
+        "city": "FORT COLLINS",
+        "zipcode": 80521,
+        "latitude": "+40.592270",
+        "longitude": "-105.298344"
+    },
+    {
+        "county": "LARIMER",
+        "city": "FORT COLLINS",
+        "zipcode": 80522,
+        "latitude": "+40.642907",
+        "longitude": "-105.057005"
+    },
+    {
+        "county": "LARIMER",
+        "city": "FORT COLLINS",
+        "zipcode": 80523,
+        "latitude": "+40.455530",
+        "longitude": "-105.464832"
+    },
+    {
+        "county": "LARIMER",
+        "city": "FORT COLLINS",
+        "zipcode": 80524,
+        "latitude": "+40.598890",
+        "longitude": "-105.252751"
+    },
+    {
+        "county": "LARIMER",
+        "city": "FORT COLLINS",
+        "zipcode": 80525,
+        "latitude": "+40.532277",
+        "longitude": "-105.207073"
+    },
+    {
+        "county": "LARIMER",
+        "city": "FORT COLLINS",
+        "zipcode": 80526,
+        "latitude": "+40.587553",
+        "longitude": "-105.324268"
+    },
+    {
+        "county": "LARIMER",
+        "city": "FORT COLLINS",
+        "zipcode": 80527,
+        "latitude": "+40.540565",
+        "longitude": "-105.280009"
+    },
+    {
+        "county": "LARIMER",
+        "city": "FORT COLLINS",
+        "zipcode": 80528,
+        "latitude": "+40.533726",
+        "longitude": "-105.034077"
+    },
+    {
+        "county": "LARIMER",
+        "city": "FORT COLLINS",
+        "zipcode": 80553,
+        "latitude": "+40.628112",
+        "longitude": "-105.569245"
+    },
+    {
+        "county": "LARIMER",
+        "city": "GLEN HAVEN",
+        "zipcode": 80532,
+        "latitude": "+40.457758",
+        "longitude": "-105.447005"
+    },
+    {
+        "county": "LARIMER",
+        "city": "LAPORTE",
+        "zipcode": 80535,
+        "latitude": "+40.589014",
+        "longitude": "-105.262822"
+    },
+    {
+        "county": "LARIMER",
+        "city": "LIVERMORE",
+        "zipcode": 80536,
+        "latitude": "+40.693564",
+        "longitude": "-105.441688"
+    },
+    {
+        "county": "LARIMER",
+        "city": "LOVELAND",
+        "zipcode": 80537,
+        "latitude": "+40.553704",
+        "longitude": "-105.266415"
+    },
+    {
+        "county": "LARIMER",
+        "city": "LOVELAND",
+        "zipcode": 80538,
+        "latitude": "+40.551116",
+        "longitude": "-105.183385"
+    },
+    {
+        "county": "LARIMER",
+        "city": "LOVELAND",
+        "zipcode": 80539,
+        "latitude": "+40.386360",
+        "longitude": "-105.163377"
+    },
+    {
+        "county": "LARIMER",
+        "city": "MASONVILLE",
+        "zipcode": 80541,
+        "latitude": "+40.529278",
+        "longitude": "-105.372014"
+    },
+    {
+        "county": "LARIMER",
+        "city": "RED FEATHER LAKES",
+        "zipcode": 80545,
+        "latitude": "+40.610176",
+        "longitude": "-105.638852"
+    },
+    {
+        "county": "LARIMER",
+        "city": "TIMNATH",
+        "zipcode": 80547,
+        "latitude": "+40.708692",
+        "longitude": "-105.017539"
+    },
+    {
+        "county": "LARIMER",
+        "city": "WELLINGTON",
+        "zipcode": 80549,
+        "latitude": "+40.795455",
+        "longitude": "-105.085627"
+    },
+    {
+        "county": "LAS ANIMAS",
+        "city": "AGUILAR",
+        "zipcode": 81020,
+        "latitude": "+37.381577",
+        "longitude": "-104.653809"
+    },
+    {
+        "county": "LAS ANIMAS",
+        "city": "BONCARBO",
+        "zipcode": 81024,
+        "latitude": "+37.208109",
+        "longitude": "-104.719787"
+    },
+    {
+        "county": "LAS ANIMAS",
+        "city": "BRANSON",
+        "zipcode": 81027,
+        "latitude": "+37.232444",
+        "longitude": "-103.722865"
+    },
+    {
+        "county": "LAS ANIMAS",
+        "city": "GULNARE",
+        "zipcode": 81042,
+        "latitude": "+37.315263",
+        "longitude": "-104.734610"
+    },
+    {
+        "county": "LAS ANIMAS",
+        "city": "HOEHNE",
+        "zipcode": 81046,
+        "latitude": "+37.279584",
+        "longitude": "-104.358375"
+    },
+    {
+        "county": "LAS ANIMAS",
+        "city": "KIM",
+        "zipcode": 81049,
+        "latitude": "+37.332760",
+        "longitude": "-103.373586"
+    },
+    {
+        "county": "LAS ANIMAS",
+        "city": "MODEL",
+        "zipcode": 81059,
+        "latitude": "+37.519198",
+        "longitude": "-104.223007"
+    },
+    {
+        "county": "LAS ANIMAS",
+        "city": "STARKVILLE",
+        "zipcode": 81074,
+        "latitude": "+37.121029",
+        "longitude": "-104.523155"
+    },
+    {
+        "county": "LAS ANIMAS",
+        "city": "TRINCHERA",
+        "zipcode": 81081,
+        "latitude": "+37.099900",
+        "longitude": "-104.132767"
+    },
+    {
+        "county": "LAS ANIMAS",
+        "city": "TRINIDAD",
+        "zipcode": 81082,
+        "latitude": "+37.269059",
+        "longitude": "-104.503800"
+    },
+    {
+        "county": "LAS ANIMAS",
+        "city": "WESTON",
+        "zipcode": 81091,
+        "latitude": "+37.190046",
+        "longitude": "-104.795074"
+    },
+    {
+        "county": "LINCOLN",
+        "city": "ARRIBA",
+        "zipcode": 80804,
+        "latitude": "+39.316461",
+        "longitude": "-103.323143"
+    },
+    {
+        "county": "LINCOLN",
+        "city": "GENOA",
+        "zipcode": 80818,
+        "latitude": "+39.348432",
+        "longitude": "-103.490650"
+    },
+    {
+        "county": "LINCOLN",
+        "city": "HUGO",
+        "zipcode": 80821,
+        "latitude": "+39.022942",
+        "longitude": "-103.457864"
+    },
+    {
+        "county": "LINCOLN",
+        "city": "KARVAL",
+        "zipcode": 80823,
+        "latitude": "+38.806509",
+        "longitude": "-103.474701"
+    },
+    {
+        "county": "LINCOLN",
+        "city": "LIMON",
+        "zipcode": 80826,
+        "latitude": "+39.041435",
+        "longitude": "-103.604851"
+    },
+    {
+        "county": "LINCOLN",
+        "city": "LIMON",
+        "zipcode": 80828,
+        "latitude": "+39.316540",
+        "longitude": "-103.588908"
+    },
+    {
+        "county": "LOGAN",
+        "city": "ATWOOD",
+        "zipcode": 80722,
+        "latitude": "+40.525066",
+        "longitude": "-103.197305"
+    },
+    {
+        "county": "LOGAN",
+        "city": "CROOK",
+        "zipcode": 80726,
+        "latitude": "+40.852300",
+        "longitude": "-103.074727"
+    },
+    {
+        "county": "LOGAN",
+        "city": "FLEMING",
+        "zipcode": 80728,
+        "latitude": "+40.598608",
+        "longitude": "-102.874735"
+    },
+    {
+        "county": "LOGAN",
+        "city": "ILIFF",
+        "zipcode": 80736,
+        "latitude": "+40.784483",
+        "longitude": "-102.960098"
+    },
+    {
+        "county": "LOGAN",
+        "city": "MERINO",
+        "zipcode": 80741,
+        "latitude": "+40.632075",
+        "longitude": "-103.413883"
+    },
+    {
+        "county": "LOGAN",
+        "city": "PADRONI",
+        "zipcode": 80745,
+        "latitude": "+40.884156",
+        "longitude": "-103.372814"
+    },
+    {
+        "county": "LOGAN",
+        "city": "PEETZ",
+        "zipcode": 80747,
+        "latitude": "+40.825442",
+        "longitude": "-103.161820"
+    },
+    {
+        "county": "LOGAN",
+        "city": "STERLING",
+        "zipcode": 80751,
+        "latitude": "+40.715081",
+        "longitude": "-103.211191"
+    },
+    {
+        "county": "MESA",
+        "city": "CLIFTON",
+        "zipcode": 81520,
+        "latitude": "+39.082460",
+        "longitude": "-108.404055"
+    },
+    {
+        "county": "MESA",
+        "city": "COLLBRAN",
+        "zipcode": 81624,
+        "latitude": "+39.205633",
+        "longitude": "-107.929135"
+    },
+    {
+        "county": "MESA",
+        "city": "DE BEQUE",
+        "zipcode": 81630,
+        "latitude": "+39.292409",
+        "longitude": "-108.210688"
+    },
+    {
+        "county": "MESA",
+        "city": "FRUITA",
+        "zipcode": 81521,
+        "latitude": "+39.149614",
+        "longitude": "-108.685164"
+    },
+    {
+        "county": "MESA",
+        "city": "GATEWAY",
+        "zipcode": 81522,
+        "latitude": "+38.678448",
+        "longitude": "-108.971863"
+    },
+    {
+        "county": "MESA",
+        "city": "GLADE PARK",
+        "zipcode": 81523,
+        "latitude": "+38.989416",
+        "longitude": "-108.780970"
+    },
+    {
+        "county": "MESA",
+        "city": "GRAND JUNCTION",
+        "zipcode": 81501,
+        "latitude": "+39.069019",
+        "longitude": "-108.583126"
+    },
+    {
+        "county": "MESA",
+        "city": "GRAND JUNCTION",
+        "zipcode": 81502,
+        "latitude": "+39.017876",
+        "longitude": "-108.481354"
+    },
+    {
+        "county": "MESA",
+        "city": "GRAND JUNCTION",
+        "zipcode": 81503,
+        "latitude": "+39.013584",
+        "longitude": "-108.591229"
+    },
+    {
+        "county": "MESA",
+        "city": "GRAND JUNCTION",
+        "zipcode": 81504,
+        "latitude": "+39.123554",
+        "longitude": "-108.589414"
+    },
+    {
+        "county": "MESA",
+        "city": "GRAND JUNCTION",
+        "zipcode": 81505,
+        "latitude": "+39.146570",
+        "longitude": "-108.626481"
+    },
+    {
+        "county": "MESA",
+        "city": "GRAND JUNCTION",
+        "zipcode": 81506,
+        "latitude": "+39.089167",
+        "longitude": "-108.566523"
+    },
+    {
+        "county": "MESA",
+        "city": "LOMA",
+        "zipcode": 81524,
+        "latitude": "+39.256425",
+        "longitude": "-108.784460"
+    },
+    {
+        "county": "MESA",
+        "city": "MACK",
+        "zipcode": 81525,
+        "latitude": "+39.246379",
+        "longitude": "-108.933957"
+    },
+    {
+        "county": "MESA",
+        "city": "MESA",
+        "zipcode": 81643,
+        "latitude": "+39.149320",
+        "longitude": "-108.169723"
+    },
+    {
+        "county": "MESA",
+        "city": "MOLINA",
+        "zipcode": 81646,
+        "latitude": "+39.165152",
+        "longitude": "-108.076508"
+    },
+    {
+        "county": "MESA",
+        "city": "PALISADE",
+        "zipcode": 81526,
+        "latitude": "+39.095369",
+        "longitude": "-108.299254"
+    },
+    {
+        "county": "MESA",
+        "city": "WHITEWATER",
+        "zipcode": 81527,
+        "latitude": "+38.814573",
+        "longitude": "-108.604695"
+    },
+    {
+        "county": "MINERAL",
+        "city": "CREEDE",
+        "zipcode": 81130,
+        "latitude": "+37.761293",
+        "longitude": "-106.981852"
+    },
+    {
+        "county": "MOFFAT",
+        "city": "CRAIG",
+        "zipcode": 81625,
+        "latitude": "+40.612421",
+        "longitude": "-108.009784"
+    },
+    {
+        "county": "MOFFAT",
+        "city": "CRAIG",
+        "zipcode": 81626,
+        "latitude": "+40.667669",
+        "longitude": "-107.783276"
+    },
+    {
+        "county": "MOFFAT",
+        "city": "DINOSAUR",
+        "zipcode": 81610,
+        "latitude": "+40.367150",
+        "longitude": "-108.277407"
+    },
+    {
+        "county": "MOFFAT",
+        "city": "DINOSAUR",
+        "zipcode": 81633,
+        "latitude": "+40.377031",
+        "longitude": "-108.398991"
+    },
+    {
+        "county": "MOFFAT",
+        "city": "HAMILTON",
+        "zipcode": 81638,
+        "latitude": "+40.297591",
+        "longitude": "-107.665731"
+    },
+    {
+        "county": "MOFFAT",
+        "city": "MAYBELL",
+        "zipcode": 81640,
+        "latitude": "+40.673756",
+        "longitude": "-108.369943"
+    },
+    {
+        "county": "MOFFAT",
+        "city": "SLATER",
+        "zipcode": 81653,
+        "latitude": "+40.997896",
+        "longitude": "-107.338770"
+    },
+    {
+        "county": "MONTEZUMA",
+        "city": "CORTEZ",
+        "zipcode": 81321,
+        "latitude": "+37.373594",
+        "longitude": "-108.662826"
+    },
+    {
+        "county": "MONTEZUMA",
+        "city": "DOLORES",
+        "zipcode": 81323,
+        "latitude": "+37.469333",
+        "longitude": "-108.352450"
+    },
+    {
+        "county": "MONTEZUMA",
+        "city": "LEWIS",
+        "zipcode": 81327,
+        "latitude": "+37.458047",
+        "longitude": "-108.655638"
+    },
+    {
+        "county": "MONTEZUMA",
+        "city": "MANCOS",
+        "zipcode": 81328,
+        "latitude": "+37.336041",
+        "longitude": "-108.468364"
+    },
+    {
+        "county": "MONTEZUMA",
+        "city": "MESA VERDE NATIONAL PARK",
+        "zipcode": 81330,
+        "latitude": "+37.319207",
+        "longitude": "-108.509012"
+    },
+    {
+        "county": "MONTEZUMA",
+        "city": "PLEASANT VIEW",
+        "zipcode": 81331,
+        "latitude": "+37.551564",
+        "longitude": "-108.829926"
+    },
+    {
+        "county": "MONTEZUMA",
+        "city": "TOWAOC",
+        "zipcode": 81334,
+        "latitude": "+37.319207",
+        "longitude": "-108.509012"
+    },
+    {
+        "county": "MONTEZUMA",
+        "city": "YELLOW JACKET",
+        "zipcode": 81335,
+        "latitude": "+37.508114",
+        "longitude": "-108.744007"
+    },
+    {
+        "county": "MONTROSE",
+        "city": "BEDROCK",
+        "zipcode": 81411,
+        "latitude": "+38.348670",
+        "longitude": "-108.937369"
+    },
+    {
+        "county": "MONTROSE",
+        "city": "CIMARRON",
+        "zipcode": 81220,
+        "latitude": "+38.416326",
+        "longitude": "-107.529303"
+    },
+    {
+        "county": "MONTROSE",
+        "city": "MONTROSE",
+        "zipcode": 81401,
+        "latitude": "+38.443069",
+        "longitude": "-108.050689"
+    },
+    {
+        "county": "MONTROSE",
+        "city": "MONTROSE",
+        "zipcode": 81402,
+        "latitude": "+38.485093",
+        "longitude": "-107.885975"
+    },
+    {
+        "county": "MONTROSE",
+        "city": "NATURITA",
+        "zipcode": 81422,
+        "latitude": "+38.269387",
+        "longitude": "-108.574539"
+    },
+    {
+        "county": "MONTROSE",
+        "city": "NUCLA",
+        "zipcode": 81424,
+        "latitude": "+38.310689",
+        "longitude": "-108.576690"
+    },
+    {
+        "county": "MONTROSE",
+        "city": "OLATHE",
+        "zipcode": 81425,
+        "latitude": "+38.497566",
+        "longitude": "-108.078623"
+    },
+    {
+        "county": "MONTROSE",
+        "city": "PARADOX",
+        "zipcode": 81429,
+        "latitude": "+38.371101",
+        "longitude": "-108.969823"
+    },
+    {
+        "county": "MONTROSE",
+        "city": "REDVALE",
+        "zipcode": 81431,
+        "latitude": "+38.192224",
+        "longitude": "-108.415514"
+    },
+    {
+        "county": "MORGAN",
+        "city": "BRUSH",
+        "zipcode": 80723,
+        "latitude": "+40.218547",
+        "longitude": "-103.613248"
+    },
+    {
+        "county": "MORGAN",
+        "city": "FORT MORGAN",
+        "zipcode": 80701,
+        "latitude": "+40.262591",
+        "longitude": "-103.847648"
+    },
+    {
+        "county": "MORGAN",
+        "city": "HILLROSE",
+        "zipcode": 80733,
+        "latitude": "+40.345863",
+        "longitude": "-103.505721"
+    },
+    {
+        "county": "MORGAN",
+        "city": "LOG LANE VILLAGE",
+        "zipcode": 80705,
+        "latitude": "+40.270654",
+        "longitude": "-103.833813"
+    },
+    {
+        "county": "MORGAN",
+        "city": "ORCHARD",
+        "zipcode": 80649,
+        "latitude": "+40.414728",
+        "longitude": "-104.081667"
+    },
+    {
+        "county": "MORGAN",
+        "city": "SNYDER",
+        "zipcode": 80750,
+        "latitude": "+40.415193",
+        "longitude": "-103.610575"
+    },
+    {
+        "county": "MORGAN",
+        "city": "WELDONA",
+        "zipcode": 80653,
+        "latitude": "+40.382218",
+        "longitude": "-103.974159"
+    },
+    {
+        "county": "MORGAN",
+        "city": "WIGGINS",
+        "zipcode": 80654,
+        "latitude": "+40.159839",
+        "longitude": "-104.046791"
+    },
+    {
+        "county": "OTERO",
+        "city": "CHERAW",
+        "zipcode": 81030,
+        "latitude": "+38.102941",
+        "longitude": "-103.536700"
+    },
+    {
+        "county": "OTERO",
+        "city": "FOWLER",
+        "zipcode": 81039,
+        "latitude": "+37.981460",
+        "longitude": "-103.967799"
+    },
+    {
+        "county": "OTERO",
+        "city": "LA JUNTA",
+        "zipcode": 81050,
+        "latitude": "+37.954619",
+        "longitude": "-103.664437"
+    },
+    {
+        "county": "OTERO",
+        "city": "MANZANOLA",
+        "zipcode": 81058,
+        "latitude": "+38.082793",
+        "longitude": "-103.885189"
+    },
+    {
+        "county": "OTERO",
+        "city": "ROCKY FORD",
+        "zipcode": 81067,
+        "latitude": "+37.995867",
+        "longitude": "-103.708332"
+    },
+    {
+        "county": "OTERO",
+        "city": "SWINK",
+        "zipcode": 81077,
+        "latitude": "+38.054962",
+        "longitude": "-103.619493"
+    },
+    {
+        "county": "OURAY",
+        "city": "OURAY",
+        "zipcode": 81427,
+        "latitude": "+38.087654",
+        "longitude": "-107.728712"
+    },
+    {
+        "county": "OURAY",
+        "city": "RIDGWAY",
+        "zipcode": 81432,
+        "latitude": "+38.177464",
+        "longitude": "-107.727360"
+    },
+    {
+        "county": "PARK",
+        "city": "ALMA",
+        "zipcode": 80420,
+        "latitude": "+39.297972",
+        "longitude": "-106.063548"
+    },
+    {
+        "county": "PARK",
+        "city": "BAILEY",
+        "zipcode": 80421,
+        "latitude": "+39.203721",
+        "longitude": "-105.747242"
+    },
+    {
+        "county": "PARK",
+        "city": "COMO",
+        "zipcode": 80432,
+        "latitude": "+39.158746",
+        "longitude": "-105.816986"
+    },
+    {
+        "county": "PARK",
+        "city": "FAIRPLAY",
+        "zipcode": 80440,
+        "latitude": "+39.149000",
+        "longitude": "-105.885893"
+    },
+    {
+        "county": "PARK",
+        "city": "GRANT",
+        "zipcode": 80448,
+        "latitude": "+39.461223",
+        "longitude": "-105.658305"
+    },
+    {
+        "county": "PARK",
+        "city": "GUFFEY",
+        "zipcode": 80820,
+        "latitude": "+38.835374",
+        "longitude": "-105.562124"
+    },
+    {
+        "county": "PARK",
+        "city": "HARTSEL",
+        "zipcode": 80449,
+        "latitude": "+38.967262",
+        "longitude": "-105.878811"
+    },
+    {
+        "county": "PARK",
+        "city": "JEFFERSON",
+        "zipcode": 80456,
+        "latitude": "+39.275930",
+        "longitude": "-105.686535"
+    },
+    {
+        "county": "PARK",
+        "city": "LAKE GEORGE",
+        "zipcode": 80827,
+        "latitude": "+38.980056",
+        "longitude": "-105.514472"
+    },
+    {
+        "county": "PARK",
+        "city": "SHAWNEE",
+        "zipcode": 80475,
+        "latitude": "+39.439493",
+        "longitude": "-105.602959"
+    },
+    {
+        "county": "PHILLIPS",
+        "city": "AMHERST",
+        "zipcode": 80721,
+        "latitude": "+40.608363",
+        "longitude": "-102.358200"
+    },
+    {
+        "county": "PHILLIPS",
+        "city": "HAXTUN",
+        "zipcode": 80731,
+        "latitude": "+40.601383",
+        "longitude": "-102.523842"
+    },
+    {
+        "county": "PHILLIPS",
+        "city": "HOLYOKE",
+        "zipcode": 80734,
+        "latitude": "+40.587166",
+        "longitude": "-102.272326"
+    },
+    {
+        "county": "PHILLIPS",
+        "city": "PAOLI",
+        "zipcode": 80746,
+        "latitude": "+40.610554",
+        "longitude": "-102.472203"
+    },
+    {
+        "county": "PITKIN",
+        "city": "ASPEN",
+        "zipcode": 81611,
+        "latitude": "+39.169324",
+        "longitude": "-106.776744"
+    },
+    {
+        "county": "PITKIN",
+        "city": "ASPEN",
+        "zipcode": 81612,
+        "latitude": "+39.223416",
+        "longitude": "-106.882774"
+    },
+    {
+        "county": "PITKIN",
+        "city": "MEREDITH",
+        "zipcode": 81642,
+        "latitude": "+39.294737",
+        "longitude": "-106.715287"
+    },
+    {
+        "county": "PITKIN",
+        "city": "SNOWMASS",
+        "zipcode": 81654,
+        "latitude": "+39.251721",
+        "longitude": "-106.922425"
+    },
+    {
+        "county": "PITKIN",
+        "city": "SNOWMASS VILLAGE",
+        "zipcode": 81615,
+        "latitude": "+39.206518",
+        "longitude": "-106.868877"
+    },
+    {
+        "county": "PITKIN",
+        "city": "WOODY CREEK",
+        "zipcode": 81656,
+        "latitude": "+39.283116",
+        "longitude": "-106.898514"
+    },
+    {
+        "county": "PROWERS",
+        "city": "GRANADA",
+        "zipcode": 81041,
+        "latitude": "+37.870309",
+        "longitude": "-102.367626"
+    },
+    {
+        "county": "PROWERS",
+        "city": "HARTMAN",
+        "zipcode": 81043,
+        "latitude": "+38.119522",
+        "longitude": "-102.216833"
+    },
+    {
+        "county": "PROWERS",
+        "city": "HOLLY",
+        "zipcode": 81047,
+        "latitude": "+37.956511",
+        "longitude": "-102.335202"
+    },
+    {
+        "county": "PROWERS",
+        "city": "LAMAR",
+        "zipcode": 81052,
+        "latitude": "+37.955488",
+        "longitude": "-102.436416"
+    },
+    {
+        "county": "PROWERS",
+        "city": "WILEY",
+        "zipcode": 81092,
+        "latitude": "+38.189902",
+        "longitude": "-102.705397"
+    },
+    {
+        "county": "PUEBLO",
+        "city": "AVONDALE",
+        "zipcode": 81022,
+        "latitude": "+38.102502",
+        "longitude": "-104.529794"
+    },
+    {
+        "county": "PUEBLO",
+        "city": "BEULAH",
+        "zipcode": 81023,
+        "latitude": "+38.127363",
+        "longitude": "-104.635770"
+    },
+    {
+        "county": "PUEBLO",
+        "city": "BOONE",
+        "zipcode": 81025,
+        "latitude": "+38.319575",
+        "longitude": "-104.209119"
+    },
+    {
+        "county": "PUEBLO",
+        "city": "COLORADO CITY",
+        "zipcode": 81019,
+        "latitude": "+37.887346",
+        "longitude": "-104.613617"
+    },
+    {
+        "county": "PUEBLO",
+        "city": "PUEBLO",
+        "zipcode": 81001,
+        "latitude": "+38.344117",
+        "longitude": "-104.427776"
+    },
+    {
+        "county": "PUEBLO",
+        "city": "PUEBLO",
+        "zipcode": 81002,
+        "latitude": "+38.128626",
+        "longitude": "-104.552299"
+    },
+    {
+        "county": "PUEBLO",
+        "city": "PUEBLO",
+        "zipcode": 81003,
+        "latitude": "+38.121031",
+        "longitude": "-104.763851"
+    },
+    {
+        "county": "PUEBLO",
+        "city": "PUEBLO",
+        "zipcode": 81004,
+        "latitude": "+38.087325",
+        "longitude": "-104.822451"
+    },
+    {
+        "county": "PUEBLO",
+        "city": "PUEBLO",
+        "zipcode": 81005,
+        "latitude": "+38.152191",
+        "longitude": "-104.841328"
+    },
+    {
+        "county": "PUEBLO",
+        "city": "PUEBLO",
+        "zipcode": 81006,
+        "latitude": "+38.113259",
+        "longitude": "-104.521270"
+    },
+    {
+        "county": "PUEBLO",
+        "city": "PUEBLO",
+        "zipcode": 81007,
+        "latitude": "+38.387004",
+        "longitude": "-104.779156"
+    },
+    {
+        "county": "PUEBLO",
+        "city": "PUEBLO",
+        "zipcode": 81008,
+        "latitude": "+38.402934",
+        "longitude": "-104.644423"
+    },
+    {
+        "county": "PUEBLO",
+        "city": "PUEBLO",
+        "zipcode": 81009,
+        "latitude": "+38.128626",
+        "longitude": "-104.552299"
+    },
+    {
+        "county": "PUEBLO",
+        "city": "PUEBLO",
+        "zipcode": 81010,
+        "latitude": "+38.128626",
+        "longitude": "-104.552299"
+    },
+    {
+        "county": "PUEBLO",
+        "city": "PUEBLO",
+        "zipcode": 81011,
+        "latitude": "+38.128626",
+        "longitude": "-104.552299"
+    },
+    {
+        "county": "PUEBLO",
+        "city": "PUEBLO",
+        "zipcode": 81012,
+        "latitude": "+38.128626",
+        "longitude": "-104.552299"
+    },
+    {
+        "county": "PUEBLO",
+        "city": "PUEBLO",
+        "zipcode": 81013,
+        "latitude": "+38.128626",
+        "longitude": "-104.552299"
+    },
+    {
+        "county": "PUEBLO",
+        "city": "PUEBLO",
+        "zipcode": 81014,
+        "latitude": "+38.128626",
+        "longitude": "-104.552299"
+    },
+    {
+        "county": "PUEBLO",
+        "city": "PUEBLO",
+        "zipcode": 81015,
+        "latitude": "+38.128626",
+        "longitude": "-104.552299"
+    },
+    {
+        "county": "PUEBLO",
+        "city": "RYE",
+        "zipcode": 81069,
+        "latitude": "+37.936061",
+        "longitude": "-104.874843"
+    },
+    {
+        "county": "RIO BLANCO",
+        "city": "MEEKER",
+        "zipcode": 81641,
+        "latitude": "+39.967864",
+        "longitude": "-108.043592"
+    },
+    {
+        "county": "RIO BLANCO",
+        "city": "RANGELY",
+        "zipcode": 81648,
+        "latitude": "+39.936331",
+        "longitude": "-108.650793"
+    },
+    {
+        "county": "RIO GRANDE",
+        "city": "DEL NORTE",
+        "zipcode": 81132,
+        "latitude": "+37.644684",
+        "longitude": "-106.407311"
+    },
+    {
+        "county": "RIO GRANDE",
+        "city": "HOMELAKE",
+        "zipcode": 81135,
+        "latitude": "+37.615741",
+        "longitude": "-106.375292"
+    },
+    {
+        "county": "RIO GRANDE",
+        "city": "MONTE VISTA",
+        "zipcode": 81144,
+        "latitude": "+37.570515",
+        "longitude": "-106.345624"
+    },
+    {
+        "county": "RIO GRANDE",
+        "city": "SOUTH FORK",
+        "zipcode": 81154,
+        "latitude": "+37.638307",
+        "longitude": "-106.597775"
+    },
+    {
+        "county": "ROUTT",
+        "city": "CLARK",
+        "zipcode": 80428,
+        "latitude": "+40.730717",
+        "longitude": "-106.913996"
+    },
+    {
+        "county": "ROUTT",
+        "city": "HAYDEN",
+        "zipcode": 81639,
+        "latitude": "+40.438195",
+        "longitude": "-107.277181"
+    },
+    {
+        "county": "ROUTT",
+        "city": "OAK CREEK",
+        "zipcode": 80467,
+        "latitude": "+40.323272",
+        "longitude": "-106.944274"
+    },
+    {
+        "county": "ROUTT",
+        "city": "PHIPPSBURG",
+        "zipcode": 80469,
+        "latitude": "+40.190711",
+        "longitude": "-106.973513"
+    },
+    {
+        "county": "ROUTT",
+        "city": "STEAMBOAT SPRINGS",
+        "zipcode": 80477,
+        "latitude": "+40.348242",
+        "longitude": "-106.926910"
+    },
+    {
+        "county": "ROUTT",
+        "city": "STEAMBOAT SPRINGS",
+        "zipcode": 80487,
+        "latitude": "+40.632683",
+        "longitude": "-106.931827"
+    },
+    {
+        "county": "ROUTT",
+        "city": "STEAMBOAT SPRINGS",
+        "zipcode": 80488,
+        "latitude": "+40.619661",
+        "longitude": "-106.860746"
+    },
+    {
+        "county": "ROUTT",
+        "city": "TOPONAS",
+        "zipcode": 80479,
+        "latitude": "+40.067609",
+        "longitude": "-106.851718"
+    },
+    {
+        "county": "ROUTT",
+        "city": "YAMPA",
+        "zipcode": 80483,
+        "latitude": "+40.130445",
+        "longitude": "-106.911567"
+    },
+    {
+        "county": "SAGUACHE",
+        "city": "CENTER",
+        "zipcode": 81125,
+        "latitude": "+37.869875",
+        "longitude": "-106.046711"
+    },
+    {
+        "county": "SAGUACHE",
+        "city": "CRESTONE",
+        "zipcode": 81131,
+        "latitude": "+37.953038",
+        "longitude": "-105.687880"
+    },
+    {
+        "county": "SAGUACHE",
+        "city": "MOFFAT",
+        "zipcode": 81143,
+        "latitude": "+38.065284",
+        "longitude": "-105.817955"
+    },
+    {
+        "county": "SAGUACHE",
+        "city": "SAGUACHE",
+        "zipcode": 81149,
+        "latitude": "+38.181206",
+        "longitude": "-106.351826"
+    },
+    {
+        "county": "SAGUACHE",
+        "city": "SARGENTS",
+        "zipcode": 81248,
+        "latitude": "+38.403295",
+        "longitude": "-106.416083"
+    },
+    {
+        "county": "SAGUACHE",
+        "city": "VILLA GROVE",
+        "zipcode": 81155,
+        "latitude": "+38.306022",
+        "longitude": "-106.046577"
+    },
+    {
+        "county": "SAN JUAN",
+        "city": "SILVERTON",
+        "zipcode": 81433,
+        "latitude": "+37.848391",
+        "longitude": "-107.680381"
+    },
+    {
+        "county": "SAN MIGUEL",
+        "city": "EGNAR",
+        "zipcode": 81325,
+        "latitude": "+37.929371",
+        "longitude": "-108.846067"
+    },
+    {
+        "county": "SAN MIGUEL",
+        "city": "NORWOOD",
+        "zipcode": 81423,
+        "latitude": "+38.028899",
+        "longitude": "-108.316049"
+    },
+    {
+        "county": "SAN MIGUEL",
+        "city": "OPHIR",
+        "zipcode": 81426,
+        "latitude": "+37.843026",
+        "longitude": "-107.864540"
+    },
+    {
+        "county": "SAN MIGUEL",
+        "city": "PLACERVILLE",
+        "zipcode": 81430,
+        "latitude": "+38.059321",
+        "longitude": "-107.990438"
+    },
+    {
+        "county": "SAN MIGUEL",
+        "city": "TELLURIDE",
+        "zipcode": 81435,
+        "latitude": "+37.983589",
+        "longitude": "-107.956606"
+    },
+    {
+        "county": "SEDGWICK",
+        "city": "JULESBURG",
+        "zipcode": 80737,
+        "latitude": "+40.875606",
+        "longitude": "-102.351994"
+    },
+    {
+        "county": "SEDGWICK",
+        "city": "OVID",
+        "zipcode": 80744,
+        "latitude": "+40.875571",
+        "longitude": "-102.358241"
+    },
+    {
+        "county": "SEDGWICK",
+        "city": "SEDGWICK",
+        "zipcode": 80749,
+        "latitude": "+40.875703",
+        "longitude": "-102.440230"
+    },
+    {
+        "county": "SUMMIT",
+        "city": "BRECKENRIDGE",
+        "zipcode": 80424,
+        "latitude": "+39.475323",
+        "longitude": "-106.022472"
+    },
+    {
+        "county": "SUMMIT",
+        "city": "DILLON",
+        "zipcode": 80435,
+        "latitude": "+39.595212",
+        "longitude": "-105.974117"
+    },
+    {
+        "county": "SUMMIT",
+        "city": "FRISCO",
+        "zipcode": 80443,
+        "latitude": "+39.558929",
+        "longitude": "-106.133183"
+    },
+    {
+        "county": "SUMMIT",
+        "city": "SILVERTHORNE",
+        "zipcode": 80497,
+        "latitude": "+39.641146",
+        "longitude": "-106.108002"
+    },
+    {
+        "county": "SUMMIT",
+        "city": "SILVERTHORNE",
+        "zipcode": 80498,
+        "latitude": "+39.764692",
+        "longitude": "-106.221139"
+    },
+    {
+        "county": "TELLER",
+        "city": "CRIPPLE CREEK",
+        "zipcode": 80813,
+        "latitude": "+38.826084",
+        "longitude": "-105.149874"
+    },
+    {
+        "county": "TELLER",
+        "city": "DIVIDE",
+        "zipcode": 80814,
+        "latitude": "+38.923901",
+        "longitude": "-105.185653"
+    },
+    {
+        "county": "TELLER",
+        "city": "FLORISSANT",
+        "zipcode": 80816,
+        "latitude": "+38.855231",
+        "longitude": "-105.190895"
+    },
+    {
+        "county": "TELLER",
+        "city": "VICTOR",
+        "zipcode": 80860,
+        "latitude": "+38.731005",
+        "longitude": "-105.132073"
+    },
+    {
+        "county": "TELLER",
+        "city": "WOODLAND PARK",
+        "zipcode": 80863,
+        "latitude": "+38.918437",
+        "longitude": "-105.166398"
+    },
+    {
+        "county": "TELLER",
+        "city": "WOODLAND PARK",
+        "zipcode": 80866,
+        "latitude": "+39.036350",
+        "longitude": "-105.155970"
+    },
+    {
+        "county": "WASHINGTON",
+        "city": "AKRON",
+        "zipcode": 80720,
+        "latitude": "+40.073328",
+        "longitude": "-103.202379"
+    },
+    {
+        "county": "WASHINGTON",
+        "city": "ANTON",
+        "zipcode": 80801,
+        "latitude": "+39.690908",
+        "longitude": "-103.137281"
+    },
+    {
+        "county": "WASHINGTON",
+        "city": "COPE",
+        "zipcode": 80812,
+        "latitude": "+39.684772",
+        "longitude": "-102.990380"
+    },
+    {
+        "county": "WASHINGTON",
+        "city": "LINDON",
+        "zipcode": 80740,
+        "latitude": "+39.790894",
+        "longitude": "-103.414172"
+    },
+    {
+        "county": "WASHINGTON",
+        "city": "OTIS",
+        "zipcode": 80743,
+        "latitude": "+40.163025",
+        "longitude": "-103.042516"
+    },
+    {
+        "county": "WASHINGTON",
+        "city": "WOODROW",
+        "zipcode": 80757,
+        "latitude": "+39.804985",
+        "longitude": "-103.575210"
+    },
+    {
+        "county": "WELD",
+        "city": "AULT",
+        "zipcode": 80610,
+        "latitude": "+40.675794",
+        "longitude": "-104.607073"
+    },
+    {
+        "county": "WELD",
+        "city": "BRIGGSDALE",
+        "zipcode": 80611,
+        "latitude": "+40.443596",
+        "longitude": "-104.240542"
+    },
+    {
+        "county": "WELD",
+        "city": "CARR",
+        "zipcode": 80612,
+        "latitude": "+40.597204",
+        "longitude": "-104.869798"
+    },
+    {
+        "county": "WELD",
+        "city": "DACONO",
+        "zipcode": 80514,
+        "latitude": "+40.204344",
+        "longitude": "-104.911938"
+    },
+    {
+        "county": "WELD",
+        "city": "EATON",
+        "zipcode": 80615,
+        "latitude": "+40.350055",
+        "longitude": "-104.660412"
+    },
+    {
+        "county": "WELD",
+        "city": "ERIE",
+        "zipcode": 80516,
+        "latitude": "+40.062204",
+        "longitude": "-104.923481"
+    },
+    {
+        "county": "WELD",
+        "city": "EVANS",
+        "zipcode": 80620,
+        "latitude": "+40.263453",
+        "longitude": "-104.791285"
+    },
+    {
+        "county": "WELD",
+        "city": "FIRESTONE",
+        "zipcode": 80520,
+        "latitude": "+40.122477",
+        "longitude": "-104.935838"
+    },
+    {
+        "county": "WELD",
+        "city": "FORT LUPTON",
+        "zipcode": 80621,
+        "latitude": "+40.363977",
+        "longitude": "-104.650827"
+    },
+    {
+        "county": "WELD",
+        "city": "FREDERICK",
+        "zipcode": 80530,
+        "latitude": "+40.123557",
+        "longitude": "-104.938057"
+    },
+    {
+        "county": "WELD",
+        "city": "GALETON",
+        "zipcode": 80622,
+        "latitude": "+40.536158",
+        "longitude": "-104.500735"
+    },
+    {
+        "county": "WELD",
+        "city": "GILCREST",
+        "zipcode": 80623,
+        "latitude": "+40.249380",
+        "longitude": "-104.796889"
+    },
+    {
+        "county": "WELD",
+        "city": "GILL",
+        "zipcode": 80624,
+        "latitude": "+40.475572",
+        "longitude": "-104.590607"
+    },
+    {
+        "county": "WELD",
+        "city": "GREELEY",
+        "zipcode": 80631,
+        "latitude": "+40.384991",
+        "longitude": "-104.680631"
+    },
+    {
+        "county": "WELD",
+        "city": "GREELEY",
+        "zipcode": 80632,
+        "latitude": "+40.376626",
+        "longitude": "-104.762899"
+    },
+    {
+        "county": "WELD",
+        "city": "GREELEY",
+        "zipcode": 80633,
+        "latitude": "+40.500919",
+        "longitude": "-104.314970"
+    },
+    {
+        "county": "WELD",
+        "city": "GREELEY",
+        "zipcode": 80634,
+        "latitude": "+40.281195",
+        "longitude": "-104.796453"
+    },
+    {
+        "county": "WELD",
+        "city": "GREELEY",
+        "zipcode": 80638,
+        "latitude": "+40.500919",
+        "longitude": "-104.314970"
+    },
+    {
+        "county": "WELD",
+        "city": "GREELEY",
+        "zipcode": 80639,
+        "latitude": "+40.399281",
+        "longitude": "-104.701720"
+    },
+    {
+        "county": "WELD",
+        "city": "GROVER",
+        "zipcode": 80729,
+        "latitude": "+40.820129",
+        "longitude": "-104.168529"
+    },
+    {
+        "county": "WELD",
+        "city": "HEREFORD",
+        "zipcode": 80732,
+        "latitude": "+40.975104",
+        "longitude": "-104.305265"
+    },
+    {
+        "county": "WELD",
+        "city": "HUDSON",
+        "zipcode": 80642,
+        "latitude": "+40.109353",
+        "longitude": "-104.672306"
+    },
+    {
+        "county": "WELD",
+        "city": "JOHNSTOWN",
+        "zipcode": 80534,
+        "latitude": "+40.320091",
+        "longitude": "-104.867196"
+    },
+    {
+        "county": "WELD",
+        "city": "KEENESBURG",
+        "zipcode": 80643,
+        "latitude": "+40.085322",
+        "longitude": "-104.506123"
+    },
+    {
+        "county": "WELD",
+        "city": "KERSEY",
+        "zipcode": 80644,
+        "latitude": "+40.474040",
+        "longitude": "-104.472779"
+    },
+    {
+        "county": "WELD",
+        "city": "LA SALLE",
+        "zipcode": 80645,
+        "latitude": "+40.328185",
+        "longitude": "-104.665639"
+    },
+    {
+        "county": "WELD",
+        "city": "LONGMONT",
+        "zipcode": 80504,
+        "latitude": "+40.129416",
+        "longitude": "-104.970816"
+    },
+    {
+        "county": "WELD",
+        "city": "LUCERNE",
+        "zipcode": 80646,
+        "latitude": "+40.482430",
+        "longitude": "-104.705420"
+    },
+    {
+        "county": "WELD",
+        "city": "MEAD",
+        "zipcode": 80542,
+        "latitude": "+40.327051",
+        "longitude": "-104.893796"
+    },
+    {
+        "county": "WELD",
+        "city": "MILLIKEN",
+        "zipcode": 80543,
+        "latitude": "+40.387381",
+        "longitude": "-104.841349"
+    },
+    {
+        "county": "WELD",
+        "city": "NEW RAYMER",
+        "zipcode": 80742,
+        "latitude": "+40.736271",
+        "longitude": "-103.878656"
+    },
+    {
+        "county": "WELD",
+        "city": "NUNN",
+        "zipcode": 80648,
+        "latitude": "+40.492804",
+        "longitude": "-104.627586"
+    },
+    {
+        "county": "WELD",
+        "city": "PIERCE",
+        "zipcode": 80650,
+        "latitude": "+40.646551",
+        "longitude": "-104.744575"
+    },
+    {
+        "county": "WELD",
+        "city": "PLATTEVILLE",
+        "zipcode": 80651,
+        "latitude": "+40.217382",
+        "longitude": "-104.712141"
+    },
+    {
+        "county": "WELD",
+        "city": "ROGGEN",
+        "zipcode": 80652,
+        "latitude": "+40.087777",
+        "longitude": "-104.281976"
+    },
+    {
+        "county": "WELD",
+        "city": "SEVERANCE",
+        "zipcode": 80546,
+        "latitude": "+40.524987",
+        "longitude": "-104.850544"
+    },
+    {
+        "county": "WELD",
+        "city": "STONEHAM",
+        "zipcode": 80754,
+        "latitude": "+40.735758",
+        "longitude": "-103.997391"
+    },
+    {
+        "county": "WELD",
+        "city": "WINDSOR",
+        "zipcode": 80550,
+        "latitude": "+40.307972",
+        "longitude": "-104.942467"
+    },
+    {
+        "county": "WELD",
+        "city": "WINDSOR",
+        "zipcode": 80551,
+        "latitude": "+40.464092",
+        "longitude": "-104.885116"
+    },
+    {
+        "county": "YUMA",
+        "city": "ECKLEY",
+        "zipcode": 80727,
+        "latitude": "+40.061126",
+        "longitude": "-102.480300"
+    },
+    {
+        "county": "YUMA",
+        "city": "IDALIA",
+        "zipcode": 80735,
+        "latitude": "+39.816703",
+        "longitude": "-102.426235"
+    },
+    {
+        "county": "YUMA",
+        "city": "JOES",
+        "zipcode": 80822,
+        "latitude": "+39.959546",
+        "longitude": "-102.500066"
+    },
+    {
+        "county": "YUMA",
+        "city": "KIRK",
+        "zipcode": 80824,
+        "latitude": "+39.664421",
+        "longitude": "-102.546469"
+    },
+    {
+        "county": "YUMA",
+        "city": "VERNON",
+        "zipcode": 80755,
+        "latitude": "+39.812149",
+        "longitude": "-102.434252"
+    },
+    {
+        "county": "YUMA",
+        "city": "WRAY",
+        "zipcode": 80758,
+        "latitude": "+40.068525",
+        "longitude": "-102.392973"
+    },
+    {
+        "county": "YUMA",
+        "city": "YUMA",
+        "zipcode": 80759,
+        "latitude": "+40.061817",
+        "longitude": "-102.618522"
+    }
+]
